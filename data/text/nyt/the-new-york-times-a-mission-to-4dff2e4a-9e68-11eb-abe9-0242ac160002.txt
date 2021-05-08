@@ -1,0 +1,82 @@
+From a small lab in Cambodia, Dr. Jessica Manning is on the lookout for emerging diseases.
+
+Covid-19 arrived in Cambodia a year ago, on Jan. 23, when a Chinese national flew in from Wuhan, the city where the illness was first detected, and soon fell sick with a fever. A PCR test to detect the genetic material of SARS-CoV-2, the coronavirus that causes Covid-19, came back positive, the coronavirus that causes Covid-19. With that news, the disease had officially pierced the borders of another nation.
+
+For Cambodia, a developing country with a rudimentary health care system and multiple direct flights from Wuhan, the new disease seemed to present an especially high risk.
+
+Dr. Jessica Manning, a public health researcher with the National Institute of Allergy and Infectious Diseases, who had been working in Cambodia for years, also saw an opportunity: helping the country join the global effort to watch for new diseases.
+
+Dr. Manning ran nasal and oral samples from the patient through a genetic sequencer, a device that reads the letters that make up an organism's genome; the sequencer was a recent addition to her lab at the Cambodian government's parasitology department in Phnom Penh. ''I couldn't wait for the sequences to come off the sequencer,'' Dr. Manning recalled. ''It was sheer giddy excitement.''
+
+The sequencer uploaded the raw data to an online software package called IDseq, which could piece together the genomes in the sample and compare them to other known organisms. The system, without any hints from Dr. Manning's group about what the sample might contain, verified that it held a virus with a genome virtually identical to that of the new coronavirus identified in Wuhan. Of the approximately 30,000 letters in the virus's genome, only one differed between the two sequences.
+
+In those early days of Covid-19, researchers did not know how accurate the PCR tests were or whether the virus was spawning new strains with potentially different properties. The Cambodian report helped confirm the accuracy of the PCR test, and it revealed that only minor changes in the sequences were appearing. The virus did not seem to be mutating substantially -- an indication that the disease would be easier to test for, treat and vaccinate against.
+
+For Dr. Manning, the exercise was proof that even a small research outpost in the developing world could successfully detect new or unexpected pathogens and glean important information about them from their genome. As such, her lab and others like it could serve as an early-warning system for the next potential pandemic.
+
+Opening the black box
+
+Dr. Manning, 40, began her career examining not new diseases but known ones that mostly afflicted the developing world.
+
+In 2008, while earning her medical degree at Emory University, she went to Mali to study and treat malaria as part of a project at the University of Bamako. ''I lived in the bush for six months collecting samples,'' she said. ''Severe malaria cases come at night, which nobody had told me. I didn't really get a full night of sleep for months. It was horrible, because a lot of the kids would die just as we were assessing them, 10 seconds within walking in the door.''
+
+She recalled the first time that she administered a new malaria drug called artesunate, in a young, severely ill patient. ''She was almost dead, and then two days later she was up and fine,'' Dr. Manning said. ''It was like Lazarus.'' Dr. Manning keeps a photo of herself with the patient, a girl named Fatoumata, in her office.
+
+She liked how the work combined research and treating patients. ''It brings this whole new dimension when you're at the bedside and the bench,'' she said, meaning the laboratory. ''Doing work like this assaults all your senses. It's overwhelming. But that's where we should be working.''
+
+After pursuing public health projects in Haiti, Malawi and Rwanda, Dr. Manning earned a master's degree in epidemiology in 2014 and then took a position as a physician researcher at the National Institute of Allergy and Infectious Diseases, the agency headed by Dr. Anthony S. Fauci.
+
+At the institute, she tried to figure out how to develop a universal mosquito vaccine, one that would protect people against the many diseases that mosquitoes carry. The vaccine would work by producing an immune response to mosquito saliva, preventing any pathogens in the mosquito from infecting the person bitten. Dr. Manning started a survey in Cambodia to study how immune markers in humans change with exposure to mosquito saliva and the diseases it carries. So far, the project has turned up five molecules that might be helpful in developing a vaccine against mosquito saliva.
+
+The survey also revealed that many illnesses remained mysterious in Cambodia. ''Diagnostics are hard, and some bugs are more difficult to diagnose than others,'' Dr. Manning said. ''We tend to focus on the big ones, like malaria. We use malaria as a wastebasket diagnosis if a patient is very febrile.'' When doctors don't know exactly what's wrong, she added, they often treat patients with a grab-bag of antibiotics and antimalarial drugs.
+
+In 2018, Dr. Manning learned about a Global Grand Challenge from the Bill and Melinda Gates Foundation, which gave researchers grants to use genomics to find out more about infectious disease in developing countries. Dr. Manning saw it as a way to ''figure out what's happening in this black box of Cambodia'' -- to find out exactly what pathogens caused its many unexplained illnesses.
+
+In 2019, Dr. Manning won one of the grants and soon flew with three colleagues to the Chan Zuckerberg Biohub, a research center in San Francisco, where they learned how to use tools that could help pry open the black box.
+
+'Like a giant jigsaw puzzle'
+
+To identify unknown pathogens, Dr. Manning's project employs an approach called metagenomic sequencing. More traditional techniques of genomic diagnosis, like the PCR tests commonly used to detect the coronavirus, look for the distinctive genetic sequence of a single pathogen. Those tests are accurate, fast and relatively cheap -- but they can find only a pathogen you already know you are looking for.
+
+Instead, metagenomic sequencing reads all of the genomic material in a sample and identifies all of the organisms present: helpful bacteria, common pathogens, microbes that have never been spotted before. ''Metagenomics can show what we don't know we don't know,'' Dr. Manning said, paraphrasing a popular quote from former U.S. Secretary of Defense Donald H. Rumsfeld.
+
+But actually identifying the unknown unknowns is complicated. Common sequencing machines chop up DNA and RNA molecules into short segments, each with dozens to hundreds of genetic building blocks, and read the sequences of blocks in each one. This produces billions of short sequences with no information about how they originally were arranged.
+
+To make sense of all that data, Dr. Manning's lab uses IDseq, a free online, open-source software package that reverse-engineers how all the short segments might fit together to form any number of genomes, and compares these with known genomes in public databases.
+
+''It's like a giant jigsaw puzzle,'' said Joseph DeRisi, a biochemist at University of California, San Francisco, and the lead developer of IDseq. ''Where the edges of the pieces match, you can snap them together and assemble a picture of the genome.'' This analysis is computationally demanding, relying on hundreds or thousands of powerful processors. But IDseq runs on servers in the cloud, allowing researchers in developing countries to do the analysis remotely, at no cost.
+
+After receiving their training in metagenomics, Dr. Manning and her colleagues returned to Cambodia and set up a sequencing project at a hospital in the town of Chbar Mon. Now, when patients with unexplained fevers come to the hospital, workers take blood samples and send them to Dr. Manning's lab at the Cambodian government's parasitology department in Phnom Penh, where researchers run the metagenomic analysis to try to identify what exactly is ailing the patient.
+
+Such a patient appeared in May. Phoun Phalla, 13, had been sick with fevers, aches and chills sporadically for eight months, and no one was quite sure what was wrong with her.
+
+After Phalla's parents gave consent for her to participate in the metagenomic study, the medical staff drew her blood and had it delivered by car to the lab in Phnom Penh. Technicians there ran her samples through the sequencer and uploaded the data to IDseq.
+
+The scan showed that Phalla was carrying a form of malaria that can lurk in a patient's liver and then flood into the bloodstream, causing fever, fatigue and headaches. Standard antimalarial drugs are of limited use; the parasite retreats to the liver, only to flare up again weeks or months later.
+
+With a firm diagnosis in hand, the hospital prescribed primaquine, one of the few drugs that can kill malaria parasites hiding in the liver. Phalla was soon healthy again, cooking and playing with her young relatives. ''People here feel like she has been taken care of,'' her mother said. ''I'm very relieved that she's getting better.''
+
+An early-warning system
+
+Watching for novel pathogens in Southeast Asia has recently become an important part of the global effort to understand the Covid-19 pandemic and stop the next one before it happens. In late January, a group of researchers, most at the Pasteur Institute in Cambodia, announced that it had used metagenomic sequencing to discover a coronavirus closely related to SARS-CoV-2 in a bat captured in Cambodia in 2010. The discovery ''suggests that Southeast Asia represents a key area to consider in the ongoing search for the origins of SARS-CoV-2, and in future surveillance for coronaviruses,'' the researchers wrote.
+
+''This is what we were looking for, and we found it,'' Dr. Veasna Duong, the leader of the study, told Nature in November. ''It was exciting and surprising at the same time.''
+
+That finding has drawn attention from researchers who want to better understand how and when viruses cross between species.
+
+Dr. Duong is looking in particular at places where people come into close proximity with fruit bats. ''This kind of exposure might allow the virus to mutate, which might cause a pandemic,'' he told the BBC last month.
+
+Dr. Manning plans to work with Cambodia's center of communicable diseases, using metagenomics to start monitoring the animals in two local wet markets, where pathogens could make the jump to humans. And her group recently expanded its fever-monitoring project to two teeming hospitals in Phnom Penh, with the aim of providing early warning about the spread of new and undiagnosed diseases.
+
+One small Cambodian lab alone is unlikely to catch the next potential pandemic, but it has provided a strong proof of concept for Dr. Manning's approach.
+
+''The Cambodia-based project has really shown the value of metagenomic sequencing,'' said Dr. Farhad Imam, a genomics expert and a program officer at the Gates Foundation who helped choose Dr. Manning's proposal to receive a grant.
+
+''You can in effect set up an early-detection network for the next outbreak,'' he said. ''The faster we find out what it is, the faster we can build the tools to defeat it.''
+
+[Like the Science Times page on Facebook. | Sign up for the Science Times newsletter.]
+
+
+
+
+

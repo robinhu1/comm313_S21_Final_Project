@@ -1,0 +1,47 @@
+A coronavirus variant carrying some of the same mutations as the highly contagious British variant may have been in the US since October and already be widespread, a re-analysis of more than 2m tests suggests.
+
+Genome sequencing to confirm whether the variant observed in Americans is the same as the so-called B117 variant currently circulating in the UK is under way .
+
+Results are expected within days but the revelations have prompted fresh questions about where the altered virus originated, including a small possibility that it began in the US, not the UK, or elsewhere altogether. The variant has also been found in at least 17 countries, including South Korea, Spain, Australia and Canada.
+
+“It wouldn’t be at all surprising if at least some of the cases were B117,” said Eric Topol, head of Scripps Research Translational Institute in La Jolla, California, who was not involved in the research, but whose team confirmed a Californian case of the B117 variant on Wednesday.
+
+“It has probably been here for a while at low levels – but you don’t see it until you look for it.”
+
+The existence of a new and highly transmissible Sars CoV-2 variant was announced by the UK’s health secretary on 14 December, after Covid-testing laboratories reported that a growing number of their positive samples were missing a signal from one of the three genes their PCR tests  use to confirm the presence of the virus.
+
+Further sequencing revealed that such “S gene dropout  ” was the result of mutations in the gene encoding the spike protein which the virus uses to gain entry to human cells. The variant is thought to have been circulating in the UK since September.
+
+News of the new variant has led to multiple countries restricting travel from the UK  – or in the case of the US, requiring travelers to show proof of a negative Covid-19 test to be allowed into the country. However, the first known US cases were detected earlier this week in Colorado and California, and the suspicion is it may already be widespread.
+
+In the final hours of 31 December, a third US state, Florida, officially reported  a case of the variant coronavirus, a man in his twenties in Martin county, north of West Palm Beach, who had no recent history of travel, the Florida health department said.
+
+To investigate, scientists at the California-based DNA testing company Helix examined the prevalence of S gene dropout among 2 million of the Covid tests the company has processed in recent months. They observed an increase in S gene dropout among positive samples since early October, when 0.25% of positive tests exhibited this pattern.
+
+This has since grown, hitting 0.5% on average last week – although in Massachusetts, which has the highest number of such samples, it currently stands at 1.85%, although no cases of the B117 variant have been announced in that state yet.
+
+Further analysis revealed mutations in some of the same regions of the S gene which are also present in the B117 variant – although full sequencing of the viral genome is needed to confirm whether this is indeed the same variant, or something else.
+
+The coronavirus pandemic is out of control in the US, with the death toll in 24 hours of more than 3,740 earlier this week signifying the worst day of the outbreak in the nation yet.
+
+Public health experts and Joe Biden, the Democratic president-elect, have warned that the situation will get worse before it gets better, even as vaccines come on stream.
+
+Helix is currently working with the US Centers for Disease Control and Prevention (CDC) as it awaits test results on the variant found in the US.
+
+“If we do see the [B117 variant], then we might be able to look at whether it was introduced into the US one time or multiple times, or if it has further mutated,” said Nicole Washington, associate director of research at Helix, whose research was published as a pre-print  and has not yet been peer-reviewed.
+
+“If all the samples have it, then it has probably been here for a while, but if only one or two samples have it then it may be that it was recently introduced and we’re just at the beginning of seeing it spread.”
+
+It is also possible that the variant originated in the US and then spread to the UK – although this is unlikely, given that the B117 variant appears to be more prevalent in England, Topol said. “However, I don’t think it should be known as the UK variant because we don’t know where it came from.”
+
+If B117 really is widely established in the US, then travel bans are unlikely to work, Topol added: “The variant is likely to become dominant [within the US] in the next few months, so what we need to do is to outrun it through a combination of really tight mitigation measures, including surveillance and testing, and vaccinating like there’s no tomorrow,” he said. “The vaccines should work fine.”
+
+Even if the variant identified by Helix isn’t B117, the nature of some of the mutations it contains are concerning, because they may increase the virus’s ability to infect human cells, added Ravi Gupta, a professor of clinical microbiology at the University of Cambridge, UK, who helped sequence the B117 variant.
+
+Meanwhile the US has fallen far short of the goals set by the US government for the number of people it had hoped would be vaccinated by the end of 2020.
+
+The top US infectious disease expert, Anthony Fauci, on Thursday called on the federal government to deploy more resources to vaccinate Americans.
+
+As overworked, underfunded state public health departments scrambled to administer the vaccines, some senior citizens waited out overnight to receive their first dose in Florida.
+
+“We would have liked to see it run smoothly and have 20m doses into people … by the end of 2020, which was the projection. Obviously it didn’t happen, and that’s disappointing,” Fauci told NBC on Thursday.

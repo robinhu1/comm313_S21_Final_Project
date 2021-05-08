@@ -1,0 +1,47 @@
+A personal email account belonging to Liam Fox, the former trade minister, was repeatedly hacked into by Russians who stole classified documents relating to US-UK trade talks, the Guardian understands.
+
+The security breaches last year, which are subject to an ongoing police investigation, pose serious questions for the Conservative MP who is currently the UK's nominee to become director general of the World Trade Organization.
+
+Whitehall sources indicated the documents were hacked from a personal account rather than a parliamentary or ministerial one, prompting Labour to ask why Fox was using unsecured personal emails for government business.
+
+A spokesman for the former minister declined to comment and later stressed the Cabinet Office had not publicly confirmed which account was hacked. Downing Street and the Cabinet Office said it was inappropriate to comment further given that criminal inquiries were continuing.
+
+The stolen documents - a 451-page dossier of emails - ultimately ended up in the hands of Jeremy Corbyn during last winter's election campaign after Russian actors tried to disseminate the material online.
+
+They had been posted on the social media platform Reddit and brought to the attention of the then Labour leader's team. Corbyn said the documents revealed the NHS "was on the table" in trade talks with the US.
+
+Details of Russia's targeting of Fox's emails were first revealed on Monday by Reuters, which said his account was accessed several times between 12 July and 21 October last year. It was unclear if the documents were obtained when the staunch leave supporter was still trade secretary; he was dropped by Boris Johnson on 24 July.
+
+The attack is understood to have deployed a "spear-phishing" technique frequently used by Russian actors, in which superficially plausible emails are sent inviting the recipient to click on an attached file. The file contains malicious code designed to give access to or take control of the target's computer.
+
+Chris Bryant, a Labour MP and former Foreign Office minister, said he was not surprised that the Kremlin might want to hack the trade secretary's email, given Russia's long history of targeting western politicians.
+
+"What shocks me is using insecure personal email accounts for sensitive, classified government business. This a very serious breach of national security and should be a criminal offence," Bryant added.
+
+Using personal emails for UK government business is not illegal but ministers are reminded that government information "must be handled in accordance with the requirements of the law, including the Official Secrets Act", in guidance published by the government in 2013.
+
+That came two years after Michael Gove, then education secretary, and his aide Dominic Cummings were discovered to have used personal emails for government business. The information commissioner ruled subsequently that such emails were nevertheless covered by freedom of information laws.
+
+It had previously been thought that the US-UK trade documents were hacked via a special adviser's personal email. Last December, Cummings - by now the prime minister's chief adviser - warned all political aides to be vigilant as it had emerged "foreign powers" were targeting British politicians.
+
+Accurately attributing the origin of hacker attacks is notoriously difficult and often requires extensive investigation. But there are also political reasons to be cautious about publicly blaming the Kremlin for the attack.
+
+Any accusation that an MP and former minister was targeted by Russia would prompt an escalation in tensions between London and Moscow, already heightened after British ministers made a string of accusations about Russian hacking.
+
+Last month Dominic Raab, the foreign secretary, accused Russian actors of trying to disseminate the trade documents online but did not divulge how they were thought to have been obtained.
+
+All the government would say was that the classified material appeared to have been stolen. Raab said the dossier had been illicitly acquired before the 2019 general election and that there was an ongoing criminal investigation.
+
+He also accused Russian hackers from the group known as Cozy Bear of targeting UK, US and Canadian research organisations involved in developing a coronavirus vaccine.
+
+Raab said it was "completely unacceptable" for Russian intelligence services to target research on the Covid-19 pandemic. It has been previously been alleged that Cozy Bear is controlled by the Russian FSB spy agency or its SVR foreign intelligence agency, although the Kremlin denied it was behind the alleged attacks.
+
+Days later, a long-delayed MPs' report concluded the British government and intelligence agencies failed to conduct any proper assessment of Kremlin attempts to interfere with the 2016 Brexit referendum, with ministers in effect turning a blind eye to allegations of Russian disruption.
+
+In July the UK nominated Fox for the post of director general of the WTO, which falls vacant at the end of this month. Fox is one of eight candidates for the position, which is chosen by the 164 member countries in a process expected to last into the autumn.
+
+Fox, 58, has been an MP since 1992 and twice stood for the Conservative party leadership. He was made trade secretary under Theresa May in 2016. The MP for North Somerset had been forced to resign as defence secretary in 2011 after it emerged that a lobbyist friend, Adam Werritty, was acting as an adviser to him despite not being employed by the government.
+
+A Cabinet Office spokesperson said: "There is an ongoing criminal investigation into how the documents were acquired, and it would be inappropriate to comment further at this point. But as you would expect, the government has very robust systems in place to protect the IT systems of officials and staff."
+
+In 2017 up to 90 email accounts belonging to peers and MPs - 1% of parliament's 9,000 email addresses - were hacked in an orchestrated cyber-attack. Later that year it was reported that passwords belonging to 1,000 British MPs and 1,000 Foreign Office staff had been traded by Russian hackers, with the majority of passwords said to have been compromised in a 2012 hacking raid on the business social network LinkedIn, in which millions of users' details were stolen.

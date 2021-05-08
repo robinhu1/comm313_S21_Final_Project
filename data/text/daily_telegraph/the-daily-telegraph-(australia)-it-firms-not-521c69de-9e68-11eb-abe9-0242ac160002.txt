@@ -1,0 +1,29 @@
+DATA SECURITY THE security of data in the COVIDSafe app has been questioned by Australian IT companies, which were passed over for a foreign-owned company that was awarded a lucrative government contract to build the contact-tracing app and manage the database.
+
+The contract to host the sensitive data in the cloud was controversially awarded to foreign-owned US giant Amazon Web Services, despite at least three Australian companies hoping to tender for the project: Vault, Macquarie Government and Sliced Tech.
+
+The government yesterday denied claims this week by Labor MP Ed Husic that Amazon planned to store the information in a Chinese-owned data centre it manages, Global Switch in Pyrmont.
+
+Instead, iTWire reported the COVIDSafe data would be held in the Australian National Data Store, which "is a secured and encrypted data store hosted by AWS in Australia".
+
+The decision to award the contract to Amazon was made after the COVIDSafe project was removed from the Health Department's Digital Health Agency and placed under the control of powerful Home Affairs boss Mike Pezzullo.
+
+"Why did they lock out Australian companies from where the data resides in the country?" asked one irate Australian IT company representative who was blindsided by the Amazon contract.
+
+"Why didn't the Australian Digital Health agency, which was set up specifically by the government to manage Australians' health data, run the tender?" he asked. He also queried why decisions about sensitive personal data should be handled by the same department that runs both the Australian Federal Police and intelligence services.
+
+Even without Chinese involvement, data hosting by a foreign-owned company still raised issues of "sovereignty and security", he said.
+
+Also yesterday, US Secretary of State Mike Pompeo praised Australia's call for an independent inquiry into the origins of the coronavirus.
+
+It comes after China's ruling Communist Party angrily dismissed Canberra's calls for an investigation into how COVID-19 spread from the Chinese city of Wuhan.
+
+Mr Pompeo, who has piled pressure on China over the pandemic, waded into the dispute on Wednesday as he sarcastically said that Australia upset Beijing through its "temerity" in asking questions.
+
+"Who in the world wouldn't want an investigation of how this happened to the world?" Mr Pompeo told reporters in Washington.
+
+"The solution to this crisis will come from freedom-loving people around the world.
+
+"I'm very confident that authoritarian regimes are poorly designed to deal with the kind of crisis that this pandemic has engendered," he said.
+
+He said he was "heartened" to see Australia and other countries joining US calls for an independent investigation.Mr Pompeo added: "While we know this started in Wuhan, China, we don't yet know from where it started and in spite of our best efforts to get experts on the ground, they continue to try and hide."

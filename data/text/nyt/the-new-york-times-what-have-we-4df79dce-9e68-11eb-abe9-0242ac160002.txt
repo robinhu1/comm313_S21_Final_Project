@@ -1,0 +1,85 @@
+Antibodies are only part of the picture.
+
+This article is part of the Debatable newsletter. You can sign up here to receive it on Tuesdays and Thursdays.
+
+A few days ago, a friend of mine became terrified of a tickle in his throat. He had come down with a moderate case of Covid-19 back in the spring, but five months had passed since his symptoms had faded, and stories about reinfection were in the news. Was it possible he had caught the virus a second time, and would it be as bad as the first?
+
+The number of people who have died of Covid-19 in the United States has now surpassed 200,000, but at least 6.7 million more are like my friend, somewhere in the labyrinth of recovery, unsure of where the disease has left them. Six months into the pandemic, what have scientists learned about how the body defends itself against the coronavirus, and what questions still need answering? Here’s what the experts are saying.
+
+How long does immunity last?
+
+The immune system functions as a kind of consciousness: Like the mind, the body registers threats in the moment, and it remembers them, too. Some of its memories are more durable than others, and not all of them are salutary. A single bout of measles, for example, tends to shield a person for life, but a papillomavirus infection may increase a person’s susceptibility to a second.
+
+When the coronavirus surfaced back in December, scientists could not be certain what kind of impression it would leave. But as the pandemic wears on, a clearer picture is starting to emerge. According to Helen Branswell at Stat, experts believe that absolute protection against reinfection is unlikely, but they have also ruled out the possibility of the immune system’s falling into complete amnesia.
+
+“If these experts are correct, and the worst-case scenario is off the table, humans can expect to see a waning of the threat SARS-2” — the coronavirus — “poses to people over time,” she writes. “Our immune systems will know how to deal with it.”
+
+That may sound surprising amid reports of coronavirus antibodies wearing off in a matter of months. But as two Yale immunology professors, Akiko Iwasaki and Ruslan Medzhitov, explain in The Times, “dropping antibody counts aren’t a sign that our immune system is failing against the coronavirus, nor an omen that we can’t develop a viable vaccine.”
+
+That’s because antibodies are only one part of the body’s immune response, and it is normal for them to decline after an infection has receded. For long-term protection, the body also depends on memory cells that can lie dormant for years, even decades, ready to attack infected cells and produce new antibodies if the same pathogen returns. And for the coronavirus, a bevy of research suggests that long-term immunity is working exactly as it’s supposed to, at least so far.
+
+“Although researchers cannot forecast how long these immune responses will last, many experts consider the data a welcome indication that the body’s most studious cells are doing their job — and will have a good chance of fending off the coronavirus, faster and more fervently than before, if exposed to it again,” my colleague Katherine J. Wu reports.
+
+There is, however, one wrinkle: At the end of August, a 25-year-old man in Nevada developed a second case of Covid-19. That he had been reinfected was not especially surprising; another case of reinfection had been reported in Hong Kong a few days before. But some scientists were troubled to learn that unlike the Hong Kong patient, who was completely asymptomatic, the Nevada patient had a worse case the second time around.
+
+“The Nevada case did not make me happy,” Dr. Iwasaki told the journal Nature. If reinfection turns out to consistently cause more severe illness rather than less, it could make developing a vaccine even trickier.
+
+But many researchers stress that it’s far too early to draw conclusions. “There are millions and millions of cases,” Michael Mina, an epidemiologist at Harvard’s T.H. Chan School of Public Health, told Stat. “What happens to most people?” It’s impossible to know with only a few confirmed instances of reinfection — it turns out my friend’s throat tickle was not due to another — but enough time has passed since the onset of the pandemic that more are likely to be reported and analyzed soon. Until then, we will have to wait.
+
+Herd immunity: the unsolved puzzle
+
+If people who have been infected with the coronavirus do retain some form of long-term immunity, is a vaccine the only way out of the pandemic? Probably not, but the answer is complicated and subject to ongoing debate.
+
+Epidemiologists initially estimated that about 70 percent of the population would have to be immune for herd immunity to take effect. At that point, the virus wouldn’t disappear, but outbreaks would largely cease. This prospect enticed some policymakers and pundits — but relatively few public-health experts — to propose the idea of reaching “natural herd immunity” by letting the virus burn through the population.
+
+Often missing from this debate, however, was an understanding of critical distinctions between the dynamics of vaccination and natural infection. The very concept of herd immunity gained purchase only in recent decades, and specifically within the context of vaccination campaigns. In fact, Howard Forman, a public-health professor at Yale, told The Atlantic that true herd immunity has never been achieved naturally for any disease.
+
+One potential reason for this, as Dr. Iwasaki and Dr. Medzhitov explain, is that vaccines can be designed to provide more sophisticated protection than what the immune system might produce naturally.
+
+At the level of the population, too, there is a stark difference between vaccine-acquired immunity and natural immunity, as Carl T. Bergstrom and Natalie Dean wrote in The Times in May. If enough people in a given community have been vaccinated against measles, for example, the virus might still infect a person here and there upon exposure, but runaway spread would be impossible.
+
+By contrast, if a novel pathogen like the coronavirus were left to spread uncontrolled, herd immunity would mark only the point where the contagion would start to slow, not where it would cease. “A runaway train doesn’t stop the instant the track begins to slope uphill, and a rapidly spreading virus doesn’t stop right when herd immunity is attained,” they explain. Epidemiologists refer to these additional infections as “overshoot.”
+
+Another important difference, as James Hamblin writes for The Atlantic, is that while the threshold for herd immunity is relatively static when acquired through a vaccine, the same may not be true without one. The threshold for herd immunity depends on the virus’s basic reproduction number — the average number of new infections a single case causes — and during an ongoing pandemic, that number can fluctuate across time and space.
+
+As my colleague Apoorva Mandavilli explains, initial calculations for the herd immunity threshold assumed that everyone had the same susceptibility to the virus and mixed randomly with everyone else in their community. But experts told her that this is not what happens in real life:
+
+“For example, a neighborhood of older people may have little contact with others but succumb to the virus quickly when they encounter it, whereas teenagers may bequeath the virus to dozens of contacts and yet stay healthy themselves. The virus moves slowly in suburban and rural areas, where people live far apart, but zips through cities and households thick with people.”
+
+As Dr. Hamblin puts it, the virus may have relatively fixed characteristics, including the extent and duration of natural immunity it induces, but herds have variables — their age distributions and behavior, for example — that also affect where their threshold for immunity lies. As statistical models have started accounting for these dynamics, their estimates for herd immunity have fallen: Many researchers believe the number may be closer to 50 percent. Some have even suggested that it may be as low as 20 percent, though that number is an outlier, as Dr. Anthony Fauci has attested.
+
+One study of a devastating outbreak in the Brazilian city of Manaus that abruptly abated this summer, suggesting it had achieved herd immunity, estimated that up to 66 percent of the population there had been infected.
+
+But even if the study is correct — it’s a preprint, meaning it has not yet been peer-reviewed — extrapolating its findings to other populations may not be sound: The herd of Manaus, after all, is not the herd of the United States. (For one thing, the former skews much younger than the latter.)
+
+That natural herd immunity might be a moving target complicates our understanding of the pandemic, but it is not necessarily a bad thing, Dr. Hamblin says. It means that we have at least some ability to restructure our societies in ways that inflict less pain than lockdowns but still substantially reduce the risk of outbreaks until a vaccine arrives and the widespread mistrust of it is dispelled. New York City, Germany and much of sub-Saharan Africa are testaments to that possibility.
+
+“We have the wealth in this country to care for people, and to set the herd-immunity threshold where we choose,” Dr. Hamblin writes. “It happens through individual choices and collective actions, reimagining new ways of living, and having the state support and leadership to make those ways possible.”
+
+Do you have a point of view we missed? Email us at debatable@nytimes.com. Please note your name, age and location in your response, which may be included in the next newsletter.
+
+MORE ON IMMUNITY
+
+“Coronavirus reinfections: three questions scientists are asking” [Nature]
+
+“There are many anti-vaccine positions that are coming from awareness”: Eula Biss, the author of “On Immunity,” discusses the many origins of vaccine skepticism. [The New Yorker]
+
+“COVID-19 herd immunity: where are we?” [Nature]
+
+“Herd immunity: a misunderstanding” [Newsroom]
+
+“Transmission dynamics reveal the impracticality of Covid-19 herd immunity strategies”[Proceedings of the National Academy of Sciences of the United States of America]
+
+“Sweden’s declining coronavirus deaths are not a sign of herd immunity” [Business Insider]
+
+WHAT YOU’RE SAYING
+
+Here’s what readers had to say about the last debate: What should Democrats do about the Supreme Court?
+
+Haskel from California: “Democracy without an independent judiciary is just another word for dictatorship. That said, the Constitution provides, inadvertently in this case, one of the checks and balances for which it is famous. If Trump manages to push through a nomination and the Democrats win the presidency and Senate, they should definitely add justices to the court as an altogether appropriate assertion of the popular will.”
+
+Ramola from South Africa: “As much as I wanted the ideals of Justice Ginsburg to be sustained on any apex court, I think that she could have retired earlier and mentored other future judges. In that way, the Democrats could have appointed another outstanding woman justice to the court.”
+
+Neil from Florida: “Appointments for life are designed to make judges free from political pressure. Term limits, say of twenty years, would, I think, do the same. Terms could be staggered to come due every four years so that each president will have either one or two appointments.”
+
+PHOTO:  (PHOTOGRAPH BY Illustration by The New York Times; photographs by Brittainy Newman/The New York Times, Mandel Ngan/Agence France-Presse and Johannes Eisele/Agence France-Presse — Getty Images FOR THE NEW YORK TIMES)

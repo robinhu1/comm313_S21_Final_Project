@@ -1,0 +1,49 @@
+Sales of vitamin D to promote immune health have soared, but studies of vitamin D and Covid-19 have yielded mixed results.
+
+In the past decade, studies have found that taking vitamin D can lower the odds of developing respiratory infections like the cold and the flu, especially among people who have documented deficiencies. Now scientists are trying to find out whether vitamin D might also help protect against Covid-19.
+
+Some scientists believe that people with vitamin D deficiencies have weak or abnormal immune responses that make them more susceptible to developing Covid-19 and experiencing severe symptoms. The notion that vitamin D levels could influence the risk of Covid-19 has sparked debate among experts and prompted researchers at Harvard and other universities to start randomized trials examining whether there is a link.
+
+But so far, most of the evidence for the claim comes from observational studies that do not prove causation. And experts are urging people to be cautious about gobbling down high doses of supplements in the hopes of obtaining benefits that may not exist.
+
+The speculation that vitamin D could protect against Covid-19 has been fueled in part by observations that deficiencies are particularly common among groups that have been hit disproportionately hard by the novel coronavirus, such as older adults, nursing home residents, and African-Americans and other minorities. The body synthesizes vitamin D through direct exposure to sunlight, and people who are elderly, homebound or darker skinned tend to produce lower levels of it. Obesity, another risk factor for severe Covid-19, is also associated with low vitamin D levels.
+
+Socioeconomic factors like reduced access to health care and less ability to work from home contribute to the disparate rates of sickness and death from coronavirus among minorities. But some experts point to evidence that low vitamin D levels can hamper the immune system. Vitamin D helps reduce inflammation and can stimulate the release of antimicrobial proteins that kill viruses and bacteria. One team of researchers at Northwestern Universityreleased a study,which has not yet been peer reviewed, suggesting that vitamin D could help to quell cytokine storms, a type of immune reaction that appears to worsen outcomes for coronavirus patients.
+
+Anotherstudy published in the BMJ in 2017 reviewed data from 25 randomized trials and concluded that people assigned to take vitamin D had a 12 percent lower risk of developing respiratory tract infections compared to those given placebos. But the effect was greater among people who were classified as vitamin D deficient, with very low blood levels, below 25 nanomoles per liter (or 10 nanograms per milliliter): They saw their risk of contracting respiratory infections fall 70 percent when they supplemented with vitamin D. Blood levels of 20 to 50 nanograms per milliliter are generally considered normal.
+
+The study looked at colds, influenza and respiratory infections caused by a variety of viruses. It did not include the novel coronavirus. But it did look at milder infections caused by other strains of coronavirus, said Dr. Adit Ginde, a professor of emergency medicine at the University of Colorado School of Medicine and the study’s lead author.
+
+In March, Dr. Tom Frieden, a former director of the Centers for Disease Control and Prevention, wrote an opinion piece suggesting that vitamin D deficiencies could worsen outcomes for people who develop Covid-19 and other respiratory infections. He urged people to avoid deficiencies by spending time outside in the sun, taking supplements, or eating foods rich in vitamin D like fatty fish, egg yolks and fortified milk.
+
+The Institute of Medicine recommends that most adults get 600 international units of vitamin D from food or supplements daily, or 800 IU if they are aged 71 and older, to protect musculoskeletal health. Many experts say that Vitamin D is generally safe at doses up to 2,000 IU a day for those who aren’t deficient. The Institute of Medicine classifies 4,000 IU a day as the tolerable upper intake level, meaning that above that threshold there is a greater chance of side effects such as increased calcium in the blood, which can lead to weakness, digestive complaints or kidney problems.
+
+Since the pandemic began, sales of vitamin D and other supplements promoted for immune health have soared. But preliminary studies of vitamin D and Covid-19 have yielded mixed results.
+
+At the University of Chicago Medicine, which serves a largely black and Hispanic population on the South Side of Chicago, researchers reviewed the medical records of more than 4,300 patients, many of them health care workers, who were tested for Covid-19 in March and early April.
+
+After controlling for factors that can influence vitamin D levels, like age, race and chronic medical conditions, they found that people who were vitamin D deficient before the pandemic began were 77 percent more likely to test positive for Covid-19 compared to people who had normal levels.
+
+Dr. David Meltzer, a professor of medicine at the University of Chicago and the lead author of the study, which has not yet been peer reviewed, cautioned that the findings were correlational and did not prove causation. He said he and his colleagues were recruiting local paramedics, police officers and other emergency workers for a randomized trial that will test whether taking low to moderate doses of vitamin D daily has an impact on their risk of developing Covid-19 or the severity of their symptoms. Dr. Meltzer suspects that people taking vitamin D who contract the virus will have fewer symptoms of Covid-19 “because the immune system will be less likely to have an exaggerated inflammatory response.”
+
+“I think you can learn a lot from observational studies,” said Dr. Meltzer, who is chief of the Section of Hospital Medicine at the University of Chicago Medicine. “But in the end we desperately need randomized trials to determine as rapidly as we can if there’s a real effect here.”
+
+In Britain people from minority ethnic groups, such as those with African or South Asian ancestry, make up a third of all confirmed cases of Covid-19 in critical care, even though they account for just 14 percent of the population. They also experience higher levels of poverty, chronic diseases and vitamin D deficiencies. At least one medical group, the British Association of Physicians of Indian Origin, has urged all British health care workers from minority backgrounds to consider taking vitamin D supplements as a precaution.
+
+But two recent studies using data from the U.K. Biobank, a long running project that has tracked the health of a half million people aged 40 to 69, cast doubt on the links between vitamin D and Covid-19. One group of researchers found that participants who recently tested positive for coronavirus were more likely to have had very low or deficient levels of vitamin D compared to other participants. But the association disappeared after the results were adjusted for factors like age, race, obesity and socioeconomic status.
+
+The findings suggest that the lower vitamin D levels in people who tested positive for coronavirus were not causally related, said Dr. Claire Hastie, a research associate in public health at the University of Glasgow and the first author of one of the two studies, which was published in the journal Diabetes &amp; Metabolic Syndrome.
+
+“People with lower vitamin D have a higher risk of Covid infection, but it looks like this is explained by other risk factors and not by the vitamin D itself,” she said. “Our findings do not support a link between vitamin D concentration and the risk of Covid-19 infection.”
+
+A second analysis led by researchers at the University of Surrey reached similar conclusions. It looked at 580 U.K. Biobank participants who tested positive for coronavirus and found, on average, that their blood levels of vitamin D were “almost identical” to 723 participants who tested negative for the virus.
+
+“Mechanistically, there is a link between vitamin D and respiratory tract infections,” said Dr. Susan Lanham-New, an author of the study and head of the Department of Nutritional Sciences at the University of Surrey. “But there is nowhere near enough evidence to come out with these claims that Covid-19 is because of vitamin D deficiency.”
+
+Dr. JoAnn Manson, a Harvard Medical School professor and chief of preventive medicine at Brigham and Women’s Hospital in Boston, said the lines of evidence linking low vitamin D to Covid-19 were compelling. She is starting a nationwide randomized trial that will test whether assigning people to take vitamin D every day for a month after a positive coronavirus test reduces the severity of their illness. The trial will also look at whether giving vitamin D to other people in their households helps prevent them from developing the infection.
+
+In the meantime, Dr. Manson said people should take simple steps to avoid vitamin D deficiencies, such as being physically active outside while social distancing and eating foods like fortified cereals, fortified dairy, sun-dried mushrooms and fish. For people who cannot get outside or get enough vitamin D from their diets, supplementing with 1,000 to 2,000 IU a day is reasonable, she said. But she urged people not to take high doses.
+
+“More is not necessarily better,” she said. “The goal is to avoid a deficiency. It’s not to get mega doses.”
+
+PHOTO: The Institute of Medicine recommends that most adults get 600 international units of vitamin D from food or supplements daily, or 800 I.U. if they are ages 71 and older, to protect musculoskeletal health. (PHOTOGRAPH BY GETTY IMAGES)

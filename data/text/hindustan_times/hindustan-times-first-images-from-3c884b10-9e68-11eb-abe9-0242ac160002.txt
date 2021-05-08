@@ -1,0 +1,25 @@
+India, March 27 -- The first images from India of the coronavirus causing the Covid-19 disease have been caught by scientists in Pune, using transmission electron microscope imaging. They were published in the Indian Journal of Medical Research.
+
+The images of Sars-Cov-2, the virus that Causes Covid-19, are from the throat swab of the first laboratory-confirmed case in India on January 30, 2020. The woman, among three students studying medicine in Wuhan, was diagnosed with Covid-19 after returning home.
+
+Covid-19 has infected at least 540,000 people and killed close to 25,000 since the first cluster of cases were detected in Wuhan, China, in December 2019.
+
+The images of the virus from the Covid-19 cases from Kerala show that the Sars-Cov-2 virus closely resembles the Mers-Cov virus that causes Middle East Respiratory Syndrome coronavirus in 2012, and the 2002 Sars-CoV virus that causes Severe Acute Respiratory Syndrome (SARS) coronavirus.
+
+"Coronavirus have a crown-like appearance and these spikes on the surface give this virus family its name, as corona means crown in Latin. They have evolved to recognise a variety of receptors, including protein receptors and sugar receptors, and enter cells by first recognising a host-cell-surface receptor for viral attachment, and then fusing viral and host membranes for entry," said Dr Nirmal K Ganguly, former director general, Indian Council of Medical Research.
+
+"These images are critical to study mutations in clinical samples and help identify the genetic origin and evolution of the virus, which will help is understand how the virus moved from animals to infect humans, how people-to-people transmission started, and whether it is still mutating, which will inform work on the development drugs and vaccines," said Dr Ganguly.
+
+Gene sequencing of the samples from Kerala done at NIV Pune found the virus was a 99.98% match with the virus in China's Wuhan.
+
+"One particular virus particle was very well preserved, showing features very typical of coronaviruses. This particle was 75 nm in size and showed patchy stain pooling on the surface and a distinct envelope projection ending in round peplomeric (glycoprotein spike on the viral surface). These bind only to certain receptors on the host cell," said Dr Atanu Basu, deputy director and head of electron microscopy and pathology at NIV Pune, which published the imaging.
+
+To get the image, his group used centrifugation to remove the debris from a 500 ?l sample from the throat swab of the Kerala Covid-19 case confirmed using the highly sensitive, by real-time, polymerase chain reaction.
+
+The supernatant (clear liquid) was removed, filed at a final concentration of 1% glutaraldehyde, and adsorbed on to a carbon-coated 200 mesh copper grid. Negative staining was done with sodium phosphotungstic acid, according to the study.
+
+The grid was then examined under 100kV accelerating voltage in a transmission electron microscope and the image was captured using a low-dose mode by a side-mounted camera.
+
+"Seven negative-stained virus particles that looked like coronavirus-like particles were imaged in the fields scanned. These included the round shape of the virus with an average size of 70-80 nm and a cobbled surface structure having envelope projections that averaged 15+-2 nm in size," said Dr Basu.
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

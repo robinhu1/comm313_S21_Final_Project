@@ -1,0 +1,64 @@
+The White House did not take basic steps to investigate its outbreak. We worked with geneticists to sequence the virus that infected two journalists exposed during the outbreak, providing clues to how it may have spread.
+
+President Trump's illness from a coronavirus infection last month was the most significant health crisis for a sitting president in nearly 40 years. Yet little remains known about how the virus arrived at the White House and how it spread.
+
+The administration did not take basic steps to track the outbreak, limiting contact tracing, keeping cases a secret and cutting out the Centers for Disease Control and Prevention. The origin of the infections, a spokesman said, was ''unknowable.''
+
+But one standard public health technique may still shed some light: tracking the cluster's genetic fingerprints.
+
+To better understand the outbreak, The New York Times worked with prominent geneticists to determine the genetic sequence of viruses that infected two Times journalists believed to have been exposed to the coronavirus as part of their work covering the White House.
+
+The study reveals, for the first time, the genetic sequence of the virus that may have infected Mr. Trump and dozens of others, researchers said. That genome is a crucial clue that may allow researchers to identify where the outbreak originated and whether it went on to infect others across the country.
+
+The White House has not disclosed any effort to conduct similar genetic testing, but the study's results show that it is still possible, even weeks after positive tests. Additional sequencing could help establish the path of the virus through the White House, the role of a possible super-spreading event for Judge Amy Coney Barrett and the origin of an outbreak among the staff of Vice President Mike Pence in the last week or so.
+
+The journalists, Michael D. Shear and Al Drago, both had significant, separate exposure to White House officials in late September, several days before they developed symptoms. They did not spend any time near each other in the weeks before their positive tests.
+
+Mr. Shear traveled with Mr. Trump and other staff on Air Force One on Sept. 26, when Mr. Trump approached within five or six feet without a mask. Mr. Drago covered the Judge Barrett event that day and a news conference the next day near officials who were not wearing masks and later tested positive. Both journalists wore masks.
+
+The viral genomes of the two journalists shared the same distinct pattern of mutations, the research found. Along with their exposure history, the findings suggest that they were infected as part of the broader White House outbreak, said Trevor Bedford, a geneticist at the Fred Hutchinson Cancer Research Center and the University of Washington who led the research team.
+
+''These mutations that are possessed by these viruses are quite rare in the United States,'' Dr. Bedford said. ''I am highly convinced that these viruses come from the same outbreak or cluster based on their genomes.''
+
+The study, which has been posted online but not yet peer reviewed or published in a science journal, followed academic protocols that require genetic samples to be anonymous. Mr. Shear and Mr. Drago chose to disclose their identities for this article.
+
+Viruses constantly mutate, picking up tiny, accidental alterations to their genetic material as they reproduce. Few mutations alter how a virus functions. But by comparing patterns of mutations across many genetic sequences, scientists can construct family trees of a virus, illuminating how it spreads.
+
+The genomes believed by these researchers to be connected to the White House outbreak do not identify a recent geographic source, in part because they are unusual. The ancestors of those viruses spread to the United States from Europe and were circulating widely across the country in April and May, but the trail goes cold after that, according to Dr. Bedford.
+
+Geneticists said the genomes are a key piece of the puzzle that may spur future research to determine where the White House outbreak originated and where it may go next. Scientists collect and publish tens of thousands of new sequences of the coronavirus every month, and additional testing may fill in the picture.
+
+The results show that even weeks after it was identified, the White House outbreak would be better understood by sequencing samples of more people who were infected. Swabs used in positive tests are often kept in labs for months after an initial infection, and genetic material for the coronavirus is stable if stored appropriately.
+
+The C.D.C. routinely relies on genetic testing to help understand Covid-19 outbreaks elsewhere across the country. In a study released on Thursday, the C.D.C. cited genetic sequencing and intensive contact tracing that documented an super-spreading event at a high school retreat in Wisconsin.
+
+But the Trump administration is not known to have conducted its own genetic analysis of people infected in the outbreak. The White House declined to respond to questions on genetic sequencing of Mr. Trump and the cluster of aides and officials who tested positive or became ill.
+
+There is still a remote possibility, Dr. Bedford said, that a previously unseen version of the virus had been circulating undetected in Washington or Northern Virginia and infected both journalists independently from the White House cluster. More testing of the outbreak could eliminate that possibility entirely, he said.
+
+Scientists not involved in the research who reviewed the results agreed with the conclusion that the two samples sharing rare mutations strongly suggested they are part of the same outbreak.
+
+''These genomes are probably going to be identical or nearly identical to the genome that infected the president,'' said Michael Worobey, head of the department of ecology and evolutionary biology at the University of Arizona.
+
+Dr. Worobey disputed the White House's characterization that the source of the outbreak could not be known.
+
+''A lot of things are unknowable if you make no effort to know anything about them, and this falls into this category,'' Dr. Worobey said. ''All of these things actually can be known if you make the effort and you have the transparency that scientists are desperately trying to promote as we sequence hundreds of thousands of these genomes around the world.''
+
+For months, the White House minimized the threat of the virus and eschewed basic safety precautions at official events, like wearing a mask or keeping people six feet apart.
+
+At least 11 people who attended a Rose Garden celebration on Sept. 26 for Judge Barrett, which included an indoor event without masks, became infected with the coronavirus, including Mr. Trump. Additional genetic testing could help more clearly establish the role of that event.
+
+Dr. Bedford and his colleagues were able to obtain a full genetic sequence for the virus that infected Mr. Shear and a partial sequence of the virus that infected Mr. Drago. Several unusual mutations matched in the two samples, sufficient evidence to determine with a very high probability that they were essentially the same genome, Dr. Bedford said.
+
+The work was carried out by a multidisciplinary team of researchers at the University of Washington School of Medicine, the Hutchinson Center and the Brotman Baty Institute for Precision Medicine in Seattle.
+
+The work is convincing, and it is the best way to piece together the progression of such an outbreak, said David Engelthaler, head of the infectious disease branch of the Translational Genomics Research Institute in Arizona, where he and colleagues have sequenced thousands of genomes to track the spread of the coronavirus, including devastating outbreaks at Native American reservations in the state.
+
+''It's critical no matter where we are to sequence this virus,'' Dr. Engelthaler said. ''Not just at the White House, but at the White Mountain Apache Reservation here in Arizona.''
+
+Carl Zimmer contributed reporting.
+
+
+
+
+

@@ -1,0 +1,1165 @@
+block-time published-time 9.50am BST
+
+We'll leave things there for the night. Thanks for sticking with us. Stay safe.
+
+block-time published-time 9.42am BST
+
+Summary
+
+Let's take a look at the major developments today.
+
+•The government sought to allay privacy fears as it released a new voluntary tracing app, Covidsafe, with the backing of the nation's major medical groups•Queensland and WA both announced they will ease social distancing restrictions, allowing some outdoor recreational activities•Another death was recorded in Tasmania, meaning the Apple Isle's death toll is now third behind NSW and Victoria•Australia has now seen 6,711 cases and 83 deaths
+
+The government sought to allay privacy fears as it released a new voluntary tracing app, Covidsafe, with the backing of the nation's major medical groups
+
+Queensland and WA both announced they will ease social distancing restrictions, allowing some outdoor recreational activities
+
+Another death was recorded in Tasmania, meaning the Apple Isle's death toll is now third behind NSW and Victoria
+
+Australia has now seen 6,711 cases and 83 deaths
+
+block-time published-time 9.23am BST
+
+This lovely hashtag is trending this Sunday evening.
+
+enltrThank you, Adam! https://t.co/yqvU8cVTPL
+
+- Angelo Gavrielatos (@AGavrielatos) April 26, 2020
+
+enltrTo all the teachers out there: #teachersrock           pic.twitter.com/VYOhlsJVS0
+
+- Julia Zemiro (@julia_zemiro) April 26, 2020
+
+enltrTo our teachers all around ????, THANKYOU ?? and as the country heads into the new school Term, please know that we're thinking of you, appreciate everything you do and will always remember how important you are ?? #TeachersRock           @PEFOZ           pic.twitter.com/wUSyUvOlCY
+
+- Craig Foster (@Craig_Foster) April 26, 2020
+
+enltrTo all my colleagues in schools across NSW: admin staff, cleaners, learning support officers, exec & classroom teachers. As we head into a Term 2 unlike any other, remember - your work, effort & time are meaningful. They matter. Our students matter. You matter. ?? #TeachersRock           pic.twitter.com/CVUjjvqSuP
+
+- Eddie Woo (@misterwootube) April 26, 2020
+
+block-time updated-timeUpdated at 9.24am BST
+
+block-time published-time 9.03am BST
+
+The app is up and running.
+
+enltrDone! We have to beat this thing. #COVID19Aus           pic.twitter.com/ovuJS1s2eS
+
+- Michael Rowland (@mjrowland68) April 26, 2020
+
+block-time published-time 9.02am BST
+
+Centre Alliance senator Rex Patrick has some thoughts about the app.
+
+enltrThe #covidsafe App will be useful for public health and will save lives. However, there are still some areas of concern in relation to privacy that means whether YOU choose to download and use it is matter of YOUR circumstances            #auspol
+
+- Rex Patrick (@Senator_Patrick) April 26, 2020
+
+enltrIn the Australian hierarchy of legislation, a 'Ministerial Determination' (under an Act) would not override the provisions in an actual Act passed by the Parliament - e.g. such as the search warrants provisions of the Crimes Act #auspol           #covidsafe
+
+- Rex Patrick (@Senator_Patrick) April 26, 2020
+
+enltrThe #covidsafe app 'Ministerial Determination' needs to be superseded by legislation passed in the next session of Parliament starting on 12 May            #auspol
+
+- Rex Patrick (@Senator_Patrick) April 26, 2020
+
+block-time published-time 8.57am BST
+
+For those with lingering questions about the Covidsafe app, my colleague Josh Taylor has updated his excellent explainer on the topic.
+
+At 6pm, you should be able to register your app, once you've downloaded it from your app store of choice.
+
+Related:  Australia's coronavirus contact tracing app: what we know so far
+
+block-time published-time 8.45am BST
+
+The  RACGP's president, Dr Harry Nespolon, has issued this statement urging people to download the app.
+
+The RACGP supports the Covid-19 tracing app and we urge all Australians to download it when it becomes available tonight.
+
+We understand that many Australians have perfectly valid privacy concerns and it's vital that government carefully manages how this app operates. The stakes are high and we need to get this right.
+
+In the interests of combating this pandemic it's essential that people take advantage of this app so that we can better track cases of Covid-19 and limit its spread in the community. We are all in this together, we all have a role to play in combating this once in a lifetime pandemic.
+
+Effective contact tracing is one of the most important steps in allowing us to eventually lift the restrictions currently being enforced in our communities.
+
+block-time updated-timeUpdated at 9.00am BST
+
+block-time published-time 8.27am BST
+
+The Office of the Information Commissioner has issued this statement on the Covidsafe app.
+
+The Australian government today released the Covidsafe contact tracing app, a public health initiative to help combat the spread of Covid-19.
+
+Australian Information Commissioner and Privacy Commissioner Angelene Falk said that important safeguards have been put in place to protect personal information collected through the app so it can be used to help address this public health crisis.
+
+Commissioner Falk welcomed the public release of the Privacy Impact Assessment commissioned by the Department of Health, which considered the app's privacy impacts and made recommendations to improve privacy protections.
+
+'The Privacy Impact Assessment has provided transparency and accountability for the use of personal information, and supports community confidence in the app,' Commissioner Falk said.
+
+'It is positive that the government accepted the recommendations of the assessment and that important legal safeguards are in place, including the determination under the Biosecurity Act 2015 to further protect information collected by the app.
+
+'This ensures that the app  must be voluntary, and that personal information collected can only be used for purposes related to contact tracing. It also puts important deletion and time limitations in place.'
+
+Under the Australian Government Agencies Privacy Code, an agency must undertake a written Privacy Impact Assessment for projects involving new ways of handling personal information.
+
+'My office has worked constructively to provide advice and guidance to Government as it considered the privacy issues through its Privacy Impact Assessment,' Commissioner Falk said.
+
+The Office of the Australian Information Commissioner (OAIC) will have independent oversight of personal information handling by the app and the National Covidsafe Data Store.
+
+'My office will watch the implementation of the contact tracing app closely. We can audit the system and investigate complaints from the public about privacy issues.
+
+'We will also closely review the legislation that is intended to be introduced and monitor the implementation of the Privacy Impact Assessment recommendations.'
+
+block-time updated-timeUpdated at 8.48am BST
+
+block-time published-time 8.12am BST
+
+enltrNAB | "added its support to the Government's COVIDSafe app." "Mr McEwan (NAB CEO) said he intends to download the app and will send a note to NAB's 34,000 employees about its release."
+
+- Ricardo Gonçalves (@BUSINESSricardo) April 26, 2020
+
+block-time published-time 7.54am BST
+
+Digital rights campaigners respond to Covidsafe app
+
+A statement just in from Human Rights Law Centre, Digital Rights Watch and the Australia Institute.
+
+An alliance of digital rights groups has urged the Morrison government to fill in obvious gaps in the development of the tracing technology to give it its best chance of winning public trust.
+
+Today, the Morrison government released the Covidsafe tracing app, asking all Australians to download the technology which is designed to inform them of every person a user has been in contact with.
+
+The tracing app will only be effective if enough Australians feel confident downloading and using it, however the alliance believes that won't happen unless the Morrison government answers outstanding questions about the safety and privacy of Australians' information.
+
+Critical will be legally enforceable safeguards on the collection, storage, sharing and disposal of any personal information that is generated from the app, and a clear end date for when the tracing will stop and the data will be deleted.
+
+Ideally, the Morrison government would be looking at models that don't threaten Australians' freedom to go through life free from government surveillance. The government should have adopted a decentralised model for an app that keeps our information on our phones at all times.
+
+But given where we are:
+
+•The government must publish the source code not only of the app, but for the entire system at the government's end (both state and federal);The government should provide for independent oversight and mandatory public reporting of all uses of the data;The government should, by legislation, eliminate the possibility of police and intelligence agencies using their anti-encryption powers, to use the app to access any information on a person's phone.
+
+The government must publish the source code not only of the app, but for the entire system at the government's end (both state and federal);The government should provide for independent oversight and mandatory public reporting of all uses of the data;The government should, by legislation, eliminate the possibility of police and intelligence agencies using their anti-encryption powers, to use the app to access any information on a person's phone.
+
+Alice Drury, senior lawyer at the Human Rights Law Centre, said:
+
+Designed properly, technology can see us innovate while protecting human rights. Our privacy does not need to be collateral damage.
+
+Australians deserve to have their privacy protected by laws passed by Parliament, that provide for independent oversight and mandatory public reporting of all uses of the data.
+
+Lizzie O'Shea, Digital Rights Watch, said:
+
+The history of government take-up of technology is one of overreach and secrecy.
+
+The government needs to recognise that the only way of this app succeeding is to work with those organisations that care deeply about the rights of citizens.
+
+Peter Lewis,  The Australia Institute's Centre for Responsible Technology, said:
+
+Australia's national response has succeeded because government has worked with all available experts to get the policy responses rights.
+
+These principles should also guide the deployment of technology to ensure that it has the very best chance of succeeding.
+
+block-time updated-timeUpdated at 8.06am BST
+
+block-time published-time 7.37am BST
+
+Here is my colleague Amy Remeikis' news story about the launch of the Covidsafe app.
+
+Related:  Australia's coronavirus tracing app launches amid lingering privacy concerns
+
+block-time published-time 7.31am BST
+
+enltrReally unclear why the source code for #covidsafe remains closed. I'll say it again: if they have nothing to hide, they have nothing to worry about.
+
+- Lizzie O'Shea (@Lizzie_OShea) April 26, 2020
+
+block-time published-time 7.27am BST
+
+There are already complaints from quite a few people that they can't register in the app.
+
+My understanding is that the government has said registrations will open at 6pm - however this certainly could have been more clearly emphasised.
+
+block-time updated-timeUpdated at 7.28am BST
+
+block-time published-time 7.21am BST
+
+Here are some screenshots from the app. You can't register until 6pm.
+
+undltr pic.twitter.com/3tiHzO6Kaf
+
+- Luke Henriques-Gomes (@lukehgomes) April 26, 2020
+
+undltr pic.twitter.com/54p0sdW5xL
+
+- Luke Henriques-Gomes (@lukehgomes) April 26, 2020
+
+block-time updated-timeUpdated at 7.23am BST
+
+block-time published-time 7.13am BST
+
+enltrPretty telling that Greg Hunt, and not Stuart Robert, was sent out to promote the new #covidsafe app. Removing a figure of distrust and emphasising the health aspects.            #auspol
+
+- Melissa Clarke (@Clarke_Melissa) April 26, 2020
+
+block-time published-time 7.00am BST
+
+The Business Council of Australia says of the app:
+
+The more Australians who download the app, the safer we will all be and the more quickly we can begin to ease restrictions. I'll be downloading the app and I urge all Australians to do the same.
+
+Technology is such a big part of our everyday lives and Covidsafe will be an important way to help us safely get back to them.
+
+The app will help employers keep their staff, customers and suppliers safe and give us all confidence that it's safe to go back to work, go to the shops and get the country moving again.
+
+block-time updated-timeUpdated at 7.02am BST
+
+block-time published-time 6.55am BST
+
+The press conference has now wrapped up.
+
+The government says the app will go live at 6pm, when people will be able to register.
+
+A few people have pointed out that the app is available only on the Australian versions of the Apple and Google Play stores.
+
+Meanwhile, see below.
+
+enltrHere's the AppStore link to the Australian government's #CovidSafe contact tracing app for iOS            https://t.co/BXEseAthlZ           #covid19australia           #Covid_19           #COVID19Follow live news here:            https://t.co/nIPbtkQz7i           pic.twitter.com/a1XXEy6K3k
+
+- Dave Earley (@earleyedition) April 26, 2020
+
+block-time updated-timeUpdated at 7.03am BST
+
+block-time published-time 6.52am BST
+
+Greg Hunt is asked about reports the government is considering travel exemptions to allow the T-20 World Cup to continue.
+
+Hunt says he's not been involved in any discussion so can't comment.
+
+Murphy says the Australian Health Protection Principal Committee will later this week consider some proposals from major sporting codes to "consider what would be the parameters upon which the national cabinet may feel it is safe to let them recommence crowd three matches".
+
+"There is a long way to go. We have not seen the proposals yet."
+
+block-time updated-timeUpdated at 6.55am BST
+
+block-time published-time 6.48am BST
+
+Murphy is asked about the Australian government's position on so-called "immunity passports".
+
+The WHO has warned against these, saying there is no conclusive evidence people cannot contract the virus more than once.
+
+He says:
+
+I would agree with the World Health Organisation  - it is still too early to know whether antibodies detected by serology which is still in development do represent permanent lifelong immunity.
+
+We just do not know that. We know that some people have recovered and have continued to have detectable virus, we don't know what that means, nor if they are infectious.
+
+block-time updated-timeUpdated at 6.53am BST
+
+block-time published-time 6.45am BST
+
+Hunt was also asked what would happen if people could be busted breaking social distancing laws through the app.
+
+Hunt is unequivocal on this:
+
+It cannot be used for any other purpose. It is prevented, by law, from being used for any other purpose and to use it for any other purpose is punishable with jail andI think that is a very important protection. May, in some ways, diminish what some might have wanted. But as a Cabinet we considered all of the possibilities and we said it was to have one job and one use, to protect Australians from the spread of coronavirus and it has no other purpose, nor is it legally able to be used for any other purpose.
+
+block-time published-time 6.42am BST
+
+Hunt is asked about what reporter Samantha Maiden describes as some "teething problems" with the app. There have been suggestions, for example, that if you have too many apps open, or if your screen is locked, the strength of the Covidsafe app will be diminished.
+
+In relation to signal strength, essentially we encourage you to have it on, but if you have other items, if your phone is locked or if you have other apps running, unlike the original version which was put out in Singapore, because we had the benefit of seeing what happened there, Daniel and his colleagues have been able to work to ensure that that is not an issue in Australia. But where there are, like every app, additional strengthening which are developed to be able to improve the capacity with signal strength, we know that Apple, around the world, is working on that and we will provide those upgrades and updates as well.
+
+block-time updated-timeUpdated at 6.43am BST
+
+block-time published-time 6.38am BST
+
+Hunt extolling the privacy safeguards, as he sees them:
+
+The safeguards that have been put in place are the strongest ever. Not even a court order can penetrate the law ... during the investigation of an alleged crime...
+
+block-time updated-timeUpdated at 6.41am BST
+
+block-time published-time 6.37am BST
+
+Brendan Murphy says he would define a "good uptake" of the app as "well over half the people", and adds that he thinks "Australians will rise to the challenge".
+
+block-time updated-timeUpdated at 6.42am BST
+
+block-time published-time 6.35am BST
+
+Greg Hunt  is asked if it matters whether people use a fake name when they register on the app. He says:
+
+In terms of the first question, you can use a fake name. That is legally available. This is about making sure that anybody who has been in contact with somebody diagnosed can be notified to protect them. And we want to make sure that contact is there, so a name helps. Obviously it is better, I think, if it is exactly who you are, but above all else we want to be able to be in contact, for the state health officials to be in contact.
+
+block-time updated-timeUpdated at 6.42am BST
+
+block-time published-time 6.34am BST
+
+While you're hearing (or reading) the government's line on the app, I might point you to this piece from my colleague Josh Taylor.
+
+Related:  Coronavirus app: will Australians trust a government with a history of tech fails and data breaches?
+
+block-time updated-timeUpdated at 6.37am BST
+
+block-time published-time 6.32am BST
+
+Greg Hunt says the app is now available in the Google store and will be on the Apple store shortly.
+
+block-time updated-timeUpdated at 6.37am BST
+
+block-time published-time 6.32am BST
+
+Annie Butler, of the nurses federation, concludes her prepared remarks with this pithy comment:
+
+The last thing I want to say is I am a registered nurse, not a technical expert, but my understanding is that this operates with a Bluetooth handshake and that is the only safe handshake we are allowed to have at the moment.
+
+block-time updated-timeUpdated at 6.38am BST
+
+block-time published-time 6.28am BST
+
+Bartone on privacy issues:
+
+Privacy, technical and other practical issues need to be assured in the rollout and any challenges need to be anticipated and prevented. But the app is voluntary.
+
+The app can only be used for the purposes for which it was designed, for the Covid-19 contact tracing, to assist our contact traces in doing their diligent work. It can be deleted at any time by anyone who downloads the app and  indeed the information will be deleted at the end of the Covid-19 period. That is an important part of the process.
+
+block-time updated-timeUpdated at 6.39am BST
+
+block-time published-time 6.26am BST
+
+Alison McMillan, the Australian government's chief nursing and midwifery officer, Tony Bartone, who heads the Australian Medical Association, and  Annie Butler, head of the Australian Nursing and Midwifery Federation, are also here to encourage people to download the app.
+
+block-time updated-timeUpdated at 6.29am BST
+
+block-time published-time 6.25am BST
+
+Brendan Murphy on the app:
+
+The public health officials that I represent through AHPPC and broader advice have been very, very supportive of the app. that they have also been very, very keen to make sure that all of those protections that the minister has put in place means that no Australian should have any concerns about downloading this app.
+
+It is only for one purpose, to help contact tracing, if someone becomes positive, that is all it is for and all that will be used for, and it will be one of those things that if we have good uptake, really high uptake across the community, that will make me in a stronger position to convince the national cabinet that that is one of the elements of the elements about having the world's best public-health response system.
+
+Wrapping up his prepared remarks, he says: "I will download and register tonight. I know that all my colleagues in the public health field will do that also."
+
+block-time updated-timeUpdated at 6.29am BST
+
+block-time published-time 6.22am BST
+
+The chief medical officer, Brendan Murphy, says the app will contact the several thousand people in public health units who do contact tracing.
+
+That can be a very laborious, manual process. What the app does, it helps them with the process, automates that to some extent, and helps them get the numbers and helps people who may have forgotten who they have been in contact with.
+
+block-time updated-timeUpdated at 6.39am BST
+
+block-time published-time 6.20am BST
+
+Hunt says they have gotten the agreement of the country's major medical groups for a statement encouraging people to download the Covidsafe app.
+
+He then plays a television commercial aimed at encouraging people to get the app.
+
+block-time updated-timeUpdated at 6.40am BST
+
+block-time published-time 6.19am BST
+
+Hunt on the app and privacy:
+
+In terms of privacy, no person can access what is on the phone, no other person can access what is on your phone. It is also prohibited by law. I have already signed into law on behalf of the government a biosecurity act and determination which prevents access and ensures the data has to be kept on an Australian server. It cannot leave the country. It cannot be accessed by anybody other than a state public health official. It cannot be used for any purpose other than the provision of the data for the purposes of finding people with whom you have been in close contact with, and it  is punishable by jail if there is a breach of that.
+
+There is no geolocation. There is no commonwealth access and it is stored in Australia and, importantly, it is deleted from your phone after 21 days. It is being assessed by the privacy commissioner and there are only four things required from the individual - your phone number, your name, your age range and your postcode.
+
+block-time updated-timeUpdated at 6.35am BST
+
+block-time published-time 6.17am BST
+
+Greg Hunt in his own words explaining how the app works:
+
+Against that background, the Australian government, in partnership with the medical community, has established the Covidsafe app, and what it does is that it assists in the early alert and finding of people who may have been in contact with a person who is positive with a diagnosis.
+
+How does it work? Very simply.Download the app and subsequently register from 6pm today.  You then have your app open and it provides a Bluetooth handshake and it sits on your phone in terms of the data, that is encrypted. No one has access to that, not even yourself, no commonwealth officials.
+
+If you are diagnosed then you already have voluntary consent for downloading the app but you are asked a second time. Only a state public health official can be given access to that data, and only after you have then consented for a second time.
+
+Your details of who you have been in contact with for more than 15 minutes, with less than 1.5m distance, will then be provided.
+
+block-time updated-timeUpdated at 6.43am BST
+
+block-time published-time 6.15am BST
+
+Hunt says there have now been 5.4 million telehealth consultations.
+
+Turning to the cluster in north-west Tasmania, Hunt says:
+
+Secondly, our rapid response capability - in north-west Tasmania we have seen an example which is exactly what we would want of rapid response and containment: less than 1% increase per day over the last three days in Tasmania; 22 cases in Tasmania over the last seven days did it. They had an outbreak and they responded and they have contained.
+
+block-time updated-timeUpdated at 6.33am BST
+
+block-time published-time 6.13am BST
+
+Hunt continues to discuss the figures:
+
+We have now had an average increase in case numbers of less than 1% for 15 consecutive days and an average increase in case numbers of less than half a per cent for seven consecutive days. All these things mean we are doing well as a nation, but we have not won yet.
+
+block-time updated-timeUpdated at 6.15am BST
+
+block-time published-time 6.12am BST
+
+Hunt says: "What we have seen is a sustained and consolidated and now extended flattening of the curve."
+
+He says there was 16 new cases to 6.30am today.
+
+That means there have been 6,711 cases and 83 deaths.
+
+In particular, however, I want to release this data. In the last seven days there have been 117 cases. This compares with the previous seven days, where there were  297 cases.
+
+block-time updated-timeUpdated at 6.15am BST
+
+block-time published-time 6.10am BST
+
+Hunt gives an update on testing.
+
+Prior to coming to this room, the briefing from the National incidence centre is that there have been over 506,000 coronavirus tests completed in Australia - not just one of the highest rates in the world but, as the London School of hygiene and tropical medicine affirmed, their analysis is that it is the most accurate case ascertainment rate of the 83 countries they assessed across the world.
+
+block-time updated-timeUpdated at 6.14am BST
+
+block-time published-time 6.09am BST
+
+Covidsafe app launched
+
+Greg Hunt has started speaking in Canberra.
+
+He says the government is today launched the Covidsafe app.
+
+Hunt says the app is aimed at "finding those cases which may be undiagnosed in the community, helping people get early treatment, helping people have early diagnosis and to ensure that our doctors and nurses, our health workers, our families and friends are protected and that will save lives and protect lives".
+
+block-time updated-timeUpdated at 6.11am BST
+
+block-time published-time 6.01am BST
+
+We're just waiting on a press conference with the health minister, Greg Hunt, and the chief medical officer, Brendan Murphy, to launch the Covid-19 contact tracing app.
+
+We'll bring that to you live shortly.
+
+block-time updated-timeUpdated at 6.08am BST
+
+block-time published-time 5.34am BST
+
+enltrThere's going to be a press conference at 3pm for launching the contact tracing app.
+
+- Josh Taylor (@joshgnosis) April 26, 2020
+
+block-time published-time 5.25am BST
+
+NSW Health today released a report showing there has been very limited transmission of Covid-19 within the state's schools.
+
+Related:  Children unlikely to transmit coronavirus, says study cited in PM's push to reopen schools
+
+block-time published-time 5.23am BST
+
+McGowan says the easing of restrictions brings WA in line with South Australia's current social distancing rules.
+
+He stresses that all public playgrounds, skate parks and outdoor gym equipment must remain closed.
+
+"The changes announced today are sensible and reasonable and are designed to provide some relief all Western Australians," McGowan says.
+
+"They are low-risk but there with a high social benefit."
+
+block-time published-time 5.21am BST
+
+More from McGowan on the easing of social distancing rules.
+
+By increasing the gathering restriction to 10 people we have also attempted to trigger some economic activity in the housing sector. Currently home-opens can occur by appointment. From tomorrow, home-opens and display village openings will be permitted. This will be under strict controls, including appropriate record-keeping of everyone that enters the home, good hygiene practices, and in compliance with the 10-person rule.
+
+block-time updated-timeUpdated at 5.25am BST
+
+block-time published-time 5.19am BST
+
+WA to ease some Covid-19 restrictions
+
+The WA premier Mark McGowan has announced the easing of social distancing restrictions, which will allow 10 people to gather indoors, as well as the resumption of non-contact recreational activities.
+
+"Effective from tomorrow, that is Monday, April 27, based on health advice, indoor and outdoor non-work gatherings will be relaxed to allow up to 10 people maximum," he said.
+
+He said the resumption of non-contact recreational activities was for "activities like private picnics in the park, fishing, boating, hiking or camping".
+
+"I stress this must only occur in compliance with travel restrictions and a 10 person rule."
+
+block-time updated-timeUpdated at 5.25am BST
+
+block-time published-time 5.10am BST
+
+The Greens have issued a statement on the government's Covid-19 tracing app that will be introduced today.
+
+The government's shameful disregard for privacy continues with the release of its Covid-19 app.
+
+'If the government wants people to use this app, they need to put protections in law beforehand,' Leader of the Australian Greens, Adam Bandt MP, said.
+
+'People have very legitimate concerns about how the data will be used and where it will be stored.
+
+'The reported storage of the data by a US company raises real concerns. When it comes to privacy, if there's one person I trust less than Peter Dutton, it's Donald Trump.
+
+'We all want the lockdown to end, but something like this needs to be done properly because the stakes are too high. Once it's out, the genie can't be put back in the bottle.'
+
+Greens Digital Rights spokesperson Nick McKim said the government had a long and terrible track record of undermining privacy and IT blunders.
+
+'This government has repeatedly failed to ensure the security of data it has collected, and has made an art form of deliberately releasing people's sensitive personal information to media outlets for political gain,' Senator McKim said.
+
+'They should immediately release the source code and relevant legislation before rolling this out to the public.
+
+'Peter Dutton has been dreaming of a surveillance state in Australia for years, and this app, without protections, takes him one step closer.'
+
+block-time updated-timeUpdated at 5.15am BST
+
+block-time published-time 4.59am BST
+
+Guide to Qld's new social distancing rules
+
+AAP has also filed this guide to Queensland new social distancing rules, which will be eased from Friday.
+
+WHEN:  It starts 11.59pm Friday, so effectively people will be free to move around on Saturday onwards for recreational purposes.
+
+HOW FAR CAN I TRAVEL?
+
+•Travel has been restricted to 50km from your place of residence to prevent mass movement of people between cities and towns.
+
+Travel has been restricted to 50km from your place of residence to prevent mass movement of people between cities and towns.
+
+ARE SOCIAL DISTANCING MEASURES RELAXED?
+
+•Definitely not. Social distancing of 1.5m and hygiene must be maintained and if it's not adhered to, stay-at-home restrictions could return.•All other rules on gatherings, including limitations on the number of people who can visit a household, remain in place.
+
+Definitely not. Social distancing of 1.5m and hygiene must be maintained and if it's not adhered to, stay-at-home restrictions could return.
+
+All other rules on gatherings, including limitations on the number of people who can visit a household, remain in place.
+
+CAN I CATCH UP WITH FRIENDS OR JUST FAMILY?
+
+•Only members of the same household are permitted to gather in public, so it's not a chance to party in a park.•If you're single, you may socialise with only one other person.
+
+Only members of the same household are permitted to gather in public, so it's not a chance to party in a park.
+
+If you're single, you may socialise with only one other person.
+
+WHAT CAN I DO?
+
+•You're allowed to go for a drive for up to 50km for your home•You're permitted to ride a motorbike, jetski or even spend time on a boat for pleasure•Shopping for non-essential items is also allowed but it does not mean the business you are visiting will be allowed to open•You can have a picnic with a family or visit a national park but be mindful toilet facilities and day use areas will NOT be open
+
+You're allowed to go for a drive for up to 50km for your home
+
+You're permitted to ride a motorbike, jetski or even spend time on a boat for pleasure
+
+Shopping for non-essential items is also allowed but it does not mean the business you are visiting will be allowed to open
+
+You can have a picnic with a family or visit a national park but be mindful toilet facilities and day use areas will NOT be open
+
+WHEN WILL THEY BE REVIEWED?
+
+•The Queensland government will review Covid-19 restrictions again in a fortnight.
+
+The Queensland government will review Covid-19 restrictions again in a fortnight.
+
+block-time updated-timeUpdated at 5.13am BST
+
+block-time published-time 4.41am BST
+
+enltrThis government page has now been updated to say this: pic.twitter.com/bNKRJpBu2s
+
+- Denham Sadler (@denhamsadler) April 26, 2020
+
+block-time published-time 4.27am BST
+
+Tasmania records 11th death
+
+AAP reports that another elderly man has died from coronavirus at the Mersey Community hospital in northern Tasmania, taking the state's toll to 11.
+
+Ten of these deaths have occurred in the state's north-west.
+
+Only NSW and Victoria have recorded more deaths from Covid-19 in Australia.
+
+The health minister, Sarah Courtney, announced the death of the man in his 90s on Sunday, following the death of another man at the hospital on Saturday.
+
+She also confirmed a health worker at the Mersey hospital in the Covid-19 positive ward as the latest confirmed case. A total of 208 cases have now been confirmed, while 123 have recovered.
+
+"I'd like to reassure other staff at that site that this gentleman has presented swiftly. He did only work within the Covid ward at that hospital," she told reporters.
+
+block-time updated-timeUpdated at 4.29am BST
+
+block-time published-time 4.13am BST
+
+I'm sure this comment wasn't aimed at anyone.
+
+enltrThe @VictorianCHO defends taking a different Covid-19 approach to other states. "We have waited for test results from cruise ships before letting passengers off".            @9NewsMelb           @9NewsSyd           pic.twitter.com/FFpERy0QwS
+
+- Andrew Lund (@andrew_lund) April 26, 2020
+
+block-time published-time 4.02am BST
+
+enltrThe Federal Government's COVID-19 tracing app is out today. Here's the privacy statement outlining what info you'll be asked to provide, how it'll be used and who can access it. #auspol           https://t.co/tTpgdimBfc
+
+- Jane Norman (@janeenorman) April 26, 2020
+
+block-time published-time 3.55am BST
+
+Thanks to Ben Smee  for his work today. I'll be with you into the evening. And yes, good call on the bleach.
+
+block-time published-time 3.52am BST
+
+And this is where I leave you.
+
+Luke Henriques-Gomes is going to take the blog from here.
+
+Thanks very much for your time and, as always, please don't consume any bleach.
+
+block-time published-time 3.45am BST
+
+Of course if you're Kerry Stokes, then you get to avoid hotel quarantine altogether.
+
+block-time published-time 3.43am BST
+
+My colleague, Matilda Boseley, has an update on a man who became seriously ill while in hotel quarantine in Perth.
+
+From Matilda:
+
+The 71-year-old man who was placed in an induced coma after allegedly waiting up to nine hours for medical treatment in Perth hotel quarantine has begun the road to recovery. Ken Watson's wife Kathleen said he was taken out of his coma a week ago and no longer requires a ventilator to breathe.
+
+"They have got him off the oxygen, which is a really good step," Kathleen said.
+
+"The next step is to get him to a rehabilitation centre somewhere in Perth ... we are originally from the NSW central coast so he needs to get well enough to get on a plane and get home."
+
+Kathleen was admitted to the hospital at the same time. She was released after a week and was returned to the hotel to complete her quarantine.
+
+Originally doctors suggested Ken may be in the coma for a number of months and were unsure if he would recover. You can read the Guardian's full report on the story here.
+
+block-time updated-timeUpdated at 3.50am BST
+
+block-time published-time 3.39am BST
+
+Peter Dutton is the minister for home affairs, which means he looks after things like, say, whether big cruise ships (with potentially hundreds of coronavirus cases) are allowed to dock.
+
+He is not the minister for foreign affairs, which means he doesn't really have a role in the business of geopolitical posturing.
+
+And in completely unrelated news, here below is the latest yarn from AAP:
+
+Home affairs minister Peter Dutton is standing firm on the need for an independent inquiry into the origins of the coronavirus in China, even as the Asian giant accused Australia of playing "political games".
+
+Foreign minister Marise Payne raised the idea of an international inquiry a week ago, calling for greater transparency on how Covid-19 originated and how it was subsequently handled.
+
+"We want more transparency within the communist party of China in the way they have dealt with this virus issue," Mr Dutton told Sky News on Sunday.
+
+"If not just to understand how we can defeat this threat into the future when you have got these wildlife wet markets where the flu may have originated from."
+
+He said there needs to be reassurance globally this is not going to happen again in 12 months or two years time.
+
+"We need a level of reassurance that's not there at the moment," he said.
+
+But China has hit back, describing the independent review proposed by Australia as "political manoeuvring".
+
+"At such a critical juncture, it is highly irresponsible to resort to politically motivated suspicion and accusation," China's foreign ministry spokesman Geng Shuang said in a statement to various media outlets.
+
+"We advise the Australian side to put aside ideological bias and political games, focus on the welfare of the Australian people and global public health security, follow the international community's collective will for cooperation, and contribute to the global cooperation in fighting the virus, instead of doing things to the contrary."
+
+block-time updated-timeUpdated at 3.49am BST
+
+block-time published-time 3.19am BST
+
+NSW chief health officer Kerry Chant says the new death in NSW is an 82-year-old male resident of the Newmarch House aged care facility.
+
+She also spoke about a worker at the Boddington aged care facility at Wentworth Falls in the Blue Mountains, who has been diagnosed with Covid-19.
+
+Chant said:
+
+In relation to the Boddington aged care facility, I would like to emphasise that the aged care worker did not work whilst she had any symptoms, but as a precaution, we go back a period of time in case there can be transmission before the onset of symptoms.
+
+Pleasingly, the 20 residents in the wing where this healthcare worker worked have all been screened, whether they had symptoms or not. And those test results have come back negative. And we're also undertaking extensive testing of all of the healthcare staff and should have those results available later today.
+
+And I'd like to express my appreciation for the prompt response from Boddington and their extensive cooperation in this investigation. But as I wanted to indicate, there's no evidence of an outbreak at that facility at this time, but we'll certainly keep you updated on that.
+
+block-time updated-timeUpdated at 3.27am BST
+
+block-time published-time 3.14am BST
+
+Brad Hazzard says a medical practitioner at Nepean hospital is among the new cases in NSW.
+
+There has been a medical practitioner at Nepean hospital who has also tested positive. Fortunately, she had not been [at work] in the relevant period, and most of you would now know that for vulnerable populations, we go back at least 48 hours from the time that symptoms arise. And that particular medical practitioner had no face-to-face patient work, no clinical work, in that preceding 48 hours. So she does have, or did have, two contacts that we know of at the hospital in the relevant period.
+
+I want to point out that that particular doctor also worked a shift at the Sydney Adventist hospital, but again in a non-clinical position. So wasn't working with patients, so that's also very good news. And that means that we've had eight staff who have been in isolation in that at the Sydney Adventist hospital. So no patients but staff. And it was a mixture of medical and non-medical staff. They're all doing extremely well. There's no indication at this stage that they're ill, so that's a very positive outcome.
+
+block-time updated-timeUpdated at 3.19am BST
+
+block-time published-time 3.09am BST
+
+And NSW health minister Brad Hazzard confirms there has been another death in NSW as well.
+
+block-time published-time 3.07am BST
+
+AAP reports that Victoria has recorded one new death from coronavirus overnight.
+
+Health minister  Jenny Mikakos says a man in his 90s died in hospital, bringing the state's total deaths to 17.
+
+The state's total coronavirus cases now stand at 1,349, an increase of three since Saturday, one of which is a patient at a private psychiatric facility that has had a cluster of infections.
+
+Currently in Victoria there are 21 people in hospital, including 10 patients in intensive care. A further 1,265 people have recovered and more than 101,000 tests have been completed.
+
+block-time updated-timeUpdated at 3.16am BST
+
+block-time published-time 3.05am BST
+
+The NSW health minister, Brad Hazzard, is up. He says there are eight new coronavirus cases in the state.
+
+block-time updated-timeUpdated at 3.16am BST
+
+block-time published-time 2.48am BST
+
+The inimitable Amy Remeikis  reports this morning on the upcoming launch of the federal government's coronavirus tracing app.
+
+Related:  Australia's coronavirus tracing app set to launch today despite lingering privacy concerns
+
+block-time published-time 2.44am BST
+
+Kim Jong-un watch:  The whole "where is Kim Jong-un ?" thing is getting quite a bit of online traction.
+
+In this report by Reuters, we learn that what is possibly the Korean supreme leader's train has maybe been spotted at a resort town.
+
+Remarkably, analysts looking at satellite photos think this because the train is parked at a "leadership station", which is like the equivalent of an executive parking space, but for trains.
+
+Does this mean he is on death's door?
+
+The short version: we don't know.
+
+"The train's presence does not prove the whereabouts of the North Korean leader or indicate anything about his health but it does lend weight to reports that Kim is staying at an elite area on the country's eastern coast," the report by a North Korean monitoring project said.
+
+Related:  Kim Jong-un's train possibly spotted at North Korean resort
+
+block-time updated-timeUpdated at 2.53am BST
+
+block-time published-time 2.25am BST
+
+Has to be stressed, the Queensland announcement doesn't come into force until NEXT weekend.
+
+So to be clear, don't go shoe shopping until Saturday, May 2.
+
+After that, you can head to your local Julius Marlow stockist.
+
+block-time updated-timeUpdated at 2.25am BST
+
+block-time published-time 2.21am BST
+
+enltrFrom Saturday, May 2, you can: - Go for a drive (within 50km of home) - Ride a motorbike, jetski or boat for recreation - Have a picnic - Visit a national park - Shop for non-essential items
+
+- Annastacia Palaszczuk (@AnnastaciaMP) April 26, 2020
+
+block-time published-time 2.18am BST
+
+Steven Miles, the Queensland health minister, says the changes will be monitored.
+
+When we were talking to you during March about the Covid-19 pandemic... there was no way I thought that by the end of April we could be considering easing some of these strictest restrictions,. but this is where we find ourselves because Queenslanders have done such a fantastic job.
+
+This is a very minor easing and we will need to see how it goes.
+
+block-time updated-timeUpdated at 2.18am BST
+
+block-time published-time 2.16am BST
+
+Queensland will relax some coronavirus restrictions from Friday midnight
+
+Queensland has announced "a very minor easing" of its restrictions.
+
+The premier, Annastacia Palaszuczk, says she "will not hesitate to clamp back down" if people begin to hold mass gatherings or take advantage of the changes.
+
+Because we have done such a terrific job of flattening the curve, in discussions with the chief health officer from next Friday we will be able to lift some of the stay-at-home restrictions, and can I say, this is a small step and one that we really need the public to 100% cooperate with.
+
+So, from midnight on Friday, we will be able to leave our homes for some forms of recreation.
+
+You will be able to go for a drive. If you are over 65 or over 70, I know it is really difficult for people being at home for long extended periods of time.
+
+Families will be able to have picnics. Members of the same household can go and have a picnic or, if you are single, you can go with one other person.
+
+You will be able to go shopping for non-essential items like clothes and shoes.
+
+Also,you will be able to go to national parks. We will be reopening the national parks.
+
+I hope these are some small measure to say to the public that we are doing a great job in Queensland, but we're not through this yet and I hope that these measures will give some relief to families. But there are three key conditions.
+
+We have to keep up hygiene and social distancing. This social distancing is absolutely paramount.
+
+We have to stay within 50km of our homes. We have been saying to people stay in your suburbs, your village, but what we do not want to see is large-scale movements of people, like Cairns to Townsville [or] people from the Sunshine Coast going to the Gold Coast.
+
+The other condition is that outings are limited to members of your own household. What we do not want is groups of friends meeting up with other friends at this stage.
+
+I know these sound like strict rules everyone, but we are in different times and I'm trying to be flexible and listen to what the public is saying. And on the advice of the chief health officer, we have taken these measures.
+
+block-time updated-timeUpdated at 2.25am BST
+
+block-time published-time 2.08am BST
+
+Queensland will allow some forms of recreation, such as:
+
+•Going for a drive (within 50km of home)•Picnics (limited to groups of two, or people from the same household)•Shopping for non-essential items like clothes and shoes•Some national park areas will be reopened
+
+Going for a drive (within 50km of home)
+
+Picnics (limited to groups of two, or people from the same household)
+
+Shopping for non-essential items like clothes and shoes
+
+Some national park areas will be reopened
+
+block-time published-time 2.05am BST
+
+The Queensland premier, Annastacia Palaszczuk, is speaking now.
+
+She says three new cases reported in the state overnight.
+
+She says from next Friday Queensland will lift some of the stay at home restrictions.
+
+block-time published-time 2.01am BST
+
+From the AAP newswire:
+
+The prime minister says Australia is on the road back from the impact of COVID-19, but Home Affairs Minister Peter Dutton warns people not to be complacent.
+
+Scott Morrison believes Australia is on the "road back" from tackling the coronavirus with some restrictions starting to lift.
+
+The prime minister pointed to the reopening of elective surgery, schools starting to come back and says it won't be long before some businesses are opening again
+
+"We are definitely on the road back now," the prime minister told ABC radio on Sunday.
+
+"We'll try and get back to some type of normal."
+
+However, he said until there is a vaccine for COVID-19, social distancing will remain in place and Australians need to make hand hygiene instinctive.
+
+"There has never been more effort in finding a vaccine for this virus and we are hopeful that might mean they get a break through than otherwise might be the case," he said.
+
+The number of coronavirus cases, at around 6700, is small by international standards and is rising at an extremely slow rate compared to a few weeks ago.
+
+However, the death toll rose to 81 after an 83-year-old man, who resided at Newmarch House in Caddens, NSW died on Saturday, operator Anglicare Sydney said.
+
+Home Affairs Minister Peter Dutton again warned Australians not to become complacent in trying to contain the virus, but concedes there is a level of frustration among people who want to get out and enjoy the good weather before winter starts.
+
+"But we need to very careful here, we have seen what has happened in Singapore and other jurisdictions at the moment where the second wave has taken place," Mr Dutton told Sky News.
+
+"We want to make sure we can continue the success we have got." The re-opening of schools remains a contentious issue between the federal and states and territory governments.
+
+However, a study by the National Centre for Immunisation Research and Surveillance here has found no evidence students at NSW schools have infected staff with COVID-19.
+
+"Our investigation found no evidence of children infecting teachers," the chief investigator Professor Kristine Macartney told The Sun-Herald.
+
+"We have seen an extraordinarily low rate of transmissions in schools," Prof Macartney said.
+
+block-time updated-timeUpdated at 2.02am BST
+
+block-time published-time 1.43am BST
+
+The picture in this piece is utterly amazing.
+
+enltrDozens of people have flouted the government's stay at home orders and gathered for an anti-lockdown protest in the western Victorian town of Trafalgar. https://t.co/9JeZLNWX9O
+
+- SBS News (@SBSNews) April 25, 2020
+
+block-time updated-timeUpdated at 1.53am BST
+
+block-time published-time 1.40am BST
+
+And in remarkable news, it seems Donald Trump is scaling back his incoherent, rambling, press-baiting daily briefings after suggesting that injections of disinfectant could be used to treat coronavirus.
+
+Related:  Trump says briefings 'not worth the effort' amid fallout from disinfectant comments
+
+For absolute clarity, disinfectant should not be ingested, injected or put inside your body via any means. Please don't do that.
+
+block-time updated-timeUpdated at 1.53am BST
+
+block-time published-time 1.37am BST
+
+The question about whether kids and teachers go back to school is looming as a brawl that will escalate in the coming week. Two Labor-led states in particular, Queensland and Victoria, are on a different page of the textbook to the federal government, which wants schools to be open.
+
+In Victoria, the state opposition has begun to grumble about the extended remote learning arrangements.
+
+The education minister, James Merlino, says it is following the advice of health experts and keeping schools closed.
+
+enltrThe vast majority of students in Vic are learning from home because that is the advice from our health experts. If we did not follow this advice, more than 1 million children, their parents and school staff congregating at schools could spread Coronavirus in our community.
+
+- James Merlino (@JamesMerlinoMP) April 25, 2020
+
+In Queensland, independent schools have written to the premier, Annastacia Palszczuk, saying they want to reopen for Year 11 and 12 students.
+
+block-time updated-timeUpdated at 1.53am BST
+
+block-time published-time 1.15am BST
+
+The Royal Australian College of General Practitioners is today launching a nationwide campaign to make sure people don't neglect health concerns while we're all in lockdown.
+
+The key message is that your GP is still available, and that you really, really need to still seek medical advice, even during the lockdown. Doctors are doing consultations by video-conferencing platforms, telephone and, in some cases, face-to-face.
+
+The RACGP president, Dr Harry Nespolon, said that in these difficult times, people still needed to take care of their health and wellbeing.
+
+It's very concerning that some people have potentially been neglecting their health during this pandemic - the last thing we want is a tsunami of serious health issues and worsening chronic conditions coming after this virus, simply because people have stopped taking care of themselves or consulting their GP.
+
+The reason why we are running our campaign Expert Advice Matters is to encourage people to keep taking care of their health. We also want to remind everyone that general practice remains open and expert medical advice matters most.
+
+This pandemic has spawned countless pseudo-scientific cures and treatments and myths which at best do nothing and at worse are dangerous to people's health. Now, more than ever, people need expert medical advice.
+
+Also, don't inject yourself with disinfectant. Please.
+
+block-time updated-timeUpdated at 1.23am BST
+
+block-time published-time 1.03am BST
+
+Now that Insiders (and that bloody cringeworthy Tony Burke AC/DC segment) is finished, here's another Sunday morning read, this time from my colleague Melissa Davey, who has taken an in-depth look at the coronavirus outbreak in Tasmania's north-west.
+
+Related:  Search for answers after coronavirus strikes at heart of Tasmania's north-west
+
+block-time updated-timeUpdated at 1.05am BST
+
+block-time published-time 12.59am BST
+
+I'm not crying, you're crying.
+
+enltrAn 87-year old mom with Alzheimer's was stuck at home during the lockdown. She was sad because she couldn't go out for groceries, like she normally does. So what did her son do? He built her a supermarket at home. Then, he took her shopping. pic.twitter.com/gAQprLuwuV
+
+- Goodable (@Goodable) April 25, 2020
+
+block-time published-time 12.48am BST
+
+Presented without comment.
+
+enltrThis has to be one of the best tweets of all time now: pic.twitter.com/w8Lv8yMyBu
+
+- Thomas Chatterton Williams ?? ?? (@thomaschattwill) April 25, 2020
+
+Actually, I will make a comment.
+
+Please, please don't drink bleach.
+
+block-time published-time 12.45am BST
+
+AAP has filed on Peter Dutton, who spoke to Sky News shortly before to his opposite number addressed free-to-air viewers via Insiders. He says the border with NZ could open before others.
+
+The report says:
+
+Home affairs minister Peter Dutton believes Australia's success in containing the coronavirus is due to the swift action it took in closing its borders.
+
+But he says an arrangement with New Zealand is a logical first step in lifting restrictions, and then Australia could look at other nations within the region that are enjoying the same success
+
+"You could look at an arrangement with New Zealand, given they are at a comparable stage as we are in this fight against this virus," he told Sky News on Sunday.
+
+Prime minister Scott Morrison and his New Zealand counterpart, Jacinda Ardern, discussed the issue last week but Ms Ardern played down the idea
+
+"Our current border restrictions and quarantine arrangements are the most important protections we have to stop the virus re-entering New Zealand and taking off again, so they will only be lifted when we are confident it is safe to do so," a spokesperson for Ms Ardern said
+
+"So while nothing is going to happen immediately, the idea has merit as something that might be possible down the track."
+
+block-time updated-timeUpdated at 12.55am BST
+
+block-time published-time 12.39am BST
+
+Kristina Keneally,  Labor's home affairs spokeswoman, also spoke about jobkeeper and Labor's desire to have "as many workers as possible" covered under the scheme, including casuals and those on temporary visas.
+
+David Speers questions the added cost, which he says could be $20bn to $30bn to extend jobkeeper to another 2 million people.
+
+Keneally said:
+
+We are already paying a cost. We are going to pay a longer-term cost if the tail of this economic crisis extends longer than it needs to. And I might just note that the treasurer, Josh Frydenberg, was given, by the parliament, the power with the stroke of a pen to include other workers into jobkeeper.
+
+I note that late on Friday night, he did make changes to jobkeeper after the government said that they would make none. We welcome the fact that he has used those discretionary powers and we say to him: if there are employees that we can keep in an employment relationship with their employer through jobkeeper, he should consider that.
+
+block-time updated-timeUpdated at 12.45am BST
+
+block-time published-time 12.35am BST
+
+The controversial coronavirus tracing app "could be a great tool", Keneally  says, but Australians will only download it if they have confidence their privacy will be protected.
+
+Labor wants privacy protections legislation "and that when this crisis is over that authorities ensure that that data is deleted".
+
+block-time updated-timeUpdated at 12.43am BST
+
+block-time published-time 12.33am BST
+
+Should schools be open?
+
+Keneally : "Listen to your premier of chief minister."
+
+block-time updated-timeUpdated at 12.41am BST
+
+block-time published-time 12.32am BST
+
+On what the economic rebuilt might look like post-coronavirus, Keneally says we should remember "that the Australian economy was not a great place for the Australian worker prior to Covid-19".
+
+There was rampant wage theft. There was stagnant wages. There was increasing casualisation and gig work. There were rising prices. The Australian government should not come into this reform process with old ideological, anti-worker, anti-union agendas.
+
+[The government] should see the unions, they should see working people as their partners, as they did with jobkeeper. We've got that direct wage subsidy for many workers now because the government, rightly, did not view the unions as their enemy, but rather as their cooperator and their partner.
+
+block-time updated-timeUpdated at 12.41am BST
+
+block-time published-time 12.29am BST
+
+Lots of back and forth between Kristina Keneally and Insiders host David Speers about commonwealth and state responsibility for allowing Ruby Princess passengers to disembark.
+
+Speers has tried hard to press the point that New South Wales Health had delegated authority to made decisions around the health of cruise ship passengers. KK is having none of that suggestion:
+
+The prime minister stood in front of the nation on March 15 and said that arriving cruise ships would be under bespoke arrangements under the direct command of the Australian Border Force.
+
+The prime minister, I don't believe, said that as a marketing line. I believe that he meant it. So the Commonwealth have a clear responsibility here for those arriving cruise ships under the announcement made by the prime minister.
+
+And later on :
+
+What Ruby Princess has exposed is that there are gaping holes in our border security.
+
+block-time updated-timeUpdated at 12.40am BST
+
+block-time published-time 12.23am BST
+
+Kristina Keneally is speaking on Insiders about stopping (or not) the boats. Actually, one particular boat, the Ruby Princess.
+
+When it comes to Australia's border, the buck stops with the Commonwealth. On March 15, the prime minister announced that his government would stop, would ban foreign-flagged cruise ships from arriving in Australia. He also announced on March 15 that there would be some exceptions made for cruise ships already heading to Australia that had Australians on board.
+
+And the prime minister said on March 15 that those cruise ships, which include the Ruby Princess, would be, and I quote, "under bespoke arrangements under the direct command of the Australian Border Force".
+
+So four days later, the Ruby Princess arrives under the conditions the prime minister set out, under the direct command of the Australian Border Force. And I note that when it did arrive, frontline Australian Border Force officers did raise concerns about the passengers and the illness on the ship. For some reason, those seem to have not been listened to.
+
+The Ruby Princess's 2,700 passengers were allowed to disembark without a temperature test or quarantine arrangements. As you now say, we now see that one ship was responsible for 700 Covid cases, over 20 deaths and a significant outbreak of Covid-19 in north-west Tasmania. This one boat that Scott Morrison failed to stop has had tragic results right across the country.
+
+block-time updated-timeUpdated at 12.39am BST
+
+block-time published-time 12.02am BST
+
+Expect the tracing app to be part of the Insiders discussion with Kristina Keneally this morning.
+
+Overnight my colleague Josh Taylor has written a good analysis of the data security debate. He says the government has an "uphill battle" to convince us they can trust us with their data.
+
+Related:  Coronavirus app: will Australians trust a government with a history of tech fails and data breaches?
+
+block-time published-time 11.58pm BST
+
+AAP reports this morning that the controversial coronavirus tracing app is likely to be launched today:
+
+The controversial app to help trace people who come into contact with someone with Covid-19 will be launched on Sunday.
+
+The Australian app is based on Singapore's Tracetogether software, which records the Bluetooth connections a phone makes with others so the user can give that data to state health authorities if they catch the virus.
+
+Home affairs minister Peter Dutton, who has recovered from a bout of Covid-19, said it was a more effective approach than checking your diary or trying to remember where you had been.
+
+"The beauty of the app is that it can have a handshake, if you like, with people that you've been in close proximity with, find the phone," he told Sky Sunday Agenda.
+
+He said the privacy issues had been dealt with and that the app would help authorities stop the spread of the virus.
+
+"It's an incredibly important next step."
+
+A broader testing regime and a government contact-tracing app are seen as key stepping stones to a relaxation of the economic shutdown.
+
+The government wants at least 40 per cent of the population to sign up so officials can do "industrial-scale" contact tracing.
+
+block-time updated-timeUpdated at 12.08am BST
+
+block-time published-time 11.55pm BST
+
+ICMYI yesterday, Victorian authorities are under fire after staff and patients at an inpatient psychiatric facility were not told about a coronavirus outbreak until a month after the first positive test
+
+Calla Wahlquist filed this piece yesterday afternoon...
+
+Related:  Health authorities defend handling of coronavirus cluster at Melbourne psychiatric facility
+
+block-time updated-timeUpdated at 12.09am BST
+
+block-time published-time 11.52pm BST
+
+ABC's Insiders coming up shortly, and the politician whose job is basically getting under Peter Dutton 's skin, Kristina Keneally, is on the show.
+
+block-time updated-timeUpdated at 12.09am BST
+
+block-time published-time 11.48pm BST
+
+There is so much to read this morning, and I hope you're doing it with a strong coffee. Hopefully there are fewer hangovers out there than usual during these extraordinary Sunday mornings.
+
+Of course, pubs and nightclubs are closed and so is pretty much anywhere you might have otherwise played the pokies.
+
+This is definitely worth a look by the ABC - how the lives of poker machine addicts have changed during the lockdown.
+
+Spoiler alert: they improve.
+
+block-time updated-timeUpdated at 12.10am BST
+
+block-time published-time 11.42pm BST
+
+Reminder: don't drink bleach.
+
+block-time published-time 11.38pm BST
+
+My colleagues Paul Karp and Ben Butler have been drilling into some of the issues emerging with the federal government's jobkeeper payment, as employers and workers fight for their share...
+
+Related:  The $130bn wage subsidy that united unions and Coalition, but left millions in the cold
+
+And Ben has also done a ripping analysis of Scott Morrison 's attempts to blame the banks for teething problems with jobkeeper.
+
+The "fundamental flaw" in the program appears to be the payment is made in arrears, meaning businesses are having to front the money to workers.
+
+He writes:
+
+For the Liberal party, which is supposed to be the champion of small business, a failure to understand the basics of cashflow seems mind-boggling.
+
+Related:  Fixing jobkeeper: why the banks are not to blame for flaws in the wage scheme
+
+block-time updated-timeUpdated at 11.44pm BST
+
+block-time published-time 11.31pm BST
+
+The Sun-Herald has reported this morning that the New South Wales police commissioner, Mick Foley, has personally cancelled 32 of more than 1000 fines issued to people for breaching public health orders.
+
+The magistrates courts are going to be swamped when the public health emergency is over as people challenge lots of these fines.
+
+block-time updated-timeUpdated at 11.41pm BST
+
+block-time published-time 11.27pm BST
+
+There's a bit around this morning, but the starting point for any reading list has to be this piece by my colleague Luke Henriques-Gomes, who has taken a look at how the crisis is affecting vulnerable Australians
+
+On what some might call the margins, the coronavirus pandemic is not just an invisible source of health and economic destruction. It is the brutal compounding of an already bulging list of difficulties and challenges, fuelled by longstanding structural problems: low Centrelink payments, insecure housing and inadequate support for people with disabilities or mental ill-health.
+
+Related:  'I haven't left my building': life gets harder for vulnerable Australians during coronavirus crisis
+
+block-time updated-timeUpdated at 11.41pm BST
+
+block-time published-time 11.24pm BST
+
+Australia's coronavirus death toll is at 81, as a plane-load of Australians and New Zealanders are due to arrive on a rescue flight out of Buenos Aires.
+
+The more than 150 Australians and 20 New Zealanders left the Argentinian capital at 2pm Saturday local time after being stranded in South America since the outbreak.
+
+Tasmania recorded its tenth Covid-19 fatality on Saturday after a 90-year-old man died at the Mersey Community Hospital in Latrobe.
+
+Nine of Tasmania's deaths have been in the north-west, where an outbreak has been responsible for the majority of the island's 208 cases.
+
+Twelve new cases confirmed in NSW include a worker at a Blue Mountains aged care home, prompting concerns of another outbreak. However, the Catholic Healthcare Bodington worker reportedly did not have symptoms when last at the home.
+
+Caddens' Anglicare Newmarch House has recorded 48 infections, making it NSW's largest ongoing coronavirus cluster.
+
+The nation's total confirmed cases now stands at 6,694, a relatively modest increase on 6,565 a week ago. At the peak of the crisis at the end of March, cases were rising by more than 200 a day.
+
+Authorities around the country have warned against complacency, urging people not to be lulled into a false sense of security just because daily confirmed case numbers are decreasing.
+
+The NSW health minister, Brad Hazzard, described the virus as "energetic" and "sneaky", while Victoria's deputy health officer, Annaliese van Diemen, said: "This is not over."
+
+Victoria recorded just three new cases on Saturday for a total of 1,346.
+
+Fourteen of these have been connected to a private 80-bed psychiatric facility run by Ramsay Health Care. The clinic has effectively been shut down to contain the virus spread.
+
+In Queensland, cases total 1,026, while in Western Australian confirmed cases are at 549.
+
+In the ACT, cases rose by one to 106, while in South Australia there were no new positive results for a third day in a row, keeping the total at 438.
+
+As the nation marked Anzac Day without the usual mass gatherings or fanfare, the governor general, David Hurley, urged people to consider what former generations would expect of us as we face our greatest generational test.
+
+block-time updated-timeUpdated at 11.40pm BST
+
+block-time published-time 11.21pm BST
+
+Good morning, Australia!
+
+No, it's not sadly Bert Newton here, this is Ben Smee and I'll be with you for most of today, as we settle in for another day on the coronavirus news rollercoaster.
+
+The aim is to give you everything you need here in one place. We'll tell you which despots have died (or not) and whatever else today has in store.
+
+Please, whatever you do, don't drink or inject disinfectant.
+
+Right, let's get into it.
+
+block-time updated-timeUpdated at 11.37pm BST

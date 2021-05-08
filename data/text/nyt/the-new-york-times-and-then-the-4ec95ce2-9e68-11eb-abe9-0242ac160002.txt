@@ -1,0 +1,53 @@
+Humans are spreading the coronavirus to other animals. What does that mean for all of us?
+
+The noises of nature sometimes carry broader meanings. The howl of a wolf signifies that wildness endures. The gronk of Canada geese moving south overhead reminds Americans to brace for winter. The sound of a coughing gorilla signals that Covid-19 is an even bigger problem than we thought.
+
+Early last month, two gorillas started coughing at the San Diego Zoo Safari Park, a compound of open-air enclosures for wild animals, an annex to the city zoo but separate, out in an arid valley just east of Escondido. These gorillas were among a group of eight residing amiably there, on a patch of artfully constructed habitat known as the Gorilla Forest. Testing of fecal samples showed that SARS-CoV-2, the virus that causes Covid-19, was among them. It could only have come from a person.
+
+Presumably those two gorillas, and maybe others in the group, had caught the virus from a zookeeper who was infected but asymptomatic. Precautions had been taken — staff wore personal protective equipment when they were near the animals — yet the virus got through. Still, these gorillas were lucky. Within a few weeks the sick individuals recovered well, although not before one animal — a 48-year-old silverback with heart disease named Winston — had been treated with monoclonal antibodies. Winston also got cardiac medication and, as a precaution against a bacterial infection, some antibiotics. Had he been a wild gorilla, without doting health care, he might well be dead.
+
+For the evening news, this was a cute animal story with a happy ending. For certain biologists and veterinarians around the world, it was a small seismic tremor, the latest in a series, that reminded them of some ominous, little-recognized possibilities related to our pandemic event, which has already been tectonic.
+
+Covid-19 is a zoonosis, meaning a disease produced by a virus or other pathogen that has spilled into humans from an animal. The animal of origin this time, as all the world knows, was almost certainly a bat. Scientists use another fancy term for when the spilling goes back, or onward, from a human to some nonhuman animal: anthroponosis.
+
+There’s been a smattering of news accounts over the past year about anthroponotic transmission of SARS-CoV-2: human into mink on the fur farms of Denmark, resulting in rampant spread and cullings by the millions; human into tigers and lions at the Bronx Zoo in New York; human into snow leopards at the Louisville Zoo in Kentucky; human into another tiger at the zoo in Knoxville, Tenn.
+
+Laboratory studies have shown that domestic cats also are highly susceptible to SARS-CoV-2 infection and can transmit it to other cats; dogs are less susceptible, and the virus doesn’t replicate as well within them. The American Centers for Disease Control and Prevention reminds people to practice “healthy habits” with their pets. Better for you — and better for them, since you are probably more likely to give the virus to your dog or your cat than to receive it from them.
+
+As for wild animals in captivity, the Association of Zoos and Aquariums, together with the American Association of Zoo Veterinarians, has issued an alert to members, with bulleted points of advice, one of which is that people should practice social distancing from big cats such as tigers. (Most of us knew that without being told.) Another is that staff should immediately report anything unusual. Coughing, for instance.
+
+Fabian Leendertz, a wildlife veterinarian and infectious-disease researcher with the Robert Koch Institute in Berlin, is one scientist who pays close attention to anthroponotic spillovers, especially into vulnerable populations of nonhuman primates, such as the chimpanzees he has studied for two decades at Taï National Park, in Ivory Coast. Tom Gillespie, an ecologist based at Emory University in Atlanta, is another. Dr. Gillespie co-directs the ecosystem-health project at Gombe National Park, Tanzania, where Jane Goodall did her field studies.
+
+In March, just before the pandemic exploded, Dr. Leendertz and Dr. Gillespie wrote a letter in the journal Nature warning that Covid-19 might become not just a catastrophe for humans but also “a threat to our closest living relatives, the great apes.”
+
+Great apes: That’s gorillas, orangutans, chimpanzees and bonobos (once called pygmy chimpanzees), all members — along with us — of the familial group known as hominids. The exposure of wild apes to human respiratory viruses is especially concerning, because those can be transmitted on a puff of breath (unlike blood-borne viruses such as Ebola or H.I.V.) and apes have susceptible respiratory cells very similar to ours. The fateful exposure might come either from field staff involved in primate research or from ecotourists visiting sites such as Taï, Gombe or Volcanoes National Park (with its mountain gorillas) in Rwanda.
+
+For that reason, Dr. Leendertz and Dr. Gillespie recommended that “great-ape tourism be suspended and field research reduced” until the health risks to vulnerable animals could be balanced against the loss of income to local communities and the increased risk of poaching. Ape habitat from which tourists and researchers have absented themselves, to avoid passing an infection, is ape habitat in which illegal hunters can go unobserved.
+
+During a recent Zoom call I had with him and Dr. Gillespie, Dr. Leendertz said: “It’s very easy to say, ‘Stop going to the great apes until we have solved the problem, or we have a vaccine.’ But if you do that, and the apes are dead because they will be shot … ” — he left the conclusion unspoken: It would be futile caution. Accordingly, to prevent any upsurge in poaching, he and Dr. Gillespie have helped organize international bridge funding for communities dependent on ape-focused ecotourism and research.
+
+Decades of field experience as well as reports in the scientific literature show that the transmission of human viruses to apes can bring consequences that range from threatening to dire. One of them is a bug, human respiratory syncytial virus, that has been linked to chimpanzee deaths at Taï National Park and with bonobo deaths at a site in the Democratic Republic of Congo.
+
+Another threat is human metapneumonia virus (HMPV), which seems to have killed (or to have helped kill, along with a respiratory bacterial infection) two mountain gorillas and sickened nine in Rwanda a dozen years ago. Not long before that, at Mahale Mountains National Park in Tanzania, nine infant chimpanzees died during three consecutive outbreaks of HMPV. Another nine animals of the same group disappeared, presumed dead of the same cause, and many of those adults had also been seen coughing.
+
+But there is a big distinction between such respiratory infections and SARS-CoV-2, Dr. Leendertz said, and that’s the “broad species range of this virus”: its capacity to infect and be transmitted among not just primates but also cats and mice and deer or mustelids like mink and ferrets, and not just in zoos, laboratories and farms but possibly also in the wild.
+
+Other scientists have warned about this risk, too, describing it as a low-probability event with a potentially high-impact outcome. SARS-CoV-2 could become established as an endemic infection of wild mustelids or rodents living in forests, national parks and maybe old barns and sheds. Among the millions of mink raised on fur farms in Denmark each year, a few thousand typically escape, and some of those survive in the wild — as exotics, since the farmed species (known as American mink) aren’t native to Denmark. If some of last year’s escapees carry SARS-CoV-2, with or without symptoms, they could pass it to native Danish mustelids like pine marten, European polecat or Eurasian badger, either by falling prey to those animals or via contaminated feces.
+
+That could result in what disease ecologists call a sylvatic cycle (from the Latin word “sylva,” meaning forest), with the virus circulating endlessly in wild animal populations, if they are large and dense, and spilling back into humans when circumstance allows. North American deer mice, for instance, also seem susceptible to SARS-CoV-2, suffering infection and transmitting the virus to other mice, according to one preprint study, which has not yet been peer-reviewed.
+
+Another preprint study found that white-tailed deer were also highly susceptible and, under laboratory conditions, capable of deer-to-deer transmission. If the virus established a sylvatic cycle among deer mice, a person might get infected simply by sweeping up the dust laced with mouse droppings in a garden shed. If among white-tailed deer, a hunter might become infected while dressing out a dead animal.
+
+The mouse-sweeping scenario happens occasionally with hantaviruses, which can be lethal. The difference is that this coronavirus, unlike hantaviruses, can burst into a firestorm of human-to-human transmission once it’s back in a single person.
+
+Five years from now, when much of the world’s population will have been vaccinated against Covid-19 but maybe a billion people won’t, either for lack of opportunity or by stubborn refusal, the virus will still be with us. It will circulate among the unvaccinated, sometimes inconspicuously, sometimes causing severe illness or death, and it could also abide among wildlife populations, mutating and evolving in ways no one can predict. If it crosses back from them to us, it may ignite new outbreaks, start us coughing again and even bring with it some ugly genomic innovations.
+
+If that happens, this coronavirus will also be reminding us — by the ease with which a bat virus became a human virus, which became a gorilla virus and a mink virus, then perhaps a badger virus and a mouse virus, and finally a human virus again — of the humbling fact to which Charles Darwin alerted us more than a century and a half ago: We are animals, too.
+
+David Quammen is a journalist and the author of several books, including “Spillover: Animal Infections and the Next Human Pandemic.”
+
+The Times is committed to publishing a diversity of letters to the editor. We’d like to hear what you think about this or any of our articles. Here are some tips. And here’s our email: letters@nytimes.com.
+
+Follow The New York Times Opinion section on Facebook, Twitter (@NYTopinion) and Instagram.
+
+PHOTO:  (PHOTOGRAPH BY Sara Andreasson FOR THE NEW YORK TIMES)

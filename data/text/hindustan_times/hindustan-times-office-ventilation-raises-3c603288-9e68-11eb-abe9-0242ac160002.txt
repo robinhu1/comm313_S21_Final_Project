@@ -1,0 +1,19 @@
+India, Sept. 30 -- Ventilation systems in modern office buildings may increase the risk of exposure to the coronavirus, according to research published in the Journal of Fluid Mechanics.
+
+The University of Cambridge said on Wednesday that a research team, including Indian-origin expert Rajesh Bhagat, found that widely used 'mixing ventilation' systems, which are designed to keep conditions uniform in all parts of the room, disperse airborne contaminants evenly throughout the space. These contaminants may include droplets and aerosols, potentially containing viruses.
+
+The evidence, the study says, increasingly indicates that the virus is spread primarily through larger droplets and smaller aerosols, which are expelled when people cough, sneeze, laugh, talk or breathe.
+
+In addition, the data available so far indicates that indoor transmission is far more common than outdoor transmission, which is likely due to increased exposure times and decreased dispersion rates for droplets and aerosols, the study led by Paul Linden of the Department of Applied Mathematics and Theoretical Physics (DAMTP) says.
+
+The researchers explored a range of different modes of exhalation: nasal breathing, speaking and laughing, both with and without face masks. By imaging the heat associated with the exhaled breath, they could see how it moves through the space in each case.
+
+If the person was moving around the room, the distribution of exhaled breath was markedly different as it became captured in their wake.
+
+Bhagat, also from DAMTP, said: "You can see the change in temperature and density when someone breathes out warm air - it refracts the light and you can measure it. When sitting still, humans give off heat, and since hot air rises, when you exhale, the breath rises and accumulates near the ceiling."
+
+The results show that room flows are turbulent and can change dramatically depending on the movement of the occupants, the type of ventilation, the opening and closing of doors and, for naturally ventilated spaces, changes in outdoor conditions., and found that masks are effective at reducing the spread of exhaled breath, and therefore droplets.
+
+The researchers found that laughing, in particular, creates a large disturbance, suggesting that if an infected person without a mask was laughing indoors, it would greatly increase the risk of transmission.
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

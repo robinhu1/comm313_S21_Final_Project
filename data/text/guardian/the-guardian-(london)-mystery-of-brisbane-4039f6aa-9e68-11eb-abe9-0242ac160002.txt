@@ -1,0 +1,53 @@
+Air conditioning has been raised as a possible cause of transmission in the Queensland Grand Chancellor Covid-19 cluster, prompting more questions about the safety of using hotels to quarantine returning travellers.
+
+Queensland premier Annastacia Palaszczuk said the air conditioning would be one aspect examined as part of a major investigation into how four travellers, who were all staying on the same floor, a hotel cleaner and her partner became infected.
+
+“How did it get transmitted?” Palaszczuk said on Wednesday. “Was it in the air conditioning? Was it movement? Was it picking up something? We just don’t know those answers yet. The investigation will go through that and we don’t know enough about this particular strain of the virus either, so we are dealing with something that is incredibly complex.”
+
+Health authorities are particularly concerned because those infected have the B117 variant of the virus, which was first identified in the UK and is highly transmissible.
+
+Outbreaks in the community linked to hotel quarantine have now occurred in several states including Queensland, New South Wales, and Victoria, where more than 20,000 cases and 800 deaths have been reported throughout the pandemic.
+
+Hotel quarantine was “of national concern, not just to Queensland, but everywhere else,” Palaszczuk said. In the meantime, the Grand Chancellor has been closed and more than 120 people staying there have been moved to other accommodation to restart quarantine.
+
+Has air conditioning been a concern in other states with quarantine leaks?
+
+A Covid-19 Quarantine Victoria spokesperson told Guardian Australia that there was no national or state standard regarding ventilation for hotels.
+
+“We took an additional precaution of having engineers out to inspect the ventilation of our health and complex care hotels,” he said. “This led to upgrades for one of the hotels before it became operational, including upgrading the ventilation fans and exhaust extraction system.” These upgrades occurred in December, before the state began accepting returned international travellers. It halted the program for five months during the state’s virus second wave.
+
+Engineers also performed ventilation assessments to determine the fresh air exchange rates for resident rooms and to determine the pressure gradients between the resident rooms and the floor corridors. Quarantine hotels were also assessed for their suitability for the program.
+
+There is no shared airflow between resident rooms in the Victorian system.
+
+A NSW Health spokesperson said as of 14 January,  more than 700 Covid-19 positive people had been managed through the NSW hotel quarantine program. “No evidence of transmission through air conditioning has been found in the hotels or hospitals managing these cases,” she said.
+
+What do workplace health authorities say?
+
+Safe Work Australia said adjusting the settings of heating, ventilating, and air conditioning [HVAC] systems can minimise the risk of virus spread. Allowing more air circulation in common areas, limiting or not using recirculated air, and increasing outside air intake, such as through opening windows and doors, can all reduce risk.
+
+But the most effective way to reduce risk of spread in buildings and workplaces “is through ensuring physical distancing requirements are complied with, encouraging staff and any visitors to maintain good hygiene, and environmental cleaning,” the Safe Work Australia advice says.
+
+What is the latest international advice?
+
+Poorly maintained HVAC systems may be a concern. World Health Organization advice states a well-maintained system can reduce the spread in indoor spaces by increasing the rate of air change, reducing recirculation of air and increasing the use of outdoor air. “Recirculation modes should not be used,” the advice says. “HVAC systems should be regularly inspected, maintained, and cleaned.”
+
+The Federation of European Heating, Ventilation and Air Conditioning Associations, REHVA, issued its latest advice in December. It states that every building, and the spaces within them, need an individual assessment because buildings differed by age and design. Generally, however, “more ventilation is always better,” the advice states.
+
+However, ventilation should not be the only consideration for hotels and other buildings.
+
+“Large spaces such as classrooms, which are ventilated according to current standards, tend to be reasonably safe, but small rooms occupied by a couple of persons show the highest probability of infection even if well ventilated,” REHVA states.
+
+“It is also very much situation dependent whether one transmission route or the other is dominant. For instance in hospitals, with an excellent 12 air changes per hour ventilation rate, aerosol transmission is mostly eliminated, but in poorly ventilated spaces, it may be dominant.”
+
+But rather than increasing risk of spread, well-maintained HVAC systems “may have a complementary role in decreasing transmission in indoor spaces by increasing the rate of air change, decreasing the recirculation of air, and increasing the use of outdoor air,” the advice says.
+
+While transmission of some viruses in buildings can be altered by changing air temperatures and humidity levels to kill the virus, REHVA said coronaviruses are resistant to environmental changes and are susceptible “only to a very high relative humidity above 80% and a temperature above 30C”. “Humidification is NOT a method to reduce the viability of SARS-CoV-2 [Covid-19], the advice says.
+
+What does the scientific advice say?
+
+A study published in December by researchers in Italy found particle filters in HVAC systems “can halt contaminants and remove them from the filtered air flow  ”. “Filter efficiency varies with particle size and air flow rate,” the study said. It found well-fitted, ultra-efficient filters, known as HEPA filters, have a very high efficacy rate in capturing virus particles in hospitals.
+
+“Enhanced ventilation may be a key element in limiting the spread of the SARS-CoV-2 virus, until effective vaccines are available to reduce the risk of infection and limit the ongoing pandemic,” the study concluded. “If the ventilation system is properly designed and kept clean to preserve the correct pressure among the functional units, it can be effective in removing airborne infectious agents.”
+
+Meanwhile a study from researchers and the US and Iran , also published in December, said contaminated rooms should be air conditioned under negative pressure mode to reduce the risk of harmful particles escaping to ambient air. But good air-conditioning systems needed to be combined with disinfection, the use of open space with minimum crowds, Covid-19 screening and testing, reducing the number of people indoors, and minimising the number of shared devices, the study found.

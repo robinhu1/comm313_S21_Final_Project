@@ -1,0 +1,67 @@
+In the last year, Facebook adjusted some of the most fundamental rules about what gets posted on its platform, halting algorithmic recommendations  of political groups, banning lies  about vaccines and removing a number of high-profile figures  for spreading misinformation and hate - including Donald Trump.
+
+But researchers say the social media platform is not enforcing those policies as effectively when it comes to misinformation in Spanish - a blind spot that may prove deadly as health lies spread through the most vulnerable populations during the global vaccine effort.
+
+"Prior to the election, Facebook was rolling out new enforcement actions and policy updates week after week," said Carmen Scurato, a senior policy counsel at the civil rights group Free Press who studies Spanish-language misinformation. "But what we are observing is that those enforcement actions don't seem to be replicated in Spanish." A spokesman from Facebook said that its policies do apply to English and Spanish content.
+
+"Although before the election we saw Facebook make an effort to take down some disinformation, we did not see that same effort on Spanish content," echoed Jacobo Licona, the disinformation research lead for Equis Labs, a polling firm focused on Latino voters. "It's disappointing, and could have a negative impact on Spanish-speaking communities."
+
+There are more than 59 million Spanish speakers  in the US, and the demographic is growing on Facebook. According to Facebook's own market research data, more than 70% of Latinos who use social media prefer Facebook over other online platforms.
+
+Facebook is leaving out the millions of people who speak Spanish at home by failing to apply its community standards equally
+
+Carmen Scurato
+
+But Spanish-language content is less often and less quickly moderated for misinformation and violence than English content, research shows. While 70% of misinformation in English on Facebook ends up flagged with warning labels, just 30% of comparable misinformation in Spanish  is flagged, according to a study from the human rights non-profit Avaaz.
+
+"Facebook is leaving out the millions of people who speak Spanish at home by failing to apply its community standards equally," Scurato said. "If you say you are making efforts on your platform for the safety and health of all of us, that has to also include the Latinx community."
+
+The impact of misinformation
+
+Most misinformation on Facebook today falls into one of two categories: politics, on the one hand, and health and vaccines on the other. Studies found that political misinformation in Spanish on Facebook-owned platforms ran rampant around the 2020 presidential election, remained online longer and spread more widely than similar posts in English.
+
+In September, two months before the vote, the US representatives Debbie Mucarsel-Powell of Florida and Joaquin Castro of Texas asked the FBI to investigate disinformation targeting Latinos in Florida, citing a surge in social media posts with "false or misleading information". Another Avaaz study, published in October 2020, found that more than half of Spanish-speaking voters in Florida had seen misinformation on Facebook in the days leading up to the elections. It is difficult to quantify just how impactful the spread of misinformation surrounding the elections was on the Latino vote, but in some Latino strongholds, support for Joe Biden was significantly lower than expected.
+
+Today, the most prevalent topic for misinformation in Spanish on Facebook is health and vaccine related. In early February, Facebookrenewed its efforts  to crack down on vaccine misinformation, banning all posts with false claims about vaccines from the platform, whether it is about the Covid-19 vaccine or vaccines in general.
+
+Before that, a third study from Avaaz  published in August 2020 found that health misinformation in general on Facebook had gotten 3.8bn views in the previous year, including dozens of Spanish posts with millions of views sharing baseless misinformation such as claims the vaccine contains a microchip to track recipients, that it will alter human DNA and that it was developed by Bill Gates.
+
+Such theories have been cited by many eligible Latino frontline workers in Chicago as reasons they did not want to get vaccinated, said Geraldine Luna, the medical director of the city's department of public health. Officials there were "very concerned" to see just 18% of eligible Latino and Black residents agreeing to get the vaccine at the beginning of the rollout, she said, adding that health officials have now gotten that number up substantially after weeks of countering misinformation with public health campaigns.
+
+Luna noted that historically, many of the populations most affected by these conspiracy theories have been mistreated by medical and public health establishments, creating a vacuum in which misinformation thrives. "There has been a lot of work to get the right information to the right people and address that history of trauma," Luna said.
+
+Even though Latinos living in the US are disproportionately affected by Covid-19 , a recent poll by the Kaiser Family Foundation  found that only 26% of Latinos said they would get the vaccine as soon as possible, compared to 40% of whites. "What we are seeing is that a lot of essential workers do not want to get vaccinated because they fear they will be tracked or deported based on information and conspiracy theories they have seen online," said Oscar Soria, a misinformation researcher at Avaaz.
+
+Why is Spanish-language misinformation spreading?
+
+There are several reasons Spanish misinformation continues to spread on Facebook more widely than English misinformation, researchers say. The company, they say, does not dedicate enough resources to Spanish-language moderation, which includes a failure to hire enough Spanish-speaking workers. Non-human content moderation tools like artificial intelligence may not pick up on the nuance in Spanish.
+
+Facebook appears to be dedicating fewer resources to moderating Spanish content on its platforms than it does for misinformation in English, said Jessica J González, the co-founder of Change the Terms and co-chief executive officer of Free Press, adding that the company has repeatedly been unwilling or unable to answer her questions regarding the size and scope of its Spanish-language moderation teams.
+
+"This is the fourth most spoken language in the world and the second most spoken language in the US - you have an obligation to dedicate resources to it," González said.
+
+This is the fourth most spoken language in the world ... you have an obligation to dedicate resources to it
+
+Jessica González
+
+González noted the importance of a robust and diverse Spanish-speaking moderation force. Spanish is spoken in more than 20 countries globally, each with its own slang and interpretations of words and phrases. She recalled a time when her organization was filing a complaint to the FCC unrelated to Facebook with colleagues from Mexico, El Salvador, Nicaragua and Puerto Rico.
+
+"We debated for almost a full day what one sentence in Spanish meant, based on our varied understanding of a couple different words and phrases in that sentence that translated in different ways depending on country of origin," she said.
+
+Moderation efforts face other challenges. Soria said often there was a higher volume of misinformation being spread by video than by text, making it more difficult for AI to quickly spot . In one example cited by Avaaz in the October 2020 study, it took 22 days for Facebook to label a misinformation video in Spanish  falsely claiming that the Covid-19 virus was deliberately created in a lab in China. By that time, the video had reached 33m views. It took nine days for the video to be factchecked by a Facebook partner and then another 13 days for the video to be labelled by Facebook as misinformation.
+
+Facebook's failures to moderate in Spanish also reflect a top-down diversity problem many tech companies face, said González. As of 2019, just 5% of Facebook's workforce was Latino, according to the company's yearly diversity report.
+
+Facebook accused of leaning on non-profits
+
+When reached for comment, Facebook would not say what percentage of its budget it dedicates to content moderation or what portion of that is dedicated to Spanish-language moderation in particular. A spokesman said Facebook in the last several years has tripled the number of people working on safety and security for the platform. It now has a team of 35,000, of whom about 15,000 are content reviewers who review content at more than 20 global sites. He added that Facebook has 13 partners in its factchecking network that review Spanish-language content. English-language partners include publications such as USA Today.
+
+"We are taking aggressive steps to fight harmful Covid-19 misinformation on our platforms in dozens of languages, including Spanish," he said. "We've removed millions of pieces of content that could lead to imminent harm under our policies."
+
+Scurato said Facebook has asked her and others at non-profit organizations to continue to flag misinformation found in their studies. In response, dozens of human rights and Latino advocacy groups have written to Facebook  urging it to address its own problems: "Not only does this deplete valuable resources that should be dedicated to directly advocating for and providing services to our community, it is also an exhausting exercise in microaggression pain points of our position and power in the systemically inequitable US tech industry," they wrote in November.
+
+The groups say Facebook still has not removed a number of Spanish-language posts flagged in the letter exhibiting clear violations of Facebook's policies on hate speech and misinformation, including calls to build militias and health misinformation.
+
+The problem is not hopeless, however, said Soria, the Avaaz researcher. His organization and others have called on Facebook to not only devote more resources to the issue, but to address the misinformation problem by correcting falsehoods that have spread on the app, potentially sending notifications to users who were exposed to false information. Studies have shown such corrections work, decreasing belief in disinformation by nearly 50%.
+
+"The bottom line is that Facebook has a blind spot when it comes to Spanish-language misinformation," Soria said. "But it can and should be fixed. Facebook needs to say 'basta' to the spread of misinformation on the platform."

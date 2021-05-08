@@ -1,0 +1,831 @@
+block-time published-time 1.03am BST
+
+
+
+Summary
+
+•Donald Trump said he's been taking hydroxychloroquine, an antimalarial drug that he has repeatedly touted as a cure for coronavirus, despite a lack of evidence. The president said he has been taking the drug for a week and a half, as a prophylactic measure, going against the guidance of the FDA.•The coronavirus death toll passed 90,000 in the US, even as states begin easing distancing measures. All but one state are looking to loosen restrictions, but only 18 have shown a downward trend in cases.•Lindsay Graham, the Republican leader of the Senate judiciary committee, announced a debate and vote on whether to subpoena documents and testimony related to what Donald Trump has been referring to as "Obamagate". Republicans are seeking testimony from Obama-era officials on the FBI investigation into Russian election interference.•Trump said the secretary of state, Mike Pompeo, asked him to fire the state department inspector general, which will intensify concerns that Pompeo politically retaliated against Steve Linick for investigations into the state department leader.•Linick had been investigating Pompeo's controversial decision to approve Saudi arms sales last year, according to the Democratic chair of the House foreign affairs committee. Reports had already emerged that Linick was investigating the secretary of state for allegedly making a department staffer run personal errands for him and his wife.•Moderna's coronavirus vaccine showed promising results in its first human safety tests. The results sparked hope that the vaccine could be more widely distributed in the next several months, as several companies race to develop an effective vaccine.•The attorney general, William Barr, said he does not expect the investigation of the Russia inquiry to lead to a criminal investigation of Barack Obama or Joe Biden. Barr's comment comes as the president continues to push his baseless claim that the former president and former vice-president broke the law in connection to the Russia investigation.•Trump reportedly declined an invitation to address the World Health Organization, which he has criticized for its handling of the pandemic.
+
+Donald Trump said he's been taking hydroxychloroquine, an antimalarial drug that he has repeatedly touted as a cure for coronavirus, despite a lack of evidence. The president said he has been taking the drug for a week and a half, as a prophylactic measure, going against the guidance of the FDA.
+
+The coronavirus death toll passed 90,000 in the US, even as states begin easing distancing measures. All but one state are looking to loosen restrictions, but only 18 have shown a downward trend in cases.
+
+Lindsay Graham, the Republican leader of the Senate judiciary committee, announced a debate and vote on whether to subpoena documents and testimony related to what Donald Trump has been referring to as "Obamagate". Republicans are seeking testimony from Obama-era officials on the FBI investigation into Russian election interference.
+
+Trump said the secretary of state, Mike Pompeo, asked him to fire the state department inspector general, which will intensify concerns that Pompeo politically retaliated against Steve Linick for investigations into the state department leader.
+
+Linick had been investigating Pompeo's controversial decision to approve Saudi arms sales last year, according to the Democratic chair of the House foreign affairs committee. Reports had already emerged that Linick was investigating the secretary of state for allegedly making a department staffer run personal errands for him and his wife.
+
+Moderna's coronavirus vaccine showed promising results in its first human safety tests. The results sparked hope that the vaccine could be more widely distributed in the next several months, as several companies race to develop an effective vaccine.
+
+The attorney general, William Barr, said he does not expect the investigation of the Russia inquiry to lead to a criminal investigation of Barack Obama or Joe Biden. Barr's comment comes as the president continues to push his baseless claim that the former president and former vice-president broke the law in connection to the Russia investigation.
+
+Trump reportedly declined an invitation to address the World Health Organization, which he has criticized for its handling of the pandemic.
+
+
+
+block-time updated-timeUpdated at 1.14am BST
+
+block-time published-time 12.27am BST
+
+Republican senator Lindsay Graham announced that the judiciary committee would debate and vote on whether to subpoena documents and testimony from Obama-era officials, related to the FBI's investigation into Russian election interference.
+
+Graham would subpoena testimony from witnesses including James Comey, Andrew McCabe, James Clapper, John Brennan, and Sally Yates. The Senate judiciary committee would vote on authorizing the subpoenas on 4 June.
+
+The move is the latest in efforts by Trump and his allies to double down on the theory that Barack Obama and his administration concocted a hoax allegation that Trump colluded with Russia to win the 2016 election. Trump has been referring to the conspiracy theory as "Obamagate".
+
+block-time updated-timeUpdated at 12.31am BST
+
+block-time published-time 12.10am BST
+
+Judge tosses out stay-at-home restrictions in Oregon
+
+A judge in rural Oregon tossed out the state's coronavirus restrictions, saying that the governor, Kate Brown, did not seek the legislature's approval to extend the stay-at-home order. Brown is now seeking an emergency review of the decision by the state's supreme court.
+
+"The science behind these executive orders hasn't changed one bit. Ongoing physical distancing, staying home as much as possible and wearing face coverings will save lives across Oregon," Brown, a Democrat, said.
+
+But the judge's decision today, in response to a lawsuit by 10 churches who argued that the state's social distancing protocols were unconstitutional, said, "the governor's orders are not required for public safety when plaintiffs can continue to utilize social distancing and safety protocols at larger gatherings involving spiritual worship," he wrote.
+
+Judges have struck down restrictions by other Democratic governors, in Wisconsin and North Carolina.
+
+Earlier this month, Brown extended the state's social distancing mandate till 6 July, but most Oregon counties have already received the state's approval to loosen restrictions.
+
+block-time updated-timeUpdated at 12.28am BST
+
+block-time published-time 11.52pm BST
+
+Death toll in US surpasses 90,000
+
+The coronavirus death told in the US passed 90,000 Monday, and the number of cases climbed above 1.5m, according to the Johns Hopkins University tracker. The milestone came as more states seek to loosen restrictions and the president tweeted, "REOPEN OUR COUNTRY!"
+
+The president has questioned the death toll, suggesting that the numbers have been inflated. But researchers from the CDC who analyzed deaths in New York over the past two months concluded that the actual death toll is likely higher than the reported number.
+
+All the states, except Connecticut, have relaxed stay-at-home orders, to varying degrees. But only 18 states showed a downward trend of new cases according to data from Johns Hopkins.
+
+block-time updated-timeUpdated at 12.29am BST
+
+block-time published-time 11.45pm BST
+
+The Guardian's Sam Levine reports:
+
+Donald Trump's campaign and national Republicans are pumping millions of dollars into efforts to restrict voting and aggressively fight Democratic efforts to make it easier to cast a ballot during the Covid-19 pandemic.
+
+The Republican National Committee has allocated $20m so far to oppose Democratic lawsuits across the country seeking to expand voting. Republicans are also seeking to recruit up to 50,000 people in 15 key states to serve as poll watchers and challenge the registration of voters they believe are ineligible, according to the New York Times.
+
+The 2020 election will be the first time in nearly three decades that national Republicans will be involved in such a program. After the RNC was sued over intimidating minority voters in New Jersey in the early 1980s, they agreed to a federal court order not to engage in "ballot security" efforts. The order expired in 2018.
+
+Related:  Republicans devote $20m and 50,000 people into efforts to restrict voting
+
+block-time published-time 11.11pm BST
+
+California counties could ease up more restrictions in coming weeks
+
+Vivian Ho reports:
+
+Haircuts, in-person retail shopping, sporting events and religious services could be a reality again in some California counties in just the next few weeks, the state's governor, Gavin Newsom, said Monday.
+
+Newsom provided an optimistic outlook for the state in his daily briefing, where he modified the criteria that each of California's 58 counties must meet to reopen and join the state in phase two of coronavirus containment.
+
+"We are looking forward in the next few weeks to a number of significant milestones," he said. "We expect if we hold the rate of transmissions, we hold the positivity rate down and continue to do justice to the number of hospitalizations, that we will be making announcements statewide."
+
+Newsom had already allowed for local variance to phase two of the stay-at-home order - California, as a large state with diverse needs, had been hit by the virus unevenly, with some rural counties experiencing low rates of infection and others like Los Angeles county experiencing more than half the deaths in the entire state. While statewide, all retailers were allowed to reopen for curbside pickup, counties could also apply for looser restrictions, such as the go-ahead to reopen some offices, schools and dine-in restaurants. Those counties had to meet criteria such as no deaths in 14 days. Now, under the modified criteria announced Monday, in which counties have to show a rate of 8% positive tests over seven days and a hospitalization rate below 5%, Newsom believes that 53 of the state's 58 counties could move deeper into phase two if their public health officials so desired.
+
+He reiterated again that the decision was up to each individual county. "Just because we are creating the capacity and the availability to move into phase two doesn't mean every county is ready," he said. "LA county, as an example, I imagine, will be cautious in that respect."
+
+In California, there have been a total of 78,839 positive cases and 3,261 deaths.
+
+block-time updated-timeUpdated at 12.32am BST
+
+block-time published-time 11.06pm BST
+
+During the event with restaurant executives, Trump also addressed the investigation into the secretary of state, Mike Pompeo.
+
+"Here's a man that is supposed to be negotiating war and peace with major, major countries with weaponry like the world has never seen before," Trump told reporters. "And the Democrats and the fake news media, they are interested in a man who is walking their dog."
+
+Trump fired the state department's inspector general, Steve Linick, on Friday. According to NBC, Linick has been investigating whether Pompeo and his wide made a staffer walk their dog, pick up dry cleaning and make them dinner reservations, as well as the circumstances of Pompeo's sale of US weapons to Saudi Araba despite a congressional ban.
+
+"I would rather have [Pompeo] on the phone with some world leader than have him wash dishes because maybe his wife isn't there or his kids aren't," Trump said.
+
+Of course, a third option would have been for the Pompeo family to hire dogwalkers and other helpers, rather than relying on state department employees to do their personal errands.
+
+enltrPresident Trump on firing State Department Inspector General: "I don't know him at all. I never even heard of him. But, I was asked to by the State Department, by Mike...I have the absolute right as president to terminate." Full video here: https://t.co/FWjHY8AWLb           pic.twitter.com/avptfW0XIH
+
+- CSPAN (@cspan)
+
+May 18, 2020
+
+block-time updated-timeUpdated at 12.33am BST
+
+block-time published-time 10.51pm BST
+
+Trump's use of hydroxychloroquine doesn't appear to fit within the FDA's emergency use authorization of the drug as a treatment for coronavirus.  The president said he asked the White House doctor if he could take the antimalarial drug. "He said, well, if you'd like it."
+
+The emergency use authorization is very specific. It "allows chloroquine phosphate and hydroxychloroquine sulfate donated to the Strategic National Stockpile (SNS) and distributed to states to be used by licensed healthcare providers to treat adults and teens hospitalized with Covid-19 who weigh more than 50 kg (110 pounds)", according to the FDA.
+
+It does not authorize the use of the drug as a preventative treatment.
+
+block-time updated-timeUpdated at 12.34am BST
+
+block-time published-time 10.39pm BST
+
+Even Fox News was taken aback by the president's announcement that he's taking hydroxychloroquine.
+
+enltrFox News's Neil Cavuto is stunned by Trump's announcement that he's taking hydroxychloroquine: "If you are in a risky population here, and you are taking this as a preventative treatment... it will kill you. I cannot stress enough. This will kill you." pic.twitter.com/e6D5alfAgc
+
+- Aaron Rupar (@atrupar)
+
+May 18, 2020
+
+block-time updated-timeUpdated at 10.44pm BST
+
+block-time published-time 10.23pm BST
+
+Fact check: Trump on hydroxychloroquine
+
+Trump acknowledged research finding that US veterans treated with hydroxychloroquine didn't seem to fare better than those who weren't given the drug .  The preliminary study found that those treated with hydroxychloroquine had a higher risk of death than those who were not. The pre-print of the study, which has been published online without peer review, comes with many caveats. None of those caveats include Trump's analysis. Those behind the research "aren't big Trump fans," the president said as an explanation for why he's taking the unproven drug. The research was a "a very unscientific report," Trump said.
+
+The research was conducted by the VA and academic institutions including the University of Virginia School of Medicine. It analyzed the cases of 368 male coronavirus patients nationwide, 97 receiving hydroxychloroquine, 113 receiving hydroxychloroquine in combination with the antibiotic azithromycin, and 158 not receiving any hydroxychloroquine. This was not a randomized clinical trial, the gold standard of drug testing, which would randomly assign hydroxychloroquine treatment to some patients and not to others. Instead, researchers looked back on cases - and weren't able to account for why doctors chose to treat some patients with the antimalarial drug and not others. It could be that those treated with hydroxychloroquine had a higher chance of death because doctors chose to give the most severely ill patients the unproven drug.
+
+block-time updated-timeUpdated at 10.43pm BST
+
+block-time published-time 9.59pm BST
+
+Asked about the potential harsh side effects of taking the drug, Trump told reporters, "All I can tell you is, so far I seem to be OK."
+
+Hydroxychloroquine is considered relatively safe for people without an underlying illness, but it's unclear if it is safe for severely sick Covid-19 patients, who may have incurred organ damage due to the virus. The drug can have serious side effects, including serious heart rhythm problems.
+
+So far, the evidence that it's a cure for coronavirus is anecdotal and mixed. An initial French study that appeared to have launched the Trump administration's obsession with the drug has since been discredited. The early results of trials and studies that have tricked in so far have not provided compelling evidence that hydroxychloriquine is a "miracle" drug, as Trump has claimed before.
+
+The surge in demand for the unproven hydroxychloroquine also risks shortages of the drug for those who need it most. It is used to help patients manage the chronic autoimmune disease lupus, but some are already complaining the drug is harder to come by.
+
+Related:  Hydroxychloroquine and coronavirus: a guide to the scientific studies so far
+
+block-time updated-timeUpdated at 10.31pm BST
+
+block-time published-time 9.49pm BST
+
+If Trump is taking hydroxychloroquine, he is going against the advice of his own administration.
+
+The FDA has warned against using hydroxychloroquine or a related compound, chloroquine, for treating or preventing Covid-19 without medical supervision in a hospital, or as part of a clinical trial.
+
+"While clinical trials are ongoing to determine the safety and effectiveness of these drugs for Covid-19, there are known side effects of these medications that should be considered," the FDA commissioner, Stephen M Hahn, said in a statement issued in late April. "The FDA will continue to monitor and investigate these potential risks and will communicate publicly when more information is available."
+
+block-time updated-timeUpdated at 10.31pm BST
+
+block-time published-time 9.45pm BST
+
+Here's the clip of Trump saying he's been taking hydroxychloroquine.
+
+enltrPresident Trump: "I happen to be taking it. I'm taking it, hydroxychloroquine. A couple weeks ago I started taking it...I get a lot of positive calls about it...I take a pill every day." Full video here: https://t.co/FWjHY8AWLb           pic.twitter.com/cUPVQYenuo
+
+- CSPAN (@cspan)
+
+May 18, 2020
+
+"I get a lot of positive calls about it," Trump said of the antimalarial drug. So far, the scientific evidence that the drug works as a treatment has been thin. It has not been widely investigated as a prophylactic measure.
+
+block-time updated-timeUpdated at 10.10pm BST
+
+block-time published-time 9.37pm BST
+
+Trump says he is taking controversial coronavirus treatment hydroxychloroquine
+
+Extraordinary news emerging from the White House - the president has mentioned that he has been taking hydroxychloroquine. This is the dubious treatment for coronavirus that Trump had fiercely touted in the past but which was found to have a very mixed effect on patients.
+
+No studies so far have shown that it had a good effect on patients and regulators have advised it not be taken outside of a hospital or clinical trial setting.
+
+Trump said earlier at the White House that he was taking it, it is understood as a prophylactic.
+
+enltrBREAKING: President Trump says he is taking hydroxychloriquine and has been doing so for weeks. @CBSNews           #Covid_19
+
+- Paula Reid (@PaulaReidCBS) May 18, 2020
+
+The US Food and Drug Administration cautions against use of hydroxychloroquine or chloroquine for Covid-19 outside of a hospital setting or a clinical trial due to risk of heart rhythm problems.
+
+Before recent results from larger trials showed the anti-viral medicine was not good for Covid and could be harmful, Trump was promoting it, including at White House briefings, as a possible miracle cure for coronavirus.
+
+Related:  Hydroxychloroquine: how an unproven drug became Trump's coronavirus 'miracle cure'
+
+block-time updated-timeUpdated at 10.33pm BST
+
+block-time published-time 9.34pm BST
+
+Today so far
+
+That's it from me today. Our west coast team will take over the blog for the next few hours.
+
+Here's where the day stands so far:
+
+•Trump said the secretary of state, Mike Pompeo, asked him to fire the state department inspector general, which will intensify concerns that Pompeo politically retaliated against Steve Linick for investigations into the state department leader.•Linick had been investigating Pompeo's controversial decision to approve Saudi arms sales last year, according to the Democratic chair of the House foreign affairs committee. Reports had already emerged that Linick was investigating the secretary of state for allegedly making a department staffer run personal errands for him and his wife.•Moderna's coroanvirus vaccine showed promising results in its first human safety tests. The results sparked hope that the vaccine could be more widely distributed in the next several months, as several companies race to develop an effective vaccine.•The attorney general, William Barr, said he does not expect the investigation of the Russia inquiry to lead to a criminal investigation of Barack Obama or Joe Biden. Barr's comment comes as the president continues to push his baseless claim that the former president and former vice-president broke the law in connection to the Russia investigation.•Trump reportedly declined an invitation to address the World Health Organization, which he has criticized for its handling of the pandemic.
+
+Trump said the secretary of state, Mike Pompeo, asked him to fire the state department inspector general, which will intensify concerns that Pompeo politically retaliated against Steve Linick for investigations into the state department leader.
+
+Linick had been investigating Pompeo's controversial decision to approve Saudi arms sales last year, according to the Democratic chair of the House foreign affairs committee. Reports had already emerged that Linick was investigating the secretary of state for allegedly making a department staffer run personal errands for him and his wife.
+
+Moderna's coroanvirus vaccine showed promising results in its first human safety tests. The results sparked hope that the vaccine could be more widely distributed in the next several months, as several companies race to develop an effective vaccine.
+
+The attorney general, William Barr, said he does not expect the investigation of the Russia inquiry to lead to a criminal investigation of Barack Obama or Joe Biden. Barr's comment comes as the president continues to push his baseless claim that the former president and former vice-president broke the law in connection to the Russia investigation.
+
+Trump reportedly declined an invitation to address the World Health Organization, which he has criticized for its handling of the pandemic.
+
+The blog will have more coming up, so stay tuned.
+
+block-time updated-timeUpdated at 10.34pm BST
+
+block-time published-time 9.28pm BST
+
+Trump says Pompeo asked him to fire inspector general
+
+Trump  said secretary of state Mike Pompeo  had asked him to fire state department inspector general Steve Linick,  who was removed from his role on Friday.
+
+enltr. @jeffmason1 : You said you don't know the IG you just fired. What was he doing that was treating you unfairly? TRUMP: "I don't know. I don't anything about him. I don't know."            pic.twitter.com/0YNmZNUWGX
+
+- Aaron Rupar (@atrupar)
+
+May 18, 2020
+
+"I don't know anything about him, other than the State Department and Mike in particular... weren't happy with the job he's doing or something," Trump told reports of Linick's ouster.
+
+Pompeo was reportedly under investigation for approving Saudi arms sales last year without congressional support and for allegedly making a department staffer run personal errands for him and his wife.
+
+But Trump said he was unconcerned that Pompeo may have sought Linick's removal because of the investigations, insisting he has the right to remove any inspector general and expressing doubt about the credibility of oversight officials who were appointed by Barack Obama.
+
+block-time updated-timeUpdated at 9.37pm BST
+
+block-time published-time 9.17pm BST
+
+Trump rejects invitation to address WHO, while Xi accepts - report
+
+Donald Trump declined an invitation to address a virtual gathering of the World Health Organization ( WHO ) that began earlier today, while his Beijing counterpart,             Xi Jinping , China's president, delivered a virtual speech in which he pledged $2 billion in coronavirus aid to the worldwide response, Axios            reports.
+
+Other world leaders who addressed today's gathering included Germany's  Angela Merkel  and France's             Emmanuel Macron .
+
+The WHO extended an invitation earlier this month for Trump to speak at Monday's virtual gathering of the World Health Assembly, the WHO's parent body, Axios said, citing two unnamed sources familiar with the situation.
+
+Xi accepted while Trump declined and instead delivered a message of criticism.
+
+"The WHO wanted to bring these two leaders together, the biggest economies in the world, at a time when they are being cold to each other, and try to create some sense of solidarity," a source said.
+
+The WHO aims to establish an independent and impartial inquiry into the source and handling of the coronavirus outbreak, once the pandemic is brought under control, at the virtual meeting of its governing body, the World Health Authority.
+
+Related:  China backs 'comprehensive review' of pandemic
+
+Trump abruptly announced in April that he was freezing US payments to the            World Health Organization over its handling of the coronavirus pandemic.
+
+He said at the time that funding would be on hold for 60 to 90 days pending a review of the WHO's warnings about the coronavirus and China. He accused the global body of "severely mismanaging and covering up" the threat, even though it declared a public health emergency on 30 January - after which he continued to hold rallies, play golf and compare the coronavirus to the common flu.
+
+block-time updated-timeUpdated at 9.21pm BST
+
+block-time published-time 8.45pm BST
+
+Rove criticized for accusing Obama of 'political drive-by shooting'
+
+Karl Rove,  a former senior adviser to George W Bush,  lashed out against Barack Obama  after the former president implicitly criticized Trump  in a virtual commencement address.
+
+enltr"It is so unseemly for a former president to take the virtual commencement ceremony for a series of historically black colleges and universities and turn it into a political drive-by shooting" -- Karl Rove on Obama's commencement speech in which he indirectly criticized Trump pic.twitter.com/stZamQFhgF
+
+- Aaron Rupar (@atrupar)
+
+May 18, 2020
+
+"It is so unseemly for a former president to take the virtual commencement ceremony for a series of historically black colleges and universities and turn it into a political drive-by shooting," Rove said.
+
+Delivering an address to HBCU graduates this weekend, Obama said, "More than anything, this pandemic has fully, finally torn back the curtain on the idea that so many of the folks in charge know what they're doing. A lot them aren't even pretending to be in charge."
+
+But Rove's comment immediately sparked backlash from critics, who were quick to point to some of the most controversial aspects of the Republican strategist's record.
+
+enltrKarl Rove engineered a push poll during the 2000 SC primary that asked voters if they would be less likely to vote for McCain if they knew he had an illegitimate black child. He knew this attack would work because the McCain's 9-year-old daughter Bridget was from Bangladeshhttps://t.co/xTwYSuK92d
+
+- Yashar Ali ?? (@yashar)
+
+May 18, 2020
+
+Others noted that Obama's comments pale in comparison to Trump's claims about his predecessor.
+
+enltrTrump spent years perpetuating a racist conspiracy theory about Obama's place of birth. But apparently it's "unseemly" when Obama highlights the reality of the current situation: the Trump admin. bungled its response to this pandemic. Thousands are dead. Millions are unemployed. https://t.co/f7d5pqLCJc
+
+- John Haltiwanger (@jchaltiwanger) May 18, 2020
+
+block-time published-time 8.19pm BST
+
+Secretary of state Mike Pompeo claimed it was "not possible" the state department inspector general's firing was an act of political retaliation because he didn't know he was being investigated.
+
+"It is not possible that this decision, or my recommendation rather, to the president rather, was based on any effort to retaliate for any investigation that was going on, or is currently going on," Pompeo told the Washington Post.
+
+"Because I simply don't know. I'm not briefed on it. I usually see these investigations in final draft form 24 hours, 48 hours before the IG is prepared to release them. So it's simply not possible for this to be an act of retaliation. End of story."
+
+However, according to Politico, state department officials were recently briefed on the conclusions of the inspector general's investigation into Pompeo's decision to approve arms sales to Saudi Arabia last year, and the secretary refused to sit for an interview.
+
+block-time published-time 8.08pm BST
+
+For weeks, Joe Biden has been on the receiving end of unsolicited advice urging the homebound presidential candidate to get out of his basement.
+
+On Monday, Biden moved out of the basement to a sunny room upstairs with views of his lush backyard in full bloom to address the AAPI Victory Fund virtual summit.
+
+The shot was well-framed and the connection was clear - marked improvements from a recent virtual rally that was riddled with technical glitches.
+
+But as he began his remarks, a gaggle of Canadian geese that have taken up residence on his property began honking. Biden warned that this might happen and did not pause when their honking grew louder.
+
+enltrBiden's livestream with AAPI Victory Fund has been interrupted by the Canadian geese that gather on his property. Biden warned this might happen and keeps talking over their honking.
+
+- Lauren Gambino (@laurenegambino) May 18, 2020
+
+There were some technical difficulties; though on this occasion, they were not Biden's fault. The former vice president was not feted with introductory remarks after the speaker, Dilawar Syed, was unable to connect properly. And at one point, as Biden spoke, a cell phone rang.
+
+But if he was irritated, Biden didn't show it. He assailed Trump for his administration's handling of the virus that he described as a series of "denials, delays and distraction, many of which were nakedly xenophobic."
+
+Trump has sought to make China a theme of the 2020 presidential campaign by hammering Biden in a series of dark attack ads tying the former vice president to Beijing. Biden has responded in kind, in an escalating war of words that has alarmed some Asian Americans who say the rhetoric from both campaigns could further inflame anti-Asian xenophobia.
+
+In his remarks, Biden spoke directly to the Asian American community, which has faced a wave of attacks and even violence in the wake of the coronavirus pandemic, which was first identified in Wuhan, China.
+
+Biden accused Trump of stoking racial grievance and said the Asian American community deserved better than a president who "never, ever misses an opportunity to stoke innuendo, to fan the flames of hate."
+
+"This is unconscionable what he's doing and it strikes at the very heart of this country," Biden said, adding that Trump's rhetoric was "especially despicable" given the sacrifices many Asian Americans are making as frontline and essential workers in the fight against the coronavirus.
+
+block-time published-time 7.50pm BST
+
+It should be noted that Republican senator Chuck Grassley 's letter to Trump  demanding an explanation for the removal of state department inspector general Steve Linick  does not outline any consequences if the president does not comply.
+
+Trump has already ignored a similar letter from senators demanding an explanation for why intelligence community inspector general Michael Atkinson  was ousted from his role.
+
+enltrI've got a bill to do this. https://t.co/qYKgITjTIj
+
+- Chris Murphy (@ChrisMurphyCT) May 18, 2020
+
+In response to Grassley's letter, Democratic senator Chris Murphy  noted he has drafted legislation to guarantee inspectors general a seven-year term in office. The bill stipulates the oversight officials would only be able to be removed early for "permanent incapacity, inefficiency, neglect of duty, malfeasance, or conviction of a felony or conduct involving moral turpitude."
+
+"We simply cannot allow President Trump to weaponize independent oversight positions in his administration to reward his friends, punish his political enemies, and cover up wrongdoing," Murphy said last month.
+
+block-time updated-timeUpdated at 9.37pm BST
+
+block-time published-time 7.30pm BST
+
+The Republican chair of the Senate finance committee has sent Trump a letter demanding an explanation for his removal of the state department inspector general.
+
+In the letter, senator Chuck Grassley  noted lawmakers from both parties have similarly expressed concern about the recent removal of intelligence community inspector general Michael Atkinson.
+
+The Iowa Republican asked Trump to provide a written explanation for Steve Linick 's removal by June 1 and respond to lawmakers' letter about Atkinson "as soon as possible."
+
+"As mentioned in previous letters, Congress's intent is clear that an expression of lost confidence, without further explanation, is not sufficient to fulfill the requirements of the IG Reform Act," Grassley wrote.
+
+"IGs are intended to be equal opportunity investigators and are designed to combat waste, fraud, abuse, and misconduct without regard to political affiliation. They are the ultimate swamp drainers," Grassley continued.
+
+"Removal of IGs without explanation could create a chilling effect in the oversight community, and risks decreasing the quantity, quality, fidelity, and veracity of their reports."
+
+block-time updated-timeUpdated at 9.37pm BST
+
+block-time published-time 7.14pm BST
+
+Trump appeared " highly focused" on Barack Obama during this past weekend at Camp David,  according to CNN.
+
+CNNreports :
+
+Trump headed into the weekend appearing convinced his predecessor committed a crime worthy of investigation -- despite being unable to name the crime or provide any evidence for it. By Sunday, he emerged prepared to wage wholesale political war with the last person who held his office....
+
+As he huddled in the mountainside retreat's rustic cabins with a roster of Republican lawmakers -- many of whom forged national profiles defending Trump during his impeachment proceedings -- Trump discussed ways to advance the baseless conspiracy about the former president, the person said.
+
+Attorney general William Barr  said today that he did not expect the investigation into the handling of the Russia probe to result in a criminal investigation of Obama or Biden.
+
+Despite that comment from a senior member of his own administration, Trump seems unwilling to abandon the #Obamagate conspiracy theory, which former CIA analyst Ned Price  described as "a hashtag in search of a scandal."
+
+Related:  'It eats him alive inside': Trump's latest attack shows endless obsession with Obama
+
+block-time published-time 6.51pm BST
+
+Health and human services secretary Alex Azar lashed out against Peter Navarro this morning,  after the White House trade adviser critcized the Centers for Disease Control and Prevention for its handling of the pandemic.
+
+enltrWow. Alex Azar characterizes comments that his White House colleague Peter Navarro made criticizing the CDC as "inaccurate and inappropriate." pic.twitter.com/l2uN1o8qem
+
+- Aaron Rupar (@atrupar)
+
+May 18, 2020
+
+Azar said Navarro's comments on "Meet the Press" yesterday were "inaccurate and inappropriate." Azar acknowledged CDC's early error in developing a coronavirus test, but he argued that mistake had not signficantly hampered the US response to the virus.
+
+In contrast, Navarro said yesterday that the CDC had "let the country down." "Early on in this crisis, the CDC, which really had the most trusted brand around the world in this space -- really let the country down with the testing," Navarro said. "Not only did they keep the testing within the bureaucracy they had a bad test and that set us back."
+
+Navarro's comments come as tensions between the White House and the CDC are reportedly escalating.
+
+CNNreports :
+
+In particular, Dr. Deborah Birx, coordinator for the President's coronavirus task force, has become increasingly critical of the CDC, making clear in recent meetings that she is more than frustrated with the agency, according to two senior administration officials. Specifically, Birx believes the way the CDC gathers data on the coronavirus is antiquated, causing inaccurate and delayed numbers on both virus cases and deaths.
+
+Birx has expressed her agitation during recent task force meetings, where at least one conversation between her and CDC Director Robert Redfield has grown heated, according to a source close to the task force. Birx and Redfield have known each other for decades, due to their work on HIV research together. And while Birx defended Redfield to their peers earlier this year over the CDC's faulty test kits, her tone toward him has shifted dramatically in recent weeks, according to multiple officials and a source close to the task force.
+
+block-time published-time 6.34pm BST
+
+The Guardian's Kenya Evelyn recaps New York governor Andrew Cuomo's daily briefing:
+
+New Yorkers received more than $9bin in unemployment benefits, Cuomo announced at his latest briefing on the state's response to coronavirus.
+
+Daily cases continue their downward trend, as the governor reported 106 deaths Sunday - the lowest total in several weeks. But Cuomo noted that $9.2bn in unemployment benefits have been paid out to more than two million New Yorkers, a sobering fact underscoring the virus' lingering economic effect.
+
+State officials acknowledged some residents have yet to be paid, but Cuomo argued the challenge is stamping out fraud to protect taxpayer money.
+
+"Suzy Smith is really a computer terminal in some other country," he quipped of potential fraudulent filings, before noting he'd likely face backlash for the remark.
+
+Cuomo continued to push back at questions regarding the state's early response to the coronavirus outbreak in nursing homes, contending the facilities are a top priority. He announced 35,000 tests had been reserved just for nursing homes.
+
+New York state is also requiring facility personnel to get tested twice a week, as the governor said the state would have to "ramp up from about 25,000 tests to 90,000 tests a day".
+
+The governor had been criticized for previously allowing patients back to nursing homes after they tested positive for Covid-19 after more than 5,000 residents died since 1 March. That policy was reversed 10 May.
+
+enltrNEW: Western New York will begin Phase 1 of reopening tomorrow. They will have all the contact tracers needed in place.
+
+- Andrew Cuomo (@NYGovCuomo) May 18, 2020
+
+In the presser, the governor also announced that western New York, which includes Buffalo, will begin phase 1 of reopening this week. State officials were able to identify more than 525 contact tracers to aid in the effort. Still, Cuomo cautioned businesses and state leaders to follow the science.
+
+"This is not a subject that is a political subject, or where political opinions really matter," he said. "I don't even care about your personal opinion, this is about facts and science and data."
+
+Cuomo added that he had been "encouraging major sports team to plan reopening without fans, but the games can be televised," telling reporters he'd want to watch the Buffalo Bills.
+
+That's the only NFL team whose reopening Cuomo would be able to affect, however. Both the New York Giants and Jets play at MetLife Stadium, located in New Jersey.
+
+block-time updated-timeUpdated at 6.42pm BST
+
+block-time published-time 6.08pm BST
+
+Today so far
+
+Here's where the day stands so far:
+
+•Moderna's coroanvirus vaccine showed promising results in its first human safety tests. The results sparked hope that the vaccine could be more widely distributed in the next several months, as several companies race to develop an effective vaccine.•Attorney general William Barr said he does not expect the investigation of the Russia inquiry to lead to a criminal investigation of Barack Obama or Joe Biden. Barr's comment comes as the president continues to push his baseless claim that the former president and former vice-president broke the law in connection to the Russia investigation.•The state department inspector general had been investigating Mike Pompeo's controversial decision to approve Saudi arms sales last year, according to the Democratic chair of the House foreign affairs committee. Reports had already emerged that Steve Linick, who was dismissed on Friday, was investigating the secretary of state for allegedly making a department staffer run personal errands for him and his wife.
+
+Moderna's coroanvirus vaccine showed promising results in its first human safety tests. The results sparked hope that the vaccine could be more widely distributed in the next several months, as several companies race to develop an effective vaccine.
+
+Attorney general William Barr said he does not expect the investigation of the Russia inquiry to lead to a criminal investigation of Barack Obama or Joe Biden. Barr's comment comes as the president continues to push his baseless claim that the former president and former vice-president broke the law in connection to the Russia investigation.
+
+The state department inspector general had been investigating Mike Pompeo's controversial decision to approve Saudi arms sales last year, according to the Democratic chair of the House foreign affairs committee. Reports had already emerged that Steve Linick, who was dismissed on Friday, was investigating the secretary of state for allegedly making a department staffer run personal errands for him and his wife.
+
+The blog will have more coming up, so stay tuned.
+
+block-time updated-timeUpdated at 6.20pm BST
+
+block-time published-time 5.54pm BST
+
+Politico has more details on the state department inspector general's reported investigation into secretary of state Mike Pompeo 's controversial decision to approve arms sales to Saudi Arabia last year.
+
+Politico reports :
+
+A congressional aide said State Department officials were recently briefed about [Steve] Linick's conclusions in his investigation of the Saudi arms sales, and that Pompeo refused to sit for an interview with the inspector general's office. State Department officials did not immediately respond to a request for comment.
+
+News of the investigation comes after reports indicated Pompeo, who pushed for Linick's ouster, was also being investigated for making a department staffer run personal errands for him and his wife.
+
+block-time published-time 5.31pm BST
+
+The Trump campaign has launched an "investigative website" to highlight some of Joe Biden's verbal slips on the campaign trail.
+
+The website is entitled "Truth Over Facts," a reference to when Biden accidentally said during the Iowa State Fair, "We choose truth over facts." (He likely meant to say, "We choose truth over lies.")
+
+"The American people deserve to know the truth behind Joe Biden's delirious and nonsensical claims on the campaign trail,"  Tim Murtaugh, the Trump campaign's communications director, said in a statement.
+
+"When he's mangling the text of the Declaration of Independence or calling someone a 'lying, dog-faced pony soldier,' is he really speaking a language that only he and a select group of others understand?"
+
+The president's reelection campaign has launched a series of attacks against Biden in recent weeks, as Trump struggles to find a positive message to voters with the pandemic wreaking havoc on Americans' health and finances.
+
+Related:  Trump campaign focuses fire on Biden as pandemic undermines strategy
+
+block-time published-time 5.12pm BST
+
+Secretary of state Mike Pompeo claimed the fired inspector general was undermining the work of the department,  although he does not appear to have offered any evidence to support that allegation.
+
+enltrSecretary of State Mike Pompeo says in interview fired inspector general "wasn't performing a function in a way that we had tried to get him to" and was "trying to undermine what it was that we were trying to do."
+
+- Carol Morello (@CMorelloWP)
+
+May 18, 2020
+
+Pompeo said state department Steve Linick, who was dismissed on Friday night, was "trying to undermine what it was that we were trying to do."
+
+The cabinet memeber's comments come as the Democratic chair of the House foreign affairs committee has said he believed Linick was fired for investigating Pompeo's approval of arms sales to Saudi Arabia last year, despite congressional opposition.
+
+The White House has denied any claim of political retaliation against Linick.
+
+block-time published-time 5.03pm BST
+
+Barr says he does not expect criminal investigation of Obama or Biden
+
+Attorney general William Barr said he did not expect the investigation of the handling of the Russian probe to lead to a criminal investigation of Barack Obama or Joe Biden.
+
+Barr said of federal prosecutor John Durham 's investigation, "I don't expect Mr. Durham's work will lead to a criminal investigation of either man."
+
+Barr's comments come as the presient has pushed the baseless claim that the former president and former vice president broke the law in connection to the Russia investigation.
+
+Trump  has promoted this theory with the hashtag #Obamagate on Twitter, which former CIA analyst Ned Price  has called "a hashtag in search of a scandal."
+
+block-time updated-timeUpdated at 5.13pm BST
+
+block-time published-time 4.41pm BST
+
+The Democratic chair of the House foreign affairs committee said the state department inspector general may have been fired because of his investigation into Mike Pompeo approving Saudi arms sales.
+
+"I have learned that there may be another reason for [Steve] Linick 's firing," congressman  Eliot Engel told the Washington Post.
+
+"His office was investigating - at my request - Trump's  phony declaration of an emergency so he could send weapons to Saudi Arabia."
+
+Engel added, "We don't have the full picture yet, but it's troubling that Secretary Pompeo wanted Mr. Linick pushed out before this work could be completed."
+
+Engel said he wanted a full accounting of what Linick uncovered as he investigated the secretary of state's decision to approve the arms sales despite congressional opposition.
+
+block-time published-time 4.20pm BST
+
+The state department inspector general was reportedly also investigating secretary of state Mike Pompeo for his decision to approve Saudi arms sales last year.
+
+According to NBC News, state department inspector general  Steve Linick was looking into Pompeo's decision to approve billions of dollars of arms sales to Saudi Arabia last year, despite congressional opposition. Linick was fired Friday night, making him one of several inspector generals to be dismissed recently.
+
+enltrJUST IN - 2 sources confirm to me that State Dept IG Linick was also investigating use of emergency declaration last year to sell arms to Saudis over objections of Congress
+
+- Josh Lederman (@JoshNBCNews)
+
+May 18, 2020
+
+Reports had already emerged that Linick was investigating Pompeo for allegedly using a state department staffer to run errands for him and his wife.
+
+Linick's dismissal has raised concerns about potential political retaliation for the investigation, considering Pompeo reportedly urged Trump to oust the inspector general.
+
+Related:  Steve Linick: State Department official investigating Pompeo is fired
+
+block-time published-time 4.05pm BST
+
+Trump lashed out against Republican senator Mitt Romney over Twitter,  mocking the former presidential candidate for losing to Barack Obama.
+
+"Loser!" Trump wrote in the tweet, which included a video recapping Romney's 2012 loss to Obama, who has also attracted the president's ire this morning.
+
+Trump's tweet attacking Romney comes two days after the Utah Republican sent his own viral tweet that described the recent firings of multiple inspectors general as a "threat to accountable democracy and a fissure in the constitutional balance of power."
+
+enltrThe firings of multiple Inspectors General is unprecedented; doing so without good cause chills the independence essential to their purpose. It is a threat to accountable democracy and a fissure in the constitutional balance of power.
+
+- Senator Mitt Romney (@SenatorRomney) May 16, 2020
+
+block-time updated-timeUpdated at 4.06pm BST
+
+block-time published-time 3.40pm BST
+
+The AFL-CIO, the largest US federation of union, has filed a court petition demanding an  emergency temporary standard to protect workers from coronavirus.
+
+The president has been applauding states that have started reopening their economies, even though those states have not met federal guidelines on how to reopen safely.
+
+The hasty reopenings have sparked concerns that workers could be exposed to the virus, putting them at a heightened risk of becoming severely ill.
+
+"It's truly a sad day in America when working people must sue the organization tasked with protecting our health and safety," AFL-CIO president Richard Trumka  said in a statement.
+
+"But we've been left no choice. Millions are infected and nearly 90,000 have died, so it's beyond urgent that action is taken to protect workers who risk our lives daily to respond to this public health emergency. If the Trump administration refuses to act, we must compel them to."
+
+Republicans  have been pushing to include liability protections for employers in the next coronavirus relief package, but Democrats  have expressed concern that those protections could leave workers' health at risk.
+
+block-time published-time 3.21pm BST
+
+Interviews with longtime Trump supporters in Pennsylvania indicate the extraordinary durability of backing for the president among his base,  despite widespread criticism of his handling of the coronavirus crisis.
+
+Few people understand the terrible cost of the coronavirus like Lee Snover, a Republican party chair in one of the key swing counties that could determine whether Donald Trump is reelected as president in November.
+
+Snover, who helped deliver an upset victory for Trump in 2016 in Northampton county, Pennsylvania, lost her father to the virus this spring. Her husband fell critically ill, too, spending 17 days in an intensive care unit before recovering. Her mother, a cancer survivor, was also in intensive care for eight days before emerging.
+
+"It spread through my entire family," Snover said.
+
+Trump stands accused of driving up the coronavirus death toll by downplaying the public health threat and urging the country to "reopen" too quickly. But Snover does not see the president as having failed her family.
+
+"I don't think people give him enough credit," she said. "If you think about what a businessman he was, and how much he loved that booming economy, do you know how hard it was for him to shut the country down? That was hard. So I give him credit for that."
+
+Related:  'They don't give him enough credit': the voters who back Trump, even through the pandemic
+
+block-time published-time 3.05pm BST
+
+Barack Obama took some thinly veiled swipes at Donald Trump this weekend,  as the former president delivered two virtual commencement addresses for the country's graduates.
+
+"More than anything, this pandemic has fully, finally torn back the curtain on the idea that so many of the folks in charge know what they're doing," Obama said in his address to graduates of historically black colleges and universities. "A lot of them aren't even pretending to be in charge."
+
+Trump responded by continuing his Twitter attacks against his predecessor, retweeting an ally who claimed Obama was "the most corrupt president in US history."
+
+The Guardian's David Smith reported on Trump's fixation with Obama over the weekend. Matthew Miller,  an Obama administration alum, told Smith, "There's some racism there but, most of all, it's driven by the fact that Obama has the thing that Trump has always craved but never achieved, and that's respect."
+
+Related:  'It eats him alive inside': Trump's latest attack shows endless obsession with Obama
+
+block-time published-time 2.47pm BST
+
+The Guardian's Kenya Evelyn reports on the American Civil Liberties Union's opposition to "            immunity passports ":
+
+The US's largest civil rights group released an analysis in opposition of providing Americans with documentation showing they've recovered from the coronavirus.
+
+Several countries have weighed using immunity passports to jumpstart tourism, getting citizens back to work and society closer to normal. Experts and business leaders in the US            have also floated the idea.
+
+But the group contends that separating Americans into "covid-positive" and "covid-negative" classes would disproportionately affect the nation's most vulnerable people.
+
+"We at the ACLU have serious concerns about the adoption of any such proposal, because of its potential to harm public health," the group wrote, contending that service sector workers, communities of color, immigrants and the poor would be most impacted by a system in which only contagious workers are prevented from going to work.
+
+The ACLU's  Esha Bhandari and ReNika Moore, who compiled the analysis, even argue the two-tier system incentivizes income-vulnerable individuals to purposefully become ill with the virus.
+
+"These incentives will be especially hard to counteract if immune workers are given preferential treatment in hiring or higher wages," they wrote.
+
+As the ACLU also notes, the science does not yet support the use of immunity passports or certificates. The accuracy of tests for coronavirus antibodies, and whether former patients            can become reinfected with the virus, is highly contested.
+
+"Given the lack of scientific support for reliable immunity determinations, no significant policy decisions should currently be made on the basis of presumed immunity," the ACLU argued.
+
+The ACLU added the passports would threaten individual rights to privacy "by creating a new surveillance infrastructure to collect health data."
+
+The Trump administration has pushed for states to reopen, even as the US experiences an            uptick in the number of confirmed cases and deaths where states have relaxed stay-at-home restrictions.
+
+block-time published-time 2.30pm BST
+
+Moderna vaccine shows promising early results
+
+This is Joan Greve, taking over the blog from Martin Pengelly.
+
+The biotechnology company Moderna said it has seen promising results in its first human safety tests for a potential coronavirus vaccine.
+
+The Washington Post reports :
+
+The company reported that in eight patients who had been followed for a month and a half, the vaccine at low and medium doses triggered blood levels of virus-fighting antibodies that were similar or greater than those found in patients who recovered. That would suggest, but doesn't prove, that it triggers some level of immunity. The antibody-rich blood plasma donated by patients who have recovered is separately being tested to determine whether it is an effective therapy or preventive measure for covid-19....
+
+The data released Monday by Moderna is encouraging, but represents only a first step in a long process to bring a vaccine to market. It comes from an interim report on dozens of patients followed over weeks, whereas vaccine studies require broad testing in thousands of patients followed over many months or years.
+
+The news comes days after Moderna director Moncef Slaoui stepped down to take a role at the White House to help speed up vaccine development. Slaoui's move has sparked conflict of interest concerns, considering he still owns millions of dollars worth of company stock.
+
+Fed chairman Jerome Powell  said in his "60 Minutes" interview, which aired yesterday, that the US economy may not "fully recover" until there's a coronavirus vaccine.
+
+"Assuming there's not a second wave of the coronavirus, I think you'll see the economy recover steadily through the second half of this year," Powell said. He added, "For the economy to fully recover, people will have to be fully confident. And that may have to await the arrival of a vaccine."
+
+block-time published-time 2.19pm BST
+
+It was quite a weekend for the Trump boys, Donald Jr and Eric, as the campaign attack dogs kept on taking the battle to the Democrats  in ways even their father might not consider, if only due to some dim awareness of the last vestiges of dignity due the Oval Office.
+
+Donald Jr first. On Saturday, he chose to post to Instagram a meme which baselessly insinuated that Joe Biden, his father's probable opponent in the election in November, was a paedophile.
+
+Trump Jr said he had been "joking around", but also pursued the insinuation or even outright accusation further, accusing the former vice-president of "unwanted touching" and including in a tweet pictures taken from congressional swearing-in ceremonies and presented in misleading fashion.
+
+In a statement, Biden spokesman Andrew Bates said: "No repulsive, manipulative tactic will change the subject from how almost 90,000 Americans have paid for Donald Trump 's coronavirus negligence with their lives and how the booming economy he inherited from the Obama-Biden Administration is now suffering from depression-level job losses."
+
+It's worth noting that earlier this year Trump Jr, 42, told Axios his father sometimes tells him to tone down his attacks on Twitter.
+
+His response: "I learned it by watching you."
+
+Now, Eric. The president's second son spoke to Fox News host Jeanine Pirro on Saturday night, and accused Democrats of milking the coronavirus outbreak for political and, eventually, electoral gain.
+
+"You watch," he said, "they'll milk it every single day between now and 3 November [election day]. And guess what, after 3 November, coronavirus will magically, all of a sudden, go away and disappear and everybody will be able to reopen."
+
+Trump, 36, also said Democrats "think they're taking away Donald Trump's greatest tool, which is being able to go into an arena and fill it with 50,000 people every single time".
+
+Biden's campaign responded again, communications director Kate Bedingfield saying in a statement: "We're in the middle of the biggest public health emergency in a century, with almost 90,000 Americans dead, 1.5 million infected, and 36 million workers newly jobless.
+
+"So for Eric Trump to claim that the coronavirus is a political hoax that will 'magically' disappear is absolutely stunning and unbelievably reckless."
+
+It's worth remembering here that in the far off, innocent days of early March, Donald Trump Jr told Fox News Democrats were trying "to take a pandemic and seemingly hope that it comes here and kills millions of people so that they could end Donald Trump's streak of winning", which he claimed indicated "a new level of sickness".
+
+Mike Pence, the vice-president, defended Trump Jr's claim.
+
+block-time published-time 2.05pm BST
+
+A furore over antisemitic and Nazi-sympathizing comments made by a Republican state representative in Alaska, who likened Covid-19 safety measures at the state capitol to the treatment of Jewish people in Nazi Germany, boiled up and over at the weekend. Alaska's legislature is due to return on Monday and representatives were told by email they would be asked to undergo screening as they entered the building. Those who are screened will be given a sticker to show completion. Those who refuse will not be given a sticker. In an emailed reply to the new measures that was obtained by the Alaska Landmine, Ben Carpenter, a Republican wrote: "If my sticker falls off, do I get a new one or do I get public shaming too? Are the stickers available as a yellow Star of David?"
+
+The reply drew instant rebuke from colleagues in the House.
+
+"This is disgusting. Keep your Holocaust jokes to yourself," replied Grier Hopkins, a Democrat.
+
+Carpenter initially declined to apologise and in an interview with the Anchorage Daily News made remarks that appeared to show Nazi sympathies. "Can you or I - can we even say it is totally out of the realm of possibility that Covid-19 patients will be rounded up and taken somewhere?" he said.
+
+" People want to say Hitler was a white supremacist. No. He was fearful of the Jewish nation, and that drove him into some unfathomable atrocities." On Sunday, facing a national backlash, Carpenter apologized in an op-ed for a local paper.
+
+"I take my responsibility as the voice of the people who elected me very seriously," he wrote. "I also hold the Jewish people in the highest regard.
+
+"I do not take myself so seriously that I cannot recognize that the words I wrote, and those attributed to me, do not adequately reflect the esteem I hold for either group of people. I hope to correct that error now."
+
+block-time published-time 1.46pm BST
+
+WHO holds global assembly as Trump mulls funding cut
+
+The World Health Organization is holding its first global assembly since the outbreak of the coronavirus pandemic. For the Guardian, Lily Kuo reports from Beijing :
+
+Beijing is expected to face new levels of pressure ... as dozens of nations push for an independent investigation into the coronavirus outbreak and the US mounts a campaign over Taiwan's status.
+
+More than 120 countries have backed a draft resolution pushed by the European Union and Australia calling for an investigation into the origins of Covid-19, while a US-led coalition has been aggressively lobbying countries to support Taiwan's bid to attend as an observer.
+
+...a report in the official news agency Xinhua on Sunday said "the US and other countries" were "determined to discuss Taiwan-related proposals for only one purpose: to politicise health issues and achieve their own interests at the expense of kidnapping the the World Health Assembly and hurting global cooperation ".
+
+...the Covid-19 pandemic, which first emerged in Wuhan last December, has placed China under more scrutiny as critics call for an investigation into how the virus was able to spread across the world. It has now infected more than 4.7 million people and killed 315,000.
+
+The resolution on Covid-19 will be put forward on Tuesday if it gains backing from two-thirds of the 194 members of the assembly.
+
+Here's the full report:
+
+Related:  China facing pressure over Covid-19 and Taiwan at World Health Assembly
+
+In the US, Axios reported on Trump's position on WHO funding on Sunday night:
+
+President Trump is leaning toward preserving his total funding cut ... after being on the brink of announcing he'd restore partial funding to the global health agency, according to three sources familiar with the situation. A fourth source, a senior administration official, cautioned that the decision-making was fluid and was still subject to change.
+
+And today, Reuters reports the following remarks from WHO director-general Tedros Adhanom Ghebreyesus today: "We all have lessons to learn from the pandemic. Every country and every organisation must examine its response and learn from its experience. WHO is committed to transparency, accountability and continuous improvement."
+
+block-time published-time 1.29pm BST
+
+Andrew Pulver, film editor for the Guardian website in the UK, reports on what one of the makers of the Matrix thought of Elon Musk and Ivanka Trump twittering on about " taking the red pill ":
+
+Film-maker Lilly Wachowski has responded to Elon Musk and Ivanka Trump after the pair bantered on social media.
+
+After Musk tweeted "Take the red pill" - referring to a key scene in The Matrix, which subsequently gave rise to the phrase "redpilling" as an alt-right, misogynist meme, along with a red rose emoji normally associated with the Democratic Socialists of America, the party to which Alexandria Ocasio-Cortez and Rashida Tlaib belong - Trump replied: "Taken!"
+
+Wachowski then pithily responded, "Fuck both of you", before following up with a tweet supporting the Brave Space Alliance, which describes itself as "the first Black and trans led LGBTQIA center located on the South Side of Chicago".
+
+As I was past it in film terms even when The Matrix came out - as this piece illustrates handsomely - I'll leave the rest of this to Andrew.            Full report is here :
+
+Related:  Lilly Wachowski rounds on Ivanka Trump and Elon Musk over Matrix tweets
+
+block-time published-time 1.14pm BST
+
+Speaking of reopening, or not, here's a picture from Virginia Beach this weekend:
+
+Warm weather draws crowds to the oceanfront in Virginia Beach. Photograph: Kaitlin McKeown/AP
+
+...and here's some reporting from the Associated Press:
+
+Warm weather drew crowds to the Virginia Beach oceanfront even though the beach is considered closed under the state's stay-at-home directives.
+
+Families ordered snow cones, bought hermit crabs and cramped gift shops while bikers pedaled on the boardwalk on Saturday, the Virginian-Pilot reported. Tents, umbrellas and beach blankets were set up near the water.
+
+Under Governor Ralph Northam's first phase of a gradual reopening plan, retail stores are reopening with limited capacity, but indoor gyms remain closed, beaches are still off-limits and restaurants cannot provide indoor dine-in service. No restrictions have been lifted in northern Virginia, Richmond and Accomack County, which were granted two-week delays after local officials said it was too early to move forward.
+
+The top public health experts in the US, remember, say reopening too soon is a very bad idea indeed. And the beach in the picture above wasn't open.
+
+Politico's New York Playbook, meanwhile, has details on beaches in and around the city. In short, city beaches will stay closed while state beaches reopen at reduced capacity, a situation redolent of familiar differences between Mayor Bill de Blasio and Governor Andrew Cuomo ( see here from ProPublica this weekend ) and seemingly guaranteed to cause confusion...
+
+block-time published-time 12.59pm BST
+
+On the president's schedule today : no press briefing, either by Trump himself or his            fourth press secretary, Kayleigh McEnany. Instead the president will meet restaurant industry leaders and then, with first lady Melania Trump, speak to governors by teleconference at 4pm.
+
+Interesting note from Sunday: an announced visit on Thursday to a Ford plant in Lansing, Michigan, that is now making ventilators.
+
+Point one: visits by Trump and Vice-President Mike Pence to facilities concerned with fighting the coronavirus or            making equipment to fight it have ... tended            to produce news.
+
+Point two: Lansing is the Michigan state capital, and it has been the site of angry and in some cases armed protests against Democratic governor and potential Joe Biden running mate Gretchen Whitmer, by rightwingers demanding an end to lockdown. Trump has, controversially, supported such protests.
+
+Point three, as Jason Wilson reports:
+
+Cellphone location data suggests that demonstrators at anti-lockdown protests - some of which have been connected with C           ovid-19 cases - are often traveling hundreds of miles to events, returning to all parts of their states, and even crossing into neighboring ones.
+
+The data, provided to the Guardian by the progressive campaign group the Committee to Protect Medicare, raises the prospect that the protests will play a role in spreading the coronavirus epidemic to areas which have, so far, experienced relatively few infections.
+
+...One visualization shows that in Lansing, Michigan, after a 30 April protest in which armed protesters stormed the capit           ol building and state police were forced to physically block access to Governor Gretchen Whitmer, devices which had been present at the protest site can be seen returning to all parts of the state, from Detroit to remote towns in the state's north.
+
+Full report here:
+
+Related:  US lockdown protests may have spread virus widely, cellphone data suggests
+
+block-time updated-timeUpdated at 1.01pm BST
+
+block-time published-time 12.35pm BST
+
+Good morning...
+
+...and welcome to another day of coverage of the coronavirus epidemic, and the politics around it, in the US. I'm here till 9am ET or so, when Joan E Greve will take over in Washington.
+
+First, the figures from Johns Hopkins University in Maryland:
+
+•US cases: 1,486,469•US deaths: 89,559•New York cases: 340,661•New York deaths: 22,013
+
+US cases: 1,486,469
+
+US deaths: 89,559
+
+New York cases: 340,661
+
+New York deaths: 22,013
+
+Other states heavily hit include New Jersey, Massachusetts, Michigan, Illinois, California, Pennsylvania and Connecticut. And cases are on the rise away from the more urban states.
+
+The Trump administration spent Sunday continuing its pivot toward opening up the economy, in the face of crippling unemployment in an election year. But on Sunday night one of those independent voices who the president finds so irritating,  Federal Reserve chair Jerome Powell, told CBS' 60 Minutes, essentially, "Not so fast."
+
+"This economy will recover," Powell said, but "it may take a while. It may take a period of time, it could stretch through the end of next year, we don't really know."
+
+Powell also said unemployment could reach 25% and said the economy would not fully recover until Americans "feel they are safe".
+
+Powell said: " Assuming that there's not a second wave of the coronavirus, I think you'll see the economy recover steadily through the second half of this year ... People will have to be fully confident, and that may have to await the arrival of a vaccine."
+
+Short points to that end:
+
+•Many experts fear a second wave of the coronavirus later in the year - one Trump administration whistleblower said last week the US was facing " the darkest winter in modern history " and spoke of the country being "in deep shit".•Trump administration predictions about the development and availability of a vaccine are rated by most experts and even the Republican chair of the Senate health committee as hugely ambitious at best.
+
+Many experts fear a second wave of the coronavirus later in the year - one Trump administration whistleblower said last week the US was facing " the darkest winter in modern history " and spoke of the country being "in deep shit".
+
+Trump administration predictions about the development and availability of a vaccine are rated by most experts and even the Republican chair of the Senate health committee as hugely ambitious at best.
+
+Powell's interview would always have seemed likely to stoke the president's ire - he also urged more stimulus spending by Congress, and though the House passed a $3tn bill on Friday the Republican Senate and White House don't want it.
+
+And indeed Trump went at CBS on Sunday night. But he was most exercised about the aforementioned whistleblower, Rick Bright, whose interview he said showed CBS and 60 Minutes were "doing everything in their power to demean our Country, much to the benefit of the Radical Left Democrats".
+
+Trump attacked Bright, while characteristically claiming not to know him, and said "this whole Whistleblower racket needs to be looked at very closely, it is causing great injustice & harm".
+
+A whistleblower from the intelligence community, remember, triggered Trump's impeachment over his approaches to Ukraine for help against his political rivals.
+
+Trump tagged Senator Susan Collins, who authored whistleblower protection legislation, and said he hoped the Maine Republican was "listening". He also named the head of CBS, Shari Redstone, and said he hoped she would "take a look at her poorly performing gang".
+
+In other news on Sunday night, the Axios website reported that Trump is poised to confirm his cut of all funding to the World Health Organization - in the middle of a pandemic. And has been taking cues from Fox News.
+
+More to come.
+
+block-time updated-timeUpdated at 12.51pm BST
+
+9129 2020-05-18T11:43:44Z false false 2020-05-19T00:19:10Z false US theguardian.com https://gu.com/p/dq2kx false true            https://media.guim.co.uk/6e5d464ec1ba23ffaa6d1329d6e6295269e8e3e6/0_231_5103_3062/500.jpg false en true Donald Trump said he's been taking hydroxychloroquine, an antimalarial drug that he has repeatedly touted as a cure for coronavirus, despite a lack of evidence. The president said he has been taking the drug for a week and a half, as a prophylactic measure, going against the guidance of the FDA. The coronavirus death toll passed 90,000 in the US, even as states begin easing distancing measures. All but one state are looking to loosen restrictions, but only 18 have shown a downward trend in cases. Lindsay Graham, the Republican leader of the Senate judiciary committee, announced a debate and vote on whether to subpoena documents and testimony related to what Donald Trump has been referring to as "Obamagate". Republicans are seeking testimony from Obama-era officials on the FBI investigation into Russian election interference. Trump said the secretary of state, Mike Pompeo, asked him to fire the state department inspector general, which will intensify concerns that Pompeo politically retaliated against Steve Linick for investigations into the state department leader. Linick had been investigating Pompeo's controversial decision to approve Saudi arms sales last year, according to the Democratic chair of the House foreign affairs committee. Reports had already emerged that Linick was investigating the secretary of state for allegedly making a department staffer run personal errands for him and his wife. Moderna's coronavirus vaccine showed promising results in its first human safety tests. The results sparked hope that the vaccine could be more widely distributed in the next several months, as several companies race to develop an effective vaccine. The attorney general, William Barr, said he does not expect the investigation of the Russia inquiry to lead to a criminal investigation of Barack Obama or Joe Biden. Barr's comment comes as the president continues to push his baseless claim that the former president and former vice-president broke the law in connection to the Russia investigation. Trump reportedly declined an invitation to address the World Health Organization, which he has criticized for its handling of the pandemic. Republican senator Lindsay Graham announced that the judiciary committee would debate and vote on whether to subpoena documents and testimony from Obama-era officials, related to the FBI's investigation into Russian election interference. Graham would subpoena testimony from witnesses including James Comey, Andrew McCabe, James Clapper, John Brennan, and Sally Yates. The Senate judiciary committee would vote on authorizing the subpoenas on 4 June. The move is the latest in efforts by Trump and his allies to double down on the theory that Barack Obama and his administration concocted a hoax allegation that Trump colluded with Russia to win the 2016 election. Trump has been referring to the conspiracy theory as "Obamagate". A judge in rural Oregon tossed out the state's coronavirus restrictions, saying that the governor, Kate Brown, did not seek the legislature's approval to extend the stay-at-home order. Brown is now seeking an emergency review of the decision by the state's supreme court. "The science behind these executive orders hasn't changed one bit. Ongoing physical distancing, staying home as much as possible and wearing face coverings will save lives across Oregon," Brown, a Democrat, said. But the judge's decision today, in response to a lawsuit by 10 churches who argued that the state's social distancing protocols were unconstitutional, said, "the governor's orders are not required for public safety when plaintiffs can continue to utilize social distancing and safety protocols at larger gatherings involving spiritual worship," he wrote. Judges have struck down restrictions by other Democratic governors, in Wisconsin and North Carolina. Earlier this month, Brown extended the state's social distancing mandate till 6 July, but most Oregon counties have already received the state's approval to loosen restrictions. The coronavirus death told in the US passed 90,000 Monday, and the number of cases climbed above 1.5m, according to the Johns Hopkins University tracker. The milestone came as more states seek to loosen restrictions and the president tweeted, "REOPEN OUR COUNTRY!" The president has questioned the death toll, suggesting that the numbers have been inflated. But researchers from the CDC who analyzed deaths in New York over the past two months concluded that the actual death toll is likely higher than the reported number. All the states, except Connecticut, have relaxed stay-at-home orders, to varying degrees. But only 18 states showed a downward trend of new cases according to data from Johns Hopkins. The Guardian's Sam Levine reports: Donald Trump's campaign and national Republicans are pumping millions of dollars into efforts to restrict voting and aggressively fight Democratic efforts to make it easier to cast a ballot during the Covid-19 pandemic. The Republican National Committee has allocated $20m so far to oppose Democratic lawsuits across the country seeking to expand voting. Republicans are also seeking to recruit up to 50,000 people in 15 key states to serve as poll watchers and challenge the registration of voters they believe are ineligible, according to the New York Times. The 2020 election will be the first time in nearly three decades that national Republicans will be involved in such a program. After the RNC was sued over intimidating minority voters in New Jersey in the early 1980s, they agreed to a federal court order not to engage in "ballot security" efforts. The order expired in 2018. Vivian Ho reports: Haircuts, in-person retail shopping, sporting events and religious services could be a reality again in some California counties in just the next few weeks, the state's governor, Gavin Newsom, said Monday. Newsom provided an optimistic outlook for the state in his daily briefing, where he modified the criteria that each of California's 58 counties must meet to reopen and join the state in phase two of coronavirus containment. "We are looking forward in the next few weeks to a number of significant milestones," he said. "We expect if we hold the rate of transmissions, we hold the positivity rate down and continue to do justice to the number of hospitalizations, that we will be making announcements statewide." Newsom had already allowed for local variance to phase two of the stay-at-home order - California, as a large state with diverse needs, had been hit by the virus unevenly, with some rural counties experiencing low rates of infection and others like Los Angeles county experiencing more than half the deaths in the entire state. While statewide, all retailers were allowed to reopen for curbside pickup, counties could also apply for looser restrictions, such as the go-ahead to reopen some offices, schools and dine-in restaurants. Those counties had to meet criteria such as no deaths in 14 days. Now, under the modified criteria announced Monday, in which counties have to show a rate of 8% positive tests over seven days and a hospitalization rate below 5%, Newsom believes that 53 of the state's 58 counties could move deeper into phase two if their public health officials so desired. He reiterated again that the decision was up to each individual county. "Just because we are creating the capacity and the availability to move into phase two doesn't mean every county is ready," he said. "LA county, as an example, I imagine, will be cautious in that respect." In California, there have been a total of 78,839 positive cases and 3,261 deaths. During the event with restaurant executives, Trump also addressed the investigation into the secretary of state, Mike Pompeo. "Here's a man that is supposed to be negotiating war and peace with major, major countries with weaponry like the world has never seen before," Trump told reporters. "And the Democrats and the fake news media, they are interested in a man who is walking their dog." Trump fired the state department's inspector general, Steve Linick, on Friday. According to NBC, Linick has been investigating whether Pompeo and his wide made a staffer walk their dog, pick up dry cleaning and make them dinner reservations, as well as the circumstances of Pompeo's sale of US weapons to Saudi Araba despite a congressional ban. "I would rather have [Pompeo] on the phone with some world leader than have him wash dishes because maybe his wife isn't there or his kids aren't," Trump said. Of course, a third option would have been for the Pompeo family to hire dogwalkers and other helpers, rather than relying on state department employees to do their personal errands. Trump's use of hydroxychloroquine doesn't appear to fit within the FDA's emergency use authorization of the drug as a treatment for coronavirus. The president said he asked the White House doctor if he could take the antimalarial drug. "He said, well, if you'd like it." The emergency use authorization is very specific. It "allows chloroquine phosphate and hydroxychloroquine sulfate donated to the Strategic National Stockpile (SNS) and distributed to states to be used by licensed healthcare providers to treat adults and teens hospitalized with Covid-19 who weigh more than 50 kg (110 pounds)", according to the FDA. It does not authorize the use of the drug as a preventative treatment. Even Fox News was taken aback by the president's announcement that he's taking hydroxychloroquine. Fact check: Trump on hydroxychloroquine Trump acknowledged research finding that US veterans treated with hydroxychloroquine didn't seem to fare better than those who weren't given the drug. The preliminary study found that those treated with hydroxychloroquine had a higher risk of death than those who were not. The pre-print of the study, which has been published online without peer review, comes with many caveats. None of those caveats include Trump's analysis. Those behind the research "aren't big Trump fans," the president said as an explanation for why he's taking the unproven drug. The research was a "a very unscientific report," Trump said. The research was conducted by the VA and academic institutions including the University of Virginia School of Medicine. It analyzed the cases of 368 male coronavirus patients nationwide, 97 receiving hydroxychloroquine, 113 receiving hydroxychloroquine in combination with the antibiotic azithromycin, and 158 not receiving any hydroxychloroquine. This was not a randomized clinical trial, the gold standard of drug testing, which would randomly assign hydroxychloroquine treatment to some patients and not to others. Instead, researchers looked back on cases - and weren't able to account for why doctors chose to treat some patients with the antimalarial drug and not others. It could be that those treated with hydroxychloroquine had a higher chance of death because doctors chose to give the most severely ill patients the unproven drug. Asked about the potential harsh side effects of taking the drug, Trump told reporters, "All I can tell you is, so far I seem to be OK." Hydroxychloroquine is considered relatively safe for people without an underlying illness, but it's unclear if it is safe for severely sick Covid-19 patients, who may have incurred organ damage due to the virus. The drug can have serious side effects, including serious heart rhythm problems. So far, the evidence that it's a cure for coronavirus is anecdotal and mixed. An initial French study that appeared to have launched the Trump administration's obsession with the drug has since been discredited. The early results of trials and studies that have tricked in so far have not provided compelling evidence that hydroxychloriquine is a "miracle" drug, as Trump has claimed before. The surge in demand for the unproven hydroxychloroquine also risks shortages of the drug for those who need it most. It is used to help patients manage the chronic autoimmune disease lupus, but some are already complaining the drug is harder to come by. If Trump is taking hydroxychloroquine, he is going against the advice of his own administration. The FDA has warned against using hydroxychloroquine or a related compound, chloroquine, for treating or preventing Covid-19 without medical supervision in a hospital, or as part of a clinical trial. "While clinical trials are ongoing to determine the safety and effectiveness of these drugs for Covid-19, there are known side effects of these medications that should be considered," the FDA commissioner, Stephen M Hahn, said in a statement issued in late April. "The FDA will continue to monitor and investigate these potential risks and will communicate publicly when more information is available." Here's the clip of Trump saying he's been taking hydroxychloroquine. "I get a lot of positive calls about it," Trump said of the antimalarial drug. So far, the scientific evidence that the drug works as a treatment has been thin. It has not been widely investigated as a prophylactic measure. Extraordinary news emerging from the White House - the president has mentioned that he has been taking hydroxychloroquine. This is the dubious treatment for coronavirus that Trump had fiercely touted in the past but which was found to have a very mixed effect on patients. No studies so far have shown that it had a good effect on patients and regulators have advised it not be taken outside of a hospital or clinical trial setting. Trump said earlier at the White House that he was taking it, it is understood as a prophylactic. The US Food and Drug Administration cautions against use of hydroxychloroquine or chloroquine for Covid-19 outside of a hospital setting or a clinical trial due to risk of heart rhythm problems. Before recent results from larger trials showed the anti-viral medicine was not good for Covid and could be harmful, Trump was promoting it, including at White House briefings, as a possible miracle cure for coronavirus. That's it from me today. Our west coast team will take over the blog for the next few hours. Here's where the day stands so far: Trump said the secretary of state, Mike Pompeo, asked him to fire the state department inspector general, which will intensify concerns that Pompeo politically retaliated against Steve Linick for investigations into the state department leader. Linick had been investigating Pompeo's controversial decision to approve Saudi arms sales last year, according to the Democratic chair of the House foreign affairs committee. Reports had already emerged that Linick was investigating the secretary of state for allegedly making a department staffer run personal errands for him and his wife. Moderna's coroanvirus vaccine showed promising results in its first human safety tests. The results sparked hope that the vaccine could be more widely distributed in the next several months, as several companies race to develop an effective vaccine. The attorney general, William Barr, said he does not expect the investigation of the Russia inquiry to lead to a criminal investigation of Barack Obama or Joe Biden. Barr's comment comes as the president continues to push his baseless claim that the former president and former vice-president broke the law in connection to the Russia investigation. Trump reportedly declined an invitation to address the World Health Organization, which he has criticized for its handling of the pandemic. The blog will have more coming up, so stay tuned. Trump said secretary of state Mike Pompeo had asked him to fire state department inspector general Steve Linick, who was removed from his role on Friday. "I don't know anything about him, other than the State Department and Mike in particular... weren't happy with the job he's doing or something," Trump told reports of Linick's ouster. Pompeo was reportedly under investigation for approving Saudi arms sales last year without congressional support and for allegedly making a department staffer run personal errands for him and his wife. But Trump said he was unconcerned that Pompeo may have sought Linick's removal because of the investigations, insisting he has the right to remove any inspector general and expressing doubt about the credibility of oversight officials who were appointed by Barack Obama. Donald Trump declined an invitation to address a virtual gathering of the World Health Organization (WHO) that began earlier today, while his Beijing counterpart, Xi Jinping, China's president, delivered a virtual speech in which he pledged $2 billion in coronavirus aid to the worldwide response, Axios reports. Other world leaders who addressed today's gathering included Germany's Angela Merkel and France's Emmanuel Macron. The WHO extended an invitation earlier this month for Trump to speak at Monday's virtual gathering of the World Health Assembly, the WHO's parent body, Axios said, citing two unnamed sources familiar with the situation. Xi accepted while Trump declined and instead delivered a message of criticism. "The WHO wanted to bring these two leaders together, the biggest economies in the world, at a time when they are being cold to each other, and try to create some sense of solidarity," a source said. The WHO aims to establish an independent and impartial inquiry into the source and handling of the coronavirus outbreak, once the pandemic is brought under control, at the virtual meeting of its governing body, the World Health Authority. Trump abruptly announced in April that he was freezing US payments to the World Health Organization over its handling of the coronavirus pandemic. He said at the time that funding would be on hold for 60 to 90 days pending a review of the WHO's warnings about the coronavirus and China. He accused the global body of "severely mismanaging and covering up" the threat, even though it declared a public health emergency on 30 January - after which he continued to hold rallies, play golf and compare the coronavirus to the common flu. Karl Rove, a former senior adviser to George W Bush, lashed out against Barack Obama after the former president implicitly criticized Trump in a virtual commencement address. "It is so unseemly for a former president to take the virtual commencement ceremony for a series of historically black colleges and universities and turn it into a political drive-by shooting," Rove said. Delivering an address to HBCU graduates this weekend, Obama said, "More than anything, this pandemic has fully, finally torn back the curtain on the idea that so many of the folks in charge know what they're doing. A lot them aren't even pretending to be in charge." But Rove's comment immediately sparked backlash from critics, who were quick to point to some of the most controversial aspects of the Republican strategist's record. Others noted that Obama's comments pale in comparison to Trump's claims about his predecessor. Secretary of state Mike Pompeo claimed it was "not possible" the state department inspector general's firing was an act of political retaliation because he didn't know he was being investigated. "It is not possible that this decision, or my recommendation rather, to the president rather, was based on any effort to retaliate for any investigation that was going on, or is currently going on," Pompeo told the Washington Post. "Because I simply don't know. I'm not briefed on it. I usually see these investigations in final draft form 24 hours, 48 hours before the IG is prepared to release them. So it's simply not possible for this to be an act of retaliation. End of story." However, according to Politico, state department officials were recently briefed on the conclusions of the inspector general's investigation into Pompeo's decision to approve arms sales to Saudi Arabia last year, and the secretary refused to sit for an interview. For weeks, Joe Biden has been on the receiving end of unsolicited advice urging the homebound presidential candidate to get out of his basement. On Monday, Biden moved out of the basement to a sunny room upstairs with views of his lush backyard in full bloom to address the AAPI Victory Fund virtual summit. The shot was well-framed and the connection was clear - marked improvements from a recent virtual rally that was riddled with technical glitches. But as he began his remarks, a gaggle of Canadian geese that have taken up residence on his property began honking. Biden warned that this might happen and did not pause when their honking grew louder. There were some technical difficulties; though on this occasion, they were not Biden's fault. The former vice president was not feted with introductory remarks after the speaker, Dilawar Syed, was unable to connect properly. And at one point, as Biden spoke, a cell phone rang. But if he was irritated, Biden didn't show it. He assailed Trump for his administration's handling of the virus that he described as a series of "denials, delays and distraction, many of which were nakedly xenophobic." Trump has sought to make China a theme of the 2020 presidential campaign by hammering Biden in a series of dark attack ads tying the former vice president to Beijing. Biden has responded in kind, in an escalating war of words that has alarmed some Asian Americans who say the rhetoric from both campaigns could further inflame anti-Asian xenophobia. In his remarks, Biden spoke directly to the Asian American community, which has faced a wave of attacks and even violence in the wake of the coronavirus pandemic, which was first identified in Wuhan, China. Biden accused Trump of stoking racial grievance and said the Asian American community deserved better than a president who "never, ever misses an opportunity to stoke innuendo, to fan the flames of hate." "This is unconscionable what he's doing and it strikes at the very heart of this country," Biden said, adding that Trump's rhetoric was "especially despicable" given the sacrifices many Asian Americans are making as frontline and essential workers in the fight against the coronavirus. It should be noted that Republican senator Chuck Grassley's letter to Trump demanding an explanation for the removal of state department inspector general Steve Linick does not outline any consequences if the president does not comply. Trump has already ignored a similar letter from senators demanding an explanation for why intelligence community inspector general Michael Atkinson was ousted from his role. In response to Grassley's letter, Democratic senator Chris Murphy noted he has drafted legislation to guarantee inspectors general a seven-year term in office. The bill stipulates the oversight officials would only be able to be removed early for "permanent incapacity, inefficiency, neglect of duty, malfeasance, or conviction of a felony or conduct involving moral turpitude." "We simply cannot allow President Trump to weaponize independent oversight positions in his administration to reward his friends, punish his political enemies, and cover up wrongdoing," Murphy said last month. The Republican chair of the Senate finance committee has sent Trump a letter demanding an explanation for his removal of the state department inspector general. In the letter, senator Chuck Grassley noted lawmakers from both parties have similarly expressed concern about the recent removal of intelligence community inspector general Michael Atkinson. The Iowa Republican asked Trump to provide a written explanation for Steve Linick's removal by June 1 and respond to lawmakers' letter about Atkinson "as soon as possible." "As mentioned in previous letters, Congress's intent is clear that an expression of lost confidence, without further explanation, is not sufficient to fulfill the requirements of the IG Reform Act," Grassley wrote. "IGs are intended to be equal opportunity investigators and are designed to combat waste, fraud, abuse, and misconduct without regard to political affiliation. They are the ultimate swamp drainers," Grassley continued. "Removal of IGs without explanation could create a chilling effect in the oversight community, and risks decreasing the quantity, quality, fidelity, and veracity of their reports." Trump appeared "highly focused" on Barack Obama during this past weekend at Camp David, according to CNN. CNN reports: Trump headed into the weekend appearing convinced his predecessor committed a crime worthy of investigation -- despite being unable to name the crime or provide any evidence for it. By Sunday, he emerged prepared to wage wholesale political war with the last person who held his office.... As he huddled in the mountainside retreat's rustic cabins with a roster of Republican lawmakers -- many of whom forged national profiles defending Trump during his impeachment proceedings -- Trump discussed ways to advance the baseless conspiracy about the former president, the person said. Attorney general William Barr said today that he did not expect the investigation into the handling of the Russia probe to result in a criminal investigation of Obama or Biden. Despite that comment from a senior member of his own administration, Trump seems unwilling to abandon the #Obamagate conspiracy theory, which former CIA analyst Ned Price described as "a hashtag in search of a scandal." Health and human services secretary Alex Azar lashed out against Peter Navarro this morning, after the White House trade adviser critcized the Centers for Disease Control and Prevention for its handling of the pandemic. Azar said Navarro's comments on "Meet the Press" yesterday were "inaccurate and inappropriate." Azar acknowledged CDC's early error in developing a coronavirus test, but he argued that mistake had not signficantly hampered the US response to the virus. In contrast, Navarro said yesterday that the CDC had "let the country down." "Early on in this crisis, the CDC, which really had the most trusted brand around the world in this space -- really let the country down with the testing," Navarro said. "Not only did they keep the testing within the bureaucracy they had a bad test and that set us back." Navarro's comments come as tensions between the White House and the CDC are reportedly escalating. CNN reports: In particular, Dr. Deborah Birx, coordinator for the President's coronavirus task force, has become increasingly critical of the CDC, making clear in recent meetings that she is more than frustrated with the agency, according to two senior administration officials. Specifically, Birx believes the way the CDC gathers data on the coronavirus is antiquated, causing inaccurate and delayed numbers on both virus cases and deaths. Birx has expressed her agitation during recent task force meetings, where at least one conversation between her and CDC Director Robert Redfield has grown heated, according to a source close to the task force. Birx and Redfield have known each other for decades, due to their work on HIV research together. And while Birx defended Redfield to their peers earlier this year over the CDC's faulty test kits, her tone toward him has shifted dramatically in recent weeks, according to multiple officials and a source close to the task force. The Guardian's Kenya Evelyn recaps New York governor Andrew Cuomo's daily briefing: New Yorkers received more than $9bin in unemployment benefits, Cuomo announced at his latest briefing on the state's response to coronavirus. Daily cases continue their downward trend, as the governor reported 106 deaths Sunday - the lowest total in several weeks. But Cuomo noted that $9.2bn in unemployment benefits have been paid out to more than two million New Yorkers, a sobering fact underscoring the virus' lingering economic effect. State officials acknowledged some residents have yet to be paid, but Cuomo argued the challenge is stamping out fraud to protect taxpayer money. "Suzy Smith is really a computer terminal in some other country," he quipped of potential fraudulent filings, before noting he'd likely face backlash for the remark. Cuomo continued to push back at questions regarding the state's early response to the coronavirus outbreak in nursing homes, contending the facilities are a top priority. He announced 35,000 tests had been reserved just for nursing homes. New York state is also requiring facility personnel to get tested twice a week, as the governor said the state would have to "ramp up from about 25,000 tests to 90,000 tests a day". The governor had been criticized for previously allowing patients back to nursing homes after they tested positive for Covid-19 after more than 5,000 residents died since 1 March. That policy was reversed 10 May. In the presser, the governor also announced that western New York, which includes Buffalo, will begin phase 1 of reopening this week. State officials were able to identify more than 525 contact tracers to aid in the effort. Still, Cuomo cautioned businesses and state leaders to follow the science. "This is not a subject that is a political subject, or where political opinions really matter," he said. "I don't even care about your personal opinion, this is about facts and science and data." Cuomo added that he had been "encouraging major sports team to plan reopening without fans, but the games can be televised," telling reporters he'd want to watch the Buffalo Bills. That's the only NFL team whose reopening Cuomo would be able to affect, however. Both the New York Giants and Jets play at MetLife Stadium, located in New Jersey. Here's where the day stands so far: Moderna's coroanvirus vaccine showed promising results in its first human safety tests. The results sparked hope that the vaccine could be more widely distributed in the next several months, as several companies race to develop an effective vaccine. Attorney general William Barr said he does not expect the investigation of the Russia inquiry to lead to a criminal investigation of Barack Obama or Joe Biden. Barr's comment comes as the president continues to push his baseless claim that the former president and former vice-president broke the law in connection to the Russia investigation. The state department inspector general had been investigating Mike Pompeo's controversial decision to approve Saudi arms sales last year, according to the Democratic chair of the House foreign affairs committee. Reports had already emerged that Steve Linick, who was dismissed on Friday, was investigating the secretary of state for allegedly making a department staffer run personal errands for him and his wife. The blog will have more coming up, so stay tuned. Politico has more details on the state department inspector general's reported investigation into secretary of state Mike Pompeo's controversial decision to approve arms sales to Saudi Arabia last year. Politico reports: A congressional aide said State Department officials were recently briefed about [Steve] Linick's conclusions in his investigation of the Saudi arms sales, and that Pompeo refused to sit for an interview with the inspector general's office. State Department officials did not immediately respond to a request for comment. News of the investigation comes after reports indicated Pompeo, who pushed for Linick's ouster, was also being investigated for making a department staffer run personal errands for him and his wife. The Trump campaign has launched an "investigative website" to highlight some of Joe Biden's verbal slips on the campaign trail. The website is entitled "Truth Over Facts," a reference to when Biden accidentally said during the Iowa State Fair, "We choose truth over facts." (He likely meant to say, "We choose truth over lies.") "The American people deserve to know the truth behind Joe Biden's delirious and nonsensical claims on the campaign trail," Tim Murtaugh, the Trump campaign's communications director, said in a statement. "When he's mangling the text of the Declaration of Independence or calling someone a 'lying, dog-faced pony soldier,' is he really speaking a language that only he and a select group of others understand?" The president's reelection campaign has launched a series of attacks against Biden in recent weeks, as Trump struggles to find a positive message to voters with the pandemic wreaking havoc on Americans' health and finances. Secretary of state Mike Pompeo claimed the fired inspector general was undermining the work of the department, although he does not appear to have offered any evidence to support that allegation. Pompeo said state department Steve Linick, who was dismissed on Friday night, was "trying to undermine what it was that we were trying to do." The cabinet memeber's comments come as the Democratic chair of the House foreign affairs committee has said he believed Linick was fired for investigating Pompeo's approval of arms sales to Saudi Arabia last year, despite congressional opposition. The White House has denied any claim of political retaliation against Linick. Attorney general William Barr said he did not expect the investigation of the handling of the Russian probe to lead to a criminal investigation of Barack Obama or Joe Biden. Barr said of federal prosecutor John Durham's investigation, "I don't expect Mr. Durham's work will lead to a criminal investigation of either man." Barr's comments come as the presient has pushed the baseless claim that the former president and former vice president broke the law in connection to the Russia investigation. Trump has promoted this theory with the hashtag #Obamagate on Twitter, which former CIA analyst Ned Price has called "a hashtag in search of a scandal." The Democratic chair of the House foreign affairs committee said the state department inspector general may have been fired because of his investigation into Mike Pompeo approving Saudi arms sales. "I have learned that there may be another reason for [Steve] Linick's firing," congressman Eliot Engel told the Washington Post. "His office was investigating - at my request - Trump's phony declaration of an emergency so he could send weapons to Saudi Arabia." Engel added, "We don't have the full picture yet, but it's troubling that Secretary Pompeo wanted Mr. Linick pushed out before this work could be completed." Engel said he wanted a full accounting of what Linick uncovered as he investigated the secretary of state's decision to approve the arms sales despite congressional opposition. The state department inspector general was reportedly also investigating secretary of state Mike Pompeo for his decision to approve Saudi arms sales last year. According to NBC News, state department inspector general Steve Linick was looking into Pompeo's decision to approve billions of dollars of arms sales to Saudi Arabia last year, despite congressional opposition. Linick was fired Friday night, making him one of several inspector generals to be dismissed recently. Reports had already emerged that Linick was investigating Pompeo for allegedly using a state department staffer to run errands for him and his wife. Linick's dismissal has raised concerns about potential political retaliation for the investigation, considering Pompeo reportedly urged Trump to oust the inspector general. Trump lashed out against Republican senator Mitt Romney over Twitter, mocking the former presidential candidate for losing to Barack Obama. "Loser!" Trump wrote in the tweet, which included a video recapping Romney's 2012 loss to Obama, who has also attracted the president's ire this morning. Trump's tweet attacking Romney comes two days after the Utah Republican sent his own viral tweet that described the recent firings of multiple inspectors general as a "threat to accountable democracy and a fissure in the constitutional balance of power." The AFL-CIO, the largest US federation of union, has filed a court petition demanding an emergency temporary standard to protect workers from coronavirus. The president has been applauding states that have started reopening their economies, even though those states have not met federal guidelines on how to reopen safely. The hasty reopenings have sparked concerns that workers could be exposed to the virus, putting them at a heightened risk of becoming severely ill. "It's truly a sad day in America when working people must sue the organization tasked with protecting our health and safety," AFL-CIO president Richard Trumka said in a statement. "But we've been left no choice. Millions are infected and nearly 90,000 have died, so it's beyond urgent that action is taken to protect workers who risk our lives daily to respond to this public health emergency. If the Trump administration refuses to act, we must compel them to." Republicans have been pushing to include liability protections for employers in the next coronavirus relief package, but Democrats have expressed concern that those protections could leave workers' health at risk. Interviews with longtime Trump supporters in Pennsylvania indicate the extraordinary durability of backing for the president among his base, despite widespread criticism of his handling of the coronavirus crisis. Few people understand the terrible cost of the coronavirus like Lee Snover, a Republican party chair in one of the key swing counties that could determine whether Donald Trump is reelected as president in November. Snover, who helped deliver an upset victory for Trump in 2016 in Northampton county, Pennsylvania, lost her father to the virus this spring. Her husband fell critically ill, too, spending 17 days in an intensive care unit before recovering. Her mother, a cancer survivor, was also in intensive care for eight days before emerging. "It spread through my entire family," Snover said. Trump stands accused of driving up the coronavirus death toll by downplaying the public health threat and urging the country to "reopen" too quickly. But Snover does not see the president as having failed her family. "I don't think people give him enough credit," she said. "If you think about what a businessman he was, and how much he loved that booming economy, do you know how hard it was for him to shut the country down? That was hard. So I give him credit for that." Barack Obama took some thinly veiled swipes at Donald Trump this weekend, as the former president delivered two virtual commencement addresses for the country's graduates. "More than anything, this pandemic has fully, finally torn back the curtain on the idea that so many of the folks in charge know what they're doing," Obama said in his address to graduates of historically black colleges and universities. "A lot of them aren't even pretending to be in charge." Trump responded by continuing his Twitter attacks against his predecessor, retweeting an ally who claimed Obama was "the most corrupt president in US history." The Guardian's David Smith reported on Trump's fixation with Obama over the weekend. Matthew Miller, an Obama administration alum, told Smith, "There's some racism there but, most of all, it's driven by the fact that Obama has the thing that Trump has always craved but never achieved, and that's respect." The Guardian's Kenya Evelyn reports on the American Civil Liberties Union's opposition to "immunity passports": The US's largest civil rights group released an analysis in opposition of providing Americans with documentation showing they've recovered from the coronavirus. Several countries have weighed using immunity passports to jumpstart tourism, getting citizens back to work and society closer to normal. Experts and business leaders in the US have also floated the idea. But the group contends that separating Americans into "covid-positive" and "covid-negative" classes would disproportionately affect the nation's most vulnerable people. "We at the ACLU have serious concerns about the adoption of any such proposal, because of its potential to harm public health," the group wrote, contending that service sector workers, communities of color, immigrants and the poor would be most impacted by a system in which only contagious workers are prevented from going to work. The ACLU's Esha Bhandari and ReNika Moore, who compiled the analysis, even argue the two-tier system incentivizes income-vulnerable individuals to purposefully become ill with the virus. "These incentives will be especially hard to counteract if immune workers are given preferential treatment in hiring or higher wages," they wrote. As the ACLU also notes, the science does not yet support the use of immunity passports or certificates. The accuracy of tests for coronavirus antibodies, and whether former patients can become reinfected with the virus, is highly contested. "Given the lack of scientific support for reliable immunity determinations, no significant policy decisions should currently be made on the basis of presumed immunity," the ACLU argued. The ACLU added the passports would threaten individual rights to privacy "by creating a new surveillance infrastructure to collect health data." The Trump administration has pushed for states to reopen, even as the US experiences an uptick in the number of confirmed cases and deaths where states have relaxed stay-at-home restrictions. This is Joan Greve, taking over the blog from Martin Pengelly. The biotechnology company Moderna said it has seen promising results in its first human safety tests for a potential coronavirus vaccine. The Washington Post reports: The company reported that in eight patients who had been followed for a month and a half, the vaccine at low and medium doses triggered blood levels of virus-fighting antibodies that were similar or greater than those found in patients who recovered. That would suggest, but doesn't prove, that it triggers some level of immunity. The antibody-rich blood plasma donated by patients who have recovered is separately being tested to determine whether it is an effective therapy or preventive measure for covid-19.... The data released Monday by Moderna is encouraging, but represents only a first step in a long process to bring a vaccine to market. It comes from an interim report on dozens of patients followed over weeks, whereas vaccine studies require broad testing in thousands of patients followed over many months or years. The news comes days after Moderna director Moncef Slaoui stepped down to take a role at the White House to help speed up vaccine development. Slaoui's move has sparked conflict of interest concerns, considering he still owns millions of dollars worth of company stock. Fed chairman Jerome Powell said in his "60 Minutes" interview, which aired yesterday, that the US economy may not "fully recover" until there's a coronavirus vaccine. "Assuming there's not a second wave of the coronavirus, I think you'll see the economy recover steadily through the second half of this year," Powell said. He added, "For the economy to fully recover, people will have to be fully confident. And that may have to await the arrival of a vaccine." It was quite a weekend for the Trump boys, Donald Jr and Eric, as the campaign attack dogs kept on taking the battle to the Democrats in ways even their father might not consider, if only due to some dim awareness of the last vestiges of dignity due the Oval Office. Donald Jr first. On Saturday, he chose to post to Instagram a meme which baselessly insinuated that Joe Biden, his father's probable opponent in the election in November, was a paedophile. Trump Jr said he had been "joking around", but also pursued the insinuation or even outright accusation further, accusing the former vice-president of "unwanted touching" and including in a tweet pictures taken from congressional swearing-in ceremonies and presented in misleading fashion. In a statement, Biden spokesman Andrew Bates said: "No repulsive, manipulative tactic will change the subject from how almost 90,000 Americans have paid for Donald Trump's coronavirus negligence with their lives and how the booming economy he inherited from the Obama-Biden Administration is now suffering from depression-level job losses." It's worth noting that earlier this year Trump Jr, 42, told Axios his father sometimes tells him to tone down his attacks on Twitter. His response: "I learned it by watching you." Now, Eric. The president's second son spoke to Fox News host Jeanine Pirro on Saturday night, and accused Democrats of milking the coronavirus outbreak for political and, eventually, electoral gain. "You watch," he said, "they'll milk it every single day between now and 3 November [election day]. And guess what, after 3 November, coronavirus will magically, all of a sudden, go away and disappear and everybody will be able to reopen." Trump, 36, also said Democrats "think they're taking away Donald Trump's greatest tool, which is being able to go into an arena and fill it with 50,000 people every single time". Biden's campaign responded again, communications director Kate Bedingfield saying in a statement: "We're in the middle of the biggest public health emergency in a century, with almost 90,000 Americans dead, 1.5 million infected, and 36 million workers newly jobless. "So for Eric Trump to claim that the coronavirus is a political hoax that will 'magically' disappear is absolutely stunning and unbelievably reckless." It's worth remembering here that in the far off, innocent days of early March, Donald Trump Jr told Fox News Democrats were trying "to take a pandemic and seemingly hope that it comes here and kills millions of people so that they could end Donald Trump's streak of winning", which he claimed indicated "a new level of sickness". Mike Pence, the vice-president, defended Trump Jr's claim. A furore over antisemitic and Nazi-sympathizing comments made by a Republican state representative in Alaska, who likened Covid-19 safety measures at the state capitol to the treatment of Jewish people in Nazi Germany, boiled up and over at the weekend. Alaska's legislature is due to return on Monday and representatives were told by email they would be asked to undergo screening as they entered the building. Those who are screened will be given a sticker to show completion. Those who refuse will not be given a sticker. In an emailed reply to the new measures that was obtained by the Alaska Landmine, Ben Carpenter, a Republican wrote: "If my sticker falls off, do I get a new one or do I get public shaming too? Are the stickers available as a yellow Star of David?" The reply drew instant rebuke from colleagues in the House. "This is disgusting. Keep your Holocaust jokes to yourself," replied Grier Hopkins, a Democrat. Carpenter initially declined to apologise and in an interview with the Anchorage Daily News made remarks that appeared to show Nazi sympathies. "Can you or I - can we even say it is totally out of the realm of possibility that Covid-19 patients will be rounded up and taken somewhere?" he said. "People want to say Hitler was a white supremacist. No. He was fearful of the Jewish nation, and that drove him into some unfathomable atrocities." On Sunday, facing a national backlash, Carpenter apologized in an op-ed for a local paper. "I take my responsibility as the voice of the people who elected me very seriously," he wrote. "I also hold the Jewish people in the highest regard. "I do not take myself so seriously that I cannot recognize that the words I wrote, and those attributed to me, do not adequately reflect the esteem I hold for either group of people. I hope to correct that error now." The World Health Organization is holding its first global assembly since the outbreak of the coronavirus pandemic. For the Guardian, Lily Kuo reports from Beijing: Beijing is expected to face new levels of pressure ... as dozens of nations push for an independent investigation into the coronavirus outbreak and the US mounts a campaign over Taiwan's status. More than 120 countries have backed a draft resolution pushed by the European Union and Australia calling for an investigation into the origins of Covid-19, while a US-led coalition has been aggressively lobbying countries to support Taiwan's bid to attend as an observer. ...a report in the official news agency Xinhua on Sunday said "the US and other countries" were "determined to discuss Taiwan-related proposals for only one purpose: to politicise health issues and achieve their own interests at the expense of kidnapping the the World Health Assembly and hurting global cooperation". ...the Covid-19 pandemic, which first emerged in Wuhan last December, has placed China under more scrutiny as critics call for an investigation into how the virus was able to spread across the world. It has now infected more than 4.7 million people and killed 315,000. The resolution on Covid-19 will be put forward on Tuesday if it gains backing from two-thirds of the 194 members of the assembly. Here's the full report: In the US, Axios reported on Trump's position on WHO funding on Sunday night: President Trump is leaning toward preserving his total funding cut ... after being on the brink of announcing he'd restore partial funding to the global health agency, according to three sources familiar with the situation. A fourth source, a senior administration official, cautioned that the decision-making was fluid and was still subject to change. And today, Reuters reports the following remarks from WHO director-general Tedros Adhanom Ghebreyesus today: "We all have lessons to learn from the pandemic. Every country and every organisation must examine its response and learn from its experience. WHO is committed to transparency, accountability and continuous improvement." Andrew Pulver, film editor for the Guardian website in the UK, reports on what one of the makers of the Matrix thought of Elon Musk and Ivanka Trump twittering on about "taking the red pill": Film-maker Lilly Wachowski has responded to Elon Musk and Ivanka Trump after the pair bantered on social media. After Musk tweeted "Take the red pill" - referring to a key scene in The Matrix, which subsequently gave rise to the phrase "redpilling" as an alt-right, misogynist meme, along with a red rose emoji normally associated with the Democratic Socialists of America, the party to which Alexandria Ocasio-Cortez and Rashida Tlaib belong - Trump replied: "Taken!" Wachowski then pithily responded, "Fuck both of you", before following up with a tweet supporting the Brave Space Alliance, which describes itself as "the first Black and trans led LGBTQIA center located on the South Side of Chicago". As I was past it in film terms even when The Matrix came out - as this piece illustrates handsomely - I'll leave the rest of this to Andrew. Full report is here: Speaking of reopening, or not, here's a picture from Virginia Beach this weekend: ...and here's some reporting from the Associated Press: Warm weather drew crowds to the Virginia Beach oceanfront even though the beach is considered closed under the state's stay-at-home directives. Families ordered snow cones, bought hermit crabs and cramped gift shops while bikers pedaled on the boardwalk on Saturday, the Virginian-Pilot reported. Tents, umbrellas and beach blankets were set up near the water. Under Governor Ralph Northam's first phase of a gradual reopening plan, retail stores are reopening with limited capacity, but indoor gyms remain closed, beaches are still off-limits and restaurants cannot provide indoor dine-in service. No restrictions have been lifted in northern Virginia, Richmond and Accomack County, which were granted two-week delays after local officials said it was too early to move forward. The top public health experts in the US, remember, say reopening too soon is a very bad idea indeed. And the beach in the picture above wasn't open. Politico's New York Playbook, meanwhile, has details on beaches in and around the city. In short, city beaches will stay closed while state beaches reopen at reduced capacity, a situation redolent of familiar differences between Mayor Bill de Blasio and Governor Andrew Cuomo (see here from ProPublica this weekend) and seemingly guaranteed to cause confusion... On the president's schedule today: no press briefing, either by Trump himself or his fourth press secretary, Kayleigh McEnany. Instead the president will meet restaurant industry leaders and then, with first lady Melania Trump, speak to governors by teleconference at 4pm. Interesting note from Sunday: an announced visit on Thursday to a Ford plant in Lansing, Michigan, that is now making ventilators. Point one: visits by Trump and Vice-President Mike Pence to facilities concerned with fighting the coronavirus or making equipment to fight it have ... tended to produce news. Point two: Lansing is the Michigan state capital, and it has been the site of angry and in some cases armed protests against Democratic governor and potential Joe Biden running mate Gretchen Whitmer, by rightwingers demanding an end to lockdown. Trump has, controversially, supported such protests. Point three, as Jason Wilson reports: Cellphone location data suggests that demonstrators at anti-lockdown protests - some of which have been connected with Covid-19 cases - are often traveling hundreds of miles to events, returning to all parts of their states, and even crossing into neighboring ones. The data, provided to the Guardian by the progressive campaign group the Committee to Protect Medicare, raises the prospect that the protests will play a role in spreading the coronavirus epidemic to areas which have, so far, experienced relatively few infections. ...One visualization shows that in Lansing, Michigan, after a 30 April protest in which armed protesters stormed the capitol building and state police were forced to physically block access to Governor Gretchen Whitmer, devices which had been present at the protest site can be seen returning to all parts of the state, from Detroit to remote towns in the state's north. Full report here: ...and welcome to another day of coverage of the coronavirus epidemic, and the politics around it, in the US. I'm here till 9am ET or so, when Joan E Greve will take over in Washington. First, the figures from Johns Hopkins University in Maryland: US cases: 1,486,469 US deaths: 89,559 New York cases: 340,661 New York deaths: 22,013 Other states heavily hit include New Jersey, Massachusetts, Michigan, Illinois, California, Pennsylvania and Connecticut. And cases are on the rise away from the more urban states. The Trump administration spent Sunday continuing its pivot toward opening up the economy, in the face of crippling unemployment in an election year. But on Sunday night one of those independent voices who the president finds so irritating, Federal Reserve chair Jerome Powell, told CBS' 60 Minutes, essentially, "Not so fast." "This economy will recover," Powell said, but "it may take a while. It may take a period of time, it could stretch through the end of next year, we don't really know." Powell also said unemployment could reach 25% and said the economy would not fully recover until Americans "feel they are safe". Powell said: "Assuming that there's not a second wave of the coronavirus, I think you'll see the economy recover steadily through the second half of this year ... People will have to be fully confident, and that may have to await the arrival of a vaccine." Short points to that end: Many experts fear a second wave of the coronavirus later in the year - one Trump administration whistleblower said last week the US was facing "the darkest winter in modern history" and spoke of the country being "in deep shit". Trump administration predictions about the development and availability of a vaccine are rated by most experts and even the Republican chair of the Senate health committee as hugely ambitious at best. Powell's interview would always have seemed likely to stoke the president's ire - he also urged more stimulus spending by Congress, and though the House passed a $3tn bill on Friday the Republican Senate and White House don't want it. And indeed Trump went at CBS on Sunday night. But he was most exercised about the aforementioned whistleblower, Rick Bright, whose interview he said showed CBS and 60 Minutes were "doing everything in their power to demean our Country, much to the benefit of the Radical Left Democrats". Trump attacked Bright, while characteristically claiming not to know him, and said "this whole Whistleblower racket needs to be looked at very closely, it is causing great injustice & harm". A whistleblower from the intelligence community, remember, triggered Trump's impeachment over his approaches to Ukraine for help against his political rivals. Trump tagged Senator Susan Collins, who authored whistleblower protection legislation, and said he hoped the Maine Republican was "listening". He also named the head of CBS, Shari Redstone, and said he hoped she would "take a look at her poorly performing gang". In other news on Sunday night, the Axios website reported that Trump is poised to confirm his cut of all funding to the World Health Organization - in the middle of a pandemic. And has been taking cues from Fox News. More to come. 57203 false false  Maanvi Singh
+
+in Oakland,
+
+Joan E Greve in Washington and Martin Pengelly in New York      Warm weather draws crowds to the oceanfront in Virginia Beach.

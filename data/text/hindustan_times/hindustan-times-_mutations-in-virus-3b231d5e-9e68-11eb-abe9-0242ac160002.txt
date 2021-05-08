@@ -1,0 +1,57 @@
+India, May 19 -- The Sars-CoV-2 viruses causing coronavirus disease (Covid-19) has three major strains, but no key mutation specific to India has been found that affects infectiveness or disease severity, said Minister of Health and Science & Technology Dr Harsh Vardhan in his first interview after Covid-19 cases crossed 100,000 in India on Monday.
+
+He said calibrated lockdowns and public health measures have delayed the peaking of the curve in India and prevented the dramatically high numbers predicted by several modelling studies, but warned that how the pandemic progresses now will depend on how closely people follow mobility restrictions, social isolation and personal hygiene norms. Edited excerpts:
+
+When is the pandemic expected to peak in India?
+
+We have successfully managed to delay the peaking of the curve by imposing lockdown and other public health measures in a timely manner. There are several mathematical models which are predicting the course of the pandemic in India, but till now, we have managed to avoid the dramatically high numbers that they predicted. Right now, with the calibrated lockdowns being implemented, we have tried to contain the spread of infection. It is difficult to predict numbers as they will depend on the adherence of restrictions on mobility and intermingling, observance of personal hygiene, and prevention of exposure to infection by people in different areas. Additionally, it will also depend on the proportion of those infected among migrants and travellers from outside and within.
+
+Has community transmission begun in India?
+
+The World Health Organization (WHO) has defined four stages of Covid-19 outbreak: Countries with no cases, countries with sporadic cases; countries with clusters; and countries experiencing larger outbreaks of local transmission (community transmission). How large is an outbreak that constitutes a community transmission has not been defined by WHO, so what people refer to as community transmission differs from country to country.
+
+In India, the virus has come from foreign sources through travellers coming from outside. We generally consider a case to be a 'case of community transmission' when there is no clarity on the source of origin of the infection in a new community. Let me explain again. Community spread in India would mean that cases are occurring in people who did not have any known contact with travellers from overseas infected countries. However, this is not happening, implying that there is no community transmission in India.
+
+Although there are some clusters of local spread, the numbers being reported are not indicative of community transmission, which would have likely resulted in a larger number of cases given the expanded testing. Central teams have been deployed in 10 states witnessing a high burden of cases to investigate the sites with higher transmission. In addition, 69 districts will be brought under surveillance to understand the burden and disease trends in greater detail.
+
+Is India prepared for the projected rise in cases after work and travel restrictions end?
+
+India has massively scaled up all aspects of preparedness. There are around 535 laboratories across the country, more than one lakh samples are tested per day, and 24,04,267 people have been tested. The testing strategies are constantly being examined in light of emerging evidence. India has also developed ELISA-based antibody testing kits, which will provide testing alternatives.
+
+India now has the capacity to produce over 250,000 PPE units every day. This expansion of capacity is a real success story as we were entirely dependent on imported PPEs in the pre-pandemic period. We have also scaled up the availability of hospital beds, and oxygen supply linked beds, to enable supportive treatment of Covid-19 patients. While there are sufficient ventilators, our goal is to prevent patients from going on ventilators because the global experience shows that once patients go on ventilators, the mortality rate is very high.
+
+Overall, we are focusing on preparedness in the community (physical distancing, phased relaxation of lockdown), augmenting healthcare facilities (more beds, oxygen support, ICU) and public health management measures (surveillance, testing) to ensure that a holistic plan is in place to combat the threat of resurgent infections once the lockdown is lifted in a phased manner at varying levels in different districts.
+
+How many genomic sequences of SARS-CoV2 has India submitted to the Global Initiative on Sharing All Influenza Data (GISAID)?
+
+India has contributed around 226 genomic sequences of SARS-CoV-2 so far to the around 25,000 sequences of SARS-CoV-2 that have been shared with unprecedented speed via GISAID. A 1,000-genome sequencing initiative has been launched by Department of Biotechnology (DBT), and 500 are being sequenced by the Council of Scientific & Industrial Research (CSIR).
+
+What are the findings? Are there any key mutations in the SARS-CoV2 virus causing disease in India?
+
+The key mutations in SARS-Cov-2 virus have been found in spike glycoprotein (D614G, G1124V), nucleocapsid (R203K, G204R), RNA dependent RNA Polymerase (P323L) . The circulating viruses in India belong to three major strains. The majority of our samples belong to A2a and about 15% to A3 genotypes. There are a few samples belonging to genotypes B, B1, B4, and A1a. They do not have any mutation that has been reported to be associated with any disease progression or acquisition so far. So, despite the fact that no key mutation specific to India has been found in the virus and it still continues to be an imported virus strain, we cannot afford to be complacent. We have to remain vigilant and continue tracking the virus to identify emerging quasi-species or strains.
+
+How many states have the SARS-CoV2 genetic samples been sequenced from? Is there any difference in the strains causing infections across states?
+
+Sequences are currently mostly from Kerala, Karnataka, West Bengal, Gujarat and Uttar Pradesh -- most belong to A2a clade, while some belong to A3 and B1 clades. It is too early to detect major differences. We are trying for a systematic study of viral RNA sequence from different zones of India and correlate with disease severity.
+
+What has been the role of government institutions in the Covid-19 response, including diagnostic, drug and vaccine development?
+
+The focus is on self-reliance. We have ramped up our capacity for developing Indigenous testing kits. From being completely dependent on imports, we now have over 20 indigenous manufacturers with a diagnostic kit production capacity of nearly 50 lakh kits per month getting ready by the end of May. This includes indigenous components and reagents.
+
+The government's role has been very proactive in supporting innovation for vaccine development, development of cost-effective diagnostic equipment , as well as drug discovery and repurposing. The Covid Consortium, under DBT-BIRAC (Biotechnology Industry Research Assistance Council), has supported 70 projects under various categories of vaccines, therapeutics and diagnostics. Support has been also given to medical devices such as ventilators and equipment such as PPEs, N-95 masks etc, and for drugs and vaccine development. Funding start-ups that offer immediate solutions has been fast-tracked to address the Covid challenge.
+
+Some US studies have found hydroxychloroquine to be ineffective against Covid-19? What is India's experience?
+
+The recent study from New York which failed to find any mortality benefits associated with the use of hydroxychloroquine is a retrospective cohort study. There are several caveats in the study which need to be accounted for. First, the design of the study precludes attribution of the causal effect of the use of hydroxychloroquine on the disease outcomes. Second, the recipients of the drug were already suffering from severe disease, thus making the comparative sample groups unfair. Third, the best effect of hydroxychloroquine based strategy is seen when initiated in the mild to moderate disease stage. Several clinical trials are underway, and once their results are declared, we shall have definite evidence of the effectiveness of hydroxychloroquine.
+
+Several studies are also underway in India, and as the results emerge, we shall be able to provide more insights into the experiences locally. However, early reports from the pharmacovigilance programme indicate that there are no unexpected spikes of adverse reactions from the use of hydroxychloroquine in the country.
+
+What is the progress on the WHO Solidarity Trial in India?
+
+In India, we plan to randomise at least 1,500 Covid-19 patients over five to six months. The trial has been initiated with 46 randomised Covid-19 patients, symptomatic adults who have been recently hospitalized and have not yet received hydroxychloroquine. We are not enrolling any asymptomatic Covid-19 patients. The nature of care proposed as part of the randomized trial include providing only local standard of care, administering Remdesivir, hydroxychloroquine, Lopinavir / Ritonavir or Lopinavir / Ritonavir with Interferon Beta-1a. So far, around 2,500 people have been randomized globally. Being a five-arm study, large numbers (&gt; 10,000) are required, although there is no cap on sample size. It's not possible to give timeframe for outcomes as the analysis resulting from these trials is global.
+
+Is the effect of BCG vaccination being studied in India?
+
+BCG vaccination has been found to be an immunomodulator in malignancies and also protects against certain infectious diseases. Several high-income countries, which do not have routine BCG vaccination in childhood, have initiated clinical trials of BCG in high-risk groups, especially in healthcare workers. Currently, there are two ongoing clinical trials in India. Serum Institute of India (in Pune) is conducting a trial of VPM1002 and Cadila is conducting a trial using mycobacterium indicus pranii. However, we have to keep in mind the fact that India has very high rates of BCG vaccination at birth, and this could be an effect modifier or confounder in the results.
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

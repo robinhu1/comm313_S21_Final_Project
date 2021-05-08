@@ -1,0 +1,109 @@
+Jenene Crossan doesn't know where she got it. "I caught it in London, have no idea where or from who, in March 2020," she says. "I've been sick ever since." Crossan used to worry about it - going back over possible infection scenarios, exchanging theories with a friend who got ill at the same time. These days, though, she's come to terms with not knowing. "The reality is it doesn't matter," she says. "London was awash."
+
+Like many of the vast majority of people unlucky enough to receive a positive Covid test result, the precise moment of infection remains a mystery. Some might narrow it down to a likely household member, friend or workmate who began showing symptoms too. Others trace it to a gathering - a wedding, funeral, or dinner party, where several attendees subsequently came down sick. But most are left wondering. As a New York Times headline put it last year: "How Are Americans Catching the Virus? Increasingly, They Have No Idea".
+
+New Zealand is one of the few places in the world where that's not the case. The country eliminated Covid 19 in the community by shutting its border in mid-March 2020, introducing compulsory quarantine for all returnees, and instituting a series of lockdowns to stamp out existing clusters. Every so often, a case slips through the border, causing a small outbreak. But without community transmission in the background, New Zealand can drill down into individual cases with forensic detail.
+
+Genomics has played a huge role in all of this
+
+Dr Jemma Geoghegan
+
+Using a mixture of genomic sequencing and epidemiology, the country works to identify precisely who gave the virus to whom and - often enough - the environment in which it happened.
+
+That knowledge has proven critical for New Zealand's pandemic response, allowing it to avoid longer lockdowns by more precisely mapping the spread. But it's also yielded scientific insights to the rest of the world into exactly how and where Covid spreads. With conditions controlled to a degree that's simply not possible elsewhere, the country behaves like a laboratory for the world.
+
+Track every case
+
+At the heart of New Zealand's effort to track and understand Covid cases is sequencing the genome of every positive case that enters the country. Very few other places are even attempting that. In most places, "it's just not possible, because their disease burden is too high," says geneticist Prof Michael Bunce, the top scientist at New Zealand's Environmental Protection Authority.
+
+"The US or the UK, even though they've sequenced a lot of viruses, their goals are different. It's not to track every single person and their linkages."
+
+New Zealand's smaller number of cases mean this is the aim.
+
+Evolutionary virologist Dr Jemma Geoghegan is one of the scientists leading work to analyse genomic sequences of the virus. Covid-19 has a genome of about 30,000 letters, she says. When the virus infects someone, replicating itself over and over, it will make an occasional mistake - changing or swapping a letter. By comparing the genomes of different cases, scientists can map out a kind of family tree of the virus, tracing the tiny mutations it's made along the way.
+
+"Those mutation events help us to track and trace how this virus has spread through populations, through space and time," Geoghegan says. "Genomics has played a huge role in all of this, because it's the only tool that can actually link cases together when there's no [known] physical link of the people."
+
+'Smoking gun'
+
+At the end of January,  in the quieter midsummer period that follows Christmas and the New Year, there was the mysterious case of the rubbish bin lid. A new set of Covid cases had been announced at The Pullman , a hotel-turned-isolation facility run by the New Zealand government to house citizens returning from overseas. Those cases had sparked a flurry of tracing efforts, and anxiety over whether they'd require a new lockdown.
+
+But as he watched the Pullman, Dr Joshua Freeman, the acting infection prevention and control director for Canterbury District Health Board, was reminded of another case from November 2020.
+
+That scenario had dealt with two residents in the country's managed isolation and quarantine [MIQ] facilities - David and Jane*. David had caught Covid-19 on a plane en-route to New Zealand - then, at some point during his stay, transmitted it to Jane, who happened to be staying in the neighbouring room.
+
+Genomic sequencing and analysis by Geoghegan's team had revealed who gave the virus to whom: David had sat close to two infected people on the plane, and his viral genome was similar enough to conclude it was a direct descendant of theirs. Jane's, in turn, resembled David's, but was another step removed from the plane. Even with that knowledge, however, the precise point of transmission between David and Jane had remained mysterious: during their stay at the isolation hotel, the pair had never been outside their rooms or in a common area at the same time.
+
+At that stage, many experts believed Covid19 was primarily spread through larger droplets. "Like ballistic missiles," Freeman says - fired out when people cough, sneeze, sing or talk, and falling to the ground within a metre or two.
+
+So public health workers looked for a surface that David and Jane might have shared. Imagine those missiles again: landing, undetonated, on a doorknob or handrail. Finally, the team found a single surface - a shared rubbish bin lid - that both had touched.
+
+But by January, the rubbish bin explanation wasn't satisfying to Freeman. For one thing, the two had touched the lid 20 hours apart - an unusually long time for the virus to survive on a surface. More recent research showed surface transmission, especially over that timeframe, was extremely unlikely - maybe even approaching implausible.
+
+With almost no other "smoking gun" cases of surface transmission around the world, this case mattered.
+
+Freeman began combing back through the CCTV records and notes kept by public health teams, looking for other possibilities. "I was just sort of scouring it, going, how on earth did this happen?" he said. "I don't think it's a rubbish bin lid, but how else could it have happened?"
+
+Finally, he found it: "Swabbing. There's just an entry in the morning saying 'swabbing'."
+
+On the 12th day of their two weeks in isolation, both David and Jane had been visited at their rooms by nurses, to test them for Covid. Freeman returned to the CCTV footage, and there it was on the videotape.
+
+The nurses had first knocked on the door of David: he opened his door, talked for a few moments, and lowered his mask for a swab.
+
+Less than a minute later, the nurses moved on to Jane. As Dave's door swung closed, Freeman says, would have acted like a fan, pushing contaminated air out into the hallway.
+
+Testing the air pressure in the two hotel rooms found that pressure in the rooms was positive, meaning air would flow out into the corridor. Once there, it could remain in the stagnant hallway air, until Jane opened her door, also greeted the nurses, then lowered her mask.
+
+Flight risk
+
+The case illustrated how the country could combine the classic public health approach, which focused more on tracking social relationships and observing human behaviour - with the far newer tool of genomic sequencing.
+
+Published in the CDC's Emerging Infectious Disease  journal, it hasn't been the only finding to emerge from New Zealand's genomic testing programme. In November last year, millions of Americans were preparing to fly around the country and visit family. The advice on flying was mixed: one much-publicised study had found specialised planes' onboard ventilation systems filtered out 99% of airborne viruses. "Flying can be safer than grocery shopping," the headlines declared.
+
+You really can get this exquisite information
+
+Dr Siouxsie Wiles
+
+But a few days before the holiday, Geoghegan et al published a detailed case study  of Covid transmission in a flight from Dubai to Auckland. They used genomic sequencing to map the links between different cases, connecting passengers with different countries of origin and destinations to the same in-flight infection. Geoghegan says they've had significant international interest in their research, some of which was covered by the New York Times and Wall Street Journal.
+
+"In New Zealand we're able to scrutinise these events with an intensity that just isn't happening overseas," Freeman says. "So we're learning about the transmission of the virus, actually learning some important lessons that we need to share internationally."
+
+In the case of Jane and David, it added to a growing body of research establishing how and where aerosol transmission could occur, even between people who weren't physically occupying the same space. Alternatively, if the rubbish bin lid explanation had held, it would have been one of the only "smoking gun" cases of surface transmission in the world.
+
+Public health response
+
+The answers to those kinds of questions, like whether to focus on surfaces or on ventilation, have huge implications for international public health responses.
+
+The World Health Organization has been focused on transmission via larger droplets, and in late 2020 had not even acknowledged the risk of aerosol transmission.
+
+Businesses and workplaces were focusing their efforts on what experts have since called "hygiene theatre": scrubbing surfaces, announcing "deep cleans" and sanitising furniture.
+
+In November last year, hundreds of scientists signed an open letter pleading with health organisations including the WHO to recognise transmission via smaller, airborne droplets and aerosols. The case studies out of New Zealand are not decisive, but they do take the theoretical principles of disease spread and show governments, employers, experts and ordinary people how it can happen in practice.
+
+'Exquisite information'
+
+Microbiologist Dr Siouxsie Wiles, who became one of the most prominent scientists of New Zealand's Covid response, says it's that combination of genomics with epidemiological detective work that makes these studies so useful. "You really can get this exquisite information," she says.
+
+Genomics also influences political decisions in real time, says Juliet Gerrard, chief science adviser to the prime minister. If two people test positive on opposite sides of the city, for example, it's enormously useful to know if they're connected to one another, or if the country has two independent outbreaks going on.
+
+Gerrard attributes the penetration of this science into New Zealand's political decision rooms partly to the enthusiasm of key experts at the ministry of health. But she says it's also been driven by the personal interest that Prime Minister Jacinda Ardern has taken in the science.
+
+"If you've got some boffin in the corner, saying :'What about the sequencing?', how they get heard in that [political] environment is really interesting," she says. "The fact that the PM herself was very interested in the science details helped. If the prime minister says: "Let's get the whole genome sequenced in every case," it's quite likely to happen."
+
+As a geneticist, Bunce says, one offshoot has been the marked increase in scientific literacy - among both politicians and the public.
+
+"You know, if you'd asked me a year ago whether they would have known the ins and outs of genomic sequencing ... I would have said 'no way!' But they all do. They're thirsty for scientific information. And they have trust in that scientific information."
+
+That science is now such an integral part of New Zealand's Covid response that it's hard for the country to imagine outbreaks without it. Discussions of the latest case's genomic makeup are commonplace at press conferences and in the news.
+
+But when the idea was first suggested - via an application to the government's Covid Innovation Acceleration Fund - it wasn't a slam dunk.
+
+"Now, I'd like to say that it was a very smooth transition and they got funded [immediately], but it actually took quite a bit of convincing to get that funding across the line," Bunce says.
+
+This kind of sequencing had never been woven into a real-time pandemic response before, and officials had some doubts about whether it would be fast enough to actually be useful. "Integrating genomics in real time was not part of the core toolkit of a public health response. It just wasn't - it wasn't anywhere on the globe," Bunce says.
+
+While it had been used in epidemic responses to the Ebola and Zika viruses, Covid marks the first time genomic sequencing has been integrated into a pandemic response in real time - informing the government response case by case. Partly, it's been made possible by the technology moving forward so dramatically.
+
+"In the year 2000, when the human genome was sequenced - that took a decade to complete and cost $4bn," Bunce says. Now, New Zealand labs are turning around genomic sequences of Covid-19 in less than eight hours. "It's got a hell of a lot cheaper, and a hell of a lot quicker," he says.
+
+*Case studies have been anonymised to protect the identity of patients. These pseudonyms do not reflect the names or genders of the cases.

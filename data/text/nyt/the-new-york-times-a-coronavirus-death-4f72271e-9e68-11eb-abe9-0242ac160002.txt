@@ -1,0 +1,85 @@
+The startling discovery that the virus was responsible for a Feb. 6 death in California raises questions about where else it might have been spreading undetected.
+
+SAN FRANCISCO — Weeks before there was evidence that the coronavirus was spreading in U.S. communities, Patricia Dowd, a 57-year-old auditor at a Silicon Valley semiconductor manufacturer, developed flulike symptoms and abruptly died in her San Jose kitchen, triggering a search for what had killed her. Flu tests were negative. The coroner was baffled. It appeared that she had suffered a massive heart attack.
+
+But tissue samples from Ms. Dowd, who died on Feb. 6, have now shown that she was infected with the coronavirus — a startling discovery that has rewritten the timeline of the virus’s early spread in the United States and suggests that the optimistic assumptions that drove federal policies over the early weeks of the outbreak were misplaced.
+
+The unexpected new finding makes clear that the virus was circulating in the Bay Area of California as early as January, even before the federal government began restricting travel from China on Feb. 2. It also raises new questions about where else the virus might have been spreading undetected.
+
+With little local testing throughout February — in part because of botched testing kits from the Centers for Disease Control and Prevention, along with strict guidelines that limited who could get tested — officials were not aware of the virus transmitting locally in the country until Feb. 26, in Solano County, Calif.
+
+Previous cases had involved people who had traveled to China, where the outbreak began, or who had been exposed to someone who was sick. But the Feb. 26 case in Solano County was of unexplained origin. Similar cases of community transmission were quickly identified in nearby Santa Clara County, which includes San Jose, as well as in Washington State and Oregon.
+
+The new test results made public late Tuesday show that even this timeline failed to reveal how long the virus had been circulating. Ms. Dowd had not recently traveled outside the country, the authorities said, and yet she died a full 20 days before the earliest recorded case of community transmission. Another previously unconnected death in Santa Clara County, on Feb. 17, has also now been linked to the coronavirus.
+
+“Each one of those deaths is probably the tip of an iceberg of unknown size,” Dr. Sara Cody, Santa Clara County’s medical officer, said in an interview.
+
+Gov. Gavin Newsom of California said on Wednesday that there could be “subsequent announcements” as investigations across the state further examine the early origins of the virus. He said investigators are looking at coroner and autopsy reports going back to December in some counties.
+
+Ms. Dowd, whose case was confirmed this week, worked at a company that had offices around the world, including in Wuhan, China, the city where the outbreak began, family and friends said.
+
+Public health authorities did not identify her, but her husband, Dean Dowd, a Santa Clara County correctional deputy, said he had been notified by public health authorities on Wednesday morning that the C.D.C. had confirmed the presence of the coronavirus.
+
+Wednesday would have been their 25th anniversary, he said.
+
+A longtime friend said that on Feb. 2, Ms. Dowd had complained of flulike symptoms. Four days later, he said, she was working from home, still feeling under the weather. Her daughter came home and found her collapsed at the breakfast bar in her kitchen, according to the friend, who asked not to be identified.
+
+Family members said they initially had wondered if Ms. Dowd had been suffering from Covid-19, the disease caused by the coronavirus. Her work as a company auditor for her firm, they said, brought her into contact with employees from all over the world and involved frequent travel.
+
+“She traveled all over for her job. Germany. Austria,” said her brother-in-law, Jeff Macias, who said she had also traveled at times to China.
+
+She had gone to Beijing in November, according to the longtime friend.
+
+Across the country, doctors and public health officials have reported earlier cases of serious illnesses and deaths that preceded official diagnoses of the coronavirus. Only now are some of them being examined, and the new findings in Santa Clara County — suggesting that these suspicious earlier cases were instances of community transmission — shed light on the understated public health response to the widening outbreak.
+
+Had there been earlier proof that the virus had already found a foothold in the United States, experts said, public health officials would have had more urgency to ramp up testing, prepare hospitals and assemble protective gear that might have prevented infections among health care workers and others.
+
+Instead, the focus in February was on quarantining thousands of travelers who were returning from China in the hope that infections could be identified, isolated and contained.
+
+“What in the end was that really going to accomplish if it was already here?” said Dr. Amesh Adalja, an infectious disease specialist and senior scholar at Johns Hopkins Center for Health Security.
+
+Officials in Santa Clara County said on Wednesday that the new cases were among more than a dozen deaths in the county that the medical examiner had suspicions about and ordered investigated.
+
+Dr. Michelle Jorden, the Santa Clara County medical examiner-coroner, said Ms. Dowd’s case had piqued her curiosity, leading the county to examine it further. “It was when we were looking at the microscopic tissues and we decided — whoa! — this still looks infectious, and we are going to send the tissue to the C.D.C.,” she said.
+
+Tissue samples were sent to Atlanta for testing in mid-March, but the results confirming the coronavirus did not come back until Tuesday.
+
+It is unclear how the virus reached the people in these earliest deaths. In January, health officials identified a series of people who had traveled from China and then tested positive for the virus, but those cases were largely contained. At the time, President Trump said he did not think the virus would become a pandemic and declared that public health authorities “have it totally under control.”
+
+Federal health officials initially limited testing largely to those who had traveled from Wuhan, then expanded it to people coming from mainland China. Mr. Trump ordered travel restrictions, including health screenings for U.S. residents returning from mainland China, that began on Feb. 2.
+
+By Feb. 26, Mr. Trump claimed that the limited number of cases in the country “within a couple of days is going to be down to close to zero. That’s a pretty good job we’ve done.”
+
+That was the same day community transmission began to emerge, first in California, then in the Portland, Ore., area, and near Seattle.
+
+Dr. Cody led the effort to issue the nation’s first stay-at-home orders on March 16. But she said she would have issued them even earlier had she known about the February deaths.
+
+“I think if we had had widespread testing earlier and if we had been able to document the level of transmission in the county, if we had understood then that people were already dying, we probably would have acted earlier than we did,” Dr. Cody said. She said officials had been hearing about a lot of people who were ill but did not meet the criteria for testing.
+
+“It was just sort of this understanding that the testing capacity at the C.D.C. was very, very, very limited,” she said. When doctors would call them with suspicious cases, she said, county health authorities would have to explain that the cases did not qualify for testing.
+
+“It got increasingly uncomfortable, right?” she said. “It didn’t make any sense. How are you going to detect community transmission if you’re only testing people with a travel history? Well you’re not.”
+
+There have been signs that the virus established itself long before community transmission was recognized.
+
+Researchers believe that cases in New York probably began circulating in mid-February. Trevor Bedford, a scientist at the Fred Hutchinson Cancer Research Center who studies the spread and evolution of viruses, has estimated that an outbreak in the Seattle area likely has roots back to about Feb. 1, or perhaps could be linked to the first reported case in the United States — a man who flew from China to the Seattle area on Jan. 15 and later tested positive.
+
+But, until now, the first known deaths from the coronavirus were recorded in the Seattle area on Feb. 26.
+
+Whether and how the early cases might be related to later cases remains unclear. C.D.C. scientists are attempting to discern the genetic sequences of the virus from the three cases, which can be challenging when tissues are obtained after death.
+
+So far, only relatively short pieces of genetic material have been obtained, said Kristen Nordlund, a spokeswoman for the agency. That was enough to confirm the diagnosis, but not large enough to detect the specific virus’s subtype, which could help identify potential links to other cases.
+
+Dr. Charles Chiu, who has been examining the genetic signatures of the viruses circulating in the Bay Area, had previous suspicions about the Santa Clara cases. While many of the viruses landing in the United States have several mutations compared with the original strain in Wuhan, one of the cases examined at the end of February in Santa Clara had only one mutation.
+
+That indicated that the cases there had a strong link to the original Wuhan strain.
+
+“It suggested that it was an early introduction,” Dr. Chiu said. Even still, he was surprised that a virus-related death occurred as early as it did in February. He is interested in seeing the genomic sequence of the new cases, although he suspects they are likely to be connected to the larger cluster in Santa Clara linked by the same signature mutation.
+
+The virus has an incubation period of up to 14 days, and people can be infectious before symptoms begin. Because Ms. Dowd had been ill for several days before dying on Feb. 6, it is possible that she could have transmitted the infection to others as early as January.
+
+“This offers evidence of what many of us in the field had been saying,” said Dr. Adalja, the infectious disease specialist. “That restricting testing was going to miss cases that could have a chain of transmission that ended up with somebody dying.”
+
+Thomas Fuller reported from San Francisco, Mike Baker from Seattle, Shawn Hubler from Sacramento and Sheri Fink from New York. Katey Rusch contributed reporting from San Jose, Calif., and Tim Arango and Jill Cowan from Los Angeles.
+
+PHOTO: The coronavirus was circulating in the California Bay Area as early as January, new findings show. (PHOTOGRAPH BY JIM WILSON/THE NEW YORK TIMES (A11)

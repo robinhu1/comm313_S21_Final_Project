@@ -1,0 +1,69 @@
+A test earlier this year of the Space Launch System core stage was marred by errors, so the agency conducted a do-over.
+
+STENNIS SPACE CENTER, Miss. — On Thursday, NASA’s new big rocket, the Space Launch System, ignited four mighty engines for more than eight minutes and went nowhere.
+
+That was good news for the American goal of sending astronauts to the moon in the coming years. Despite a budget that has grown by billions of dollars and a schedule that is years late, NASA can now move the vehicle to Kennedy Space Center in Florida and prepare it for an actual launch, with no astronauts aboard, around the moon.
+
+“What a great day and a great test,” Steve Jurczyk, NASA’s acting administrator said during a news conference after the test. “This is a major step in advancing our goals.”
+
+The Space Launch System was conceived in an era when new commercial rocket companies like Elon Musk’s SpaceX were just emerging. Those companies have transformed how NASA sends cargo, astronauts and robotic explorers to orbit and beyond. The rocket tested on Thursday shares more in common with the traditional era of American spaceflight of half a century ago when NASA achieved its greatest triumph: the Apollo moon landings.
+
+But the traditional way of exploring space is expensive.
+
+Each launch of the Space Launch System will cost up to $2 billion, and the rocket can be used only once. Still, Congress has provided steadfast financial support for it so far.
+
+Supporters maintain that it is important for the government to own and operate its own powerful deep-space rocket, and pieces of the system are built by companies across the country, spreading the economic benefits to many states and congressional districts.
+
+When NASA announced its plans for the Space Launch System in 2011, the first launch was scheduled for 2017. As is typical for new rocket designs, the development ran into technical difficulties, such as the need to develop procedures for welding together pieces of metal as large as those in the rocket. NASA also paused work on the rocket for a time last year during the early stages of the coronavirus outbreak.
+
+As the date of the first launch slipped several times, the price tag rose. NASA has so far spent more than $10 billion on the rocket and more than $16 billion on the Orion capsule where the astronauts will sit.
+
+In an audit in 2018, NASA’s inspector general blamed poor performance by Boeing, the main contractor building the booster stage, for much of the delay. Another report by the inspector general in 2020 said NASA “continues to struggle managing S.L.S. program costs and schedule.”
+
+But the Biden administration appears to be keeping to this path. The Verge and The Washington Post reported that former Senator Bill Nelson of Florida, who was a key player in pushing NASA to develop the Space Launch System, was expected to be nominated to be the agency’s next administrator.
+
+Thursday’s test, called a hot fire, was a crucial step for the rocket. It was carried out at remote Stennis Space Center near Bay St. Louis, Miss., on a giant stand almost twice as tall as Disney World’s Cinderella Castle. At this site, NASA once tested the Saturn 5 rocket used for Apollo as well as a prototype of the space shuttle.
+
+On the day of the test, the sky was so blue it seemed to have never known a cloud. The only sounds in the area were gusts of wind rustling the tree line and the murmuring of nervous onlookers. Then the world seemed to explode. But from the safety of the viewing area for visitors, there was no countdown to be heard and there was no gentle buildup of the engines. The rocket was switched off, and then at 4:40 p.m. Eastern time, it was on, and when it was on, it was immediately deafening.
+
+For 499.6 seconds, the four engines of the booster stage were run through the paces of what they would do during an actual launch to orbit — all while firmly held down on Earth. The engines’ blazing heat was turned into steam that drifted into the sky as more than 100 water nozzles mounted strategically on the test stand cooled the rockets’ exhaust.
+
+At one point, cameras beneath the test stand showed flames at the base of one engine where cork insulation caught fire. But officials said temperature sensors on the engine below the layers of cork did not measure excessive heat, and the problem would not occur during an actual launch when the upper atmosphere would be too thin for fire to burn.
+
+“We were in great shape,” said John Shannon, vice president and program manager for the Space Launch System at Boeing, which built the core stage. “The cork did its job.”
+
+NASA tried to complete this test in January. But when a piece of equipment did not operate quite as expected, the rocket’s computer shut down the engines after only about one minute. Seeking more data on the performance of the stage and the engines, engineers fixed the issues and tried again.
+
+Engineers will now review the results.
+
+“From our initial look at all the data we achieved all of the objectives, even our secondary objectives,” Mr. Shannon said. “We’ll be working through that over the next couple of weeks as we do very detailed inspections of the hardware. But the initial look is that everything worked perfectly.”
+
+After some refurbishment, the core stage will be packed up and shipped by barge to Kennedy Space Center, perhaps before the end of April, according to Julie Bassler, a manager for the rocket. There, it and other pieces of the rocket including two strap-on rocket boosters, a second stage and the Orion crew capsule will be put together.
+
+That launch will be the Artemis 1 mission. (In Greek mythology, Artemis is the sister of Apollo, and NASA officials have repeatedly said one of the next astronauts to step on the moon will be a woman.)
+
+For that flight, there will be no astronauts aboard. The launch will carry the Orion module, as well as a variety of small CubeSats, on a course to the moon. The capsule will orbit the moon several times, much as in NASA’s Apollo 8 mission, before returning to Earth and splashing down in a water landing.
+
+Artemis 1 is currently scheduled for November, but on Thursday, NASA officials sounded like that was uncertain.
+
+“We’ll take it a step at a time,” said Thomas Whitmeyer, deputy associate administrator for exploration systems at NASA.
+
+Success of that mission could set the stage for the first astronaut flight in Orion and eventually result in a moon landing.
+
+Mr. Jurczyk praised the NASA engineers and contractors who have worked on the project, especially after their efforts were interrupted by the Covid-19 pandemic last year.
+
+“I just want to say how proud I am of this team,” he said. “We worked really hard to get to this point, including the past year, during all the challenges we’ve had with a global pandemic.”
+
+The Space Launch System is not the only major American rocket under development and nearing a first trip to space.
+
+Most intriguing is the gigantic Starship rocket under development by Mr. Musk’s SpaceX. When mounted on top of a huge booster stage, it would dwarf the Space Launch System, yet would be entirely reusable like a passenger jet. It is designed to take people to Mars, and SpaceX has also won a contract to adapt it for taking NASA astronauts to the surface of the moon.
+
+Mr. Musk’s engineers have been conducting atmospheric test flights of Starship prototypes at a site in South Texas, some of which have ended in spectacular explosions after the rockets accomplished impressive maneuvers in flight. During the most recent test earlier this month, the prototype rocket managed to land in one piece, but exploded minutes later.
+
+The United Launch Alliance, a joint venture between Boeing and Lockheed Martin, may launch its Vulcan Centaur rocket in the fourth quarter of the year. The Vulcan Centaur is the successor to Atlas 5, a longtime workhorse for launching military and NASA satellites.
+
+Blue Origin, the rocket company started by Jeff Bezos, the billionaire founder of Amazon, has also been developing a reusable rocket called New Glenn that would compete with both Vulcan Centaur and SpaceX’s Falcon 9 rockets.
+
+However, Blue Origin has announced that the maiden flight of New Glenn will not occur until late next year at the earliest, two years later than it had originally planned.
+
+PHOTO: A still from NASA TV’s stream of Thursday’s “hot fire” test of the Space Launch System’s rockets at the Stennis Space Center in Mississippi. (PHOTOGRAPH BY NASA TV)

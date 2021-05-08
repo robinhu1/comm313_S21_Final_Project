@@ -1,0 +1,31 @@
+Scientists have determined the "recipes" for two Covid-19 vaccines using leftovers in vials bound for the trash and published the mRNA sequences on Github, the online repository for software code.
+
+The group of scientists from Stanford University were able to determine the sequences of both the Pfizer and Moderna vaccines, and included the mRNA sequences in a post they published on Github last week, tech news site Motherboard first reported.
+
+Experts say the publication will help researchers around the world better identify when testing samples whether they are looking at sequences from the Covid-19 virus or vaccines to treat the virus, because they can give false positives.
+
+In the post , the scientists state they were able to collect small portions of the vaccines from vials that would have been otherwise discarded, under Food and Drug Administration (FDA) approval for research in the United States.
+
+The Pfizer sequence is already publicly available, meaning the scientists were able to check their work, but the Moderna mRNA sequence had not previously been published. The scientists stated they checked with Moderna before publishing but did not receive a response.
+
+Scientists Andrew Fire and Massa Shoura told Motherboard it wasn't simply "reverse engineering" a vaccine: "We didn't reverse engineer the vaccine. We posted the putative sequence of two synthetic RNA molecules that have become sufficiently prevalent in the general environment of medicine and human biology in 2021."
+
+The scientists said in their Github post the sequences would be useful for allowing researchers to quickly identify whether sequences they are looking at are therapeutic in origin or infectious.
+
+An associate professor in immunology and pathology at the University of New South Wales's Kirby Institute, Stuart Turville, told Guardian Australia it was "clever in a way" to publish on Github, and would be important for people to be able to differentiate between RNA made by the vaccine and RNA from the virus.
+
+"I'm not sure how that would turn up in a diagnostic setting as one is injected [the vaccine] and the other is clearly up your nose [the virus acquired during diagnostic tests]," he said. "That said, molecular diagnostics are great, but can give false positives if RNA like this is around in large quantities.
+
+"So it would be good to know the sequence, so if any false positives turned up, you could troubleshoot if the vaccine RNA was the source of your contamination."
+
+He said companies do not generally like "their recipes" getting out like this, but it was just the sequences.
+
+"That would be the equivalent of baking an intricate cake with only the knowledge of the basic ingredients, with no quantities or instructions on how to cook it from these ingredients," he said.
+
+"How they make these vaccines to the scale they are doing and then combining them with lipids to give the product is the real magic."
+
+He said he was keen to see whether new versions of the vaccines are now made to tackle the emerging variants.
+
+"With the above sequencing drive the RNA-vaccine producers then have the ability to pivot to make new versions against the emerging variants," he said.
+
+"It would be good to see the data on RNA vaccine candidates for the South African b1351. That variant takes a big dent out of a lot of the current vaccine responses."

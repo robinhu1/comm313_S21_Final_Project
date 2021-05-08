@@ -1,0 +1,29 @@
+NEW DELHI, Sept. 17 -- How seriously does one take Dr Li-Meng Yan? And how seriously does one take the paper Unusual Features of the Sars-CoV2 GenomeSuggesting Sophisticated Laboratory Modification Rather Than Natural Evolution and Delineation of its Probable Synthetic Route, published by her and co-authors, under the aegis of the Rule of Law Society and the Rule of Law Foundation, New York, on September 14? As the title suggests, the paper claims the coronavirus was man-made, in a laboratory.
+
+The paper was uploaded on open-source research repository Zenodo, run by CERN, and was reported by Hindustan Times on Wednesday (bit.ly/33uFyy4). It wasn't as widely reported as Dr Yan's comments in Loose Women, a segment of a TV show hosted by a UK TV channel, on which she pretty much said the same thing, albeit without any of the scientific arguments -- unsubstantiated ones -- presented in the paper.
+
+Here's what that paper claimed:
+
+One, ZC45, a bat virus, or a closely related variant or mutant, bears a striking similarity with Sars-CoV2, as shown by genome sequencing, with a 94%-100% similarity of key viral proteins.
+
+The spike protein of Sars-CoV2 is essentially a trimer (essentially three parts) each of which has an S1 and S2 part with a furin cleavage site at the boundary between the two. Other research has already established that the human cellular enzyme furin cleaves, or breaks, the S1 and S2 unit at the cleavage site, and that the S1 unit then attaches to the ACE receptor, another protein found on the surface of most human cells. This binding then facilitates the entry of the viral protein into human cells. The virus' ability to bind with the receptor, and the presence of the cleavage site that responds to a cannon human enzyme, are the reasons Covid-19 is as infective as it is.
+
+Both the furin cleavage site, and the binding ability of the spike protein with the ACE2 receptor aren't natural, the paper argued.
+
+In their preface to this scientific hypothesis, the authors also claim that the process of creating such a virus in a laboratory could take only six months. They ask for further research and investigation into the origin of the virus. Even if their hypothesis is subsequently proven erroneous, this is a recommendation that no can argue with - the origin of the virus needs to be investigated, not so much to assign blame (although there will be some that too), but to prepare for the next virus and the next pandemic.
+
+Dr Yan, currently in the US, where she fled to in late April, is a virologist who used to work at the University of Hong Kong School of Public Health, and who has for long claimed that China knew of the virus and the fact that human-to-human transmission of the infection was happening, long before it let on. Her claims on the virus being man-made are more recent.
+
+Interestingly, a March paper in Nature titled The Proximal Origin of Sars-Cov2, authored by Kristian G Andersen of California's Scripps Research Institute, argued, again picking on the same two distinctive features of Sars-CoV2, that the virus was natural. The viral protein showed a high "affinity" to bind with the receptor, they said, but this interaction wasn't "ideal" or "optimal". In plain English this meant that if anyone had set out to engineer the virus, they would have picked the "ideal" binding relation, not just another optimal one. The paper also said that there were other coronaviruses that had similar "cleavage sites" and that this wasn't unique to Sars-CoV2.
+
+However, the two papers differ in one significant aspect. The one published in Nature said "the genetic data irrefutably show that Sars-CoV2 is not derived from any previously used virus backbone". Dr Yan's said (again, without substantiation that) a " genomic sequence analysis reveals that ZC45, or a closely related bat coronavirus, should be the backbone used for the creation of Sars-CoV2".
+
+Dr Yan's claims are also being seen through a political lens, with scientists in the US pointing out that the two non-profits that published the paper were linked to Steve Bannon, former Trump adviser and former executive chairman of the far-right Breitbart News, casting aspersions on the study's findings.
+
+Clearly, only further research and investigation can shed light on the origin of the virus which has thus far infected 29,927,685 and killed 942,564 around the world. India ended Wednesday with 5,115,846 cases and 83,230 deaths.
+
+But as Vivek Wadhwa, a columnist for this paper, a top technology thinker, and distinguished fellow at Harvard Law School's Labor and Worklife Program, said in a recent article in Foreign Policy: "If genetic engineering wasn't behind this pandemic, it could very well unleash the next one." That's because, "genetic engineering - with all its potential for good and bad - has become democratised", Wadhwa wrote.
+
+"Thanks to a technological revolution in genetic engineering, all the tools needed to create a virus have become so cheap, simple, and readily available that any rogue scientist or college-age biohacker can use them."
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

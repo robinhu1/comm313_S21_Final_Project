@@ -1,0 +1,47 @@
+When the outbreak of a new coronavirus was reported in the Chinese city of Wuhan last December, researchers acted quickly to release the virus' genetic code to the Global Initiative on Sharing All Influenza Data (GISAID), allowing work on a vaccine to start immediately, all around the world.
+
+In all, it took just over a week from the World Health Organization (WHO) confirming the existence of the new virus to its genetic sequence being published. In contrast, in 2003 it took more than two months for the sequence behind Sars, the last global epidemic, to be shared.
+
+As Thomas Cueni, director general of the IFPMA, has commented: "The speed with which the sequence of 2019-nCoV has been shared is a potent reminder of how we should avoid tying up the research community in red tape when we are in a race to find a new vaccine or treatment for a new virus or other pathogen."
+
+Yet blocking this kind of instant reaction to a global medical emergency could be one of the unintended consequences of an international treaty design to protect biodiversity.
+
+The Nagoya protocol came into force in October 2014 as part of the Convention on Biological Diversity (CBD) and covers genetic material and traditional knowledge. It allows countries to retain control over how the "biological resources" within their boundaries are used and commercialised, and was developed in addition to conserve biological diversity and its sustainable use to stop international companies from utilising natural resources for their own gains, without any benefits to the "host" country.
+
+"It harks back to the days when companies used to go into the field to collect and build up an inventory of natural raw materials from which they would then analyse and develop therapies," says Matthew Downham, vice chair of IFPMA's CBD working group and a member of IFPMA's Influenza Vaccine Supply International Task Force.
+
+But while the scientific community agrees with the protocol's objective to protect biodiversity, where they feel it has gone too far is in the inclusion of pathogens.
+
+"Biodiversity is about conservation and sustainable use of genetic resources but when it comes to pathogens we are working to eradicate them, to annul them," says Grega Kumer, IFPMA's head of government relations.
+
+Downham agrees. "It's important to preserve endangered wildlife species and habitats, but people don't need to preserve smallpox, Ebola, influenza or Lassa fever in nature."
+
+To develop vaccines and prepare for global epidemics, scientists need continuous access to pathogens. But their inclusion within the Nagoya protocol is creating barriers that are preventing global collaborative research and which could have huge implications for global health.
+
+The protocol states that any company using "genetic resources" from a member nation must negotiate an agreement through Access and Benefit Sharing (ABS) legislation, but this can be a lengthy process and block any possibility of quickly responding to public health emergencies.
+
+"If you limit or prevent research you won't get the much-needed vaccines, antibodies, nor understanding," says Downham, "which is required to benefit global public health."
+
+There is already anecdotal evidence that some pharmaceutical companies are pulling out of R&D when it involves genetic resources from certain countries because of their unpredictable bureaucratic procedures.
+
+Another issue, explains Axel Braun, chair of IFPMA's CBD working group, is the fact that pathogens don't respect boundaries; they spread and mutate and it is not always clear where the country of origin is, or whose property it is.
+
+And there's a flipside too, he adds. "If you do consider it as a property, then you should also have a responsibility that your property shouldn't hurt somebody else. That is often an aspect which is easily forgotten."
+
+The genetic code of a pathogen comes in the form of so-called sequence information, which scientists need to see how it works, and where its potential weaknesses lie. Whether or not it can be freely shared under the Nagoya protocol is at the moment a hotly debated topic, but if China had insisted on using ABS around the coronavirus says Braun, "that would have had a very detrimental effect" - possibly delaying the start of any research by several months, by which time the virus would have spread globally even faster.
+
+Downham is also concerned that the Nagoya protocol could disrupt ongoing work to monitor the seasonal influenza viruses and develop vaccines to combat them.
+
+Each year as many as 40,000 pathogens are shared through the WHO's Global Influenza Surveillance and Response Systems (GISRS). Any delay in sharing seasonal flu viruses, which alone annually causes            650,000 deaths from respiratory diseases, can diminish their value as vaccine candidates to protect public health.
+
+Recently, a number of countries applied their ABS legislation to seasonal flu strains and as a result they weren't available for research as potential vaccine candidates. "It's the potential implication that if they did turn out to be the preferred strain of choice, and they were kept back from the vaccine, then there would have been a serious public health impact," Downham says.
+
+In 1918 and 1919, the Spanish flu pandemic is estimated to have killed up to 50 million people but in a globalised world, given the larger population and increased travel, the risk posed by a pandemic is even higher, he says.
+
+Today, more and more countries are moving towards enacting Nagoya, interpreting it in a way that requires lengthy negotiations before pathogen samples are shared. So is there a compromise?
+
+This could involve introducing a WHO code of conduct to govern how pathogens are used, based on a list similar to that of the R&D Blueprint, for instance, with the aim of helping to ensure pathogen sharing wouldn't be compromised by ABS legislation.
+
+Ultimately though, the IFPMA believes that given the importance of sharing pathogens when responding to potential epidemics and pandemics, excluding them from ABS obligations altogether is the safest and most pragmatic solution.
+
+"The law should incentivise research, not trip it up," says Kumer.

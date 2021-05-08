@@ -1,0 +1,29 @@
+New Delhi, June 13 -- Twitter announced on Friday that it deleted over 170,000 accounts linked to the Chinese government that pushed false narratives pertaining to the coronavirus disease (Covid-19) pandemic and the pro-democracy movement in Hong Kong, in what is one of the most prominent disinformation campaigns attributed to a nation-state to have been taken down in recent years.
+
+Coordinated disinformation campaigns such as these have been used as a propaganda strategy by several countries to manipulate public opinion on social media platforms such Facebook and Twitter, and experts say the implications could hamper the fight against the pandemic.
+
+The latest network targeted people speaking Chinese languages and pushed pro-Beijing narratives, and, according to Twitter, displayed the same behaviour as a network taken down in August, 2019. At the time, Twitter attributed the network to the Chinese government, citing unblocked IP addresses that only those linked to the administration could have used. Access to Twitter is otherwise blocked in China.
+
+"They were tweeting predominantly in Chinese languages and spreading geopolitical narratives favourable to the Communist Party of China, while continuing to push deceptive narratives about the political dynamics in Hong Kong," Twitter wrote in an analysis on its blog.
+
+According to the post, the accounts included a "highly engaged core" of 23,750 accounts that was boosted by a further 150,000 "amplifier" accounts. Both were largely limited to an echo chamber of their own, the company added.
+
+Open-source researchers have flagged the re-emergence of the so-called Spamouflage network with links to China in recent months. One such detection was in early May after the targeting of exiled businessman Guo Wengui, who criticised the Chinese government's handling of the coronavirus disease (Covid-19) pandemic.
+
+"Last month we found that there were a number of central accounts that posted pro-Chinese government content such as infographics or slogans, but then to give those posts a 'trending' status, or to make them appear legitimate, thousands of accounts with either Chinese, English or Eastern European names would 'like' and 'retweet' the content," said Benjamin Strick, an open source investigator with the BBC, in an interview over instant messaging on Twitter with HT.
+
+Strick first detailed the workings of the Chinese network in a post on digital investigations website Bellingcat on May 5. "The same cluster (of accounts that targeted Guo) amplified specific posts on Covid-19 targeting the US... The posts seen include links between vaping and Covid-19 and biosecurity incidents in the US with the tags #coronavirus and #TruthAboutCovid," the report said.
+
+"Understanding how the network operates is quite important in order to identify it. Last month, we found that there were a number of central accounts that posted a pro-Chinese government content such as infographics or slogans in Chinese, but then to give those posts a 'trending' status, or to make them appear as legitimate, thousands of accounts with either Chinese, English or Eastern European names would 'like' and 'retweet' the content," Strick explained in his comments to HT.
+
+In some cases, the accounts would have dozen-odd followers but, he added, some "posts would have well over 1,000 retweets and likes, all from these fake amplifier accounts".
+
+"It's pretty amazing to see a network of this scale, but it's even more shocking to think that it's state-backed, and that it keeps re-emerging and targeting different narratives. It's a great step by Twitter to publish the data on these accounts," he said.
+
+Twitter also removed two state-backed operations which it attributed to Russia and Turkey.
+
+Digital information researchers said such operations can have a particularly harmful effect in the middle of a pandemic. "The pandemic has brought information chaos on platforms when lack of information is being exploited to fit needs. For instance, adversaries are using disinformation to blame each other since the origin of the virus is unclear. What's more worrying is the rise of conspiracy theories around the issue," said Kanishk Karan, research associate at Atlantic Council's DFR Lab, a research group exploring disinformation and fake news.
+
+"The health of conversation around a pandemic is very important to monitor, since they can erode trust in public health efforts. Unlike the 2016 Russian disinformation campaign, which was aimed at a country's democratic process, this aims at breaking the global trust towards the US," Karan added.
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

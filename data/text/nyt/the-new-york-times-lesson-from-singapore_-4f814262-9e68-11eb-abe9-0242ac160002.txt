@@ -1,0 +1,87 @@
+A well-run system still led to a lockdown. Maybe the answer to the pandemic is a plan “on a scale that would previously be considered unimaginable.”
+
+Many experts are beginning to coalesce around a set of benchmarks that could help determine when it might be safe to reopen parts of the country. But even though most areas of the United States are nowhere near achieving the goals necessary to do so, there has been a push to relax social distancing soon.
+
+Even more alarming, some experts say even those still-not-yet-achieved goals aren’t close to enough. It appears that it may be time to think bigger.
+
+“These are unprecedented times, and so we need to think on a scale that would previously be considered unimaginable,” said Natalie Dean, an assistant professor of biostatistics at the University of Florida.
+
+The cautionary tale at the moment is Singapore. For weeks, public health officials have been enviously lauding its response to Covid-19.
+
+Singapore officials have been screening and quarantining all travelers from outside the country since the beginning of the pandemic. Their contact tracing is second to none. Every time they identify an infection, they commit to determining its origin in two hours. They post online where identified infected people work, live and have spent time so that potential contacts can be identified. They enforce quarantines and isolation of such contacts, with criminal charges for those who violate orders.
+
+And yet, in the last week, they’ve put the entire country into lockdown. All migrant workers are confined to their compounds for at least two weeks. Citizens may leave their homes, but only to buy food or medicine, or to exercise. Anyone who breaks the rules, including spending time with anyone not in their household, can be imprisoned, fined the equivalent of $7,000 U.S., or both.
+
+What Singapore was doing (more on that below) dwarfs what most are discussing in the United States. Its present circumstances bode poorly for our ability to remain open for a long time.
+
+“There’s just no way that we’re going to be able to keep most of the country open through the year,” said Ezekiel Emanuel, vice provost of Global Initiatives at the University of Pennsylvania. “If Singapore can’t do it, I don’t imagine how we think we can. As I have said, this is going to be a roller coaster with multiple waves of opening and partial re-closings necessary.”
+
+Plans that aim higher
+
+Given the U.S. government’s limited and lagging response to date, the idea of a hugely ambitious project may seem implausible. But the cost of another future shutdown is so high that previously unfathomable ideas may be worth considering. Here are a few:
+
+•The Romer plan of maximum testing.
+
+The Romer plan of maximum testing.
+
+Paul Romer, a Nobel-winning economist and N.Y.U. professor, proposes that 7 percent of the population be tested each day. If put on a rotating schedule, that would mean everyone would be tested roughly once every two weeks.
+
+He argues that even if there are plenty of false negatives, if we committed to isolating everyone with a positive test, we could keep the vast majority of Americans out and about in normal life. All told, that would mean 150 million tests a week.
+
+Critics will argue that’s impossible. We cannot even seem to manage a million a day. They say we lack the materials, as well as the reagents for chemical analysis, the delivery infrastructure and the machines to run so many tests.
+
+Mr. Romer is not dissuaded. “I’ve been focused on a single idea my whole career, that just because something is unfamiliar doesn’t mean it’s impossible,” he said. “Building interstate highways, scanning every book, going to the moon — these were all outrageous ideas at one time. But if we put enough resources and our minds behind it, we are able to make the impossible possible.”
+
+His plan would rely less on contact tracing and isolation, since everyone would be tested regularly, and this might make infection control easier in many parts of the country. Contact tracing requires significant infrastructure and is hard to do well.
+
+“We spend something like $700 billion a year to protect us against military threats,” he said. “We are at greater risk from a biological threat at the moment than any military threat. We should be prepared to spend at least a hundred billion a year not only to protect us against this virus, but any potential new viruses that could threaten us in the future.”
+
+•The Center for American Progress plan that leans on monitoring via your phone.
+
+The Center for American Progress plan that leans on monitoring via your phone.
+
+Other ambitious ideas can be found in a plan from the Center for American Progress, written by Dr. Emanuel and colleagues. Part of the proposal is an enormous information technology monitoring system. It would call for all Americans to download apps to their phones that would monitor where they go and whom they get near, which would allow contact tracing to be done instantaneously. Everyone could sign in electronically before using public transportation, entering large buildings or schools or gathering in groups above a certain number. They even propose requiring the app to be downloaded in order to receive test results. In an ideal situation, it would run in the background, regardless of whether users signed in.
+
+“If we could do real-time contact tracing based on a person’s phone and GPS signals, and alert people that they have been exposed to a Covid-19 positive person,” that would greatly ease the containment strategy, he said.
+
+Of course, such a system would be considered a large intrusion on privacy, and it’s not clear it is politically feasible — or even legal. Additionally, not every American has a smartphone.
+
+•The PolicyLab focus on universal community-level surveillance.
+
+The PolicyLab focus on universal community-level surveillance.
+
+Meredith Matone, scientific director of PolicyLab and an assistant professor of pediatrics at the University of Pennsylvania School of Medicine, says we may need to get away from testing to more grass-roots approaches.
+
+“A more realistic and useful approach would focus much more on surveillance, monitoring communities more than individuals,” she said.
+
+As detailed in a PolicyLab Policy Review, such surveillance could relax our need for active testing. It would be more reliant on passive systems, like monitoring electronic medical records or traditional infection monitoring systems to pick up signals for outbreaks, like increased visits to doctors or emergency rooms for respiratory illnesses. Surveillance could also involve a “participatory approach,” like asking patients to be tested before clinic visits, or to enter symptoms on web-based tracking platforms, or to regularly check their temperatures at home. Thermometers would be ubiquitous, and could even be linked to the internet for reminders and reporting.
+
+If such systems work well, we don’t need to capture an entire population to detect a signal. We could identify hot spots, telling us where to do more focused testing.
+
+Such testing could even be done by pooled samples. In such an approach, areas would have their individual samples combined together for testing, which saves resources. If it’s clear, everyone is safe. If an infection is found, then — again — more focused testing could be done on the individuals in the pool.
+
+The PolicyLab review also highlights the benefits of improving workplace safety, especially in high-risk areas like child care, school and health care environments, to make infection control more robust and surveillance easier to accomplish.
+
+•Revisiting Singapore’s strengths.
+
+Revisiting Singapore’s strengths.
+
+Not everyone thinks we need to aim quite that high. Caitlin Rivers, an author of a recent American Enterprise Institute report on reopening the nation and an epidemiologist at the Johns Hopkins Center for Health Security, said: “While Singapore is adding in some community mitigation measures, they’ve been able to successfully keep levels of infection under control for months, and they’re still only seeing one to two hundred infections a day, which is far fewer than we are. A case-based approach is still the best way to move forward, and while it’s possible that some areas may have to revert to staying home, I don’t think that’s inevitable. Of course, we should still prepare for that with economic aid that can quickly snap into place if that needs to happen so that there’s much less disruption than this time.”
+
+In a city-state of 5.7 million people in an area the size of Indianapolis, Singapore has had 140 people dedicated to contact tracing, working in conjunction with the police. A month ago, it could test 2,000 people each day. That’s the equivalent of testing about 115,000 people in the U.S. We were testing barely a tenth of that amount then.
+
+Singapore has always provided free testing and medical care for all citizens; more recently, it distributed reusable face masks to everyone.
+
+Officials were careful. While stores and restaurants were open, people were told to keep at a distance from one another, and gatherings of more than 10 people were considered inadvisable.
+
+All of this is to say that people in Singapore have been operating in an environment that looks like what we might hope to create as we reopen — with safeguards beyond what we are probably going to achieve. And yet Singapore is in lockdown now.
+
+It’s not clear how tolerant the United States would be of another national pause. If Americans failed to comply, the results could be disastrous. Preventing a second lockdown could even be considered a long-term investment.
+
+“Our trajectory right now does not give me hope,” said Gregg Gonsalves, a professor of epidemiology and law at Yale. “Social distancing is happening in only a patchwork across the United States. The next phase needs a massive national mobilization not seen since World War II, with dramatic scale-up of the production of tests for the virus and its antibodies, the commodities we need to do these tests, from long-stemmed swabs to RNA extraction kits and the personal protective equipment to keep those conducting the tests safe. We also need a huge new cadre of people to do these tests, trained and deployed across the country.”
+
+“And that’s the first step,” he added.
+
+All this sounds expensive. But consider that the cost of a shutdown is trillions of dollars. We clearly don’t want to do this again. As Mr. Romer says, if it costs a couple of hundred billion to avoid it, that may still be a relatively low price to pay.
+
+PHOTO: Handling a sample while running a test for Covid-19. Increasing the amount of testing the United States does is essential to managing the outbreak, experts say. (PHOTOGRAPH BY Guillermo Arias/Agence France-Presse — Getty Images FOR THE NEW YORK TIMES)

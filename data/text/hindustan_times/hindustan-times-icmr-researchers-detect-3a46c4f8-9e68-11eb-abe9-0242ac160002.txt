@@ -1,0 +1,43 @@
+India, April 14 -- Researchers of the Indian Council of Medical Research (ICMR) have detected coronaviruses (CoVs) among two species of bats in the country, highlighting the need for continuous active surveillance in the mammal to identify the emerging strains of the viruses that can cause an epidemic.
+
+Bats are considered to be the natural reservoir for many viruses, of which some can potentially infect humans. Many viruses have had their origin in bat species over the last two decades. Bats have been recognised as the natural reservoirs of a variety of pathogenic viruses such as Rabies, Hendra, Marburg, Nipah, and Ebola. Bats are known to harbour CoVs and serve as their reservoirs.
+
+In India, an association of Pteropus medius bats led to the Nipah virus disease outbreak in Kerala a couple of years ago. It is suspected that the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which causes coronavirus disease (Covid-19), can also be traced to bats.
+
+Coronavirus outbreak: Full coverage
+
+India has a diverse population of bats. Around 117 species of bats have been recorded in the country, with around 100 sub-species coming under 39 genera belonging to eight families of the mammal.
+
+"To assess the presence of CoVs in bats, we performed identification and characterisation of bat CoV (BtCoV) in P. medius and Rousettus species from representative states in India collected during 2018 and 2019," said the researchers in the paper published in the Indian Journal of Medical Research on April 13.
+
+The specimens were collected from Pteropus spp. bats from Kerala, Karnataka, Chandigarh, Gujarat, Himachal Pradesh, Odisha, Puducherry, Punjab, Tamil Nadu, and Telangana, and Rousettus spp. bats from Kerala, Karnataka, Chandigarh, Gujarat, Odisha, Punjab, and Telangana between 2018 and 2019.
+
+Rectal swab (RS) and throat swab specimens of Pteropus and Rousettus spp. bats were screened for CoVs using a pan-CoV reverse transcription-polymerase chain reaction (RT-PCR) from the seven states in the country, where bats are commonly found. Next-generation sequencing (NGS) was performed on a few representative bat specimens that were tested positive to know the whole gene sequence. The match was found with coronaviruses between 93.69 and 96.9%.
+
+The researchers screened 21 of the 508 RSs from Pteropus spp. bats that tested positive for the BtCoV. These positive bats belonged to Kerala (n=12), Himachal Pradesh (n=2), Puducherry (n=6), and Tamil Nadu (n=1), where n stands for the number of the samples tested.
+
+Altogether, 25 bats from both the species were found positive.
+
+The BtCoV causing human infection belongs to ?- and ?-CoV genera of the coronaviridae family, according to the available information.
+
+?-CoV genus has five strains known to infect humans. The two human-infecting strains (NL63 and 229E) from ?-CoV genus, which causes mild-to-moderate respiratory infections, are believed to have originated in bats.
+
+Two members of the ?-CoV genus (HCoV-OC43 and HCoV-HKU1) are known to cause the common cold and lower respiratory tract infections. The other three are known to be pathogenic to humans (SARS-CoV-1, MERS-CoV, and SARS-CoV-2). The SARS-CoV-1 and SARS-CoV-2 belong to L_B and MERS CoV belongs to L_C of ?-CoV genus.
+
+"This study was a step towards understanding the CoV circulation among Indian bats. Detection of potentially pathogenic CoVs in Indian bats stresses the need for enhanced screening for novel viruses in them.
+
+This would help in the development of diagnostic assays for novel viruses with outbreak potential and be useful in disease interventions. Proactive surveillance remains crucial for identifying the emerging novel viruses with epidemic potential and measures for risk mitigation," the researchers said.
+
+SARS-CoV-2 is reported to be 96% identical to BtCoV at the whole genome level.
+
+Most of the human CoVs are either zoonotic --- a disease that normally exists in animals but that can infect humans --- in origin or circulate in animals. CoVs can cause a wide range of infections, including respiratory tract infections, gastroenteritis, hepatitis, and encephalomyelitis in their respective hosts.
+
+In India, parts of the Western Ghats, particularly in Kerala, are reported to be the habitat of diverse bat populations. The reports of pathogenic human viruses from bat specimens demand enhanced methods to monitor the local population's exposure to various bat species. Investigations in unexplored regions/states should be focused on gaining further insights into CoV diversity within Indian bat populations, according to the researchers.
+
+In the present scenario of changing demography and ecological manipulations, it is challenging to have checks on the encounters of bats with other animals and humans. Active and continuous surveillance remains crucial for outbreak alerts for bat-associated viral agents with epidemic potential, which would be helpful in timely interventions, they added.
+
+Experts said there is a need for proactive surveillance of zoonotic infections in bats. Detection and identifications of such causative agents will provide leads for the development of diagnostic along with preparedness and readiness to deal with such emergent viruses in a bid to quickly contain them from spreading.
+
+"This is something we have been asking for a long time. Bats and rodents harbour a number of pathogens that can cause possible harm to humans, and these also interact the most with humans. Bats, rodents, and primates are key targets for pathogens of human concern," said Dr Abi Tamim Vanak, a wildlife scientist and senior fellow, Ashoka Trust for Research in Ecology and the Environment, and fellow, department of biotechnology, Wellcome Trust India Alliance.
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

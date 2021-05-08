@@ -1,0 +1,37 @@
+The Metropolitan police have been using software that can be deployed to help identify whether different ethnic groups "specialise" in particular types of crime, the Guardian can reveal.
+
+The Origins programme, produced by Webber Phillips, a consultancy run by Prof Richard Webber and the former Equality and Human Rights Commission chair Trevor Phillips has been described by the former as conferring the ability "to profile perpetrators and victims" of crimes.
+
+That has led to warnings that the software - which works by attempting to identify people's ethnicity or cultural origin by their name - can facilitate stereotyping and stigmatisation.
+
+The Met said it had never used it for the purpose suggested by Webber but instead to enable safer neighbourhood teams to better understand the communities they serve.
+
+However, equality campaigners expressed concern, particularly in light of a string of recent controversies involving policing of black people.
+
+An Institute of Race Relations (IRR) spokesperson said: "Police use of this software heightens already well-aired concerns about racial profiling. The fact that the Met and other police forces now see a need to rely on such data analytics in order to reach an 'understanding of the communities' within their areas is a sign of just how far we have moved away from the traditions of community policing and policing by consent, due in no small measure to their disproportionate and excessive use of stop and search, handcuffing and Tasers against black people. "
+
+In a 2017 article about Origins in the industry journal Police Professional, Webber wrote: "Just as each community develops legitimate means of acquiring wealth, it would be surprising if there were not a parallel specialisation in forms of criminality.
+
+"Sometimes these go together; as, for instance, where the minority population most likely to run petrol stations is also the one that is most proficient in ATM fraud; or when those who run taxi services have the best opportunities to engage in abuse of young girls."
+
+In another article, on neighbourhoodalert.co.uk, he wrote that while opportunity and treatment can be relevant, "different cultures do foster differences in behaviour among their members".
+
+He added: "It is legitimate to argue that deep-seated attitudes do exist which characterise some communities and religions more than others, especially if these differences can be evidenced from operational data."
+
+Webber wrote that he had no desire "to link particular criminal activities with particular communities publicly".
+
+Phillips is a divisive figure among race relations campaigners, having described the use of the term "institutional racism" by the Macpherson inquiry as "a mistake whose consequences are still felt today". In March, he was suspended by the Labour party for alleged Islamophobia, which he denies.
+
+The Guardian sent Freedom of Information requests to all UK police forces asking if they had used Origins since 2015. The Met said it had been in use until February this year but was unable to say the start date.
+
+Norfolk and Suffolk constabularies said they used Origins between 2008 and 2015 but provided no further details. West Midlands police said its licence ended in 2015 but it had found three records of it being used since, including for "FGM countries".
+
+Bedfordshire police said it had contracted with Webber Phillips for one year, until the end of this month, at a cost of approximately £15,000, without providing further details.
+
+A Met spokesperson said: "The software was never used for the purpose suggested. It was used to help map communities to allow safer neighbourhood teams to better understand - and therefore more appropriately support - their local communities."
+
+Nonetheless, John Azar, a vice-chair of the Met's independent advisory group on race, but speaking as chair of the Kingston race and equality council, said: "This is very disturbing. If the Met has been seen to be promoting this software within its ranks and racial profiling, how can these [BAME] communities see the Met as acting on their behalf? I think this is dangerous territory."
+
+The IRR said it wanted to know whether partner organisations including local authorities were consulted about the mapping. "As this information comes to light at a time when police and black community relations in the capital are extremely fraught, it's inevitable that the Met's use of demographic mapping will be viewed with suspicion and seen for what it is, racial profiling," the spokesperson said.
+
+In April, Phillips said the Origins software, would be used in the inquiry into why BAME people are being disproportionately affected by Covid-19. However, he ended up playing no role in it.

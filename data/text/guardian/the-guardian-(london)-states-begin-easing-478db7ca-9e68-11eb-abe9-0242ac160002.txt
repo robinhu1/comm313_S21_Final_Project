@@ -1,0 +1,1355 @@
+block-time published-time 10.48am BST
+
+We'll leave it there for tonight. Have a fantastic Friday night. See you soon.
+
+block-time published-time 10.37am BST
+
+Summary
+
+Let's whip around the main developments of the day.
+
+•The PM announced the national cabinet's three-stage 'roadmap' to ease Covid-19 restrictions.•Some states - Queensland, South Australia and Tasmania - then indicated their own initial changes to restrictions, which they will enact in the coming days.•Victorians were told the government will outline an easing of restrictions on Monday, while New South Wales said only that it will be making no changes this week.•The Reserve Bank of Australia forecast the unemployment rate will hit 10% in June, and won't climb down to 6.5% until June 2022.•The worrying Cedar Meats cluster in Melbourne's west reached 71 cases.•Three NRL players were stood down for not getting the flu shot.•And, moments after Scott Morrison concluded his press conference today, the government delayed the implementation of recommendations from the banking royal commission.
+
+The PM announced the national cabinet's three-stage 'roadmap' to ease Covid-19 restrictions.
+
+Some states - Queensland, South Australia and Tasmania - then indicated their own initial changes to restrictions, which they will enact in the coming days.
+
+Victorians were told the government will outline an easing of restrictions on Monday, while New South Wales said only that it will be making no changes this week.
+
+The Reserve Bank of Australia forecast the unemployment rate will hit 10% in June, and won't climb down to 6.5% until June 2022.
+
+The worrying Cedar Meats cluster in Melbourne's west reached 71 cases.
+
+Three NRL players were stood down for not getting the flu shot.
+
+And, moments after Scott Morrison concluded his press conference today, the government delayed the implementation of recommendations from the banking royal commission.
+
+block-time updated-timeUpdated at 10.41am BST
+
+block-time published-time 10.25am BST
+
+The Australian Hotels Association, essentially the nation's pubs lobby, has claimed the national cabinet's "roadmap" out of the Covid-19 pandemic will hurt its members.
+
+"Hotels have been left blindsided," the AHA chief executive, Stephen Ferguson, said on Friday, according to AAP.
+
+"They basically will not be able to reopen their businesses until stage three of the recovery process."
+
+Ferguson said the plan failed to account for venues with large floor space and most would be forced to remain closed.
+
+"We are told only 10 people can sit and have a meal in a pub restaurant area even if that area could safely socially distance 50 or 100," he said
+
+"Why can only 10 people be allowed in a dining area of a huge venue that could safely socially distance 120?"
+
+People are cramming into supermarkets and work side-by-side on building sites, he said.
+
+"Where is the consistency?"
+
+He warned that many operators were already struggling with mounting debts after being closed for more than a month and the recovery plan could force some to close their doors permanently.
+
+"Hotels have done the right thing, put the health of staff and patrons first the moment this pandemic hit - and we will continue to do so - but common sense needs to prevail here too," he said.
+
+block-time updated-timeUpdated at 10.29am BST
+
+block-time published-time 9.57am BST
+
+This is not strictly a Covid-19 story, but a very interesting piece from Paul Karp on the so-called 'sports rorts' scandal.
+
+Related:  Bridget McKenzie was told to seek Scott Morrison's 'authority' for sports grants program
+
+block-time updated-timeUpdated at 9.57am BST
+
+block-time published-time 9.43am BST
+
+Covidsafe app code released
+
+The Digital Transformation Agency has finally released the source code for the Android and iOS apps for Covidsafe.
+
+It's being hosted on Github and there's a lot of interesting T&Cs there, including agreeing to stop accessing the code if DTA ask.
+
+It's unclear why it took so long to release the code, given the UK released the code for its NHS app overnight (which, incidentally, had fixed the iPhone bluetooth issue that has dogged the Singapore and Australian apps).
+
+We will get a better idea of how it all works once developers have had a chance to go through it in the coming days.
+
+There are now calls for the server side code (that is the code on the government's server for storing your registration data and data should you test positive) to be released. That will probably be less likely.
+
+block-time published-time 9.37am BST
+
+Daniel Hurst and Paul Karp filed this report on Scott Morrison's press conference today, where he announced the "roadmap" to ease Covid-19 restrictions in coming weeks.
+
+Related:  Scott Morrison details Australia's three-step path out of coronavirus lockdown
+
+block-time published-time 8.59am BST
+
+Flu shot not mandatory for AFL players, league confirms
+
+From AAP:
+
+The AFL won't mandate its players to have a flu vaccination ahead of the season resumption and will leave the decision up to footballers and their respective club doctors.
+
+NRL players are required to either have the flu vaccination or sign waiver forms as rugby league works towards a planned 28 May season restart.
+
+But the AFL maintains flu shots will be at the discretion of players and club staff, not a league-wide policy.
+
+"While the AFL recommends players and officials to get a yearly flu shot, the decision is ultimately that of the player and club doctor as to whether they wish to do so," an AFL spokesperson said.
+
+On Friday morning, Gold Coast Suns captain David Swallow questioned whether flu vaccinations should be compulsory in the AFL if players weren't comfortable with them.
+
+The NRL had amended its original waiver form on Thursday after several players refused to sign it on religious or conscientious grounds.
+
+On Friday, three Gold Coast Titans players, including Bryce Cartwrigh t, were stood down by the NRL for refusing to take the flu shot, on the advice of Queensland health officials.
+
+The other two players were believed to be Nathan Peats and Brian Kelly.
+
+Peats later said on Twitter he was not anti-vaccination and had avoided the flu jab due to an adverse experience while at South Sydney back in 2012 - but was now planning to have the shot on Friday afternoon.
+
+Earlier on Friday, Prime Minister Scott Morrison backed any decision by state governments to apply a 'no jab, no play' policy to the NRL.
+
+block-time updated-timeUpdated at 9.01am BST
+
+block-time published-time 8.52am BST
+
+Tourism industry cautiously welcomes three-step plan
+
+Australia's tourism industry has cautiously welcomed the national cabinet's roadmap for easing coronavirus restrictions, pointing to the possibility of domestic travel from next month.
+
+"All the signs are pointing to green shoots of domestic travel from June," Australian Tourism Industry Council executive director Simon Westaway said, according to AAP.
+
+Westaway said while there was a long way to go before tourism returned to normal, members had already expressed their excitement about the plan for the way out.
+
+"What's really important about today is that there has been a level of certainty put out there," he said
+
+"The level of uncertainty has been a big part of the angst for our industry."
+
+But he said the biggest challenge facing tourism operators was the ongoing closure of state borders.
+
+He said if businesses in the sector could be given confidence about when they would reopen, that would help stimulate its recovery.
+
+Despite the easing of restrictions in some states from next week, Westaway said he didn't expect every 4WD would be on the road straightaway.
+
+"I think people are going to be a bit circumspect to a degree," he said.
+
+"I think you'll see it progressively start to occur."
+
+block-time updated-timeUpdated at 8.59am BST
+
+block-time published-time 8.30am BST
+
+My colleague Justine Landis-Hanley has compiled this explainer looking at the national cabinet's three-step plan for reopening Australia announced by Scott Morrison today.
+
+Related:  The three-step plan for reopening Australia after Covid-19 and what Stage 1, 2 and 3 looks like
+
+block-time updated-timeUpdated at 8.31am BST
+
+block-time published-time 8.27am BST
+
+Labor has criticised the six-month delay of the banking royal commission recommendations, saying it is a "failing" the government did not implement them before the Covid-19 pandemic.
+
+Anthony Albanese, Jim Chalmers and Stephen Jones said in a statement:
+
+It is a failing of the Morrison Government that the Banking Royal Commission recommendations were not implemented in full before the COVID-19 crisis.
+
+We join with consumer groups in holding the Government to account until they keep their promise with the Australian people and implement the recommendations.
+
+Labor calls for the Royal Commission implementation delays to be limited to no more than 6 months.
+
+The Government resisted the Banking Royal Commission for years, voted against it 26 times and have dragged their feet on implementation.
+
+After receiving the Banking Royal Commission's final report, Prime Minister Morrison and Treasurer Frydenberg took six months to release an implementation timetable.
+
+One year after the report was on their desks, the Government had only completed 6 out of the 76 recommendations made by Commissioner Hayne.
+
+Labor acknowledges the role that the banks are playing in the current crisis.
+
+We support a strong banking system and the recent measures that have added needed liquidity and financial support during COVID-19.
+
+But the Australian public also have an expectation that the Banking Royal Commission recommendations will be implemented.
+
+With almost half the workforce on JobKeeper or JobSeeker, consumers need to be sure that they are protected from financial misconduct.
+
+We agree with consumer groups who wrote to the Treasurer on 16 April 2020 expressing concerns.
+
+While there is a reasonable case for a six-month extension to deadlines, the Australian community still expects to see action on the Banking Royal Commission.
+
+Australians just want fair treatment from our financial institutions.
+
+It is Josh Frydenberg's job to make sure that still happens.
+
+block-time updated-timeUpdated at 8.31am BST
+
+block-time published-time 8.00am BST
+
+enltrVictorian Health Minister Jenny Mikakos tells @abcmelbourne she has today signed the agreement to enable information from the COVIDSafe app to be shared from the federal government            #auspol
+
+- Tom McIlroy (@TomMcIlroy) May 8, 2020
+
+block-time published-time 7.43am BST
+
+The Nationals deputy leader, David Littleproud, said earlier today the Coalition deserves an "uppercut" for self-indulgent infighting ahead of the Eden-Monaro byelection.
+
+"Self-indulgence on any level is not accepted by the Australian people nor should it be. We deserve an uppercut," he told ABC television on Friday.
+
+"You have a look at yourself, you dust yourself off and get back to basics. We can't sugarcoat it, that's the truth."
+
+Littleproud's comments follow a feud between NSW Liberal transport minister Andrew Constance and Nationals NSW deputy leader John Barilaro.
+
+Both were touted for the byelection but failed to run, with Constance pulling out of the race 24 hours after throwing his hat in the ring.
+
+Constance quit the race after News Corp published text messages in which Barilaro purportedly called him a "cunt".
+
+block-time published-time 7.28am BST
+
+NSW: no changes to restrictions this week
+
+A few observers have noted we haven't heard from the NSW premier Gladys Berejiklian after today's national cabinet meeting.
+
+The premier has just issued a statement, which confirms no changes to restrictions this week.
+
+She says:
+
+NSW welcomes the framework for the further easing of restrictions endorsed today by the National Cabinet.
+
+This framework provides a clear pathway to what citizens can look forward to in coming months.
+
+The NSW Government has already eased a number of restrictions listed under the first stage of the plan.
+
+As I stated earlier this week - there will be no further change to restrictions in NSW this week.
+
+NSW will continue to keep our citizens updated on our path forward.
+
+block-time updated-timeUpdated at 7.37am BST
+
+block-time published-time 7.19am BST
+
+The Business Council is pleased with the roadmap laid out by the prime minister Scott Morrison today.
+
+"The national cabinet has laid out a clear roadmap to give the community and business confidence while also respecting the important advice from our health professionals," said chief executive Jennifer Westacott.
+
+"Business will continue to work closely with governments on plans and protocols to ensure the economy opens up safely so that the health of our staff, customers and suppliers is protected.
+
+"People can have confidence that businesses across Australia are putting in place detailed plans across their industries, so they can operate safely, but get people back to their work and their lives as quickly as possible.
+
+"We thank the entire Australian community for pulling together so effectively to get us to this milestone and congratulate the national cabinet on its continued willingness to respond and adapt to this evolving situation.
+
+"Australians have pulled together to contain Covid-19 and we'll need the same focus, cooperation and determination to set ourselves up for a strong recovery as we ease restrictions."
+
+block-time updated-timeUpdated at 7.23am BST
+
+block-time published-time 7.18am BST
+
+Our Watch, which campaigns to prevent violence against women, says it is concerned about the number of women killed by a partner or ex-partner in the past week.
+
+Our Watch chief executive Patty Kinnersly said: "Since March, Google searches on domestic violence have increased by 75% and the family court has reported an increase up to 40% in urgent applications."
+
+"These recent tragic murders are one horrifying part of a huge spectrum of violence against women in our society.
+
+"We know that while this violence takes many forms, the underlying driver is gender inequality.
+
+"We also know that crises tend to disproportionately affect women, often lead to increases in violence against them, and exacerbate existing gender inequalities across society."
+
+"If we are not considered, our response to Covid-19 could unintentionally reverse decades of progress towards gender equality.
+
+"Now more than ever, governments, workplaces, and communities must remain committed to this goal."
+
+•1800 Respect - call 1800 737 732 or visit www.1800respect.org.au•Lifeline - call 13 11 14 or visit www.lifeline.org.au
+
+1800 Respect - call 1800 737 732 or visit www.1800respect.org.au
+
+Lifeline - call 13 11 14 or visit www.lifeline.org.au
+
+block-time updated-timeUpdated at 7.23am BST
+
+block-time published-time 7.08am BST
+
+AAP reports that the NT is keeping to its own plans for easing restrictions.
+
+The Northern Territory will stick with its existing plans for the lifting of restrictions imposed to combat the coronavirus pandemic in the wake new national measures released on Friday.
+
+Chief minister Michael Gunner  indicated the territory would push ahead with its three-stage approach that will remove most restrictions on business and community activities by early June.
+
+The NT's changes began last weekend with parks reopening and outdoor weddings and funerals allowed along with real estate inspections and auctions.
+
+Stage two from May 15 allows for the reopening of restaurants, cafes, and bars as long as people purchase food.
+
+Non-contact sports can also start, and indoor activities will be allowed for those of less than two hours.
+
+That includes beauty salons, gyms, libraries and places of religious worship.
+
+The third and final stage from 5 June will remove the two-hour limit on indoor activities, and allow the reopening of bars and clubs without food being compulsory.
+
+Entertainment venues and cinemas will also reopen and team sports such as football and netball will be allowed.
+
+Businesses are required to complete a safety plan to ensure physical distancing and good hygiene.
+
+The internal border controls restricting access to areas that include indigenous communities will remain in place until 18 June and possibly longer.
+
+block-time updated-timeUpdated at 7.24am BST
+
+block-time published-time 7.01am BST
+
+Further describing stage two, Gutwein says it would allow people to move around the state, including camping, overnight boats and holiday shacks.
+
+Gyms and bootcamps would be open to 20 people, while beauty services including tattoo parlours would also be allowed.
+
+Indoor sport would also be allowed.
+
+Note: This is Gutwein describing the possibility rules from after 15 June, if the advice allows it.
+
+block-time published-time 6.58am BST
+
+Gutwein is laying out the state's roadmap.
+
+He says from 25 May, primary school students will return to school, as well as year 11 and 12 students.
+
+From 9 June, high school students from year 7 to 10 will also return to school.
+
+From 15 June, the state will move to stage 2, subject to health advice.
+
+"On June 15, gatherings will increase to 20 people at a time, both indoor and outdoor areas including restaurants, cafes, cinemas, museums, galleries, historic sites, religious gatherings and weddings," he says.
+
+From that point, it is expected up to 50 people would be allowed to attend a funeral.
+
+block-time updated-timeUpdated at 7.25am BST
+
+block-time published-time 6.54am BST
+
+Gutwein says Tasmania will move to Stage 1 on 18 May, subject to public health advice.
+
+That would mean:
+
+•Indoor and outdoor gatherings of up to 10 people.•Up to five visitors to a home.•Restaurants, cafes and other venues can open for up to 10 people at a time.•Border controls will remain in place.
+
+Indoor and outdoor gatherings of up to 10 people.
+
+Up to five visitors to a home.
+
+Restaurants, cafes and other venues can open for up to 10 people at a time.
+
+Border controls will remain in place.
+
+block-time updated-timeUpdated at 7.04am BST
+
+block-time published-time 6.53am BST
+
+Tasmania to ease restrictions from Monday
+
+Tasmanian premier Peter Gutwein just addressed the media.
+
+He says from Monday, the government will ease some restrictions.
+
+That includes:
+
+•20 people will be able to attend funerals, up from 10•Aged care visits will move to one visit per week•National parks to open for exercise, but only for people who live within 30km
+
+20 people will be able to attend funerals, up from 10
+
+Aged care visits will move to one visit per week
+
+National parks to open for exercise, but only for people who live within 30km
+
+block-time updated-timeUpdated at 6.58am BST
+
+block-time published-time 6.41am BST
+
+We're getting some reaction to the government's decision to delay the recommendations of the banking royal commission.
+
+"These reforms are crucial to help protect consumers from financial service industry practices that were shown to have caused severe and long-lasting harm to people across Australia," said the Consumer Action Law Centre chief executive Gerard Brody.
+
+"We appreciate that the fallout from Covid-19 has forced the government to drastically change its priorities and focus in the short-term. We consider a six-month deferral of these much-needed reforms a sensible compromise."
+
+"Any further delay creates a greater risk that progress towards these reforms will be lost and consumers - particularly those most vulnerable - will continue to suffer."
+
+block-time updated-timeUpdated at 6.43am BST
+
+block-time published-time 6.20am BST
+
+Thanks to Ben for his efforts today. I'll guide you through to the start of the weekend. Hope you can stick with us.
+
+block-time published-time 6.15am BST
+
+Thanks for your company for the last couple of hours. It's now over to Luke Henriques-Gomes to take you onward.
+
+Go well.
+
+block-time published-time 6.14am BST
+
+Three NRL players stood down for refusing to take flu shots
+
+From AAP:
+
+Three Gold Coast Titans players, including Bryce Cartwright, have been stood down by the NRL for refusing to take the flu shot. Queensland chief health officer Jeannette Young made the announcement on Friday after discussions with the NRL over its controversial flu vaccination policy.
+
+"I've had a discussion with [the NRL] this morning and they've stood down those three players at the moment, until we work through what it means," Young said.
+
+block-time updated-timeUpdated at 7.11am BST
+
+block-time published-time 6.10am BST
+
+Number of coronavirus cases in Melbourne's Cedar Meats cluster rises to 71
+
+There are now eight more coronavirus cases linked to the Cedar Meats processing facility - a total of 71 in the cluster.
+
+The Victorian chief health officer, Brett Sutton, says:
+
+The department is working closely with the company, which agreed to close their facility for 14 days as a precaution to ensure all required steps are taken - including thorough contact tracing, identifying all close contacts, widespread testing and precautionary cleaning.
+
+All staff have been tested or are in the process of being tested. All staff are being provided with further information about potential exposure to coronavirus in the workplace, symptoms and quarantine requirements.
+
+block-time updated-timeUpdated at 6.15am BST
+
+block-time published-time 6.04am BST
+
+The former prime minister Kevin Rudd has written for the Guardian, comparing thinly-sourced claims linking the origins of the coronavirus to a Chinese lab to the "evidence" that led us blindly into the Iraq war; the supposed (but non-existent) weapons of mass destruction.
+
+Rudd writes:
+
+China has much to answer for, including the ultimate origins of the virus. But if Trump's claim in the Wuhan laboratory saga ultimately ends up being disproven, either by the Five Eyes or by US intelligence itself, then the irony is that the net political winner will be China.
+
+Remember the humiliation when no WMD were found in Iraq? Beijing would seek to exonerate itself as a result of egregious presidential overreach - once again aided and abetted by the Murdoch media. This is why the watchword of any sophisticated intelligence agency is caution in endorsing premature conclusions until all the facts are on the table.
+
+Related:  The Murdoch media's China coronavirus conspiracy has one aim: get Trump re-elected | Kevin Rudd
+
+block-time updated-timeUpdated at 6.09am BST
+
+block-time published-time 5.52am BST
+
+Oh and while we're on the topic, don't call the footy anti-vaxxers "conscientious objectors".
+
+That kind of assumes there is a level of consciousness about ignoring medical science.
+
+block-time updated-timeUpdated at 5.56am BST
+
+block-time published-time 5.50am BST
+
+enltrQLD Chief Medical Officer has just confirmed 3 Queensland-based NRL players will be stood down while flu-jab policy is reviewed. #NRL
+
+- Travis Meyn (@travismeyn) May 8, 2020
+
+block-time updated-timeUpdated at 6.07am BST
+
+block-time published-time 5.43am BST
+
+The consumer advocacy group Choice has backed the government's deferral of the recommendations of the banking royal commission.
+
+Choice CEO Alan Kirkland :
+
+Choice welcomes the government's continued commitment to implementing the Banking Royal Commission recommendations.
+
+A six-month deferral strikes a sensible balance between recognising the reality of these unprecedented circumstances and the need to legislate reforms to protect consumers, who will need this even more in the coming months.
+
+We look forward to working with the government to finalise the remaining reforms as soon as possible.
+
+block-time published-time 5.36am BST
+
+Don't kiss the football.
+
+enltrAndrew Barr says we can go and kick the footy this weekend!! (in groups less than 10) Don't kiss the footy though, he says, and wash your hands.
+
+- Sally Whyte (@sallywhyte) May 8, 2020
+
+block-time published-time 5.32am BST
+
+South Australia easing restrictions to allow outdoor dining from Monday
+
+Restrictions also set for a staged easing in South Australia, the premier Steven Marshall says.
+
+The state's plan goes a bit further than those we've heard from so far. It allows dining in outdoor dining at restaurants and cafes, for groups of up to 10 people, from Monday.
+
+We will be the only jurisdiction in the country which will be easing the ban on caravanning and camping. And we are wanting people to get out and explore our beautiful backyard here in South Australia, spend some money in regional South Australia, and of course help those economies move forward and create jobs.
+
+block-time updated-timeUpdated at 5.34am BST
+
+block-time published-time 5.28am BST
+
+Port Authority CEO told staff to "deny pilotage" to Ruby Princess
+
+The acting CEO of the NSW Port Authority told her staff not to send an employee onto the Ruby Princess due to coronavirus concerns, an inquiry has heard.
+
+Emma Fensom told the special inquiry today that on 18 March, the night before the Ruby Princess docked in Sydney Harbour, she told the harbourmaster to "deny pilotage" for the ship - meaning they would not send an employee on board to help it dock.
+
+She said that earlier in the night, the duty harbourmaster, Cameron Butchard told her that Royal Prince Alfred hospital had set aside "two Covid beds" for sick passengers.
+
+The inquiry heard previously that the port agent for Carnival Australia, who operate the ship, called NSW Ambulance to book paramedics. Fensom told the inquiry that after Butchard told her about the ambulances, she told him to "deny pilotage" until they had more information.
+
+She also told the inquiry that Paul Mifsud, a manager of Carnival Australia, told her that "NSW Health had not said the ambulances were for Covd-19". Mifsud also told her "nor has NSW Health said there is Covid-19 on board", she said.
+
+Fensom said she did not try and contact anyone from NSW Health herself.
+
+The commissioner, Bret Walker SC, asked her whether everything that Mifsud told her was "hearsay", in that they were things he was told by someone else.
+
+She agreed with his proposition that "All he as doing was passing on what somebody had told him."
+
+Fensom was also asked by counsel assisting, Richard Beasley SC, whether she was "concerned that there wasn't someone from NSW health for contact" that night. She said she was concerned.
+
+block-time updated-timeUpdated at 5.36am BST
+
+block-time published-time 5.26am BST
+
+ACT to allow gatherings of up to 10 people, indoors and outdoors, from midnight
+
+Chief minister, Andrew Barr has announced the Australian Capital Territory will be easing restrictions from midnight, allowing gatherings of up to 10 people in indoor and outdoor settings.
+
+Barr advised Canberrans to avoid large crowds, keep 1.5m apart from others, continue to practice good hand hygiene and to "stay home" from work or school if you are sick.
+
+block-time updated-timeUpdated at 5.35am BST
+
+block-time published-time 5.25am BST
+
+Some news on the ACT loosening its restrictions:
+
+enltrThe ACT will ease restrictions to allow up to 10 people to gather both indoors and outdoors from midnight tonight. So that includes boot camps, picnics, house inspections, auctions. Indoor funerals can now have up to 20 people, outdoor ones up to 30 people.
+
+- Shalailah Medhora (@shalailah) May 8, 2020
+
+block-time published-time 5.24am BST
+
+Queensland's reopening plan is quite comprehensive.
+
+Stage 1 from 15 May
+
+Stage 2 from 12 June
+
+Stage 3 from 10 July
+
+The final phase appears to allow for the potential resumption of interstate travel - ie opening the closed border at the Tweed.
+
+enltrBREAKING: Queensland's roadmap to easing restrictions https://t.co/eKZ63xZC5v           #coronavirus           #qldjobs           pic.twitter.com/8qQZkqi8p4
+
+- Annastacia Palaszczuk (@AnnastaciaMP) May 8, 2020
+
+block-time updated-timeUpdated at 5.27am BST
+
+block-time published-time 5.15am BST
+
+Government delays changes from banking royal commission
+
+The federal government has just announced it is delaying the implementation of the findings of the banking royal commission for six months.
+
+We'll have more detail on that soon, but a statement from the treasurer,  Josh Frydenberg, says it will allow the financial services industry to focus their efforts on planning for the economic recovery.
+
+block-time published-time 5.10am BST
+
+Queensland to begin rolling back restrictions from Saturday week
+
+There is a "clear Queensland plan" to return to normality, the premier Annastacia Palaszczuk says.
+
+Starting Saturday week, the following will be allowed.
+
+•Gatherings in homes with a maximum of five people.•Gathering of 10 people in other places.•Opening beauty salons ("good news for the ladies", says the premier.•Weddings can have 10 guests.•Funerals can have 20 guests indoors, 30 outdoors.•Open homes will be allowed.•Lagoons open for swimmers.•Dining in pubs and cafes in outback areas (where there are no cases) limited to 20 people.
+
+Gatherings in homes with a maximum of five people.
+
+Gathering of 10 people in other places.
+
+Opening beauty salons ("good news for the ladies", says the premier.
+
+Weddings can have 10 guests.
+
+Funerals can have 20 guests indoors, 30 outdoors.
+
+Open homes will be allowed.
+
+Lagoons open for swimmers.
+
+Dining in pubs and cafes in outback areas (where there are no cases) limited to 20 people.
+
+The next stages will increase travel distances allowed and open more businesses in time for the June school holidays.
+
+block-time updated-timeUpdated at 5.31am BST
+
+block-time published-time 5.05am BST
+
+And here's the Queensland premier, Annastacia Palaszczuk.
+
+She says there's no new cases overnight.
+
+We are dealing with the health crisis and economic crisis but I know that Queenslanders want certainty and they want a clear path forward in terms of what they can do and when that life can start returning back to some form of normality and of course this is going to be gradual, it will take time and we cannot rush these and do everything all at once. I want to reassure you that I am listening to my chief health officer and taking the very best health advice and we are also working constructively at the national cabinet.
+
+block-time updated-timeUpdated at 5.06am BST
+
+block-time published-time 5.00am BST
+
+Hello all, and thanks to Michael McGowan for his contribution as we veer into another afternoon of constant updates and occasional sad reminders that it's Friday afternoon, but we won't be at the pub later.
+
+Expecting Queensland's premier, health minister and the chief health office up in a few minutes.
+
+The big question they should expect is about the NRL's return and whether the code's cluster of anti-vaxxers will be allowed to play in the state if they refuse a flu shot.
+
+Strap yourself in and here we go.
+
+block-time updated-timeUpdated at 5.05am BST
+
+block-time published-time 4.55am BST
+
+That's where I'll leave you this afternoon. We expect to hear from the Queensland and South Australian premiers soon, but I'll leave you in the very capable hands of my colleague Ben Smee. Thanks as always for reading.
+
+block-time published-time 4.52am BST
+
+The Reserve Bank may think Australia's economy will come roaring back next year but there's some private sector data about pointing to the longer-term ripple effect of the coronavirus crisis.
+
+Rental website rent.com.au says about 60% of renters have either stopped working or had their hours cut due to the crisis, and 35% have asked for a rent reduction or deferral.
+
+Some 22% of those surveyed said their ability to pay the rent had been severely affected
+
+Making things worse, two-thirds of renters said they didn't feel comfortable seeking support from the real estate agent handling the property.
+
+Prime minister Scott Morrison has said there's a six-month ban on evictions, but in fact the issue is a state matter and the actual situation varies widely from jurisdiction to jurisdiction.
+
+If rents are merely deferred, rather than reduced, that just puts the rental crisis off, because once the holiday ends renters will suddenly be confronted with a balloon of rental payments they've got no way to make. On the other hand, landlords are screaming blue murder about the prospect of a reduction in rental income.
+
+Yesterday, the Real Estate Institute of NSW, which has been leading the landlord charge, again complained about what it sees as a lack of support for landlords. In an open letter to NSW premier Gladys Berejiklian, it complained that tenants had heard that they couldn't be evicted and gone on rent strike.
+
+It also complained that the Tenants Union had been given $250,000 to help tenants but "no similar funding has been provided to support landlords".
+
+State governments have given landlords hit by Covid-19 tax breaks, but landlords say this won't fill the gap. In its letter, the REINSW isn't clear about what additional measures it actually wants.
+
+At this stage, with restrictions on the cusp of being eased, it's difficult to see any politician approving a cash handout for people who by definition have hard, saleable assets other than the family home - especially as state finances have been ravaged by the crisis and their ability to raise money is much more limited than the commonwealth's.
+
+On the other hand, the real estate lobby has traditionally been extremely powerful in Australia.
+
+block-time published-time 4.48am BST
+
+Still on schools, if it isn't obvious yet, Andrews says: "I'll have more to say about schools next week".
+
+The nature of that, I can't pre-empt, because there's still further work that has to be done... we've always said plan for the whole term, whole of term two being at home, unless you can't be. But if we could bring it forward, we would. But I'm not announcing that today. We'll have some further things to say about schools next week. We've always been keen to give parents as much notice as possible. We did that when we brought the school holidays forward. And, of course, we'll do that if and when those policy settings change.
+
+block-time updated-timeUpdated at 4.55am BST
+
+block-time published-time 4.43am BST
+
+On schools, where Victoria has held a harder line to keeping children at home to other states, Andrews says the door "has always been open" to children returning to classrooms.
+
+We've always said people should plan for term two, if you can learn from home, you must learn from home. But if that was to change, and could be done, could be changed safely, then we would give people as much notice as possible. So, that hasn't changed.
+
+block-time updated-timeUpdated at 4.44am BST
+
+block-time published-time 4.39am BST
+
+Andrews likens the elements of step one in the rollback of restrictions to a menu.
+
+And we will choose elements of that and the respective timing for the rollout of each of those elements that best suit Victoria, that best suit the unique circumstances that we face.
+
+He says that when he makes announcements on Monday, "it will take some time for different sectors, for different parts of the Victorian economy and Victorian community to be able to be ready for that change".
+
+block-time published-time 4.35am BST
+
+Andrews says there will be an easing of some rules, but wont go into specifics until next week.
+
+So, I just urge Victorians - I know it's frustrating, I know we're getting very close to making an important step, to potentially, well, in fact, to easing a range of these rules. But now is not the time to become so impatient and so frustrated that we start doing the wrong thing and jeopardising the progress we've all made together.
+
+block-time updated-timeUpdated at 4.36am BST
+
+block-time published-time 4.34am BST
+
+Andrews says that nothing will change in Victoria today, or over the weekend.
+
+On Monday, and indeed throughout next week, I will have a series of announcements to make about changes to the rules. Those rules - that will not be all the rules going, and it won't necessarily be that the moment I announce something a change happens right then. There may be time required to move from announcing a change to the effect of that. The key point here is that, even at the end of next week, even at the end of May, there will still be rules in place.
+
+block-time updated-timeUpdated at 4.36am BST
+
+block-time published-time 4.31am BST
+
+Victorian premier Daniel Andrews is speaking now.
+
+block-time published-time 4.31am BST
+
+Here are those slides on steps one, two and three:
+
+enltrTHE ROADMAP TO A COVIDSAFE AUSTRALIA IN THREE STAGES: STEP 1 - MAY #7NEWS           #auspol           pic.twitter.com/0v8g0iBA4L
+
+- Jennifer Bechwati (@jenbechwati) May 8, 2020
+
+enltrSTEP 2 - JUNE #7NEWS           #auspol           pic.twitter.com/XlNR1uUzfb
+
+- Jennifer Bechwati (@jenbechwati) May 8, 2020
+
+enltrSTEP 3 - JULY #7NEWS           #auspol           pic.twitter.com/WN6csd9cvc
+
+- Jennifer Bechwati (@jenbechwati) May 8, 2020
+
+block-time published-time 4.28am BST
+
+And that's all from the prime minister and chief health officer. They've just outlined a three-step roadmap for a reopening of the economy by July. We'll now wait to hear from the premiers about when exactly stage one will begin to be implemented.
+
+block-time updated-timeUpdated at 4.29am BST
+
+block-time published-time 4.25am BST
+
+He's asked about US secretary of state Mike Pompeo  seemingly walking back his comments about there being "enormous evidence" for the theory that the Covid-19 outbreak occurred in a Wuhan lab. He's since            conceded it could be wrong.
+
+Morrison says:
+
+I think what is important is we find out, and the world doesn't yet know - I raised this at the meeting with international colleagues last night... It's not directed at anyone, we just want to know what happened so it doesn't happen again. It's a pretty honest question, with an honest intent and an honest motive.
+
+block-time updated-timeUpdated at 4.29am BST
+
+block-time published-time 4.21am BST
+
+Morrison is asked about the alleged super fraud:
+
+I mean, fraud is possible in any program, anywhere. Over my government experience, I have been in immigration, I have been in social services and I have been in Treasury, and I can tell you fraudsters try and have a crack at every single one of those systems every single day. So, the fact that people have tried to have a crack at this doesn't surprise me. The home affairs minister has already made comments on this. It's a serious fraud issue and that's why the precaution was taken to pause that for at least 24 hours while that's being addressed. The fact that there has been such a swift response, I think, demonstrates that there are protections in place and action is taken. And they should find them and they should lock them up.
+
+block-time updated-timeUpdated at 4.22am BST
+
+block-time published-time 4.19am BST
+
+Brendan Murphy declines to swing at a question about whether NRL players should be forced to have flu shots:
+
+I think that's really a matter for the relevant state health authorities. I think, you know, I personally have a view that everyone should get a flu shot, and it's important. But I think that's a matter for the relevant states.
+
+block-time published-time 4.17am BST
+
+There is no threshold for winding back the easing of restrictions though. It's "case specific", Morrison says.
+
+block-time published-time 4.16am BST
+
+Morrison's general stance here seems to be that, if and when outbreaks occur, the general policy would not be to turn-around on easing restrictions:
+
+I mean, as I said the other day, it's like the emu and the kangaroo, they go forward, not backwards. And that's how this has to work. Premiers and chief ministers are very keen to ensure that you continue to move forward.
+
+But, he says, the government will "act on the health advice" in the event of a larger outbreak or significant rises in case numbers.
+
+And all of these steps, the key requirement as you move from one to the next is it's subject to the health advice. We've always acted on the basis of the expert advice. And if the expert health advice that, God forbid, we're in a situation like you outline, then we would have to take the health advice in those circumstances.
+
+block-time published-time 4.13am BST
+
+Morrison says he wants to see students back in classrooms as part of step one:
+
+I think it is important we all hold our nerve. That's why I was saying before these are cautious first steps but important first steps. You know, you can stay under the doona forever and you'll, you know, you'll never face any danger. But we've gotta get out from under the doona at some time. And if not now, well, then when?
+
+block-time published-time 4.12am BST
+
+Morrison is asked about broader international travel and says he "can't see that happening any time soon".
+
+There's nothing on our radar which would see us opening up international travel in the foreseeable future. There are already some very, very minor exceptions, where the Border Force can provide an exemption for outbound travel, but that's in areas like facilitating development aid in third [world] countries and things like that. It's a very limited set of circumstances. I've already mentioned... we could potentially consider how things for international students might work. But these are exceptions, not the rule. It is something that other countries are discussing, but, by and large, almost without exception I'm not aware of any countries that are looking at that option at this point.
+
+block-time published-time 4.09am BST
+
+Pubs reopening are part of step three, by the way (unless you're in the Northern Territory).
+
+block-time published-time 4.08am BST
+
+Brendan Murphy is giving some clarification around the loosening on restrictions national cabinet has agreed to in "step one", but stresses not all of the states agree on all of the measures.
+
+He says step one means five people visiting a household, or 10 people in an outdoor gathering.
+
+So, 10 people training in a football field, it's 10 people getting together in a park. Again, hopefully with distancing. So, we got together and we looked at what was like a consensus position. Not every state agrees with every step, but we look at the relative risk of each thing. So, there's an absolute risk about gathering size. So, that's a protection, so that if things do break out, if we've only got gatherings of 10, that means much less potential for transmission. So, some states, though, don't want to open cafes and restaurants initially, because they feel that their situation, they would prefer to take some time.
+
+block-time updated-timeUpdated at 4.10am BST
+
+block-time published-time 4.05am BST
+
+On borders, Morrison says interstate closures have never been a recommendation out of national cabinet and that premiers have taken those decisions "unilaterally" so it will be up to states to remove them.
+
+But the road freight and the land-based freight transport, you know, goods are getting through, goods are moving around the country. And I understand there's a whole bunch of kegs on their way to Darwin as we speak, running up the high way. Much eagerly anticipated, I'm sure.
+
+On international borders, Morrison says the government is speaking to New Zealand and is open to considering opening borders for international students in the future.
+
+Issues of international students, you'll note that it does come into the third step of the plan. And that is a possibility. And how you would work that through, well, they'd have to be carefully tested. So, we are open to that, and we would be working with institutions to see how that could be achieved. But it has to be done according to those strict quarantine restrictions and how that's done, and how those costs are met. So, there's a lot of steps to work through. But, I mean, we're open to everything pretty much to get the Australian economy back and firing again as much as possible. We've just gotta step through it carefully.
+
+block-time updated-timeUpdated at 4.06am BST
+
+block-time published-time 4.01am BST
+
+Morrison:
+
+Outbreaks are not a reason to slow things down. Outbreaks are going to happen. All premiers and chief ministers understand that. And so it's how you respond to them. In this case, I mean, not all information is perfect. When you go into them. How long they have been going on, [is] not always clear. That's why I think some of these automated tools are very helpful to the premiers and health ministers in those jurisdictions. Each one of these is going to be tough. It's not a reason to slow things down.
+
+block-time updated-timeUpdated at 4.01am BST
+
+block-time published-time 3.59am BST
+
+On the Victorian meatworks outbreak, Morrison says "they [outbreaks] are going to occur" but that that Covid-safe app "would have sped things up" in terms of contact tracing.
+
+He says the code behind the app will be released later today.
+
+block-time updated-timeUpdated at 4.01am BST
+
+block-time published-time 3.57am BST
+
+At the top of the press conference Morrison said treasury modelling says these steps will see 850,000 jobs restored in the months ahead.
+
+He says that number includes those who may be on jobseeker or jobkeeper now.
+
+People stood down, going back to full employment. And those, that work is being done based on the steps you can see here today. So it's very much a function of how and when all of those steps are completed. And by July? That's the aspiration. But as we learned during the course of this Covid crisis, there's a lot of uncertainties. That's what we understand to be the value of doing this.
+
+block-time updated-timeUpdated at 4.00am BST
+
+block-time published-time 3.54am BST
+
+Morrison is taking questions now. On the timing of step one, he says the premiers and chief ministers will announce their own timetables.
+
+They'll be announcing their own timetables for when they're making those statements. I think you can expect to see some of them later today, making some initial comments and I'd expect to see them making further comments in the days ahead, over the weekend, and early next week. That's when you can expect them to outline those timetables.
+
+There's some states like Western Australia where step one has ticked the box. They're very much well advanced on that. South Australia, Northern Territory, quite similarly. But those on the east coast, a very different situation. They all got different starting points. The whole country has the same end point, to get to a Covid-safe economy
+
+block-time updated-timeUpdated at 3.59am BST
+
+block-time published-time 3.53am BST
+
+He says step three will be "a much more broader opening" but that there is more discussion about what that will look like.
+
+"But step one, well defined, step two, a bit more work to be done, and step three, still a lot of discussion to be had before we can well define it properly."
+
+block-time published-time 3.51am BST
+
+Murphy says step two "we're looking at larger gatherings of around 20, potentially in some states, they may look at some venues to go more than that.
+
+It includes opening things such as gyms, indoor fitness, beauty therapy, cinemas, and galleries. He says some interstate travel "may recur in that stage".
+
+block-time published-time 3.50am BST
+
+The chief health officer, Brendan Murphy, is now outlining the steps in more detail. He has slides. Murphy says step one is "cautious" and "gentle".
+
+Because we're in uncharted territory. There's not many countries in the world like Australia that's in a position to start gently relaxing measures with such low case numbers. We don't want to lose the control we've got. We want to make sure that outbreaks that occur are managed and controlled.
+
+He's stressing that measures such as physical distancing, strict personal hygiene and making sure people stay home when unwell will remain in place.
+
+So in step one, it's essentially getting people in groups of 10 together, outdoors, particularly, staying working at home if it's going all right for you and your employer. Allowing 10 people in a one person a four sq metre distance in small cafes and restaurants. That means many won't be able to open, but many doing takeaway may want to put up enough distance tables to start gently serving 10 people at a time. Some libraries and community centres, again, with only small numbers of people.
+
+block-time updated-timeUpdated at 3.58am BST
+
+block-time published-time 3.46am BST
+
+Morrison says national cabinet has agreed that it hopes to have moved through these three steps by July, but the pace will be up to the states and territories. He says people shouldn't expect step one to start "on day one".
+
+They'll be responsible for setting their own timetable and communicating that to their citizens and residents in their own states and territories. Premiers and chief ministers have asked me to stress there should be no expectation of step one starting on day one. Unless they are indeed already there. Moving on these steps will take some preparation.
+
+Movement from step to step, he says, will depend on "medical evidence [that] suggests that further easing will not present an undue risk, [that] widespread testing is identifying community transmission, and thirdly, public health actions are able to trace cases and trap local outbreaks".
+
+block-time updated-timeUpdated at 3.47am BST
+
+block-time published-time 3.43am BST
+
+Step three, Morrison says, will see gatherings of up to 100 people. But its timing, he says, will depend on the success of the previous steps.
+
+"But most workers, by then, will be back in the workplace. Interstate travel will likely resume. Pubs and clubs with some restrictions will be open. And also possibly gaming venues. As I said, step three, step three, but also step two, will get greater definition as we move through the success of step one."
+
+block-time updated-timeUpdated at 3.46am BST
+
+block-time published-time 3.42am BST
+
+Step two, Morrison says, "will allow larger size gatherings up to 20 people, including for venues such as cinemas and galleries, more retail openings on sector based Covid-safe plans, organised community sport, and beauty parlours, and you'll be pleased to know, barre classes open once again".
+
+block-time updated-timeUpdated at 3.45am BST
+
+block-time published-time 3.41am BST
+
+Morrison outlines three-step plan to ease restrictions after national cabinet meeting
+
+Morrison is describing those three steps now.
+
+Step one will "enable greater connection with friends and family".
+
+Things that will be allowed include:
+
+•Gatherings up to 10 people, and five guests in your own home.•Children back in classrooms and in playgrounds in their communities.•Recreational activities such as golf, lap swimming and boot camps.•Retail and small cafes and restaurants reopening.•Interstate recreational travel starting again.•An easing of restrictions for funerals with up to 30 attendees, outdoors, and 10 at weddings.
+
+Gatherings up to 10 people, and five guests in your own home.
+
+Children back in classrooms and in playgrounds in their communities.
+
+Recreational activities such as golf, lap swimming and boot camps.
+
+Retail and small cafes and restaurants reopening.
+
+Interstate recreational travel starting again.
+
+An easing of restrictions for funerals with up to 30 attendees, outdoors, and 10 at weddings.
+
+block-time updated-timeUpdated at 9.23am BST
+
+block-time published-time 3.38am BST
+
+Morrison:
+
+In this plan, we walk before we run. We know we need to be careful to preserve our gains, if we wish to reclaim the ground we lost, we cannot be too timid. There will be risks. There will be challenges. There will be outbreaks, there will be more cases, there will be set-backs. Not everything will go to plan.
+
+He says there will be "inconsistencies" and that states "will and must move at their own pace, and will cut and paste out of this plan to suit their local circumstances".
+
+block-time updated-timeUpdated at 3.46am BST
+
+block-time published-time 3.37am BST
+
+Morrison announces that today national cabinet has agreed to a three-step plan "and a national framework to achieve a Covid-safe economy and society". He says the goal is to move through all of these steps to achieve a "Covid-safe economy in July of this year".
+
+block-time updated-timeUpdated at 3.44am BST
+
+block-time published-time 3.36am BST
+
+Morrison says today is about moving ahead "with reopening our economy and our society".
+
+Today our focus is on the road back.
+
+With a clear plan, and a clear framework, that shows Australians the road ahead. The next step beyond this will be to build the confidence and momentum that will see our economy get back up and running and get Australians back up on their feet and moving ahead with confidence. And then we can reset our economy for growth in the years ahead.
+
+block-time updated-timeUpdated at 3.38am BST
+
+block-time published-time 3.33am BST
+
+He begins by saying that "always being thankful" is a lesson our mothers teach us.
+
+We've been doing a lot of that lately, I'm sure. So many Australians are hurting right now. Lives turned upside down, painful separation from their loved ones. Livelihoods that they have spent a lifetime building, stripped away. Uncertainty about their futures and their family's future. The last few months have given us a reminder of the things that are really important, our health, our wellbeing, a strong health system. And all those who keep it strong. A growing economy. Our jobs and our incomes that rely on it. We cannot take this for granted. Every job matters. Whatever job you do.
+
+block-time updated-timeUpdated at 3.37am BST
+
+block-time published-time 3.31am BST
+
+The prime minister, Scott Morrison, is speaking now.
+
+block-time published-time 3.29am BST
+
+Albanese says the RBA's May statement "puts to bed" the prime minister Scott Morrison's talk of a "snapback" in the economy and that "we'll wakeup one morning and the economy and everything will be back to the way it was.
+
+What the Reserve Bank estimates is that unemployment will hit 10%. That real household disposable income will fall by 8% in June, but it will also fall by 8% in December. What we're looking at here is long term impact on living standards of Australians as a result of the coronavirus crisis. And the government needs to acknowledge the idea of snapback is simply not going to work. They'll need to put in place measures that keep people in employment, that promote employment, and that promote economic activity if we're not going to have a prolonged down turn.
+
+block-time published-time 3.25am BST
+
+Before that though, the opposition leader Anthony Albanese  is speaking in Canberra. He's blasting the government over the alleged fraud of early access to superannuation, which may have deprived up to 150 Australians of $120,000 of retirement savings.
+
+When the government unwisely chose to allow early access to superannuation withdrawal, which will of course damage people's entitlements when it comes to their retirement, which will reduce the liquidity of superannuation funds, and distort the market investments that are made in the future by superannuation, Labor warned about the potential for fraud. Not only Labor, but the superannuation industry wrote to the minister on 1 May, on the very day that this fraud was uncovered, the minister wrote back and said nothing to see here.
+
+It's very clear that this suspension is not only necessary, it could have been foreseen and indeed, was foreseen by the superannuation industry and by Labor when we raised these issues in the national Parliament.
+
+block-time published-time 3.12am BST
+
+The prime minister, Scott Morrison, is due to address the media following National Cabinet at 12.30pm.
+
+block-time published-time 3.10am BST
+
+RBA baseline forecast is for GDP back up to 7% growth by June quarter 2021
+
+The Reserve Bank of Australia has released its May statement on monetary policy, with some interesting forecasts that the economy is set to shrink by 8% this quarter but roar back in 2021. Under what looks like a V-shaped recovery, the RBA's baseline scenario is for the economy to shrink by 8% in the June quarter, 6% in the December quarter, but to recover to 7% growth in June 2021 and 6% in December 2021 - thanks to a massive recovery in household consumption.
+
+enltrRBA baseline scenario is a V-shaped recovery with GDP up 7% in June 2021 quarter, and household consumption roaring back to 13%. pic.twitter.com/84l1nLsRdr
+
+- Paul Karp (@Paul_Karp) May 8, 2020
+
+The baseline scenario is based on "the relaxation of domestic activity restrictions over coming months, with most of these restrictions lifted by the end of the September quarter" except for large public gatherings and international travel.
+
+"Much of the decline is expected to be concentrated in services, such as travel and entertainment, most affected by activity restrictions,"  it said.
+
+The RBA predicts that unemployment would "begin to gradually decline from later this year" but "remain elevated for some time". After hitting 10% in June 2020, unemployment wouldn't creep down to 6.5% until June 2022.
+
+The RBA noted unemployment "would have been much larger were it not for the jobkeeper wage subsidy program" and estimates that "total hours worked are likely to contract by around 20% over the first half of 2020" because labour-intensive industries such as hospitality have been hardest hit.
+
+While the baseline scenario is described as "plausible" the RBA warns it could be much better or much worse than that:
+
+It is possible to contemplate an upside scenario where most domestic restrictions on activity are relaxed a little sooner and the economy recovers somewhat faster than in the baseline scenario. The greater is public confidence in positive health outcomes, the more likely it is that the easing in restrictions on activity spurs a recovery in spending; better health outcomes elsewhere in the world would reinforce this positive dynamic. In such a scenario, the unemployment rate could return to around 5 per cent in a couple of years and the level of GDP would return to a path that is close to that implied in the forecasts published in the February Statement on Monetary Policy.
+
+Alternatively, if the lifting of restrictions is delayed or the restrictions need to be reimposed or household and business confidence remains low, the outcomes would be even more challenging than those in the baseline scenario. The unemployment rate would drift down much more gradually and the level of output would remain around its trough for several quarters and recover only slowly. A longer downturn would involve more job losses and business failures, and therefore more lasting damage to economic performance.
+
+block-time updated-timeUpdated at 3.21am BST
+
+block-time published-time 3.06am BST
+
+AAP reports that Australia has partnered with international allies to provide rapid coronavirus testing kits to vulnerable Pacific island nations.
+
+The kits, which deliver results in under an hour, have been delivered to four Pacific countries and will reach another nine in the coming fortnight. Australia joined forces with New Zealand, the United States and the World Health Organisation to procure the vital equipment.
+
+There are serious concerns a coronavirus outbreak could devastate Pacific nations, many of whom are still reeling from the widespread destruction caused by a recent tropical cyclone.
+
+Many Pacific nations do not have the capacity to test for coronavirus, instead sending specimens to countries like Australia for results.
+
+Australia has also sent personal protective equipment, medical and hygienic supplies, and other essentials to Pacific countries and Timor-Leste. The federal government is coordinating flights to deliver essential services and humanitarian assistance, as well as quarantining Pacific nationals in Australia for two weeks before taking them home.
+
+On Twitter, the minister for international development and the Pacific, Alex Hawke, had this to say. I'll leave it to you to work out what or who he might be referring to.
+
+enltrEvery country has an absolute responsibility to ensure that any help they send to the Pacific actually helps. It's why we take a very careful approach. It does take a little bit longer, but we do make sure, when we respond, it's a high-quality response. https://t.co/yoodAL920t
+
+- Alex Hawke MP (@AlexHawkeMP) May 8, 2020
+
+block-time updated-timeUpdated at 3.08am BST
+
+block-time published-time 2.59am BST
+
+The Parliamentary Budget Office has released an update on the state of the federal budget in March, showing that increased welfare expenses due to Covid-19 stimulus packages are blowing out the deficit.
+
+The key stats are:
+
+•In March 2020, expenses were $8.7 billion higher than March last year, driven by social security and welfare expenses being $6.5 billion higher•The fiscal balance for the financial year up to the end of March was -$22.0 billion, compared with the -$13.8 billion expected in December's mid-year economic update•The year-to-date underlying cash balance was -$22.4 billion compared with an expected -$12.5 billion.•Australia's net debt at the end of March 2020 was around $430 billion, about $37 billion higher than the most recent forecast for the end of this financial year.
+
+In March 2020, expenses were $8.7 billion higher than March last year, driven by social security and welfare expenses being $6.5 billion higher
+
+The fiscal balance for the financial year up to the end of March was -$22.0 billion, compared with the -$13.8 billion expected in December's mid-year economic update
+
+The year-to-date underlying cash balance was -$22.4 billion compared with an expected -$12.5 billion.
+
+Australia's net debt at the end of March 2020 was around $430 billion, about $37 billion higher than the most recent forecast for the end of this financial year.
+
+Revenue for March 2020 was similar to March 2019, although since Covid-19 restrictions were introduced in mid-March and many businesses waited several weeks before laying off or standing down workers, the April results will likely show the decline in revenue as household income fell.
+
+block-time updated-timeUpdated at 3.05am BST
+
+block-time published-time 2.54am BST
+
+Adelaide Crows coach Matthew Nicks  has described the club's potential breach of South Australian laws banning public gatherings "an honest mistake".
+
+SA Police are investigating whether a group of players and an assistant coach from the club broke Public Health Orders by training together while in isolation in the Barossa Valley. It is also a breach of the AFL's training rules.
+
+On Friday, Nicks told radio station Triple M the club had "let ourselves down".
+
+"We've had some poor communication which has come to a point where unfortunately our players were in a position where we had more than two players training at once," Nicks said.
+
+Part of the approval was that we had the right to train in pairs and the intention was always to train in those pairs [but] our communication wasn't strong enough to keep them apart.
+
+We got it wrong ... it's our mistake and we'll own that mistake.
+
+The club said it had been given approval by the AFL and SA Police to train at the resort providing it adhered to strict social distancing and training protocols. Nicks said the breach was "an honest mistake" and that the clubs would "cop" whatever punishment was handed out.
+
+It's an honest mistake we've made and the issue relates solely to us.
+
+It shouldn't be a representation of broader industry because this is a mistake we've made. We understand that we'll cop it and we understand the AFL need to do what they'll do. We're just really disappointed.
+
+block-time updated-timeUpdated at 2.57am BST
+
+block-time published-time 2.42am BST
+
+One of the four new confirmed Covid-19 cases in New South Wales is a staff member at Anglicare's Newmarch House, bringing the total number of cases linked to the aged care home to 69. That includes 32 staff and 37 residents.
+
+Another is a close contact of a confirmed case and the remaining two are still under investigation.
+
+block-time published-time 2.28am BST
+
+We expect that after the National Cabinet today the prime minister will outline a staged plan to begin easing some restrictions on things like sport, retail and social gatherings.
+
+But the states won't necessarily act on those immediately, or at the same time. New South Wales premier Gladys Berejiklian has said there will be no changes before at least Monday, while Western Australian premier Mark McGowan said any changes there will be announced on Sunday.
+
+We do expect to see some changes in Tasmania today though. Premier Peter Gutwein  is due to outline a timeline for how restrictions will gradually ease, following national cabinet.
+
+Broad limitations will remain until at least 15 May, but Gutwein is hopeful of making a move on national parks and reserves before then. He has also signalled increasing the number of people allowed at funerals, with the cap currently at 10.
+
+Tasmania confirmed one new Covid-19 case on Thursday, a man in his 60s from the south, taking the overall tally to 225.
+
+block-time updated-timeUpdated at 2.49am BST
+
+block-time published-time 2.16am BST
+
+enltrJust spoke to SA Police, who say: "SA Police has received information from the Adelaide Football Club about a potential breach of quarantine guidelines during a training session. "SAPOL will examine the information to determine if a breach has occurred and if penalties apply"
+
+- Sam McClure (@sam_mcclure) May 8, 2020
+
+block-time published-time 1.59am BST
+
+The NRL has been doing the heavy lifting entertaining us throughout the Covid-19 hiatus, but AFL club the Adelaide Crows has decided to pitch in.
+
+South Australian Police are investigating whether the Crows broke state rules banning gatherings of more than 10 people by training together while self-isolating in the state's Barossa Valley.
+
+Related:  Adelaide Crows admit breaking AFL coronavirus protocols
+
+block-time published-time 1.39am BST
+
+A survey by the Transport Workers Union of over 850 Qantas workers has drawn heated denials from Qantas management, highlighting the gulf between staff and management over the airline's handling of the Covid-19 crisis.
+
+The survey showed 81% said Qantas did not put appropriate safety measures in place to deal with the risk of infection and 93% were concerned about their own and others safety at work.
+
+The union says Qantas has had one of the worst workplace clusters during the pandemic with at least 60 people infected nationally across the Qantas Group, including 34 in South Australia centring on the Qantas baggage room at Adelaide airport. 750 Qantas staff went into quarantine as a result of the outbreak.
+
+The survey also revealed that 47% of workers said they don't feel they can raise safety issues at work, with the vast majority saying this was because they didn't believe it would make a difference.
+
+National secretary Michael Kaine said it raised questions about how Qantas could be contemplating returning to the skies.
+
+"It is unthinkable that an airline like Qantas has been operating a business-as-usual approach in the midst of a global pandemic which is being transmitted across international borders primarily by individuals via air travel," he said.
+
+But Qantas has responded angrily, saying the union has wilfully misrepresented the situation at Adelaide airport, and dismissed the findings.
+
+"We completely reject the findings of the union' survey and question its validity. Qantas has a strong safety culture and acting on reports from employees is a key part of our safety management system," a spokesman said.
+
+The TWU and the Flight Attendants Association have been particularly concerned about the potential exposure of staff who are operating international repatriation flights, and exposure on flights which carried passengers from the Ruby Princess.
+
+block-time updated-timeUpdated at 1.51am BST
+
+block-time published-time 1.33am BST
+
+A NSW harbourmaster has told an inquiry he "did not understand" an email that told him to treat the Ruby Princess "as if it has a positive Covid-19 result" when it came into Sydney harbour.
+
+Cameron Butchart, who was the duty harbourmaster on 18 March, said NSW Health's assessment that it was "low risk" introduced "an unfortunate element" into his decision making.
+
+The inquiry heard that Butchart received an email that it was NSW Port Authority policy that if there were Covid-19 tests on board a cruise ship, with results to come, it should be "treated as if it has a positive result".
+
+However, the email also said that NSW Health had assessed it as "low risk", meaning health teams would not board and assess it.
+
+The commissioner, Bret Walker SC, asked Butchart whether "the label low-risk has introduced an unfortunate element in your decision making?", and Butchart said it had.
+
+He said: "I just picked up [from the email that] the ship is low risk, and NSW health will not be attending. 'Great'."
+
+Counsel assisting, Richard Beasley SC, adds that it should be mentioned that Butchart did have enough concern over the health of the ship that he did "cancel the booking" of the Ruby Princess to dock. That decision was later reversed.
+
+block-time updated-timeUpdated at 1.37am BST
+
+block-time published-time 1.26am BST
+
+In contrast to the Victoria Police, here's an example of how New South Wales brief the media on Public Health Order breaches. In the past 24 hours they've charged two people and fined three others.
+
+For each charge and fine, the NSW police provide a breakdown that looks like this:
+
+•At about 10pm, officers from Mt Druitt Police Area Command were called to home on De Witt Place, Willmot in relation to a noise complaint. On arrival, police observed a group of at least 15 people inside the home celebrating a birthday. All non-residents were given warnings in relation to breaching Ministerial Directions and told to leave the home. Police were called back to the property about 11.35pm as the noise was continuing and a 27-year-old woman, who was not a resident and previously given a warning, was still at the property. She was subsequently issued a $1,000 PIN.
+
+At about 10pm, officers from Mt Druitt Police Area Command were called to home on De Witt Place, Willmot in relation to a noise complaint. On arrival, police observed a group of at least 15 people inside the home celebrating a birthday. All non-residents were given warnings in relation to breaching Ministerial Directions and told to leave the home. Police were called back to the property about 11.35pm as the noise was continuing and a 27-year-old woman, who was not a resident and previously given a warning, was still at the property. She was subsequently issued a $1,000 PIN.
+
+The point is not that NSW have been perfect in their enforcement, but that unlike Victoria the public are able to provide some scrutiny over the way these emergency powers are being enforced.
+
+block-time updated-timeUpdated at 1.27am BST
+
+block-time published-time 1.21am BST
+
+Ruby Princess commissioner Bret Walker SC  has also remarked on prime minister Scott Morrison, saying that the PM did not have "knowledge or a view based on evidence" when he criticised Walker's questioning.
+
+Morrison told radio host Ray Hadley that Walker's questioning was "aggressive" and "a bit out of line", after NSW Health employee Kelly-Anne Ressler cried in the witness box on Tuesday.
+
+Walker says that the media coverage of this "may have created a common misunderstanding that the PM made suggestions to me about the conduct of this independent inquiry."
+
+Walker stresses this is not the case, and that Morrison did not say he had seen the entire context of the interview.
+
+"He made clear that he had not seen the proceedings that lead up to the unfortunate upset of the witness," Walker says. "It is clear from the PM's reported comments that to no extent at all was he suggesting that he had knowledge of or a view based on evidence."
+
+block-time updated-timeUpdated at 1.21am BST
+
+block-time published-time 1.19am BST
+
+Victoria Police have issued 13 fines for breaches of Public Health Orders in the past 24 hours.
+
+It's an issue that has mostly gone unmentioned through the crisis, but Victoria has issued more fines for breaches of the PHOs than any other state during Covid-19, yet unlike in New South Wales police refuse to say where the fines were handed out or what they are for.
+
+Today, for example, the only explanation given by Victoria Police is that some fines were for "several people holding gatherings at private houses".
+
+block-time updated-timeUpdated at 1.21am BST
+
+block-time published-time 1.14am BST
+
+Good morning. Plenty around this morning so I'll get straight to it. The former Queensland premier and chief executive of the Australian Banking Association Anna Bligh is holding a press conference.
+
+She says that according to the ABA's data there have been 100,000 loan deferrals in the past week. More than half of those are mortgages. There have now been 643,000 loan repayment deferrals on mortgage and businesses since the Covid-19 crisis. We Almost 400,000 of those are mortgage deferrals.
+
+Bligh said the deferrals date to September:
+
+As we start to see the economy open up, we would expect to see many of those people wanting to get back to their repayments and to get back into paying their loans off as soon as they can. I think it is equally clear that there are going to be many thousands of people who are either not back in full employment or not back in any employment at the end of this six months.
+
+block-time updated-timeUpdated at 1.15am BST
+
+block-time published-time 1.09am BST
+
+That's my spell concluded. Replacing me, my colleague Michael McGowan from the members' end.
+
+block-time published-time 1.01am BST
+
+Ruby Princess inquiry writes to the Australian over article that could be 'contempt'
+
+The fifth day of the special inquiry into the Ruby Princess has started with a bang.
+
+The inquiry has written to the editor-in-chief of the Australian newspaper, over what could be a contempt of the inquiry.
+
+Counsel assisting, Richard Beasley SC, says he has to address an opinion article published yesterday in the Australian, written by former Daily Telegraph editor David Penberthy.
+
+That article said that the inquiry was "a sham", after a NSW Health epidemiologist, Kelly Anne-Ressler, cried in the witness box under extensive questioning from commissioner Bret Walker. Scott Morrison later told a radio station that he thought Walker had been "a bit out of line" and too aggressive.
+
+Penberthy's article said Ressler should not have been asked to even give evidence, and that she was not on the four-person panel who made the decision over the ship.
+
+Beasley lists 10 reasons why Ressler should have appeared, including that she boarded the ship on the 8th, when NSW assessed it, and was in contact with the ship's doctor.
+
+He strongly denies that any member of the NSW government or cabinet has attempted to interfere in the inquiry.
+
+He then says he "has no comments" on whether the article constitutes "a contempt" of the commission, but that the senior solicitor for the inquiry has written to the editor of the Australian "as to whether the comments in Penberthy's article might constitute a contempt".
+
+The newspaper has been requested to respond by noon today.
+
+block-time updated-timeUpdated at 1.49am BST
+
+block-time published-time 1.00am BST
+
+Noice. Different. Unusual.
+
+Kel Knight is a man for our times.
+
+enltrLol This is actually quite good Check out Dan Andrews's video! #TikTok           https://t.co/2dhWybbUVU
+
+- Brigid Delaney (@BrigidWD) May 7, 2020
+
+block-time published-time 12.51am BST
+
+More of McGowan emphasising the point that some states - such as Western Australia, with low rates of infection and community transmission - will be able to ease restrictions earlier. Already, Western Australia has 75% school attendance rates:
+
+Victoria and New South Wales, they are clearly in far more trouble than Western Australia. So they will have a different point of view than Western Australia.
+
+The point I always make is that we have to be very, very careful with health, we have to be cautious and considered in what we do.
+
+But we do need to get people back to work. We can't have businesses and individuals' lives continuing to be destroyed. And if we can do it in a safe, secure, and health just way, that is the way forward we will go.
+
+Things are different "over east" McGowan says.
+
+The eastern seaboard, I would expect, would be more conservative, as they have been along this route. But, frankly, they have had a much bigger problem than we have.
+
+Our hard borders allow us to do more than the eastern states can. And so that initiative means we can potentially loosen restrictions to a greater degree than the eastern states.
+
+block-time updated-timeUpdated at 12.59am BST
+
+block-time published-time 12.46am BST
+
+Western Australian premier Mark McGowan is updating his state's situation. The West has one new case overnight, a 29-year-old man who returned from overseas and has been in hotel quarantine since.
+
+Obviously it's that our streak of zero cases has come to an end. However, we always knew we would get more cases as people return from overseas or interstate.
+
+The good news here is that we have systems in place to ensure any spread of the virus is limited. Overnight we have recorded a further three recoveries. This means we have now had 534 people recover from Covid-19.
+
+And, as a result, we now have just nine active cases here in Western Australia, the first time we have hit single digits. Only four people are in hospital in total, with one in ICU. The number of people in our hospitals with the virus continues to fall.
+
+block-time updated-timeUpdated at 12.46am BST
+
+block-time published-time 12.24am BST
+
+Marcellin College student part of the Cedar Meats cluster
+
+The Victorian health department has confirmed that a student from Marcellin College has tested positive for Covid-19 after coming in close contact with another person in the cluster.
+
+"One Marcellin College student has tested positive for coronavirus. The student is a household contact of a confirmed case with the Cedar Meats outbreak," a spokesperson for the department said in a statement.
+
+"As the student did not attend school while infectious the department has advised no further action is necessary by Marcellin College."
+
+A WorkSafe Inspector has also gone into isolation and is being tested after attending the factory on 23 April following a workplace accident.
+
+A worker severed his thumb at the factory and was rushed to Sunshine hospital. He was asymptomatic at the time but later developed symptoms and tested positive for Covid-19 on 26 April.
+
+"The WorkSafe Inspector was not onsite at the same time as the employee that later tested positive to coronavirus - and as such, was not a close contact," a spokesperson for the department said.
+
+"The WorkSafe inspector was contacted by DHHS as part of the wider investigation into the cluster and is being tested for coronavirus as a precaution.
+
+"The Inspector has not reported any symptoms and is self-isolating while awaiting results."
+
+block-time updated-timeUpdated at 12.27am BST
+
+block-time published-time 12.05am BST
+
+A reminder, national cabinet will meet today to debate (and hopefully finalise) the roadmap out of Covid-19 lockdowns.
+
+Australians should expect a phased lifting of restrictions over months - with different parts of the country easing restrictions at different times. Relaxations are likely to be staged in four-week blocks.
+
+That meeting starts in about an hour. Expect to hear from state and federal leaders this afternoon.
+
+Australia is part of the global "early movers" group of countries, but don't expect anything dramatic anytime soon. Think months, not weeks.
+
+block-time updated-timeUpdated at 12.16am BST
+
+block-time published-time 12.01am BST
+
+The Australian government has pushed back at US claims the coronavirus may have originated in a Wuhan lab and has determined that a "dossier" giving weight to the theory is not a Five Eyes intelligence document.
+
+It is understood the Morrison government sees the promotion of the theory the virus leaked out of a laboratory in Wuhan, China, as counterproductive to Australia's push to gain broad international support for an independent inquiry into the origins and overall handling of the pandemic.
+
+Related:  Australia hits back at US claim linking coronavirus to Wuhan lab
+
+block-time published-time 11.34pm BST
+
+I might leave you there for this morning, but I'm leaving you in good hands. Ben Doherty will be with you throughout the day.
+
+block-time published-time 11.33pm BST
+
+Australia will deliver Covid-19 tests to Pacific nations
+
+The foreign affairs minister, Marise Payne, said in a statement this morning that Covid-19 testing equipment has been delivered to a number of Pacific Island countries.
+
+Pacific Island countries will be equipped to more effectively detect and prevent the spread of COVID-19, with the arrival of new rapid diagnostic tests that build on Australia's partnership with our region to protect against the pandemic.
+
+Beyond immediate health security and safety concerns, our partnerships extend to working with Pacific Island countries and Timor-Leste to plan for the economic recovery. Confidence in testing systems and community health is essential to this...
+
+The first deliveries arrived in Fiji, Kiribati, Papua New Guinea and Nauru in recent days. Initial supplies will reach a further nine Pacific Island countries in the coming fortnight. Many Pacific Island countries have not had in-country capacity to test for COVID-19, and have had to send specimens overseas, including to Australia, for results...
+
+The equipment includes testing machines and cartridges for individual tests. These produce rapid results from a basic nasal swab. Rapid detection is a key part of the region's pandemic response.
+
+The procurement and delivery of the testing equipment is a collaborative effort between Australia, New Zealand, the United States, the Pacific Community and the WHO.
+
+block-time updated-timeUpdated at 12.05am BST
+
+block-time published-time 11.27pm BST
+
+Australians may be able to bring their pets home from the US
+
+New Qantas flights from Los Angeles and London to Melbourne have built up hopes that Australian expats can bring their pets home. AAP reports:
+
+Australians hoping to fly home during the coronavirus pandemic have been given new options with Qantas announcing limited flights to Melbourne from Los Angeles and London.
+
+It also opens the potential for pets to be flown back to Australia. Previous special Qantas and Virgin Australia flights organised during the pandemic flew from LA to Brisbane.
+
+Brisbane does not have the facilities to quarantine pets, forcing Australians planning to fly home during the pandemic to leave their pets in the US or opt not to return to Australia.
+
+Under Australia's strict border rules cats and dogs must arrive directly into Melbourne Airport and be quarantined at a facility at Mickleham, near Melbourne. The Australian government has requested owners of pets planning to fly back to Australia on one of the new Melbourne flights to contact Qantas and their chosen pet carriers to check on animal transportation.
+
+Comment is being sought from Qantas.
+
+block-time updated-timeUpdated at 12.04am BST
+
+block-time published-time 11.08pm BST
+
+Gladys B erejiklian  has also confirmed that no national cabinet meeting recommendations will be put in place in NSW in time for Mother's Day.
+
+But residents are allowed to have two adults guests over, along with any children in their care.
+
+block-time updated-timeUpdated at 12.03am BST
+
+block-time published-time 11.06pm BST
+
+NSW has had more than 13,000 people in hotel quarantine
+
+Gladys B erejiklian  has provided an update on how the NSW hotel quarantine program has gone:
+
+We are still welcoming Australians back from overseas in New South Wales. We have around 3,500 people still in hotels.
+
+I wanted to provide an update to say that since the borders were controlled, we have had over 13,000 people in hotels in New South Wales.
+
+block-time updated-timeUpdated at 12.02am BST
+
+block-time published-time 11.03pm BST
+
+Four new cases in NSW
+
+Gladys B erejiklian  says there have only been four new Covid-19 cases in the state overnight.
+
+block-time updated-timeUpdated at 12.01am BST
+
+block-time published-time 10.53pm BST
+
+If you want to get all caught up ahead of the national cabinet meeting today, may I suggest this report from Guardian Australia's political editor, Katharine Murphy ?
+
+She breaks down everything you need to know about the financial hopes and health worries surrounding lifting the lockdown.
+
+Related:  Australia's national cabinet to set timetable to reopen economy in several stages
+
+block-time updated-timeUpdated at 12.01am BST
+
+block-time published-time 10.33pm BST
+
+One of the biggest unfolding stories at the moment is Cedar Meats.
+
+The Melbourne factory has been linked to 62 cases, including a nurse, an aged care worker and now a schoolboy.
+
+Victorian politicians have been quick to talk about what a good job they have done containing the crisis, but there are still several days in late April with a big question mark hanging over them, as more information about who knew exactly what and when emerge.
+
+I spoke to a worker at Cedar Meats who says they were scared to stay at the factory after the first case was announced.
+
+Related:  Cedar Meats knew of two Covid-19 cases for several days before telling staff they could stay home
+
+block-time updated-timeUpdated at 12.00am BST
+
+block-time published-time 10.24pm BST
+
+Good morning
+
+Hello and welcome to today's coverage of the Covid-19 pandemic in Australia. You have me, Matilda Boseley, with you for this morning.
+
+The big news today is that state, territory and federal leaders are linking up for a national cabinet meeting.
+
+The discussion will revolve around how Australia should approach lifting lockdown laws. But don't get too excited - any changes are likely to be cautious and gradual, and the easing of restrictions will come in four-week waves.
+
+While some states, like Queensland, lifted some restrictions on families visiting each other in time for Mother's Day on Sunday, the New South Wales and Victorian leadership has held firm, saying anything is discussed at today's meeting won't be put in place by the weekend.
+
+In case you are feeling a bit behind here, are the biggest things that happened yesterday to get you up to speed.
+
+•The Newmarch House operator Anglicare appointed a special adviser to guide its response to a deadly Covid-19 outbreak at the facility.•The cluster connected to a Melbourne meat factory, Cedar Meats, grew to 62 infected people.•South Australia recorded its first case in two weeks.•The NRL said players who objected to vaccines could apply for an exemption to train during the pandemic.
+
+The Newmarch House operator Anglicare appointed a special adviser to guide its response to a deadly Covid-19 outbreak at the facility.
+
+The cluster connected to a Melbourne meat factory, Cedar Meats, grew to 62 infected people.
+
+South Australia recorded its first case in two weeks.
+
+The NRL said players who objected to vaccines could apply for an exemption to train during the pandemic.
+
+block-time updated-timeUpdated at 11.51pm BST

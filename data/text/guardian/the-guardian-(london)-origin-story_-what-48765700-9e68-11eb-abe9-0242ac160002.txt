@@ -1,0 +1,55 @@
+Maria van Kerkhove was staying with her sister in the US for the Christmas holidays, but checking her emails. As always. Every day there are signals of potential trouble, said the World Health Organization virologist who was to become a household name and face within weeks.
+
+“There’s always something that happens at Christmas time. There’s always some alert, or a signal of a suspected case. The last several years it’s been Mers [Middle East respiratory syndrome] – a suspect case travelling to Malaysia or Indonesia or Korea or somewhere in Asia from the Middle East. So there’s always some kind of signal. There’s always something that happens,” she said.
+
+Checking out these reports of suspected infection, often in remote parts of the globe, is a way of life for Van Kerkhove and a select band of experts, including Christian Drosten in Germany, Marion Koopmans in the Netherlands and people from Public Health England and the US Centers for Disease Control and Prevention. “I’m used to that over the holidays,” she said. “Usually it’s not a big deal. “This one was different.”
+
+A cluster of cases of pneumonia of unknown origin had been reported in China in the middle of winter. The email relayed a post from ProMED , the alert network of the International Society for Infectious Diseases. On the evening of 30 December, it said, the Wuhan municipal health commission had issued an “urgent notice” online, warning all medical facilities to be on the alert and put into effect their emergency plans. It pointed the finger of suspicion for the outbreak at the Huanan [meaning South China] seafood market.
+
+“We knew immediately that this was something that needed to be taken seriously. And we activated our systems right away,” said Van Kerkhove. She hasn’t had a break since.
+
+Within days they knew it wasn’t Sars, it wasn’t Mers, it wasn’t flu, Legionella or a host of other pathogens. It was new.
+
+Van Kerkhove, who painstakingly explains developments in the pandemic twice a week at WHO’s briefings on Zoom, is a respiratory expert who had worked a lot on coronaviruses including Mers. “I immediately thought this could be a new coronavirus, because there are literally hundreds to thousands of coronaviruses that are circulating in animals,” she said. That’s why coronaviruses already featured in the WHO’s blueprint for needed epidemic research and development. The danger had been out there and recognised since Sars in 2003.
+
+We now know that by the time Van Kerkhove saw her email, at least 124 people had fallen ill and some had died in Hubei province after contracting a novel virus against which humans had no defence. Some will have been infected in mid-November. Almost all (119) were in the province’s capital city, Wuhan. The other five had all been there before they fell ill. Wuhan had excellent surveillance, as well as a world-class biosecure laboratory that would later fall under suspicion. The cluster was detected in Wuhan, but it is still possible it came from somewhere else.
+
+Patient zero may never be found. The first victim of the Ebola epidemic in west Africa turned out to be a toddler called Emile Ouamouno who died in a remote part of Guinea in December 2013.  But Ebola is so lethal and so unlike most other diseases that the detective work was easier. Covid-19, as we now call it, looked like acute pneumonia when it killed frail and elderly people. And it is possible the first people to catch it had no symptoms.
+
+The first clue was the market, but what looked like a slam dunk at first is now uncertain. Of a sample of 41 early confirmed cases, 70% were stall owners, employees or regular customers of the Huanan market, which sold seafood but also live animals, often illegally captured in the wild and slaughtered in front of the customer. But the first confirmed case had no apparent connection.
+
+The market was closed by the Chinese authorities on 1 January and comprehensively cleaned and disinfected, which was helpful to hygiene but destroyed clues. Nonetheless, swab tests showed traces of the virus in areas where wild animals had been held. In late January, an inventory list emerged from the Da Zhong domestic and wild animals shop  in the market that gave a flavour of the trade. It included live wolf pups, golden cicadas, scorpions, bamboo rats, squirrels, foxes, civets, salamanders, turtles and crocodiles. It sold assorted animal parts, such as crocodile tail, belly, tongue and intestines.
+
+China realised the threat posed by the virus… Many countries in the west still haven't understood
+
+Yet it is not certain that the virus came out of the market. It is possible that an infected human took it in, although nobody gives much credence to the latest assertions from the Chinese state media that it could have been someone outside the country’s borders. “Although China was the first to report cases, it doesn’t necessarily mean that the virus originated in China,” the foreign ministry spokesman Zhao Lijian told a briefing in late November.  “Origin tracing is an ongoing process that may involve multiple countries and regions.”
+
+For the safety of the entire world, it’s important to know. The WHO has been investigating since the outbreak began. Ideally, door-to-door detective work, talking to the first people to fall ill and their families and colleagues, would have begun in Wuhan in January. But the city was in lockdown; its streets deserted. And the rest of the world had not yet understood what it was facing, said Bruce Aylward, the Canadian doctor and epidemiologist appointed by WHO to lead its fact-finding mission to China in early February.
+
+“From the moment you landed in China, you knew you were dealing with something very serious that the rest of the world wasn’t getting. You got off the plane and you were in an empty Beijing airport. It was absolutely stunning, your footsteps would echo through the great cavernous halls of Beijing airport, which is teeming day and night normally,” said Aylward.
+
+He was struck immediately by how seriously the government was taking the outbreak – and the cost to the country in every sense of such a comprehensive shutdown including closing borders. But at that stage China was doing what it needed to do – and what so many countries failed to do. It was stamping out the virus, not looking for the source.
+
+On 11 January, however, Chinese scientists handed the world an invaluable clue. On the day the first death (of a man who regularly visited the market) was reported, their genetic sequence of the novel virus was published.
+
+That sequence and many others since have shown that Sars-CoV-2, as it was named, is likely to have at least its distant ancestry in the horseshoe bats of China’s Yunnan province. Samples collected and stored after Sars  show the RaTG13 bat virus is 96% similar to the new one that causes Covid-19.
+
+That is not enough. As with Sars and Mers, which are both coronaviruses with bat origins, there must have been an intermediate host. In March the virologists Eddie Holmes and Andrew Rambaut and others published a review of what can be deduced from the genetic data in the journal Nature.  Specifically, the spike protein for which the new coronavirus has become famous has a “receptor binding domain” that will stick to a certain receptor – called ACE2 – on a human cell. Bat viruses don’t have that. But coronaviruses in Malayan pangolins do, they pointed out.
+
+Pangolins came under suspicion, but were not listed in the Huanan market, although that does not prove they were not there. But there are other animals that could conceivably pass such a virus to humans with which we are all far more familiar.
+
+For the WHO, which launched an official inquiry in the summer, the questions about which species might be the intermediary and whether there may be a lasting reservoir of virus are crucial. “So far, susceptibility studies conducted in several countries have shown that domestic cats, ferrets, hamsters and minks are particularly susceptible to infection,” said the terms of reference published in July. Cats can get the virus and transmit it to other cats. There were positive samples from nearly 14% of more than 100 cats tested in Wuhan. Farmed mink – first in Denmark and the Netherlands and then across Europe and the US – have been found to carry the virus and been culled.
+
+Despite the strong genomic trail, excitable China-blaming theories took off on rightwing news websites and social media in April, alleging the virus had been made in the Wuhan Institute of Virology lab. They were dismissed in the Nature paper, whose first author was Kristian Andersen from the Scripps Research Institute in California. “Our analyses clearly show that Sars-CoV-2 is not a laboratory construct or a purposefully manipulated virus,” it said.
+
+That was important to say, said Josie Golding, Wellcome’s epidemics lead: “It was a bunch of prominent researchers coming together to say this is why we don’t think it’s made in a lab: because you would never make a virus like this and there are too many links to other viruses that have been found in the wild.”
+
+Nor is it likely to have escaped accidentally from the Wuhan lab, said Golding, who used to work in a high containment facility in Pirbright, Surrey. The idea that one person got infected in the lab and spread it to the entire world is the stuff of movies, she said. “Show me the evidence … It just doesn’t seem very realistic.” It is far more likely that animals were infected and people picked up the virus from them.
+
+However it began, the advantage China and other Asian countries had was that they realised the threat. Aylward said many countries in the west still haven’t understood. China’s concern, having experienced Sars, was serious virus; the west’s was serious disease. And that, for him, is why they have not ended their epidemics. If the west has 1,000 cases, it will put the 100 that are severe in hospital. “The other 900 – nobody has any idea where they are, I mean, you can’t win that way,” he said. “The huge difference was just that extraordinary effort ensuring that they effectively isolated all moderate or mild cases.”
+
+Regardless of where it came from – or blame – the only way to tackle a novel virus is to take it incredibly seriously. “China saw it as a serious virus from day one,” Aylward said.
+
+• Throughout 2020, Guardian journalists have worked round-the-clock to get to the truth about the pandemic. Because good journalism can help save lives. Support independent media. Support the Guardian.
+
+• This article was amended on 14 December 2020. The first victim of the Ebola epidemic was in west Africa, not east Africa as an earlier version said.

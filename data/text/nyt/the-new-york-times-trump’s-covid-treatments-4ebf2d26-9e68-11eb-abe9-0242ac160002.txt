@@ -1,0 +1,71 @@
+The “cell lines” used to develop monoclonal antibodies, as well as remdesivir and vaccines, began with fetal tissue decades ago.
+
+When the Trump administration suspended federal funding in 2019 for most new scientific research projects involving fetal tissue derived from abortions, officials argued that whatever the scientific benefits, there was a pressing moral imperative to find alternative research methods.
+
+“Promoting the dignity of human life from conception to natural death is one of the very top priorities of President Trump’s administration,” the Department of Health and Human Services said in a statement released at the time.
+
+Yet the treatment for Covid-19 received by Mr. Trump — a cocktail of monoclonal antibodies he described as a “cure” in a celebratory video posted on Twitter — was developed using human cells derived from a fetus aborted decades ago.
+
+Remdesivir, an antiviral drug that the president received late last week, was also developed with those cell lines. At least two companies racing to create a vaccine against the coronavirus, Moderna and AstraZeneca, are also relying on the cells. Johnson &amp; Johnson is testing its vaccine in another so-called cell line originally produced from fetal tissue.
+
+As participants in the White House’s Operation Warp Speed, all three vaccine-makers have received federal funding.
+
+M.I.T. Technology Review first reported that cells originally derived from an aborted fetus were used to develop Regeneron’s antibody cocktail.
+
+A Trump administration official argued on Thursday that the president’s embracing of the treatments was not a contradiction.
+
+The administration’s policy on fetal tissue research “specifically excluded” cell lines made before June 2019, said the official, who did not wish to be identified because he was not authorized to speak about the matter.
+
+Scientific products made using cell lines that existed before then “would not implicate the administration’s policy on the use of human fetal tissue from elective abortions,” the official said.
+
+Some scientists saw a double standard in the president’s endorsement. “Hypocrisy has never bothered the man, as near as I can tell,” Lawrence Goldstein, a neuroscientist at the University of California, San Diego, who has used fetal tissue in his research, said of Mr. Trump.
+
+Dr. Deepak Srivastava, a pediatric cardiologist who led the International Society for Stem Cell Research until July, said, “If they oppose this research, they should be willing to not take a drug that was developed using that.”
+
+For decades, fetal tissue from abortions has been crucial to scientific research into treatments for conditions from birth defects to Ebola to cancer. And fetal tissue has been particularly important for studying the immune system, a key to designing treatments and vaccines for infectious diseases like Covid-19.
+
+The cells used by most of the companies now trying to find a Covid-19 treatment, called the 293T line, were derived from the kidney tissue of a fetus aborted in the 1970s. A similar cell line, Per.C6, was obtained in 1985 from the retinal cells of an aborted 18-week-old fetus.
+
+The treatment that Mr. Trump called a cure for Covid-19 is a cocktail of two monoclonal antibodies manufactured by Regeneron. Those antibodies are synthesized outside the body and then infused into patients to help fight off the infection.
+
+Regeneron tested the antibodies against virus-like particles created using 293T human cells. The viral particles serve as a proxy for the live coronavirus; testing otherwise would require a lab with extremely high biosafety levels. (Eli Lilly, which also is manufacturing monoclonal antibodies, is using the same method.)
+
+“293Ts were used in testing the antibodies’ ability to neutralize the virus,” said Alexandra Bowie, a spokeswoman for Regeneron. “They weren’t used in any other way, and fetal tissue was not used in the research.”
+
+Mr. Trump’s resounding endorsement of Regeneron may run afoul of some religious groups and conservative leaders who have questioned the cells’ use to find treatments or vaccines for use against the coronavirus.
+
+“One concern regarding the ethical assessment of viral vaccine candidates is the potential use of abortion-derived cell lines in the development, production or testing,” David Prentice, vice president of the Charlotte Lozier Institute, wrote in September.
+
+His analysis identified 13 vaccine candidates for the coronavirus that rely on fetal cell lines.
+
+Such research is “not morally responsible,” said Dr. James Sherley, a research scholar at the Charlotte Lozier Institute and director of the adult stem cell company Asymmetrex. “There are alternatives — there are lots of ways that don’t require the death of anyone.”
+
+But other conservative leaders have sanctioned use of the cells, noting that they were developed decades ago, long before concerns about their fetal origins became a political issue.
+
+In a letter sent to Mr. Trump in June, more than 100 members of Congress praised the president for his “efforts to protect the sanctity of all human life” but described 293T and Per.C6 as a “few old cell lines.”
+
+On Thursday, some scientists dismissed that reasoning. “It’s not ethically sound to say, ‘Just because they’re made a long time ago, it’s OK if it’s going to save my life,’” Dr. Srivastava said.
+
+Scientists argue that the administration’s position has prevented lifesaving research. Dr. Warner Greene, a researcher at the Gladstone Institutes, a nonprofit research organization in San Francisco, said, “The president’s decision regarding fetal tissue research has thwarted many, many promising lines of investigation.”
+
+At the time of the ban, Dr. Greene was investigating a cure for H.I.V. with a collaborator at the Rocky Mountain Laboratories in Hamilton, Mont. The federal ban abruptly cut off their funding.
+
+“Our experiments were stopped and halted in their tracks,” Dr. Greene said, adding that the work had not yet resumed.
+
+As the administration sharply restricted fetal tissue research, it set up an ethics board to review scientific proposals at the National Institutes of Health. Grant renewals and new projects using fetal tissue are now considered by the Fetal Tissue Ethics Advisory Board, which met for the first time in July.
+
+In August, the board rejected 13 of the 14 proposals it reviewed; the approved proposal relied on tissue that had already been acquired.
+
+Some critics have suggested that scientists use tissue from spontaneous abortions rather than from elective ones. But spontaneous abortions often result from genetic and developmental abnormalities, rendering them unreliable for use in scientific research.
+
+As an alternative to cells derived from fetal tissue, scientists may use mice engineered to carry human genes that may replicate parts of the immune system.
+
+“There have been other modifications that some argue are almost as good, and they are helpful, but they are not the same as the truly humanized mouse from human fetal tissue,” Dr. Srivastava said.
+
+In July, the stem cell society sent the new ethics board a letter, signed by 90 scientific, medical and patient organizations, that urged the board to allow fetal tissue to be used to develop treatments for Covid-19 and other diseases.
+
+“Fetal tissue has unique and valuable properties that often cannot be replaced by other cell types,” the statement said.
+
+The House Committee on Oversight and Reform found last month that the Trump administration’s ban on the use of federal funds for fetal tissue research was “based in ideological objections, not evaluation of the scientific merit of such projects.”
+
+PHOTO: Experimental Covid therapies were tested on cells from fetal tissue lines that predate a funding ban. (PHOTOGRAPH BY DOUG MILLS/THE NEW YORK TIMES) (A10)

@@ -1,0 +1,27 @@
+New Delhi, April 7 -- Hyderabad-based Bharat Biotech announced last week that it is working on developing a nasal drop vaccine for Covid-19. Animal testing has begun in the US in collaboration with virologists at the University of Wisconsin-Madison and vaccine developer FluGen. Bharat Biotech's chairman and managing director Krishna Ella spoke to Rhythma Kaul about trials for the new vaccine, how the animal testing phase will be crucial, the delivery mechanism, and the challenges that vaccine manufacturers face in India.
+
+Edited excerpts:
+
+What is this vaccine against Covid-19 that you are developing?
+
+We have got a total command over the pandemic vaccines; be it H1N1, Chikungunya, Zika,we have always chipped in when required. Our vaccine CoroFlu will build on the backbone of FluGen's flu vaccine candidate M2SR. Based on an invention by the University of Wisconsin-Madison virologists and FluGen co-founders Yoshihiro Kawaoka and Gabriele Neumann, M2SR is a self-limiting version of the influenza virus that induces an immune response against the flu. Kawaoka's lab will insert gene sequences from Sars-CoV-2, the virus that causes the disease Covid-19, into M2SR so that the new vaccine will also induce immunity against the coronavirus. The refinement of the CoroFlu vaccine concept, and testing in laboratory animal models at UW-Madison, is expected to take at least three months. Bharat Biotech in Hyderabad will then begin production scale-up for safety and efficacy testing in humans. CoroFlu could be in human clinical trials by July.
+
+Why did you move to the US for trials?
+
+For Covid-19, we thought we should have the best experts in the world. Kawaoka is the best person in the influenza programme in the world... Why the area of influenza is important is because both influenza and Covid-19 follow the same pattern of infection -- you cough, it goes through the nasal and mouth route into the lungs. For this sort of respiratory pathogen, the lungs are the target, which is why mucosal immunity is very important for this kind of pathogen.
+
+The animal model trial is on. Our animal trials are going to be delayed because we have to establish safety and efficacy, but human trials will be very fast...very short.
+
+Why a nasal vaccine?
+
+We want to use the same route that this pathogen uses - the nasal route. The ideal vaccine in a pandemic should have an easy delivery mechanism that can reach easily villages; even an anganwadi worker should be able to give it to the villagers. Look at the polio vaccine, it's a great success because of the oral drop; it reached the last mile because of easy delivery of the vaccine. Similarly, nasal drop will work better. Also, the safety of the platform has been established in humans already. In the US, Phase 2 (human trials) trial of the influenza vaccine (company FluGen) has already completed. Safety of the platform is proven, so we can rely on the platform for use in human beings. So if the safety is proved in 3 months, we will go ahead...
+
+If you reach the human trials level, what category will you be looking at recruiting in India?
+
+While recruiting candidates later for human trials, our priority will be doctors and health care workers and police personnel, since they are at the forefront in India. It has to be in India because the country of origin has to approve the results. Phase 1 and phase 3 trials will be with them.
+
+What are the challenges vaccine manufacturers face in India?
+
+In a pandemic situation, everyone asks, when is the vaccine ready, why are you delaying,.. etc. What we should actually talk about is long-term fundamentals such as innovation in India, start-ups; are reagents easily available in 24 hours because speed is of utmost importance for any start-up. We rely heavily on foreign countries for raw material, and even small things at times are not available in India. The correct animal model (a special type of mice) required for testing is not available in India. It is available in the US, and they will give priority to their country or Europe next, so what kind of research can you do ....
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

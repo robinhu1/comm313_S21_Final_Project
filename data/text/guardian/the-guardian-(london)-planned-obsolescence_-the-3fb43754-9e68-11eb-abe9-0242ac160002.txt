@@ -1,0 +1,69 @@
+'Imagine you showed someone a smartphone 20 years ago. You said: 'Here's this thing, it's going to be awesome, and it'll cost $1,000. But the manufacturers are going to glue the battery in, and you're supposed to get rid of it when the battery wears out.' You would have thought that notion was completely bananas."
+
+Nathan Proctor is talking via Google Hangouts from Boston, Massachusetts, about an allegedly central feature of modern manufacturing known as planned obsolescence. This is the idea that some of the world's biggest companies have been selling us products either knowing full well that they will only last a couple of years, or having deliberately built a short lifespan into the itemor its software.
+
+It is a charge the companies would reject, but we all have everyday knowledge of what he is talking about - the suddenly dead or "bricked" - made as useless as a brick - phone, discarded printer or broken laptop. Most of us dismiss the phenomenon as an irritating but unavoidable feature of modern life. But Proctor is the director of the Right to Repair campaign spawned by the US's            Public Interest Research Group (founded in 1971 by the            celebrated activist Ralph Nader ), and he wants us to see things very differently.
+
+As we throw away machines and devices damned as out of date, the result is a growing mountain of e-waste. Last year alone, it was reckoned that more than 50m tonnes of it were generated globally, with only around 20% of it officially recycled. Half of the 50m tonnes represented large household appliances, and heating and cooling equipment. The remainder was TVs, computers, smartphones and tablets.
+
+Now, finally, across the world, tentative moves are being made to end this culture of obsolescence. In the US, Apple has recently agreed to pay up to $500m in settlements related to allegations that software updates caused older iPhones - such as the iPhone 6, 6s Plus, 7 and 7 Plus - to slow down (the company denied any wrongdoing, and insisted the technique prevented older devices from shutting down altogether). In France, the same issue resulted in a fine of (EURO)25m (£21m).
+
+In Norway, the supreme court is deciding on the battle between Apple and Henrik Huseby, the owner of a small phone-repair shop, and the company's pursuit of claims about "counterfeit" replacement screens that he insists were taken from old Apple devices. Meanwhile, the European commission has recently announced plans aimed at ensuring that a range of products will be "recyclable, repairable and designed to last longer" as part of a plan to halve waste across the EU by 2030.
+
+Different consumer choices might also be part of the answer, and Proctor's life as a tech consumer offers examples. The computer he is using to talk to me, he explains, is a Frankenstein PC - custom-built from parts of different computers, some of which were bought in the early 1990s. His iPhone dates from 2013. But he emphasises that what we choose to buy is much less important than the actions of governments and companies.
+
+The companies that make millions of smartphones should just not make them to break
+
+Nathan Proctor, Right to Repair
+
+"We're not going to fix this problem person by person, changing how we treat smartphones. The companies that make millions of smartphones should just not make them to break." A few computer companies do better ("HP and Dell provide access to firmware, spare parts and tutorials - they're really good, as far as we can tell"), but their actions heighten his exasperation that many tech corporations are reluctant to follow suit.
+
+Meanwhile, the coronavirus crisis has brought our need for greater resilience and sustainability into sharp focus. Proctor noticed this from the start. "A lot of new equipment - whether it's your electric fan or iPhone or networking equipment for your school or office - comes from China," he says. "And because Chinese manufacturing was affected first, a lot of wholesalers saw a pretty significant increase in the demand for used equipment - whether that was laptops that schools were trying to redistribute so that kids could do homework, or hardware so that people could handle more remote operations."
+
+But wholesalers and refurbishers found much of the equipment was locked against reuse because of manufacturers' systems. "You can buy the hardware, but you don't have the permissions to use it without getting some kind of new service agreement. So that's another problem."
+
+The idea of planned or built-in obsolescence is certainly not new - it was first written about in 1928 by the American marketing pioneer Justus George Frederick. In the words of one subsequent account: "He stated that it was necessary to induce people to buy an ever-increasing variety of things, not in order to use them but to activate commerce and discard them after a short period of time." The concept even has its own film - in The Man in the White Suit (made in 1951, and recently screened as part of a BBC Two Ealing comedies series sparked by the lockdown), a chemist falls foul of textile producers and trade unions for creating a material that never needs replacing.
+
+Nearly a century on from Frederick's description, it seems his idea is everywhere, and it sometimes feels as if we are drowning in the detritus of planned obsolescence. The average time an individual keeps a smartphone is reckoned to be between two and three years. Astonishingly, according to EU research, the average lifetime of desktop printers is a mere five hours and four minutes of actual printing time. Ever-changing software spells the demise of fully functioning devices - which is why so many of us have household drawers filled with old ones, left behind - and often bricked - by the same companies that made them.
+
+Symbols of the extent to which companies make user repairs of their devices either impossible or extremely difficult are everywhere. iPhones are partly held together by Pentalobe screws, which are immune to standard screwdrivers. Some Amazon Kindles are constructed using glued plastic casing that is all but impossible to prise open. The reluctance of big companies to release information about the workings of their products is a constant source of frustration.
+
+All this is being closely watched by a Brussels-based organisation called the European Environmental Bureau. One of the groups's key staff members, 28-year-old Jean-Pierre Schweitzer, tells me the EU's plans for digital devices promise to extend the rules that apply to such household objects as fridges and washing machines to laptops, tablets and smartphones. "We're talking about really serious requirements, which include things about spare parts and product information," he says. Yet this prospect is still five or six years away, while Brexit means that even such belated moves may not apply in the UK, and our own mound of discarded electronic stuff could just carry on growing.
+
+Schweitzer has a few betes noires. "One is wireless headphones," he says. "People single out the Apple ones, but a lot of the other manufacturers are just as bad. The problem with lots of them is that you can't replace the batteries. As soon as they run out, that's it. Anything where you have an issue with the battery is really problematic, because they are all lithium-ion. Those are really rare, valuable resources. But because head-headphones are so small, people just throw them in their waste bins.
+
+"Increasingly, I'm hearing a lot of complaints about products from Amazon. All of their stuff: Kindles, the hardware connected with Amazon Prime - apparently it has a very short lifespan. We're just getting to see that now."
+
+When I contact Apple, I get an email about its use of recycled materials: "Apple is using recycled cobalt from iPhone batteries recovered by its disassembly robot Daisy combined with scrap from final assembly sites for brand-new Apple batteries."
+
+It sounds impressive, yet Proctor points out that recycling is only a small part of any solution: "Recycling is an incredibly destructive process that doesn't really get that much raw material back. Say your phone is kinda old and buggy. A refurbisher could switch the battery out, maybe reinstall the operating system and get another two years. If you scrap that phone for its commodity value - the plastic, glass, aluminium and copper - you're probably not recycling more than 20% of it."
+
+I then get a second email, which points to an announcement from last year, about "a new repair programme, offering customers additional options for the most common out-of-warranty iPhone repairs.
+
+"Apple will provide more independent repair businesses - large or small - with the same genuine parts, tools, training, repair manuals and diagnostics as its Apple Authorized Service Providers." This sounds like a modest victory for Right to Repair campaigners, but the announcement also contains a warning about using counterfeit parts.
+
+Many of our products are still in use after five years
+
+Amazon
+
+When I contact Amazon, a spokesperson says it is committed to sustainability. "We have built a refurbishment and trade-in programme that kept millions of devices from ending up in landfills in 2019 alone. We also design our products to last so that customers do not have to upgrade to new hardware every year - in fact, many of our products are still in use after five years."
+
+With a hint that Amazon, too, is at least starting to hear the noise made by Right to Repair campaigners, it goes on: "We know we have more work to do to allow our customers to make informed choices and to provide transparent information about the environmental impacts of devices through their whole life cycle."
+
+Martine Postma is a former journalist, and founder of the international network of Repair Cafés that began in 2009 in her native Amsterdam. Volunteers meet people who arrive with items that needs fixing, and in the process learn about bringing products back to life. The network now extends to 36 countries.
+
+But when Postma runs me through the 10 most common items that people bring to Repair Cafés, the difficulty of fixing digital devices is underlined. At the top are coffee machines. No 2 is trousers. Computers and laptops come in at No 8, and smartphones are absent. "Our repairers tend to be older people, who haven't been brought up with [advanced] electronics. But we have seen growing interest in people becoming skilled in those areas." Despite this, she says, people often have an epiphany when they watch their first repair. "They often don't even expect that their repair will be possible. But something happens when you open a machine and see what's inside. You see that there is a way that things work. We've seen that many, many times."
+
+In Levenshulme, south Manchester, 33-year-old Jack Laycock is one of the key organisers of his local Repair Café which, until the Covid-19 outbreak, met once a month, with five or six repairers, and at least 20 customers. When I ask him why he does it, the answer comes back in a flash. "There's just so much waste," he says. "It's unbelievable how much stuff we throw away. The Earth can't sustain it. That was my reason for getting involved. But also, where I live is quite a diverse area: there's a lot of people who just can't afford to buy new stuff all the time."
+
+When I mention technology, the conversation takes a forlorn turn. Computers, he says, often prove impossible to fix. And smartphones? " We don't even take phones. They're so fiddly and small: if the screen's cracked, it's possible to repair it, but we don't have the tools."
+
+In search of hope, I speak to Olivia Webb, the outreach co-ordinator at iFixit. The Wiki-based website is the online home for a global community and offers a world of advice about how to fix tech devices, plus a shop selling repair tools. It is starting to build up a stock of information about the maintenance and repair of hospital equipment, including ventilators.
+
+iFixit has two HQs, one in Stuttgart, the other in San Luis Obispo, California, where about 150 people work. Its origin dates back to the early 2000s, when one of its founders broke his MacBook and, on finding no helpful information online, created his own repair guide. Now the site has an estimated 10 million visitors a month - thanks to the refusal of large swathes of the tech industry to help people to do their own repairs.
+
+iFixit is a private company, but Webb also works on advocacy for the Right to Repair, which is now focused on lobbying the US government. "We were doing really well this year until the coronavirus happened," she says. "We had got legislation introduced in 21 states. We were making progress, but when the virus happened, it threw everything into question. But we're in a really good position, I think."
+
+What, ultimately, is it all about? "Our goal is to take back ownership of what we have. That means being able to open it, tinker with it, change things inside it or whatever, without getting into trouble with the manufacturer.
+
+"There are thousands of tonnes of e-waste we throw away every year that are just marinating. That really has to change."

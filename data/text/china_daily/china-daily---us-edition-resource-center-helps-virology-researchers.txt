@@ -1,0 +1,33 @@
+
+
+
+Resource center helps virology researchers
+China Daily
+April 3, 2020 Friday
+
+ Copyright 2020 China Daily Information. Provided by Syndigate Media Inc. All Rights Reserved
+ 
+Length: 499 words
+Byline: China Daily Global
+Body
+
+
+
+
+By ZHANG YANGFEI | China Daily Global | Updated: 2020-04-03 09:58
+The Chinese Academy of Sciences' resource center, which pools all genome sequence data and related information about the novel coronavirus, has proved popular with researchers worldwide.
+The 2019 Novel Coronavirus Resource Center offers free and open access for all researchers and health workers around the world to download the resources they need.
+Since it began operating in late January, it has served more than 89,000 users from 158 countries and regions and has had data downloaded more than 5.1 million times, said the center's developer Bao Yiming, who is also a researcher at the China National Center for Bioinformation and National Genomics Data Center at the Beijing Institute of Genomics, a subsidiary of CAS.
+In addition to being the earliest database dedicated to COVID-19, Bao said what makes this database stand out among other existing information resources is that it also provides comprehensive information, analysis and visualized graphics of the genome variations.
+The monitoring of these variations can help scientists track the development of the coronavirusÔºçwhich is essential in testing the effectiveness of vaccines and antiviral drugsÔºçtrace its origin and better grasp its transmissibility and virulence, he added.
+Many novel coronavirus genome sequences have been rapidly generated worldwide. However, the information is scattered in various databases, including a few in China, the National Center for Biotechnology Information in the United States and the Global Initiative on Sharing All Influenza Data in Germany. It is highly inconvenient for users to handpick coronavirus genome sequences from different places.
+"So our first task is to collect all information related to the coronavirus and then provide users with this one-stop thematic resource," Bao said, adding that they also have a quality control system to detect and report low quality data.
+Scientists can find a complete collection of publications on COVID-19, and the database has partnered with the Guangdong Laboratory and Computer Network Information Center, which has developed a cloud-based diagnosis system using artificial intelligence that can help doctors diagnose COVID-19 pneumonia by simply uploading the CT or X-ray images.
+Bao said they have also established a data exchange mechanism with the National Center for Biotechnology Information so that submitted data will be shared more widely.
+Bao said that when the database was launched, the majority of the users were from China. Now with the virus becoming a global issue, the number of overseas users has soared from less than 20 percent to more than 70 percent.
+"It's also proof that our database is indeed serving the world in fighting the pandemic," he added.
+Takashi Gojobori, a molecular biologist and distinguished professor at King Abdullah University of Science and Technology in Saudi Arabia, said the resource is a "very impactful achievement in such a short period".
+ Load-Date: April 3, 2020
+
+ 
+

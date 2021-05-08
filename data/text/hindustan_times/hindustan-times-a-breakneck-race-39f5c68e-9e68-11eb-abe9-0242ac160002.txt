@@ -1,0 +1,47 @@
+New Delhi, June 16 -- The retraction of influential studies published in two of the world's leading scientific journals last week was a rude reminder of the perils of moving at warp speed to find a treatment or cure for the coronavirus disease (Covid-19), which has infected eight million and killed 430,000 in less than six months of the World Health Organisation (WHO)being informed by China about a cluster of pneumonia cases of unknown origin in Wuhan on December 31, 2019.
+
+By January 30, it had infected 7,818 people, of which 82 were in 18 other countries, which forced a seemingly reluctant WHO to declare the novel coronavirus (2019-nCoV), as it was then called, a public health emergency of international concern. Scientists from across the world stepped up to defuse the emerging health threat with every tool that they had. Never before have so many scientists, researchers and clinicians from across specialties focused on a single disease or used such a wide variety of innovative techniques and platforms for vaccine and drug development. Never before have regulatory processes been fast-tracked at such scale for emergency use of drug and vaccine trials.
+
+"The need for speed should not throw caution to the wind. Dubious data sources and poorly designed clinical trials of experimental drugs and vaccines have raised more concerns than solutions," said Sujatha Rao, a former health secretary of the ministry of health and family welfare.
+
+Need for speed
+
+As on June 12, the US National Library of Medicine Registry of ClinicalTrials.gov had 2,122 registered studies on the disease, with hundreds more registered in national registries.
+
+"When publication is going at a high speed, you don't always notice the traffic signals. There are three things happening now. People are publishing through a rapid review process, studies are being published in pre-prints, people are writing blogs where they can write anything and interpret anything they call data. In the usual (scientific journal) publication cycle, nothing gets published in three or four days. From submission to publication, it normally takes at least three to four weeks and often more than six weeks. If I get an article for review from The Lancet, which I frequently do, I get a minimum of 10 days," said Dr K Srinath Reddy, president, Public Health Foundation of India.
+
+Pre-print publication is a practice borrowed from other sciences, such as physics and Math, where researchers put their papers on a website and invite comments from the scientist community, based on which they modify and correct their analysis before publication.
+
+What works for theoretical sciences, however, doesn't work as well for medical research, which has immediate implications on health and life. "Rapid reviews are causing problems because the reviewers are chosen in haste and they don't have adequate time to look at the data properly and they are under pressure to respond quickly," said Reddy.
+
+Peer review is important to ensure quality of scientific communications, incorporating inputs of other experts. "While pre-publication peer-review is the standard, there are good examples of post-publication review as well. Validation by other researchers is perhaps the most important, especially when the findings are unexpected or controversial," said Dr Anurag Agrawal, director of the Council of Scientific and Industrial Research- Institute of Genomics and Integrative Biology.
+
+Review, reform
+
+But this very validation process spectacularly failed in the case of the two retracted studies in The Lancet and The New England Journal of Medicine. The Lancet paper raised safety concerns about the experimental use of the anti-malarial drugs for treatment and led to WHO suspending the hydroxychloroquine and chloroquine arm of its multi-country trial, much to the dismay of India, which is the world's largest producer of these affordable generic drugs that have been used to treat malaria for close to a century. "The key concern for us was that the data was questionable that made analysis unreliable and any results misleading. If not for the name of the journal, the paper would have not have been taken as seriously," said Agrawal.
+
+While journals have established validation processes, such papers can slip between the cracks because of several reasons, including the authors belonging to reputable institutions like Harvard University, or the reviewers having confirmation bias, where they agree with the study's conclusion even before they begin scrutinising how the result has been arrived at.
+
+For a disease barely six months old, generating high-quality data quickly and efficiently is a challenge, which makes review and scrutiny all the more critical. "It's the job of a journal's editorial team to do an independent review and ensure it doesn't get shoddy when it is inundated with research studies," said Dr Jacob T John, former head of the department of virology, Christian Medical College, Vellore, Tamil Nadu.
+
+Retractions are not rare, but they are growing. In 2019, there were 1,433 retractions from scientific journals, according to Retraction Watch, which has been tracking retractions for a decade. In 1997, the number was 44.
+
+Trial by error
+
+Vaccine development, on average, takes 10.71 years from the preclinical phase, and has a success rate of 6%, according to a study in the journal, PLOS One. Some remain elusive despite decades of massive investment, as we have seen in the case of the Human Immunodeficiency Virus that causes the Acquired Immuno Deficiency Syndrome, or AIDS.
+
+Work on a Covid-19 vaccine began on January 11, within a day of China sharing the genome of the new coronavirus that came to be called Sars-CoV-2. By June 12, there were 10 experimental vaccines in advanced stages of clinical trials and 115 in pre-clinical evaluation stages, according to WHO.
+
+Scientists are working across emerging technology platforms that have never been used for vaccine development before. Moderna's mRNA-1273, which entered into clinical trials just 66 days after Sars-CoV-2 was first sequenced in China, showcases the potential for DNA- and RNA-based vaccines that use the messenger RNA (mRNA) platform to elicit an immune response against the virus.
+
+"If it is approved, it will be the first messenger RNA (mRNA) vaccine against any disease in the world. We don't fully know the effectiveness of mRNA vaccines as yet. However, there is high quality science and pre-clinical evidence for this fast and flexible platform for vaccine development. We will have to wait and see," said Agrawal.
+
+Vaccine development includes at least three human trials to test their safety, dosage and the strength and duration of the protection they offer, followed by production, licensure, deployment of vaccines and plans for post-marketing surveillance. Many of these trials have been collapsed and merged to have a vaccine ready for use within the next six to eight months.
+
+"With Covid-19, the goal from the beginning has been to develop, test and manufacture a vaccine on a scale of hundreds of millions of doses within 12 to 18 months, so an unprecedented approach has been adopted. With promising preliminary preclinical and phase 1 data available, meticulously planned trials are needed to separate the contenders from pretenders. Since approvals are expected for an emergency use vaccine, developers start mass manufacturing as soon as they complete phase 2 trials, and in doing so, risk the failure of phase 3. In such cases, consortiums and countries fund for risk reduction and provide market commitments," said Dr N K Ganguly, former director general, Indian Council of Medical Research. This is where new technology lab-based platforms help. RNA- and DNA-based vaccines are faster and cheaper to produce than synthetic vaccines as they involve synthetic production of the genetic material, and not the virus. "The production is lab-based, so it can be quickly standardised and scaled up," said Ganguly.
+
+Getting a large enough sample size across age groups is essential as the results in one population might not translate to the other.
+
+"Whether it is vaccines or drug development, what is crucial is independent scientific validation to ensure the vaccines and drugs are safe and effective because getting it wrong would mean playing with lives," said Ganguly.
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

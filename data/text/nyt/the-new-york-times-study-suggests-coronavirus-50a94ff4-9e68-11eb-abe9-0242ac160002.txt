@@ -1,0 +1,53 @@
+Scientists not involved in the study seriously doubt the findings, which challenge the current consensus on where and when the virus originated.
+
+In a study not yet published in a journal, scientists have reported that the new coronavirus was present in wastewater in Barcelona, Spain in March 2019, a finding that, if confirmed, would show that the pathogen had emerged much earlier than previously thought.
+
+But independent experts who reviewed the findings said they doubted the claim. The study was flawed, they said, and other lines of evidence strongly suggest the virus emerged in China late last year.
+
+Up until now, the earliest evidence of the virus anywhere in the world has been from December 2019 in China and it was only known to have hit mainland Spain in February 2020.
+
+“Barcelona is a city that is frequented by Chinese people, in tourism and business, so probably this happened also elsewhere, and probably at the same time,” said the lead author, Albert Bosch, a professor in the Department of Microbiology of the University of Barcelona who has been studying viruses in wastewater for more than 40 years.
+
+Several experts not involved in the research pointed out problems with the new study, which has not yet been subjected to the critical review by outside experts that occurs before publication in a scientific journal. They suggested that the tests might very well have produced false positives because of contamination or improper storage of the samples.
+
+“I don’t trust the results,” said Irene Xagoraraki, an environmental engineer at Michigan State University.
+
+Researchers at the University of Barcelona posted their findings online on June 13. Most of their report described research on wastewater treatments from early 2020. The surprising finding about March 2019 was only mentioned briefly at the end of the report.
+
+The research gained more attention when the university issued a news release on Friday.
+
+For months, scientists have been struggling to assemble clues about the origin of the new coronavirus. The earliest official reports came from the city of Wuhan in China in December 2019.
+
+Researchers have studied the mutations that have arisen in coronavirus samples collected from across the world since then and have estimated on the basis of their findings that the samples shared a common ancestor that dated to late 2019.
+
+More evidence for the origin of the novel coronavirus has come from other viruses that scientists have found in animals. The closest relatives to the coronavirus infect bats in China.
+
+Because the virus can be shed in feces, researchers have begun examining wastewater to detect the pathogen’s genes.
+
+In Europe, Australia and the United States, researchers discovered rising levels of the virus’s genes in wastewater days before confirmed cases began to arise. These discoveries have led a number of researchers to examine frozen wastewater samples from earlier periods, seeking evidence of the virus’s presence before anyone knew to look for it.
+
+Last week, Italian researchers reported finding the virus in Milan and Turin on December 18, two months before northern Italy was besieged by Covid-19 cases.
+
+Separately, in Spain, Dr. Bosch and his colleagues began taking weekly samples of wastewater from two of Barcelona’s treatment plants in April. They found the virus in these samples, prompting them to look back at earlier samples.
+
+The researchers found the virus in a number of samples from early 2020, in the months before the pandemic struck Spain.
+
+Dr. Bosch and his colleagues then went back even further, examining nine samples taken every few weeks or months between January 2018 and December 2019. In a single sample, taken March 12, 2019, they got a positive result from their tests for the virus.
+
+Dr. Bosch found it plausible that the virus could appear in March but not show up in more recent samples.
+
+“Respiratory viruses usually have peaks around this time of the year,” Dr. Bosch said. “Probably the virus then disappeared.”
+
+But Dr. Xagoraraki noted that the researchers used tests that search for bits of three different genes. The only tests that came back positive were for a gene called RdRp. One of the other tests, for a gene called N, is known to be more sensitive. “It should have shown a signal as well,” Dr. Xagoraraki said.
+
+It was possible that the positive results were the result of contamination from other samples that did have the virus, Dr. Xagoraraki said. She also doubted whether the delicate coronavirus could have survived for over a year without the sample having been put in a deep freeze. “If the samples were not stored in -80 degrees, you can’t trust the results,” she said.
+
+Gertjan Medema of the KWR Water Research Institute in the Netherlands said that the study came from a “knowledgeable research team,” and so should be taken seriously. But, he added, “they need to confirm this finding in multiple ways.”
+
+Dr. Bosch said that his team would not be able to repeat the experiments in the positive sample from March 2019 because it was depleted during the first test. “We proved it from this sample but we cannot repeat it,” he said. But contamination was unlikely, he said. “The way we work, when there is contamination, we notice it.”
+
+Another way to confirm the finding would be to search through stored samples of blood from patients in Barcelona hospitals in March 2019. If the virus were circulating, even briefly, in Spain, some people would most likely have been hospitalized complaining of flulike symptoms.
+
+[Like the Science Times page on Facebook. | Sign up for the Science Times newsletter.]
+
+PHOTO: A virus patient in Barcelona, Spain, was taken outside after spending some weeks in the I.C.U. at the Hospital del Mar this month. (PHOTOGRAPH BY DAVID RAMOS/GETTY IMAGES)

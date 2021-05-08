@@ -1,0 +1,35 @@
+Coronavirus may have been present and spreading in Wuhan as early as August last year, according to a study that analysed satellite imagery of car parks outside major hospitals and search engine data.
+
+The study, by researchers from Harvard medical school, Boston University of Public Health and Boston children's hospital, looked at images captured between January 2018 and April 2020 and found a "steep increase" in vehicle counts starting in August 2019 and peaking in December 2019. Between September and October, five of the six hospitals observed had their highest daily volume of cars in the period analysed.
+
+China's foreign ministry rejected the study, calling it "extremely absurd".
+
+According to the study, the increase in vehicle volume coincided with a rise in queries on the Chinese search engine Baidu for "cough" and "diarrhoea", about three weeks before the confirmed rise in coronavirus cases in early 2020. The researchers noted that while queries for cough coincided with the influenza season, diarrhoea is a symptom specific to Covid-19.
+
+"Increased hospital traffic and symptom search data in Wuhan preceded the documented start of the Sars-CoV-2 pandemic in December 2019," the researchers said in a preprint, published by Harvard's DASH repository.
+
+"In August, we identify a unique increase in searches for diarrhoea which was neither seen in previous flu seasons or mirrored in the cough search data," it said.
+
+China's foreign ministry spokeswoman Hua Chunying said on Tuesday in a regular press briefing that she had not seen the study but she rejected its conclusions.
+
+"I think it is absurd, actually extremely absurd, to draw this kind of conclusion based on superficial observations such as traffic volume," she said.
+
+The origins of Covid-19, which was first detected in a cluster of cases associated with the Huanan seafood market in late December, has become an increasingly sensitive question as China fights off accusations that it should be blamed for the pandemic, which has killed more than 400,000 people around the world.
+
+Some scientists pointed out potential weaknesses in the Harvard study, which is a pre-print so has not undergone peer-review.
+
+Paul Digard, a virologist professor at the University of Edinburgh, said using search engine data and satellite imagery of hospital traffic to detect disease outbreaks was "an interesting idea with some validity".
+
+The study would have been more persuasive if the increased activity at the Wuhan hospitals had been compared with activity at other Chinese hospitals at the same time, he said.
+
+"It's important to remember that the data are only correlative and (as the authors admit) cannot identify the cause of the uptick. By focusing on hospitals in Wuhan, the acknowledged epicentre of the outbreak, the study forces the correlation. It would have been interesting (and possibly much more convincing) to have seen control analyses of other Chinese cities outside of the Hubei region," he said.
+
+Keith Neal, emeritus professor of the epidemiology of infectious diseases at the University of Nottingham, pointed out that one of the two hospitals in the study was the Children's hospital of Wuhan, described in the paper as "the largest paediatric hospital in Hubei". But relatively few children have been hospitalised with Covid-19 .
+
+"The comment that children's hospitals were affected ... suggests this probably was not Covid-19," he said.
+
+The authors of the study acknowledged that they could not confirm whether the increased vehicle volume was directly related to the new virus. Wuhan would have been entering influenza season; several doctors said that in December some schools had cancelled classes because of the flu.
+
+Other limitations include the presence of tall buildings, trees and smog, which limited the number of high-resolution images that could be taken. There was also limited archival footage of Wuhan in previous years because of a "lack of commercial interest".
+
+The study said: "Our evidence supports other recent work showing that emergence happened before identification at the Huanan seafood market. These findings also corroborate the hypothesis that the virus emerged naturally in southern China and was potentially already circulating at the time of the Wuhan cluster."

@@ -1,0 +1,1121 @@
+block-time published-time 10.24am BST
+
+Today's summary
+
+That's where we will leave the live blog for this evening.
+
+In case you missed it, this is the big news of the day:
+
+•The Northern Territory has been declared free of Covid-19 after the last confirmed patient recovered.•Queensland declares it won't be lectured by NSW on opening the hard border.•South Australia is to move to stage 2 restrictions from June 5.•Apple and Google released software to better integrate contact tracing with public-sector health apps, but no sign yet of whether it will be integrated into Covidsafe.•Myer is to reopen its stores from Wednesday next week.•The federal government is "urgently" consulting on potential changes to the Fair Work Act after a landmark court decision on casuals yesterday.•The federal government has kept open a Centrelink outlet in Melbourne's inner north after announcing it would be shut yesterday.
+
+The Northern Territory has been declared free of Covid-19 after the last confirmed patient recovered.
+
+Queensland declares it won't be lectured by NSW on opening the hard border.
+
+South Australia is to move to stage 2 restrictions from June 5.
+
+Apple and Google released software to better integrate contact tracing with public-sector health apps, but no sign yet of whether it will be integrated into Covidsafe.
+
+Myer is to reopen its stores from Wednesday next week.
+
+The federal government is "urgently" consulting on potential changes to the Fair Work Act after a landmark court decision on casuals yesterday.
+
+The federal government has kept open a Centrelink outlet in Melbourne's inner north after announcing it would be shut yesterday.
+
+For the latest in coronavirus news overnight, please check our global live blog. Until tomorrow, stay safe.
+
+block-time updated-timeUpdated at 10.32am BST
+
+block-time published-time 10.15am BST
+
+enltrThe last patient recovering from COVID-19 left the RAH today. Paul contracted COVID-19 on the Ruby Princess. He was so ill he was in the ICU in an induced coma and on a ventilator for 4 weeks. He's still recovering and now receiving care closer to home at Modbury Hospital ?? pic.twitter.com/NwcZ1ippPJ
+
+- SA Health (@SAHealth) May 21, 2020
+
+block-time published-time 9.42am BST
+
+South Australia police are bringing back static, random breath-testing after it was suspended due to the coronavirus pandemic.
+
+Static RBT will begin tomorrow for the first time since March, but officers will now be provided personal protective equipment, and the cleaning regimes will be maintained.
+
+There's going to be an operation from tomorrow aimed at testing road users for drugs and alcohol in their system.
+
+Mobile drug and alcohol testing continued during the pandemic.
+
+block-time updated-timeUpdated at 9.47am BST
+
+block-time published-time 9.27am BST
+
+enltrMCC members offered a 30% discount for next years fees. Says it's "unlikely" fans will be able to attend footy this season. @abcmelbourne
+
+- Richard Willingham (@rwillingham) May 21, 2020
+
+block-time published-time 9.00am BST
+
+The Australian Financial Review is reporting Myer will open the remainder of its 35 temporarily closed stores from Wednesday next week.
+
+The stores include: Belconnen, Penrith, Castle Hill, Chatswood, Parramatta, Sydney City, Bondi, Shellharbour, Warringah, Macquarie, Roselands, Cairns, Brisbane City, Robina, Indooroopilly, Mt Gravatt, Pacific Fair, Ballarat, Bendigo, Doncaster, Eastland, Fountain Gate, Frankston, Geelong, Highpoint, Southland, Werribee, Chadstone, Northland, Melbourne, Knox City, Perth City, Adelaide City and stores in Hobart and Launceston.
+
+block-time updated-timeUpdated at 9.02am BST
+
+block-time published-time 8.31am BST
+
+If you have an iPhone, you may have noticed an update today that includes exposure notifications.
+
+This is the long-awaited Google-Apple API that we expect could be integrated into the Covidsafe app and fix a lot of the issues with the iPhone version of the app.
+
+You won't be able to switch it on unless the government agrees to integrate the API into Covidsafe and agrees to all the privacy terms and conditions that come with that.
+
+The app update issued last week did fix some of the problems that prevented people had closing the app and not recording Bluetooth handshakes, but this has had a side effect of causing more Bluetooth issues for other devices like fitness bands and wireless headphones.
+
+That won't happen if the API is integrated because on the operating system level the phone is better at coordinating Bluetooth beacons around the other Bluetooth communications going on.
+
+I asked Apple and Google this morning whether there were plans to integrate the API into the Covidsafe app and they couldn't say.
+
+The ABC has reported the government is currently evaluating it.
+
+It would fix a lot of the issues, and a change made by Apple, where you can now provide more info like phone numbers and upload keys to health providers for contact tracing, means it's much closer to Covidsafe now than it used to be.
+
+One major difference still between the two is that the Apple API works out who is a potential person who was exposed to coronavirus on the phone while Covidsafe currently uploads every key to the server and works it out that way.
+
+block-time updated-timeUpdated at 8.38am BST
+
+block-time published-time 8.26am BST
+
+Here's Luke's full report on the government's backdown on the Abbotsford Centrelink closure:
+
+Related:  Government faces calls to save Melbourne Centrelink office after postponing closure
+
+block-time updated-timeUpdated at 8.36am BST
+
+block-time published-time 8.13am BST
+
+After Luke Henriques-Gomes earlier reported that the landlord of the Abbotsford Centrelink property in Melbourne was blindsided by the government's plans to shut down the office today, we can now report that the office will remain open for the next three months.
+
+enltrNew: Services Australia will keep the Centrelink office in Abbotsford open for at least three months - one day after the government announced plans to close the centre for good from Friday. The government has confirmed to the CPSU the closure will be postponed. #auspol
+
+- Luke Henriques-Gomes (@lukehgomes) May 21, 2020
+
+block-time updated-timeUpdated at 8.26am BST
+
+block-time published-time 7.40am BST
+
+More on the crash here:
+
+Related:  Greenacre crash: multiple injuries after car smashes into hijab store in western Sydney
+
+block-time published-time 7.32am BST
+
+A car has ploughed into a shop at Greenacre in Sydney. There are reports 12 people have been injured:
+
+enltr #BREAKING : There's a major emergency unfolding at Greenacre, after a car ploughed straight into a shop with dozens of people inside.            @hansinclair9           #9News           pic.twitter.com/EXe9SD0FIS
+
+- Nine News Sydney (@9NewsSyd) May 21, 2020
+
+block-time updated-timeUpdated at 7.43am BST
+
+block-time published-time 7.28am BST
+
+I'm just going to return to the ACCC report on NBN speeds during the pandemic that Amy referred to earlier.
+
+enltrWow interesting speed dips on the NBN reported by the ACCC in mid March (when the restrictions were brought in) https://t.co/Afpj6Qs0L6           pic.twitter.com/R3WCd6tBY2
+
+- Josh Taylor (@joshgnosis) May 21, 2020
+
+Many people believed that lots of people working from home would put a massive strain on the NBN, but the ACCC's report shows all the doom and gloom projections have not come to pass.
+
+The initial dip in March when the restrictions came into effect and everyone was forced home for two months can largely be blamed on retail service providers not buying enough bandwidth - or CVC - to meet the demand.
+
+NBN Co then began offering much more bandwidth to retailers for free, and the problem fixed.
+
+It should show NBN Co, at least, that this charge should be reviewed once the pandemic is over and it stops being free. If not just because, I imagine, a lot of people will continue to work from home now and into the future.
+
+Another interesting bit of information is that for video streaming, 50Mbps is pretty good for two simultaneous Netflix HD streams with no issue.
+
+Most connections have no issue whatsoever.
+
+However, again the report notes that 95% of the underperforming NBN connections tested were on the controversial fibre-to-the-node technology.
+
+It will be interesting to see if that improves as upgrades are rolled out over time.
+
+block-time updated-timeUpdated at 7.33am BST
+
+block-time published-time 7.11am BST
+
+The time has come for me to hand over the blog to the inimitable Josh Taylor for the next short while.
+
+block-time published-time 6.50am BST
+
+In news that will disappoint all you Paul Kelly  and Nick Coatsworth  fans out there, it appears the daily 3:15pm update from the deputy chief medical officer du jour is a thing of the past.
+
+Coatsworth released a statement a short while ago announcing the government's communications response "is entering a new phase". In place of the daily update, it appears a new advertising campaign will start today and run over the next month.
+
+enltrStatement from Deputy Chief Medical Officer, Dr Nick Coatsworth #auspol           #COVID19Aus           pic.twitter.com/A5RIQRGjDJ
+
+- Political Alert (@political_alert) May 21, 2020
+
+The advertisements remind people to take three steps to help create a COVIDSafe community when away from home. They are to practise physical distancing, good hygiene and use the COVIDSafe app.
+
+We are winning - but we have not yet won. We need everyone to stay focused on the things we need to do to protect ourselves and others as we find our 'new normal'.
+
+Do the three and stay Covid free.
+
+block-time published-time 6.32am BST
+
+Australia is handling the Covid-19 impact better than New Zealand, a group of business leaders has told Jacinda Ardern.
+
+According to a report on Kiwi site Newshub, the NZ PM's Business Advisory Council chair has written to Ardern warning "because of the way Australia is approaching the next two stages (of lockdown easing) it is likely to go well in front" of New Zealand on a wellbeing scale.
+
+block-time updated-timeUpdated at 6.35am BST
+
+block-time published-time 6.06am BST
+
+On that note, I will hand you over to the capable hands of Elias Visontay  for the next little bit. Thank you for joining me today. I'll be back with you tomorrow - so please, take care of you.
+
+block-time published-time 6.04am BST
+
+This is an interesting take from  Christian Porter  on the border issue:
+
+Not long ago we called that competitive federalism - states have competed against each other for hosting sports events like a grand prix - now there will be a competition of who can make the best balanced decision to balance the health impact of changes to border closures with the economic uplift you can get to your retail tourism and hospitality sector.
+
+This is winding back to the issue we discussed earlier - at the moment the most valuable thing for Australia is job growth, that is what the federal government is completely committed to.
+
+So we're looking at this federal court decision as to how it can impact our path out of the Covid-19 pandemic and job growth.
+
+And we need to do so on an urgent and speedy basis, talk to employer groups and unions to understand the effect of the decision on job growth because no one benefits, the cost impact to business is such that businesses fail and jobs are lost.
+
+block-time updated-timeUpdated at 6.15am BST
+
+block-time published-time 6.03am BST
+
+I've spent a bit of time this morning speaking with the group representing public pathology providers. They are less than happy about the government quadrupling its Covid-19 subsidy to the private sector.
+
+Reports in the Nine newspapers this morning revealed that private pathology providers had threatened to stop Covid-19 testing unless the subsidy they received was increased from $24.40 per test to $100.
+
+The government met their demand.
+
+But public pathology providers say they are still only getting $50 per test, despite actually making a loss on some aspects of Covid-19 testing, including testing in rural and remote areas.
+
+The Public Pathology Australia chief executive, Jenny Sikorski, said that made it frustrating to watch such a significant subsidy increase handed to the private sector.
+
+"The public - in terms of the patients and the taxpayer - I don't think they benefit from the current Medicare arrangements for Covid testing," she said.
+
+Related:  Australia's private pathology providers given four-fold rise in Covid-19 test payment
+
+block-time updated-timeUpdated at 7.11am BST
+
+block-time published-time 6.01am BST
+
+Christian Porter flagged that improving the ability for casual employees to become part-time workers could be an important part of negotiations to fix the uncertainty created by the Rossato decision.
+
+He said:
+
+Part of that consultation has to be around what is known as casual conversion. For many casuals, there is a right, if they have been in the same position for a considerable period of time, to request a conversion from casual to permanency but that right is not universal. It seems to the government, without anticipating any particular result within 24 hours of the decision, part of the consultations that need to occur on an urgent basis with employers and employees are with the issue of casual conversion, and a greater clarity and universality to that right of request.
+
+Porter confirmed that if a high court appeal is lodged, the government will join the case on WorkPac's side. He also left open the option of legislation to overturn the effect of the decision - so if employers pay a casual loading to a worker, they will be classed as a casual despite regular permanent work patterns.
+
+Porter criticised Labor for ruling out that option:
+
+I see from the opposition spokesmen comments they have ruled that out, they say that is wrong and that it would reward small business who have done the wrong thing. That characterises small business very unfairly. Small business has operated in the last decade and an understanding that is widespread how you engage someone, whether permanent or casual, and the concept you would have different pays. That accepted feature of the system, that has been overturned now, quite surprisingly to many.
+
+block-time updated-timeUpdated at 7.14am BST
+
+block-time published-time 6.00am BST
+
+On the issue of border closures, Christian Porter  acknowledges that each state has the right to make its own decision.
+
+There are clearly legal issues that arise here. Health advice isn't determinative on its own, of whether or not a border closure would be determined to be constitutional or not, that would turn on all the facts of the circumstances and every individual case.
+
+These aren't easy decisions for state premiers to make but there is a health imperative, an economic imperative and strict constitutional rules around what is permissible and not permissible.
+
+The difficulty I think is ultimately, how you balance the health needs, at a given point of time, and they are evolving with the economic imperatives.
+
+One thing that needs to be considered by all state premiers, if we want to, for instance, revive our domestic tourism industry we are going to have to rely on domestic patrons, so Australians who were going to Bali will be looking for someone else to holiday.
+
+There will be serious competition as to whether they go to Margaret River or the Gold Coast. I think every state wants to be part of that revival in the market. They need to do that in a balanced way, but if you are too late in opening your borders you will miss out on getting an important market and pivoting tourism to the domestic market.
+
+block-time updated-timeUpdated at 6.09am BST
+
+block-time published-time 5.57am BST
+
+Now that is interesting, because the government, in defending the decision of the Fair Work Commission to scrap some penalty rates, said it would not intervene, because the decision had come from the independent umpire. And Labor, which is calling on the government to respect this decision from the federal court, another independent umpire, had plans to reverse the penalty rate cut ruling if it won government.
+
+So, as usual in Australian politics, we only respect the decisions of the independent umpires when they align with what a party wanted anyway.
+
+block-time updated-timeUpdated at 6.09am BST
+
+block-time published-time 5.55am BST
+
+Government flags 'fairly urgent consultation' over fair work decision
+
+Christian Porter  has addressed the federal court decision, which gives casual employees working permanent hours the same benefits as permanent workers.
+
+He isn't happy with it, and says the government will consult on the decision "on a fairly urgent basis" and legislation to halt the intent of the decision could be enacted.
+
+What we will do is consider a range of options. Part of this is considering what is the potential cost impact on small business with this decision.
+
+If the cost impact is so great it would cause a lot of small businesses during what is the most challenging time to fold, or go into liquidation, or have to stand people down, that's not an outcome in anyone's mutual interest.
+
+We have to talk very quickly to business and employee groups to understand whether or not the financial impact of this decision over the next six, nine, 18 months puts businesses in jeopardy.
+
+If it does, we need to consider ways we can strengthen businesses so we preserve jobs, because if this decision was handed down six months ago it would have been a very, very different scenario. At the moment the greatest premium for the economy is employment, generating employment and saving jobs.
+
+block-time updated-timeUpdated at 6.09am BST
+
+block-time published-time 5.38am BST
+
+It being past 2pm on a random Thursday, we have another quiet announcement from the government.
+
+On 27 January 2020 the Morrison government announced that the Treasury would undertake a public consultation on the merits of the current stamping fee exemption in relation to listed investment companies and trusts (LICs).
+
+Stamping fees are an upfront one-off commission paid to financial services licensees for their role in capital raisings associated with the initial public offerings of shares.
+
+Following the conclusion of Treasury's consultation, the Morrison government will move to extend the ban on conflicted remuneration to LICs. These changes will take effect from 1 July 2020.
+
+Whilst new LICs capital raisings have largely ceased since the inception of Covid-19, it is important that the ban on conflicted remuneration is extended ahead of any resumption of capital raising activity.
+
+Clarifying these arrangements will address any related risk of consumer harm and ensure that stockbrokers, financial advisers and investment managers are clear about the regulatory settings that will apply in this area and investors can continue to invest with confidence in these products.
+
+Extending the ban on conflicted remuneration to LICs will address risks associated with the potential mis-selling of these products to retail consumers, improve competitive neutrality in the funds management industry and provide long-term certainty so that this segment of Australia's capital markets can continue to operate effectively and provide investors with opportunities to diversify their investments.
+
+The treatment of equity and debt securities in trading companies (including hybrids), real estate investment trusts (REITs), and listed infrastructure investments will not be impacted by these changes. Maintaining the existing treatment for these investments is designed to ensure that direct capital raising activities which support the economic activity of companies in the real economy are not impacted by these changes. Persons providing personal advice to a retail client in relation to these products will continue to be legally required to act in that client's best interests.
+
+The Australian Securities and Investments Commission (Asic) will actively monitor arrangements in the lead up to and following the introduction of these changes.
+
+block-time updated-timeUpdated at 5.54am BST
+
+block-time published-time 5.34am BST
+
+A lunchtime Zoom call is hardly a clear black night, and there was no sign of a clear white moon, but there were certainly regulators galore in attendance at a Financial Services Institute of Australasia hook-up today.
+
+And not just any geeks on the street: the Reserve Bank governor, Philip Lowe, Asic chairman James Shipton and Apra boss Wayne Byres.
+
+Lowe used the opportunity to reinforce his statements that negative interest rates were "extraordinarily unlikely" in Australia.
+
+"I think the costs of that exceed the benefits," he said.
+
+He said Australia's economic recovery depended in large part on progress in fighting the coronavirus.
+
+"If we don't get a vaccine it's going to be a slow recovery," he said.
+
+The RBA has tipped vast sums into the banking system, but Lowe said there were limits to what it could achieve through monetary policy alone. Government spending would be "crucial" to the recovery, he said.
+
+Both Byres and Shipton said other regulatory projects had been put on hold to deal with the crisis.
+
+Byres said the banks had acted as economic shock absorbers, and said the decision to ask them to cancel or defer dividends wasn't taken lightly.
+
+"We hope the impact on dividends from the current Covid-19 crisis will be temporary, however the outlook is uncertain," he said.
+
+block-time updated-timeUpdated at 5.39am BST
+
+block-time published-time 5.32am BST
+
+The Greens are now considering whether to move a censure motion against Stuart Robert, following the story by Luke Henriques-Gomes with the landlord of the Abbotsford Centrelink disputing the claim the service centre was being shut after the department was unable to come to a tenancy agreement.
+
+"In the absence of an explanation from the Minister, if the landlord's comments are accurate, the Minister has lied to me in writing and has unnecessarily hurt thousands of people reliant on the Abbotsford Centrelink, Adam Bandt  said in a statement.
+
+"The Minister must immediately reach out to the landlord and ensure Abbotsford Centrelink remains where it is.
+
+"Stuart Robert has been caught out before saying things that are untrue, like that Centrelink services collapsed under an attack from hackers, and he may well have done it again."
+
+"Unless the Minister can clarify the matter and explain what looks like a straight out lie, I'll be moving to censure the Minister when Parliament resumes, not only for closing a much-needed Centrelink but for apparently lying about it too.
+
+"If there's an explanation, I'm waiting to hear it. On 20 May 2020, I asked the Minister in writing to meet about this important matter and to date have received no answer. I can only assume he has been caught out yet again and has nothing to say in his defence."
+
+block-time updated-timeUpdated at 5.37am BST
+
+block-time published-time 5.26am BST
+
+Pauline Hanson is currently trending on Australian social media for demanding borders be reopened, despite having built an entire political movement on the demand borders be shut.
+
+block-time updated-timeUpdated at 5.28am BST
+
+block-time published-time 5.15am BST
+
+Chris Knaus has taken a look at payments to private pathology providers:
+
+Related:  Australia's private pathology providers given four-fold rise in Covid-19 test payment
+
+block-time updated-timeUpdated at 5.20am BST
+
+block-time published-time 4.59am BST
+
+Given that it will be another big issue as Australia moves into a post-Covid world, Labor's response, delivered through  Tony Burke, to the fair work ruling on casuals working permanent hours being eligible for permanent benefits is worth noting:
+
+I have got to say, I'm astonished by the government's reaction to this the whole way through. Where they are talking about extraordinary sums of money that they believe will now need to be paid as a result. That would only be the case if there has been widespread breaking of the law by Australian employers. I certainly hope that's not the case.
+
+But I have to say if employers much more broadly than WorkPac have been acting in breach of the law, if they have been refusing to give employees the security that they were legally entitled to, then the last thing the parliament should be doing is acting as a protection racket to cover for people who have broken the law. If job security that people are entitled to has not been given to them, then the response from the Australian parliament - and I have got to say from the Australian government - should be to make sure that the law is upheld.
+
+A whole lot of people, particularly casuals, have found themselves with nowhere to go during Covid-19, have found themselves not entitled to a whole lot of what is offered to people in permanent work. Every Australian right now should be on the side of job security.
+
+And this decision says that when a business has not delivered on job security, then the law should step in. We shouldn't be changing the law to let businesses that have broken it off the hook.
+
+block-time updated-timeUpdated at 5.05am BST
+
+block-time published-time 4.37am BST
+
+This is just one of the reasons why the end of September, when jobkeeper and the Covid supplement for jobseeker are due to end, is very, very concerning:
+
+enltrThe Treasury Secretary has stated the number of Australians out of work is more like 15% given the headline unemployment rate doesn't truly represent the effect of JobKeeper. #auspol           #covid19australia           pic.twitter.com/oEQF1FCMLB
+
+- Katy Gallagher (@SenKatyG) May 21, 2020
+
+block-time updated-timeUpdated at 4.38am BST
+
+block-time published-time 4.36am BST
+
+South Australia to go to stage two restrictions from 5 June
+
+South Australia is planning on dropping back down to stage two restrictions from 5 June.
+
+The premier, Steven Marshall,  says he understands the wait is frustrating, but the state needs time:
+
+We can't just have a one size fits all," he said of the staggered approach.
+
+"I appreciate that it's frustrating to people and it's much easier to put the restrictions in place than to take them off.
+
+But we are only a few weeks away from being in a very good place in South Australia.
+
+The Tasmanian premier, Peter Gutwein, said something quite similar.
+
+block-time updated-timeUpdated at 4.54am BST
+
+block-time published-time 4.26am BST
+
+Phil Lowe  says the Reserve Bank is not considering negative interest rates for Australia.
+
+At 0.25% Australia has hit its ceiling. (floor, technically, but the limit of the rate cuts, so six of one)
+
+block-time updated-timeUpdated at 5.07am BST
+
+block-time published-time 4.25am BST
+
+Attorney general's department officials have revealed that although the attorney general, Christian Porter,  announced on 14 May that emergency changes to workplace pay deals will be limited to 12 months, the regulation to give effect to that has not been put in place yet.
+
+Porter slashed consultation periods to change enterprise agreements from seven days to 24 hours. In order to stave off a disallowance motion pushed by Labor and the Greens, Porter agreed to a One Nation demand that changes, once made, can't have effect for more than 12 months.
+
+Kristina Keneally's  questioning reveals that agreements varied now are not subject to the 12-month sunset period. Officials take on notice when the new regulation will be ready.
+
+Officials explained the shorter consultation period was put in to "speed up" variations of agreements, because businesses wanted to match rapid changes being made to modern awards. They take on notice who they consulted before the change was made.
+
+Martin Hehir  confirms the department is still looking at IR reform options commissioned by Porter last year: casuals, bargaining, greenfields agreements, "awards and their complexity", and the broader compliance including wage underpayment.
+
+block-time updated-timeUpdated at 4.29am BST
+
+block-time published-time 4.13am BST
+
+Christian Porter  will be talking about this decision at 2.30pm eastern time.
+
+enltrEmployer groups call for reform after court finds casual workers may be owed paid leave https://t.co/3xce3fxHbq
+
+- The Guardian (@guardian) May 21, 2020
+
+block-time updated-timeUpdated at 4.14am BST
+
+block-time published-time 4.04am BST
+
+Jim Chalmers  has been listening to Steven Kennedy's  testimony at the Covid Senate committee.
+
+He says it proves the need for a longer term plan from the government:
+
+This morning's comments by the Treasury secretary make it clear that no one - not the Treasury, the Reserve Bank, the IMF, or private forecasters - agrees with the prime minister that the economy will 'snap back' any time soon.
+
+Not all parts of the economy will recover as quickly as we'd like and that means unemployment will be higher for longer.
+
+Support could be better targeted, or tapered, but it shouldn't just 'snap back' on an arbitrary timeline which doesn't reflect the reality in workplaces and communities.
+
+The Morrison government doesn't have a genuine plan for jobs as we move from responding to the immediate crisis into the long and patchy recovery phase.
+
+block-time updated-timeUpdated at 4.11am BST
+
+block-time published-time 4.01am BST
+
+This word just keeps popping up, again and again and again
+
+enltrThe Fair Work Commission says it has seen the biggest spike in unfair dismissal claims in its history due to coronavirus #auspol
+
+- Katie Burgess (@katie_b_burgess) May 21, 2020
+
+block-time published-time 3.59am BST
+
+Labor's Murray Watt  has asked about which organisations are responsible for complaints about jobkeeper.
+
+The Fair Work Ombudsman says the ATO deals with eligibility including the application of the one-in all-in rule; the FWO deals with general workplace rights including the minimum wage and not to be discriminated against; and the Fair Work Commission hears disputes about directions to work.
+
+Asked about a worker in a cafe who was told they wouldn't get jobkeeper unless they helped with construction and renovation of the cafe, Martin Hehir, deputy secretary, of the industrial relations group at the attorney generals department, says:
+
+As a condition to access/be nominated, that would seem to go against the intent of the scheme. You can't put preconditions on the nomination - it has to be based on rules [about eligibility]... In terms of disputes about what is reasonable, if a worker is receiving the jobkeeper payment, the employer is able to provide a direction to reduce hours. They can also direct them to perform any duties within their skill and competency, as long as they hold the relevant licence or qualification. Disputes can be heard by FWC.
+
+block-time updated-timeUpdated at 4.01am BST
+
+block-time published-time 3.52am BST
+
+Treasury has also not done any modelling on what would happen if all the people who are receiving the Covid supplement as part of jobseeker, which doubles it to $550 a week, remain on the payment when it drops back down to the pre-Covid level.
+
+enltrYet again, Treasury wouldn't say if they had been asked to do any modelling on #Jobseeker rate after September. If the Gov doesn't            #RaisetheRateforGood, over 1 mil people will be living in poverty on $40 a day & the Gov can't tell us what impact that will have on the economy?
+
+- Rachel Siewert (@SenatorSiewert) May 21, 2020
+
+block-time updated-timeUpdated at 3.54am BST
+
+block-time published-time 3.50am BST
+
+Luke Henriques-Gomes has an update on the closure of the Abbotsford Services Australia centre (Centrelink) which Stuart Robert  said, in a letter to Adam Bandt, was due to a tenancy agreement coming to an end.
+
+Robert said the department was unable to negotiate a new lease. The landlord has told Luke that the first they heard of the decision was on Twitter.
+
+The government services minister, Stuart Robert, told local MP and Greens leader, Adam Bandt, by letter on Wednesday that the landlord had advised the agency they would "not retain Services Australia as a short-term or long-term tenant and will not permit any occupancy by the agency at the premises after the lease expires".
+
+Robert said: "Let there be no misunderstanding - despite the agency actively engaging with the landlord over an extended period, a lease agreement has not been reached."
+
+He claimed the landlord was "also unwilling to permit a lease holdover arrangement to allow further lease renewal negotiations, or to locate a suitable alternative premises".
+
+But the landlord, Salta Properties, flatly denied the claims, saying it was completely blindsided by the news.
+
+Related:  Landlord blindsided by decision to close Melbourne Centrelink office with 24 hours' notice
+
+block-time updated-timeUpdated at 3.54am BST
+
+block-time published-time 3.47am BST
+
+The ACT is still (known) active Covid free - no new cases have been diagnosed in the past 24 hours.
+
+That is from 311 tests.
+
+block-time updated-timeUpdated at 3.48am BST
+
+block-time published-time 3.46am BST
+
+Phil Lowe again says there is a limit to what can be achieved through monetary policy.
+
+He says there needs to be moves in terms of reform.
+
+"There is no shortage of reports filled with ideas on how to do this and how to make Australia a great place to expand, to innovate [and invest in]," he says.
+
+block-time updated-timeUpdated at 3.48am BST
+
+block-time published-time 3.43am BST
+
+Philip Lowe is speaking at this event.
+
+enltrJust a few hours left to register for our exclusive webinar with all three heads of The Regulators when APRA's Wayne Byres, ASIC's James Shipton and the RBA's Philip Lowe discuss Priorities Updated in the face of the COVID-19 crisis. Find out more here. https://t.co/Hac22yGE2N           pic.twitter.com/drjPYq4TcL
+
+- FINSIA (@FINSIA) May 19, 2020
+
+The RBA governor says total hours worked fell by 9% in the past month, but early indications for May show that the drop may not be as large as first thought.
+
+He says the sooner the economy can be opened once again - safely - the better the reversals. But he says confidence has taken a pretty big hit and people are facing reluctance to go out and spend.
+
+block-time updated-timeUpdated at 3.46am BST
+
+block-time published-time 3.41am BST
+
+Treasury officials have revealed that the list of employers claiming the jobkeeper payment will not be published. This is standard for the Australian Tax Office, according to officials, but Rachel Siewert queries why, given it's public money.
+
+Siewert (and Labor's Kristina Keneally ) also want to know whether employers are making use of new provisions allowing as little as 24 hours notice to seek changes to enterprise agreements.
+
+The attorney general's department said there have been 30 enterprise agreement variations since the new rules were introduced. The Fair Work Commission's general manager, Bernadette O'Neill,  says just 14 applications sought to make use of the short consultation period (the old rules required at least seven days' notice). Only five have been decided, and they ranged from consultation periods of one day to six days.
+
+O'Neill takes on notice whether the 14 variations were agreed by the relevant union. She said the FWC was not consulted before attorney general Christian Porter made the change - but it is "not necessarily the case" that there is always consultation. The FWC is "completely agnostic" as to the merits of the change, she said.
+
+Asked about FWC president  Iain Ross's comments, reported in Workplace Express, of an expectation of a "surge" in unfair dismissal complaints, O'Neill confirms Covid-19 has caused "significant pressures" at the FWC due to jobkeeper and an increase in lodgments for unfair dismissal. O'Neill confirms FWC has asked for extra resources.
+
+block-time updated-timeUpdated at 3.45am BST
+
+block-time published-time 3.30am BST
+
+AAP has this dispatch from Western Australia, which, in the light of the current environment, you may find interesting:
+
+Western Australia's government insists there's nothing untoward about the sudden departure of China's consul general amid escalating trade tensions.
+
+Health minister Roger Cook  has confirmed Zhihua Dong has returned to Beijing, citing health reasons.
+
+A prominent figure in WA politics since assuming the role last year, Ms Dong made frequent public appearances with state government officials and penned several newspaper opinion articles encouraging tourists to visit China.
+
+Last month, she was invited by billionaire Andrew Forrest to speak at a state government press conference in a move that is believed to have blindsided WA officials.
+
+'My understanding is that Madam Dong is returning to China for health reasons,' Mr Cook told reporters on Thursday.
+
+'I have no reason, and I believe the government has no reason, to believe otherwise.
+
+'Madam Dong has been a wonderful advocate for Western Australia and has been terrific for the relationship between Western Australia and the Republic of China. Obviously we will miss her. We wish her all the very best and a very speedy recovery.'
+
+WA has cultivated close economic ties with China across successive Labor and Liberal governments and is heavily reliant upon Chinese demand for its iron ore.
+
+But the relationship between Canberra and Beijing is badly strained, with China slapping an 80 per cent tariff on barley imports following Australia's push for a global coronavirus inquiry.
+
+'We look forward to continuing to have a strong relationship with China, because we know that Western Australians and Western Australia's jobs and economy depend upon a strong trading relationship, not just with China but with all our near neighbours,' Mr Cook said.
+
+'We have a very deep relationship with China, it goes across all parts of industry and all parts of government.'
+
+block-time updated-timeUpdated at 3.33am BST
+
+block-time published-time 3.29am BST
+
+Over in the Covid Senate select hearing, Treasury has confirmed it won't be releasing, at least publicly, which employers have signed up for jobkeeper.
+
+block-time published-time 3.21am BST
+
+Richard Marles  was asked to respond to Joel Fitzgibbon's  comments that Coalition governments had been "demonising" the Chinese and their system of governance when he was on Sky News a little later. He attempts to walk back the comments to Labor's established lines:
+
+The relationship with China has been going in a bad direction way before Covid-19 turned up.
+
+So let's be clear: the call for an independent inquiry into the origins of coronavirus is quite right and we support it. It's what should be happening.
+
+But well before that, this relationship has been going in the wrong direction.
+
+And I think it's been hard to really get a clear sense of direction from the government about what the underlying principles that guide philosophies in terms of how they are relating to China. And too often we don't see or hear from our foreign minister or even our prime minister in relation to the rise of China - there is real leadership missing at the highest level.
+
+And instead the relationship seems to be defined by the fringes of the government and the governments MPs. And I think that is certainly not helping the issue. It's a very complex, it's a very serious, relationship.
+
+It's one where we clearly have a significant engagement economically. It's one where if you want to walk down the path and try and put a black or a white hat on China, you are going to get the answer wrong.
+
+This is complex. And what it means is that you've got to build relationships and you've got to have some ballast in there so that you can deal with the difficult moments - and this is one of them.
+
+And it's really important that that relationship is deep so that we can give difficult messages when that's required, and it's being required in other areas, such as South China Sea.
+
+But in a moment such as this, when we're calling for an independent inquiry, we need the ballast in the relationship in order to do that. I think that's one of the issues that has played out right now.
+
+block-time updated-timeUpdated at 3.25am BST
+
+block-time published-time 3.15am BST
+
+You are going to be hearing more and more about this issue
+
+enltrUnder questioning from @MurrayWatt Treasury reveals that Australian's super savings have deliver as much stimulus and support to the economy as the JobKeeper and $750 payments combined: Super withdrawals: $13.2B JobKeeper: $8.2B $750 payments: $5.3B
+
+- Stephen Jones MP (@StephenJonesMP) May 21, 2020
+
+block-time published-time 3.01am BST
+
+If you have enjoyed your iso-bubble, you may enjoy this
+
+Related:  David Squires on... how to avoid leaving home as Covid-19 restrictions ease
+
+block-time published-time 2.59am BST
+
+Earlier,  Steven Kennedy said the review of jobkeeper does not have terms of reference or a call for submissions, but Treasury is talking to external stakeholders including business and academics.
+
+Kennedy gave some hints about the review - confirming it would consider whether some industries need the payment for longer, and the "taper rates" and incentives, in terms of how the wage subsidy interacts with the jobseeker unemployment benefit.
+
+Kennedy said both jobkeeper and the coronavirus supplement on jobseeker were "designed to be temporary schemes, and I think rightly so".
+
+Kennedy said Treasury had been aware it would conduct a review at the three-month mark "since the inception of the policy" on 30 March.
+
+Labor's Kristina Keneally  noted the review was not mentioned when the policy was announced and the first  Scott Morrison  or Josh Frydenberg  had mentioned it was at a press conference on 14 May.
+
+block-time updated-timeUpdated at 3.09am BST
+
+block-time published-time 2.56am BST
+
+As Liberal senator Andrew Bragg  said, it is their money.
+
+But later, when they go to retire, and their overall super has taken a hit, well, that's another story.
+
+enltrTreasury have just clarified their evidence. 1.65 million people have *applied* to draw down on their super early and 1.2 million people have been *approved* so far. So $13.2 billion has been released from super funds to 1.2 million people. https://t.co/1JQZYnHtbn
+
+- Kristina Keneally (@KKeneally) May 21, 2020
+
+block-time published-time 2.54am BST
+
+enltr15,000 people have become Australian citizens in online ceremonies held during the COVID-19 pandemic. Congratulations to our newest Aussies ????
+
+- Alan Tudge (@AlanTudgeMP) May 21, 2020
+
+block-time published-time 2.53am BST
+
+Not Covid-related, but a very big issue facing Australia as we move into the next stage - Mark Butler  has responded to the government's energy "roadmap".
+
+There's two pathways for this government. Either they can embrace the future of electricity, which around the world is recognised as being renewable energy, the cheapest, the most reliable, the cleanest way of renewing ageing electricity systems around the world.
+
+To the extent this road map does it, we'll embrace it. Or they will continue to pander, frankly, to the extremists in their party room that are determined to cling to the past rather than embrace the future. I think it still remain to be seen which of those two choices Scott Morrison intends to take with this road map.
+
+I do make the point, though, a road map that sets out electricity technology is useful as far as it goes, but it's no substitute for an investment framework that makes that technology a reality for Australia's electricity system.
+
+We desperately need investment. Investment collapsed last year by 50%. Our electricity system is ageing. Much of it operating beyond its design life and we've got to move from technology reports to actual investment
+
+block-time updated-timeUpdated at 3.00am BST
+
+block-time published-time 2.45am BST
+
+Not having terms of reference makes it easier not to hint ahead of time what the government is considering doing.
+
+enltrCurious about the JobKeeper review the PM says is in the works, @KKeneally extracts confirmation from Treasury Secretary Kennedy that it's not a legislated requirement and there are no formal terms of reference, rather they were told to "do a review"            #COVID19aus           #auspol
+
+- Marion Rae (@Mazzaphrenia) May 21, 2020
+
+block-time updated-timeUpdated at 2.46am BST
+
+block-time published-time 2.31am BST
+
+Treasury officials have updated numbers on government supports:
+
+•900,000 businesses enrolled for jobkeeper, covering "a bit over 6m" workers.•1.65m people have applied for early access of superannuation, totalling $13.2bn
+
+900,000 businesses enrolled for jobkeeper, covering "a bit over 6m" workers.
+
+1.65m people have applied for early access of superannuation, totalling $13.2bn
+
+Treasury says they are not aware of Apra or any super funds writing to them to say they are experiencing liquidity issues, but takes the question on notice.
+
+Liberal senator James Paterson  asks a series of questions about border closures and the effect on the domestic tourism market - obviously lobbying for states such as Queensland to open up - but Treasury doesn't have much information on it, and takes them on notice.
+
+block-time updated-timeUpdated at 3.01am BST
+
+block-time published-time 2.27am BST
+
+Just in case anyone thought we were a nation of Ned Kellys, AAP has this report:
+
+Confined at home due to coronavirus, Victorians looked through their window and dobbed in their neighbours.
+
+Calls to the Victorian police assistance line almost doubled after lockdown directives came in, police minister Lisa Neville  said on Thursday.
+
+They jumped from 61,000 in February to 102,000 in April, forcing police to bring in 18 Australian Defence Force staff to assist with demand that had pushed waiting times up to eight minutes.
+
+'I don't think we understood what an important role it would play and how committed Victorians were to ensuring that people followed the advice,' Minister Neville said.
+
+This substantial partnership with the community, Ms Neville said, translated into 21,000 calls about mass gatherings, 5,000 calls about businesses operating inappropriately and about 39,000 calls about self isolation breaches.
+
+Since police started enforcing social distancing and self-isolation laws on March 23, more than 50,000 compliance checks have been done and more than 5000 fines issued.
+
+This eagerness to make sure people were adhering to the guidelines showed people were doing the right thing and holding others to account, Deputy Chief Commissioner Shane Patton said.
+
+'It's about saving lives, it's about stopping people being put at risk. So we absolutely welcome people ringing up police assistance line,' he said.
+
+The fact Victorians had to stay at home, Patton said, also helped decrease crime.
+
+The reduction in residential and commercial burglaries and robberies in April, among other crimes, marked the lowest daily average of offences of any month since June 2014.
+
+block-time updated-timeUpdated at 2.30am BST
+
+block-time published-time 2.21am BST
+
+Since the government relaxed the early access conditions for superannuation, more than 1.6m people have applied to withdraw more than $13bn from funds.
+
+block-time published-time 2.15am BST
+
+Steven Kennedy  tells the Covid committee he is "not particularly concerned about the level of debt Australia is left with" at the end of the pandemic. He says debt would be "significantly higher" but given the economic shock it was "entirely appropriate" to respond in the way the government has (with $194bn of fiscal stimulus).
+
+He says:
+
+"We as a country - amid all the global gloom - are looking pretty good. We're handling the health crisis well, we're in a sound fiscal position and I believe - I realise this is contested - there was a very quick response from the fiscal side... So far so good."
+
+Kennedy notes that government revenues will decline but if the structural budget is sound, then a focus on full employment will mean that debt issues will "solve themselves". Growth of 4.5% or stronger would help bring debt down quickly - the key is restoring "demand confidence", so measures such as GDP growth, full employment and wages growth are more important than debt.
+
+As Kennedy concludes his evidence, Katy Gallagher says the committee is "frustrated" with the flow of information from Treasury and recognises this is not solely its responsibility/fault (ie PMC has classed modelling as cabinet in confidence). But she clarifies it is not the committee's view that Treasury is obstructing the inquiry ( Rex Patrick  earlier said it was his view).
+
+block-time updated-timeUpdated at 2.19am BST
+
+block-time published-time 2.09am BST
+
+The ACCC is now monitoring NBN speeds.
+
+Its first report shows that yes, you did see a drop in speed when we all started working from home, but it was rectified.
+
+block-time updated-timeUpdated at 2.09am BST
+
+block-time published-time 1.50am BST
+
+Steven Kennedy  has addressed Adam Morton 's report on the leaked Covid commission manufacturing taskforce's massive plan to expand the gas sector.
+
+Kennedy said he's aware of the news report, but hasn't read the draft briefing paper, and takes on notice whether anyone else in Treasury is aware of it.
+
+Kennedy said the National Covid-19 Coordination Commission has not commissioned work from Treasury. "We haven't been asked to model their proposals," he said.
+
+block-time updated-timeUpdated at 1.56am BST
+
+block-time published-time 1.50am BST
+
+Peter Dutton  also called in for his weekly love-in with Ray Hadley on Sydney radio 2GB.
+
+The "proud Queenslander" says "the public needs to keep the pressure up here" because it is "hard to understand the logic" the premier is applying to the border closure.
+
+If she had a sound basis then people could easily agree with her position, but it's clear that she just doesn't have a logical argument.
+
+There hasn't been a huge amount of noise on this issue from the LNP in Queensland - and that seems to be because a lot of Queenslanders are actually in agreement with the border closure.
+
+But there is a state election to be held in October, so Queensland, despite taking the same stance as WA, Tasmania, SA and the NT, seems to be taking all the heat.
+
+Dutton says Palaszczuk is conducting "some social experiment while tourism operators are going broke and their families are being destroyed".
+
+block-time updated-timeUpdated at 1.54am BST
+
+block-time published-time 1.42am BST
+
+Centre Alliance senator Rex Patrick  has accused Treasury of "obstructing" the Covid-19 inquiry by refusing to release modelling about projected unemployment, labelling it "disrespectful".
+
+Patrick said he will start using freedom of information to get at the modelling.
+
+The chair, Katy Gallagher, says the committee will be "responding to you more formally than that" - which indicates Labor and other members share their concerns and plan to write to the Treasury secretary, Steven Kennedy.
+
+Kennedy suggests the committee include the Department of the Prime Minister and Cabinet in any correspondence, because he had been "guided" by its view on consideration of material.
+
+Gallagher asks if PMC had instructed Treasury not to release the modelling. Kennedy says Treasury "sought advice on the treatment of documents" and PMC advised they should be treated as cabinet documents which Treasury "wouldn't usually release". So basically: yes.
+
+Earlier, Kennedy said Australia is "well past" what would be called a recession, but is cautious about using the term "depression" because the Covid-19 contraction is a "disease-led shock". Unlike a depression, there is no "massive misallocation of capital or highly dysfunctional credit markets".
+
+He said:
+
+"I'm not predicting a V-shape recovery. But given the nature of the shock - if the government responds well with its fiscal levers, we needn't have an L shaped recovery, which is what people would think when it comes to a depression."
+
+All the people are there after the shock... All the productive capital at the beginning sits there at end. [The question is] Have you avoided the destructive cycle of firms going broke, running out of cash, and people losing confidence and becoming very precautionary."
+
+block-time updated-timeUpdated at 1.49am BST
+
+block-time published-time 1.42am BST
+
+It may be time to just scrap everything and start again:
+
+enltr"Qlders will decide who comes to Qld and the circumstances in which they come" - Qld Treasurer Cameron Dick, unexpectedly drawing on John Howard's immigration stance.
+
+- Sean Parnell (@seanparnell) May 21, 2020
+
+block-time updated-timeUpdated at 1.46am BST
+
+block-time published-time 1.40am BST
+
+Deputy Chief Medical Officer Dr  Nick Coatsworth  had a morning chat with Alan Jones on Sydney radio 2GB.
+
+I missed it originally, as I try to limit my daily rage quota and mornings on 2GB can be counterproductive to that.
+
+Coatsworth echoed his colleague Prof. Paul Kelly,  that he saw no reason to keep borders closed or for physical restrictions to be so strict.
+
+"I think we have to open up, the prime minister said that we can't let the fear of going backwards stop us from going forwards, and I absolutely endorse that" he said.
+
+Jones was tres impressed. "That is the most significant thing which has been said this morning".
+
+block-time updated-timeUpdated at 1.46am BST
+
+block-time published-time 1.31am BST
+
+Greens senator Dr Mehreen Faruqi  says without access to packages like the jobkeeper wage subsidy, universities could shed up to 30,000 staff.
+
+It's a national day of action for higher education - Faruqi says universities could not afford to be left off the wage subsidy scheme any longer:
+
+It's time Minister Tehan provided a new funding package for universities and scrapped the unfair rules which have excluded every single university from qualifying for the jobkeeper payment.
+
+Universities are some of the most casualised workplaces in the country. This leaves uni workers incredibly vulnerable to downturns in revenue.
+
+Universities with large reserves must prioritise staff jobs in spending what money they have. Keeping university staff, including casuals, on payroll should be top of every vice-chancellor's agenda in managing this crisis.
+
+block-time updated-timeUpdated at 1.36am BST
+
+block-time published-time 1.28am BST
+
+Stephen Jones has again attacked the government's early super release program (which Labor has never been for) following reports from the AFR some recipients had gambled the money away online.
+
+The government has designed a system for speed, not accuracy.
+
+Yesterday, Asic raised further concerns that dodgy financial advisors were exploiting the pandemic and charging for access to early release on consolidation of super, which is free through the myGov portal.
+
+This Liberals robo-release process is a honey pot for shonks, fraudsters and gambling marketers.
+
+Predatory financial advisors and gambling marketers have been enabled by a flawed system which the government created.
+
+block-time updated-timeUpdated at 1.34am BST
+
+block-time published-time 1.21am BST
+
+For the record, if you count the number of people who dropped out of the labour force market statistics, almost 500,000 in the last month, unemployment would already be at almost 10%.
+
+block-time updated-timeUpdated at 1.28am BST
+
+block-time published-time 1.20am BST
+
+Steven Kennedy, the Treasury secretary, is at the Covid-19 committee addressing April's labour force statistics showing a loss of 600,000 jobs and unemployment rate of 6.2%.
+
+Kennedy said that "roughly speaking" the figures were in line with Treasury's estimates that unemployment would reach 10%, or 15% if it weren't for the jobkeeper wage subsidy.
+
+Kennedy noted the second week of April was one with "lots of restrictions" on the economy, and the ABS stats showed there were 489,000 people who had left the labour market ie were not looking for work.
+
+He said:
+
+"If we put that plus the unemployed, we'd get an unemployment rate of about 9.6%, that's roughly equivalent to the 10% we expected to see. The thing that we missed was there was a much larger withdrawal from the labour force than we anticipated. I expect they will go back into the labour force and be counted unemployed."Kennedy noted that mutual obligations have been suspended, but argues workers were "simply unavailable" to work because they were advised to stay home, and he "wouldn't be surprised" if there is a significant rise in unemployment when the economy reopens and they start looking for work.
+
+Kennedy also noted a "dramatic" fall in the number of hours worked, and said the UNDERemployment work is 19.9%.
+
+block-time updated-timeUpdated at 1.28am BST
+
+block-time published-time 12.53am BST
+
+That is quite the escalation from  Joel Fitzgibbon there. He wasn't asked to go further, and instead the interview moved on to how the agriculture sector is feeling, but if Tim Pallas's  comments kicked off furious rebuttal, then Fitzgibbon has just kickstarted a whole new argument.
+
+block-time updated-timeUpdated at 1.26am BST
+
+block-time published-time 12.48am BST
+
+'We've been demonising the Chinese and their system of governance,' says Labor MP
+
+Joel Fitzgibbon  appeared on Sky News this morning, where he was asked about Australia's relationship with China.
+
+The shadow agriculture minister went further than either Penny Wong or Anthony Albanese  in criticising the government's handling of the China relationship.
+
+Asked if the CCP had been bullying Australia (in terms of the barley tariff), Fitzgibbon says:
+
+I don't know about China bullying us.
+
+Certainly we have to be robust in defence of our national interest. But let's just recap what's been happening here for the last few years, starting under Malcolm Turnbull.
+
+We've been demonising the Chinese and their system of governance.
+
+Malcolm Turnbull, for example, changed Foreign Investment Review Board thresholds, so that there were special discriminatory rules for the Chinese.
+
+They deliberately constructed foreign interest registers with a clear intention of targeting China, for domestic political gain.
+
+And of course, now we've had our most recent and current prime minister, basically saying things like we should send weapons-style supervisors into China, against their will.
+
+I have no idea how he thought he was going to achieve that.
+
+So, there have been some problems here in our relationship with China for some time.
+
+It's our largest trading partner, and we need to normalise this relationship again. We can see already through barley and the red meat sector some of the consequences when that relationship is not a healthy one.
+
+block-time updated-timeUpdated at 12.51am BST
+
+block-time published-time 12.35am BST
+
+Meanwhile, globally, the world has seen the biggest daily increase in Covid-19 cases.
+
+Related:  Coronavirus live news: global cases near 5m as EU health chief warns of second wave
+
+block-time updated-timeUpdated at 12.38am BST
+
+block-time published-time 12.34am BST
+
+The Senate select committee looking at the Covid-19 response is holding a hearing today.
+
+It's all about IR and Treasury this morning.
+
+block-time updated-timeUpdated at 12.38am BST
+
+block-time published-time 12.19am BST
+
+Dr Jeannette Young  says she is in constant contact with the other members of the national health advisory committee, and each health advisor is choosing to do what is considered best for their own jurisdiction:
+
+We were getting together every single day until recently, now it is most days we talk it through. I will at the next opportunity, which is today's meeting, talk to my colleagues around their plans around the country. I spoke to the West Australian chief medical officer as late as yesterday to talk about their plans. Each state will do what is best for their state.
+
+And today, here in Queensland, it is best for us that we continue to minimise movement across our domestic borders. So, of course, we're allowing people to come into Queensland for compassionate reasons and, of course, to move freight. And there are a number of other areas.
+
+But this is not the time for tourists to travel into Queensland.
+
+Because one case can cause an enormous setback to our plan to open up our communities.
+
+block-time updated-timeUpdated at 12.20am BST
+
+block-time published-time 12.16am BST
+
+Annastacia Palaszczuk defers to Queensland chief medical officer, Dr Jeannette Young, to explain why Queensland's health advice is to keep the borders closed, when the deputy chief medical officer of the country, Professor Paul Kelly, says there is no reason to do so:
+
+So, there is plenty of health advice about the importance of minimising the number of cases coming in to a community. We saw how effective it was for Australia when the international borders were closed.
+
+And then as we started to see in Queensland, the number of cases acquired interstate and then coming into Queensland, we immediately acted here, the premier took that advice to act, and close the borders to other states.
+
+And, most of the states in our country also did that. So we saw Western Australia, we saw South Australia, Northern Territory, Tasmania and Queensland close their borders to those states that had significantly higher numbers of cases and local transmission.
+
+So, there is a lot of health advice about the importance of minimising the number of cases coming in to a community.
+
+block-time updated-timeUpdated at 12.21am BST
+
+block-time published-time 12.15am BST
+
+Annastacia Palaszczuk:
+
+Let's be very clear, on the border issue we won't be lectured to by the worst performing state in Australia.
+
+There are 33 times the number of active cases in NSW compared to Queensland.
+
+So, NSW needs to get its act together and get its community transmission down and we'll all be better off throughout this nation, including in Queensland.
+
+It's time for Gladys and the NSW government to get their act together and to start performing as well as Queensland has done on the health front.
+
+block-time published-time 12.12am BST
+
+Queensland 'won't be lectured' to by NSW to open borders, Palaszczuk says
+
+Annastacia Palaszczuk has also been listening to Mark McGowan  when it comes to border sledges.
+
+She says Queensland won't be lectured to "by a state that has the highest number of cases in Australia", in response to Gladys Berejiklian's repeated calls for Queensland to open the border.
+
+block-time updated-timeUpdated at 12.23am BST
+
+block-time published-time 12.05am BST
+
+Queensland is loosening restrictions again - for Queenslanders.
+
+The greatest nation on earth will allow travel, within the state, of up to 250km from residents' homes for the school holidays.
+
+Annastacia Palaszczuk says that keeping Queensland's borders closed to the other states means Queenslanders can travel more freely.
+
+block-time updated-timeUpdated at 12.07am BST
+
+block-time published-time 11.58pm BST
+
+Northern Territory declared Covid-19 free
+
+The NT health minister, Natasha Fyles,  says the last active case in the territory has recovered, making the NT (known) Covid-19 case free.
+
+I would like to acknowledge these people that have been diagnosed and we have cared for them and we wish them all well. We saw situations where people were transiting through Darwin and they were caught here, we saw defence personnel brought here. It's been six-and-a-half weeks since we have had a locally diagnosed case but we mustn't become complacent.
+
+Yesterday worldwide saw the highest number of coronavirus cases diagnosed in the world on any particular day. It's expected worldwide today we'll go over five million diagnosed cases and there are more cases that are undiagnosed.
+
+The Northern Territory through the tough measures we put in place early, we are a safe bubble and we need to keep it that way.
+
+We have a very vulnerable community, population, particularly with our Aboriginal Territorians and so I urge all Territorians to not become complacent off the back of this, to keep vigilant. The physical distancing, personal hygiene and if you are not feeling well, stay home.
+
+block-time updated-timeUpdated at 12.03am BST
+
+block-time published-time 11.41pm BST
+
+On the finance side of things, AAP has this report:
+
+The Australian share market is set to rise in early trade after US investors continued to look to a swift recovery from the coronavirus pandemic.
+
+The SPI 200 futures contract was higher by 36 points, or 0.65%, to 5,604.0 at 0800 AEST on Thursday.
+
+The three major Wall Street indices notched finished higher overnight as investors bet on a swift economic recovery from coronavirus-driven lockdowns and the potential for more stimulus measures from the Federal Reserve.
+
+The Dow Jones Industrial Average rose 1.52% to end at 24,575.9 points, while the S&P 500 gained 1.67%, to 2,971.61. The Nasdaq Composite climbed 2.08% to 9,375.78.
+
+In Australia on Thursday, the heads of Apts, Asic and the Reserve Bank will discuss their Covid-19 response in an online forum held by the Financial Services Institute of Australasia.
+
+The S&P/ASX200 benchmark index finished Wednesday up 13.5 points, or 0.24%, at 5,573 points. The All Ordinaries index gained 21.3 points, or 0.38%, to 5,680.1.
+
+The Australian dollar was buying 65.96 US cents at 0800 AEST, up from 65.43 US cents at the close of trade on Wednesday.
+
+block-time updated-timeUpdated at 11.43pm BST
+
+block-time published-time 11.30pm BST
+
+Angus Taylor  also spoke on the border closure issue while on the ABC:
+
+Well, I think ultimately it's a decision for Queensland but the advice coming in is very clear from the chief medical officer and it's clear what the New South Wales premier has put her view as well.
+
+What I want to see is opening up, getting things going again, jobs, investment and of course we have got to make sure all our policies are aligned with that at the federal level and we'd like to see states do the same and that includes our emissions policy which is all about strengthening the economy.
+
+block-time updated-timeUpdated at 11.44pm BST
+
+block-time published-time 11.14pm BST
+
+Speaking to the ABC a little earlier, Gladys Berejiklian  says she did not think it was "logical at this stage to maintain those border closures for a prolonged period of time".
+
+She prefaced the comment with "that's a matter for the Queensland premier and the Queensland government" before giving her opinion, so that might tell you how relations within national cabinet are starting to go.
+
+Berejiklian says it is all about jobs:
+
+New South Wales is in a position now where we're really focused on jobs and the economy, and we'll be able to get our industries up and running.
+
+But for Australia to really move forward as a nation during this very difficult economic time as well as difficult health time, we do need our borders down, we do need to allow people to move between states, to live, to work, to see family.
+
+And that's why I was pleased that both New South Wales and Victoria, we actually kept our borders completely open during the pandemic - admittedly, because we're the largest states, I [presume] the smaller states wanted to limit anyone from our states visiting them who might have the virus.
+
+But I think that those concerns have now been allayed, given the small number of new cases we're seeing across the nation.
+
+And what's really critical to us now as a nation is to get the jobs going, is to stop us falling off an economic cliff in a few months' time.
+
+And that should be cause for concern for all of us. And the best way we can manage that is by allowing people to move freely.
+
+block-time updated-timeUpdated at 11.17pm BST
+
+block-time published-time 11.06pm BST
+
+NSW to accelerate infrastructure projects to kickstart economy
+
+Gladys Berejiklian says NSW will also bring forward, and accelerate, many of its infrastructure projects in a bid to kickstart the NSW economy.
+
+Whilst dealing with the health issues, we are keeping a keen eye on the economy.
+
+It's all about jobs, getting back those hundreds of thousands of jobs we have lost in New South Wales, it does play on our mind every day.
+
+I want people to feel secure if they have a job and certainly to feel they can get a job if they've lost their job and that's why New South Wales whilst we always take a no regrets policy in relation to saving lives we certainly will maintain our assertive policy in terms of reopening the economy and getting jobs back and making sure that we can sustain that.
+
+That's really critical to the future. We don't want to be in a position where we see more people losing jobs.
+
+More than 220,000 jobs lost in April is beyond our wildest expectations in terms of what could have happened and we are certainly in the phase of doing everything we can to open our economy to get people working, whether it's from home or whatever works best for them but also maintaining the public safety through social distancing.
+
+block-time updated-timeUpdated at 11.15pm BST
+
+block-time published-time 11.05pm BST
+
+NSW reports two new Covid-19 cases
+
+NSW health authorities tested 9,700 people for Covid-19 in the last 24 hours and returned just two positive results, Gladys Berejiklian says as part of her daily briefing.
+
+One case was from Melbourne, and the second is still under investigation (which is how they say they are not immediately clear on where it was picked up).
+
+block-time updated-timeUpdated at 11.11pm BST
+
+block-time published-time 11.02pm BST
+
+Asked where the government stands on the so-called Hele (high-efficiency low-emission) coal-fired power plants many in the Coalition backbench are quite enamoured with, Angus Taylor  says they are still in the mix.
+
+Again the point here is balance, Fran, you know, extreme solutions are not going to work here.
+
+We need to have a range of technologies [and] many horses in the race.
+
+block-time updated-timeUpdated at 11.07pm BST
+
+block-time published-time 10.58pm BST
+
+There wasn't a lot new that was in that interview with Angus Taylor. "Balance" seems to be his favourite word at the moment, which is why he says Australia is still backing in fossil fuels like gas.
+
+Asked by  Fran Kelly why Australia just "doesn't back a winner", like low-emissions technologies such as wind and solar, Taylor scoff-lols and says:
+
+You need, you need balance," he said.
+
+Look it's not just about electricity, either, this is across all sectors. And it's crucial we have a range of technologies that can play a role in all these sectors - there's been enormous focus, by the way, on electricity which is about a third of our emissions - two-thirds of our emissions [are] across industry, transport, agriculture, and we have to focus on technologies in those areas as well and of course carbon capture and storage can play a very very important role there on the manufacturing side in particular.
+
+block-time updated-timeUpdated at 11.13pm BST
+
+block-time published-time 10.54pm BST
+
+Angus Taylor just spoke to Fran Kelly on ABC radio and this is a pretty accurate summary from  Adam Morton here, about how the conversation, at least from Taylor's side, went.
+
+enltrAngus Taylor asked on RN why not focus on wind, solar, hydro as they're zero emissions. Says we need balance. Doesn't say what this means. Says we need to improve cost of technologies. Doesn't say how the govt will do this. Says households, biz will decide. There is no coherency.
+
+- Adam Morton (@adamlmorton)
+
+May 20, 2020
+
+block-time published-time 10.39pm BST
+
+Gladys Berejiklian had a chat to ABC News Breakfast this morning and again pushed for borders to be open across the nation - saying it was not "logical" to keep them closed.
+
+block-time updated-timeUpdated at 10.44pm BST
+
+block-time published-time 10.26pm BST
+
+While the borders are the short-term concern, Adam Morton has this report on what is likely to be a long-term issue for Australia
+
+There are a lot of potential changes being floated in terms of Australian economic policy, under the guise of "Covid recovery".
+
+Related:  Leaked Covid-19 commission report calls for Australian taxpayers to underwrite gas industry expansion
+
+block-time updated-timeUpdated at 10.35pm BST
+
+block-time published-time 10.25pm BST
+
+Good morning
+
+The border issue is once again dominating headlines, with Gladys Berejiklian  pushing for Queensland (mostly), to open its borders to NSW.
+
+Queensland is saying no. As is Western Australia, the Northern Territory and South Australia.
+
+Yesterday, the deputy chief medical officer, Paul Kelly, said he could see no medical reason to keep the borders closed.
+
+But Queensland, as well as the rest of the closed-off states, say their health advice is to keep them closed - particularly while there is still evidence of community transmission in NSW and Victoria. Which there is.
+
+Mark McGowan hit NSW with a Ruby Princess jibe yesterday, saying he wouldn't be taking border advice from the state which let the cruise ship dock and the passengers disembark.
+
+But the feds are on the side of NSW and are also pushing for it to open. Pauline Hanson has hired a lawyer to test to constitutionality of Queensland's border closure.
+
+"It is unconstitutional for Premier Palaszczuk to close Queensland's border and her actions are causing me a great deal of concern for the economic viability of our state," Hanson wrote on social media.
+
+We'll cover all the day's events as they happen, so thank you again for joining us. You have Amy Remeikis  with you for this slice of the day.
+
+Ready?
+
+block-time updated-timeUpdated at 10.35pm BST
+
+9957 2020-05-21T05:45:00Z
+
+true 2020-05-20T21:25:07Z false false 2020-05-21T11:36:50Z false AUS theguardian.com https://gu.com/p/dqeg6 false true            https://media.guim.co.uk/55eb17ffa012dda9647bc3a8f0c0da7934a0a17c/0_133_3981_2390/500.jpg false en true That's where we will leave the live blog for this evening. In case you missed it, this is the big news of the day: The Northern Territory has been declared free of Covid-19 after the last confirmed patient recovered. Queensland declares it won't be lectured by NSW on opening the hard border. South Australia is to move to stage 2 restrictions from June 5. Apple and Google released software to better integrate contact tracing with public-sector health apps, but no sign yet of whether it will be integrated into Covidsafe. Myer is to reopen its stores from Wednesday next week. The federal government is "urgently" consulting on potential changes to the Fair Work Act after a landmark court decision on casuals yesterday. The federal government has kept open a Centrelink outlet in Melbourne's inner north after announcing it would be shut yesterday. For the latest in coronavirus news overnight, please check our global live blog. Until tomorrow, stay safe. South Australia police are bringing back static, random breath-testing after it was suspended due to the coronavirus pandemic. Static RBT will begin tomorrow for the first time since March, but officers will now be provided personal protective equipment, and the cleaning regimes will be maintained. There's going to be an operation from tomorrow aimed at testing road users for drugs and alcohol in their system. Mobile drug and alcohol testing continued during the pandemic. The Australian Financial Review is reporting Myer will open the remainder of its 35 temporarily closed stores from Wednesday next week. The stores include: Belconnen, Penrith, Castle Hill, Chatswood, Parramatta, Sydney City, Bondi, Shellharbour, Warringah, Macquarie, Roselands, Cairns, Brisbane City, Robina, Indooroopilly, Mt Gravatt, Pacific Fair, Ballarat, Bendigo, Doncaster, Eastland, Fountain Gate, Frankston, Geelong, Highpoint, Southland, Werribee, Chadstone, Northland, Melbourne, Knox City, Perth City, Adelaide City and stores in Hobart and Launceston. If you have an iPhone, you may have noticed an update today that includes exposure notifications. This is the long-awaited Google-Apple API that we expect could be integrated into the Covidsafe app and fix a lot of the issues with the iPhone version of the app. You won't be able to switch it on unless the government agrees to integrate the API into Covidsafe and agrees to all the privacy terms and conditions that come with that. The app update issued last week did fix some of the problems that prevented people had closing the app and not recording Bluetooth handshakes, but this has had a side effect of causing more Bluetooth issues for other devices like fitness bands and wireless headphones. That won't happen if the API is integrated because on the operating system level the phone is better at coordinating Bluetooth beacons around the other Bluetooth communications going on. I asked Apple and Google this morning whether there were plans to integrate the API into the Covidsafe app and they couldn't say. The ABC has reported the government is currently evaluating it. It would fix a lot of the issues, and a change made by Apple, where you can now provide more info like phone numbers and upload keys to health providers for contact tracing, means it's much closer to Covidsafe now than it used to be. One major difference still between the two is that the Apple API works out who is a potential person who was exposed to coronavirus on the phone while Covidsafe currently uploads every key to the server and works it out that way. Here's Luke's full report on the government's backdown on the Abbotsford Centrelink closure: After Luke Henriques-Gomes earlier reported that the landlord of the Abbotsford Centrelink property in Melbourne was blindsided by the government's plans to shut down the office today, we can now report that the office will remain open for the next three months. More on the crash here: A car has ploughed into a shop at Greenacre in Sydney. There are reports 12 people have been injured: I'm just going to return to the ACCC report on NBN speeds during the pandemic that Amy referred to earlier. Many people believed that lots of people working from home would put a massive strain on the NBN, but the ACCC's report shows all the doom and gloom projections have not come to pass. The initial dip in March when the restrictions came into effect and everyone was forced home for two months can largely be blamed on retail service providers not buying enough bandwidth - or CVC - to meet the demand. NBN Co then began offering much more bandwidth to retailers for free, and the problem fixed. It should show NBN Co, at least, that this charge should be reviewed once the pandemic is over and it stops being free. If not just because, I imagine, a lot of people will continue to work from home now and into the future. Another interesting bit of information is that for video streaming, 50Mbps is pretty good for two simultaneous Netflix HD streams with no issue. Most connections have no issue whatsoever. However, again the report notes that 95% of the underperforming NBN connections tested were on the controversial fibre-to-the-node technology. It will be interesting to see if that improves as upgrades are rolled out over time. The time has come for me to hand over the blog to the inimitable Josh Taylor for the next short while. In news that will disappoint all you Paul Kelly and Nick Coatsworth fans out there, it appears the daily 3:15pm update from the deputy chief medical officer du jour is a thing of the past. Coatsworth released a statement a short while ago announcing the government's communications response "is entering a new phase". In place of the daily update, it appears a new advertising campaign will start today and run over the next month. The advertisements remind people to take three steps to help create a COVIDSafe community when away from home. They are to practise physical distancing, good hygiene and use the COVIDSafe app. We are winning - but we have not yet won. We need everyone to stay focused on the things we need to do to protect ourselves and others as we find our 'new normal'. Do the three and stay Covid free. Australia is handling the Covid-19 impact better than New Zealand, a group of business leaders has told Jacinda Ardern. According to a report on Kiwi site Newshub, the NZ PM's Business Advisory Council chair has written to Ardern warning "because of the way Australia is approaching the next two stages (of lockdown easing) it is likely to go well in front" of New Zealand on a wellbeing scale. On that note, I will hand you over to the capable hands of Elias Visontay for the next little bit. Thank you for joining me today. I'll be back with you tomorrow - so please, take care of you. This is an interesting take from Christian Porter on the border issue: Not long ago we called that competitive federalism - states have competed against each other for hosting sports events like a grand prix - now there will be a competition of who can make the best balanced decision to balance the health impact of changes to border closures with the economic uplift you can get to your retail tourism and hospitality sector. This is winding back to the issue we discussed earlier - at the moment the most valuable thing for Australia is job growth, that is what the federal government is completely committed to. So we're looking at this federal court decision as to how it can impact our path out of the Covid-19 pandemic and job growth. And we need to do so on an urgent and speedy basis, talk to employer groups and unions to understand the effect of the decision on job growth because no one benefits, the cost impact to business is such that businesses fail and jobs are lost. I've spent a bit of time this morning speaking with the group representing public pathology providers. They are less than happy about the government quadrupling its Covid-19 subsidy to the private sector. Reports in the Nine newspapers this morning revealed that private pathology providers had threatened to stop Covid-19 testing unless the subsidy they received was increased from $24.40 per test to $100. The government met their demand. But public pathology providers say they are still only getting $50 per test, despite actually making a loss on some aspects of Covid-19 testing, including testing in rural and remote areas. The Public Pathology Australia chief executive, Jenny Sikorski, said that made it frustrating to watch such a significant subsidy increase handed to the private sector. "The public - in terms of the patients and the taxpayer - I don't think they benefit from the current Medicare arrangements for Covid testing," she said. Christian Porter flagged that improving the ability for casual employees to become part-time workers could be an important part of negotiations to fix the uncertainty created by the Rossato decision. He said: Part of that consultation has to be around what is known as casual conversion. For many casuals, there is a right, if they have been in the same position for a considerable period of time, to request a conversion from casual to permanency but that right is not universal. It seems to the government, without anticipating any particular result within 24 hours of the decision, part of the consultations that need to occur on an urgent basis with employers and employees are with the issue of casual conversion, and a greater clarity and universality to that right of request. Porter confirmed that if a high court appeal is lodged, the government will join the case on WorkPac's side. He also left open the option of legislation to overturn the effect of the decision - so if employers pay a casual loading to a worker, they will be classed as a casual despite regular permanent work patterns. Porter criticised Labor for ruling out that option: I see from the opposition spokesmen comments they have ruled that out, they say that is wrong and that it would reward small business who have done the wrong thing. That characterises small business very unfairly. Small business has operated in the last decade and an understanding that is widespread how you engage someone, whether permanent or casual, and the concept you would have different pays. That accepted feature of the system, that has been overturned now, quite surprisingly to many. On the issue of border closures, Christian Porter acknowledges that each state has the right to make its own decision. There are clearly legal issues that arise here. Health advice isn't determinative on its own, of whether or not a border closure would be determined to be constitutional or not, that would turn on all the facts of the circumstances and every individual case. These aren't easy decisions for state premiers to make but there is a health imperative, an economic imperative and strict constitutional rules around what is permissible and not permissible. The difficulty I think is ultimately, how you balance the health needs, at a given point of time, and they are evolving with the economic imperatives. One thing that needs to be considered by all state premiers, if we want to, for instance, revive our domestic tourism industry we are going to have to rely on domestic patrons, so Australians who were going to Bali will be looking for someone else to holiday. There will be serious competition as to whether they go to Margaret River or the Gold Coast. I think every state wants to be part of that revival in the market. They need to do that in a balanced way, but if you are too late in opening your borders you will miss out on getting an important market and pivoting tourism to the domestic market. Now that is interesting, because the government, in defending the decision of the Fair Work Commission to scrap some penalty rates, said it would not intervene, because the decision had come from the independent umpire. And Labor, which is calling on the government to respect this decision from the federal court, another independent umpire, had plans to reverse the penalty rate cut ruling if it won government. So, as usual in Australian politics, we only respect the decisions of the independent umpires when they align with what a party wanted anyway. Christian Porter has addressed the federal court decision, which gives casual employees working permanent hours the same benefits as permanent workers. He isn't happy with it, and says the government will consult on the decision "on a fairly urgent basis" and legislation to halt the intent of the decision could be enacted. What we will do is consider a range of options. Part of this is considering what is the potential cost impact on small business with this decision. If the cost impact is so great it would cause a lot of small businesses during what is the most challenging time to fold, or go into liquidation, or have to stand people down, that's not an outcome in anyone's mutual interest. We have to talk very quickly to business and employee groups to understand whether or not the financial impact of this decision over the next six, nine, 18 months puts businesses in jeopardy. If it does, we need to consider ways we can strengthen businesses so we preserve jobs, because if this decision was handed down six months ago it would have been a very, very different scenario. At the moment the greatest premium for the economy is employment, generating employment and saving jobs. It being past 2pm on a random Thursday, we have another quiet announcement from the government. On 27 January 2020 the Morrison government announced that the Treasury would undertake a public consultation on the merits of the current stamping fee exemption in relation to listed investment companies and trusts (LICs). Stamping fees are an upfront one-off commission paid to financial services licensees for their role in capital raisings associated with the initial public offerings of shares. Following the conclusion of Treasury's consultation, the Morrison government will move to extend the ban on conflicted remuneration to LICs. These changes will take effect from 1 July 2020. Whilst new LICs capital raisings have largely ceased since the inception of Covid-19, it is important that the ban on conflicted remuneration is extended ahead of any resumption of capital raising activity. Clarifying these arrangements will address any related risk of consumer harm and ensure that stockbrokers, financial advisers and investment managers are clear about the regulatory settings that will apply in this area and investors can continue to invest with confidence in these products. Extending the ban on conflicted remuneration to LICs will address risks associated with the potential mis-selling of these products to retail consumers, improve competitive neutrality in the funds management industry and provide long-term certainty so that this segment of Australia's capital markets can continue to operate effectively and provide investors with opportunities to diversify their investments. The treatment of equity and debt securities in trading companies (including hybrids), real estate investment trusts (REITs), and listed infrastructure investments will not be impacted by these changes. Maintaining the existing treatment for these investments is designed to ensure that direct capital raising activities which support the economic activity of companies in the real economy are not impacted by these changes. Persons providing personal advice to a retail client in relation to these products will continue to be legally required to act in that client's best interests. The Australian Securities and Investments Commission (Asic) will actively monitor arrangements in the lead up to and following the introduction of these changes. A lunchtime Zoom call is hardly a clear black night, and there was no sign of a clear white moon, but there were certainly regulators galore in attendance at a Financial Services Institute of Australasia hook-up today. And not just any geeks on the street: the Reserve Bank governor, Philip Lowe, Asic chairman James Shipton and Apra boss Wayne Byres. Lowe used the opportunity to reinforce his statements that negative interest rates were "extraordinarily unlikely" in Australia. "I think the costs of that exceed the benefits," he said. He said Australia's economic recovery depended in large part on progress in fighting the coronavirus. "If we don't get a vaccine it's going to be a slow recovery," he said. The RBA has tipped vast sums into the banking system, but Lowe said there were limits to what it could achieve through monetary policy alone. Government spending would be "crucial" to the recovery, he said. Both Byres and Shipton said other regulatory projects had been put on hold to deal with the crisis. Byres said the banks had acted as economic shock absorbers, and said the decision to ask them to cancel or defer dividends wasn't taken lightly. "We hope the impact on dividends from the current Covid-19 crisis will be temporary, however the outlook is uncertain," he said. The Greens are now considering whether to move a censure motion against Stuart Robert, following the story by Luke Henriques-Gomes with the landlord of the Abbotsford Centrelink disputing the claim the service centre was being shut after the department was unable to come to a tenancy agreement. "In the absence of an explanation from the Minister, if the landlord's comments are accurate, the Minister has lied to me in writing and has unnecessarily hurt thousands of people reliant on the Abbotsford Centrelink, Adam Bandt said in a statement. "The Minister must immediately reach out to the landlord and ensure Abbotsford Centrelink remains where it is. "Stuart Robert has been caught out before saying things that are untrue, like that Centrelink services collapsed under an attack from hackers, and he may well have done it again." "Unless the Minister can clarify the matter and explain what looks like a straight out lie, I'll be moving to censure the Minister when Parliament resumes, not only for closing a much-needed Centrelink but for apparently lying about it too. "If there's an explanation, I'm waiting to hear it. On 20 May 2020, I asked the Minister in writing to meet about this important matter and to date have received no answer. I can only assume he has been caught out yet again and has nothing to say in his defence." Pauline Hanson is currently trending on Australian social media for demanding borders be reopened, despite having built an entire political movement on the demand borders be shut. Chris Knaus has taken a look at payments to private pathology providers: Given that it will be another big issue as Australia moves into a post-Covid world, Labor's response, delivered through Tony Burke, to the fair work ruling on casuals working permanent hours being eligible for permanent benefits is worth noting: I have got to say, I'm astonished by the government's reaction to this the whole way through. Where they are talking about extraordinary sums of money that they believe will now need to be paid as a result. That would only be the case if there has been widespread breaking of the law by Australian employers. I certainly hope that's not the case. But I have to say if employers much more broadly than WorkPac have been acting in breach of the law, if they have been refusing to give employees the security that they were legally entitled to, then the last thing the parliament should be doing is acting as a protection racket to cover for people who have broken the law. If job security that people are entitled to has not been given to them, then the response from the Australian parliament - and I have got to say from the Australian government - should be to make sure that the law is upheld. A whole lot of people, particularly casuals, have found themselves with nowhere to go during Covid-19, have found themselves not entitled to a whole lot of what is offered to people in permanent work. Every Australian right now should be on the side of job security. And this decision says that when a business has not delivered on job security, then the law should step in. We shouldn't be changing the law to let businesses that have broken it off the hook. This is just one of the reasons why the end of September, when jobkeeper and the Covid supplement for jobseeker are due to end, is very, very concerning: South Australia is planning on dropping back down to stage two restrictions from 5 June. The premier, Steven Marshall, says he understands the wait is frustrating, but the state needs time: We can't just have a one size fits all," he said of the staggered approach. "I appreciate that it's frustrating to people and it's much easier to put the restrictions in place than to take them off. But we are only a few weeks away from being in a very good place in South Australia. The Tasmanian premier, Peter Gutwein, said something quite similar. Phil Lowe says the Reserve Bank is not considering negative interest rates for Australia. At 0.25% Australia has hit its ceiling. (floor, technically, but the limit of the rate cuts, so six of one) Attorney general's department officials have revealed that although the attorney general, Christian Porter, announced on 14 May that emergency changes to workplace pay deals will be limited to 12 months, the regulation to give effect to that has not been put in place yet. Porter slashed consultation periods to change enterprise agreements from seven days to 24 hours. In order to stave off a disallowance motion pushed by Labor and the Greens, Porter agreed to a One Nation demand that changes, once made, can't have effect for more than 12 months. Kristina Keneally's questioning reveals that agreements varied now are not subject to the 12-month sunset period. Officials take on notice when the new regulation will be ready. Officials explained the shorter consultation period was put in to "speed up" variations of agreements, because businesses wanted to match rapid changes being made to modern awards. They take on notice who they consulted before the change was made. Martin Hehir confirms the department is still looking at IR reform options commissioned by Porter last year: casuals, bargaining, greenfields agreements, "awards and their complexity", and the broader compliance including wage underpayment. Christian Porter will be talking about this decision at 2.30pm eastern time. Jim Chalmers has been listening to Steven Kennedy's testimony at the Covid Senate committee. He says it proves the need for a longer term plan from the government: This morning's comments by the Treasury secretary make it clear that no one - not the Treasury, the Reserve Bank, the IMF, or private forecasters - agrees with the prime minister that the economy will 'snap back' any time soon. Not all parts of the economy will recover as quickly as we'd like and that means unemployment will be higher for longer. Support could be better targeted, or tapered, but it shouldn't just 'snap back' on an arbitrary timeline which doesn't reflect the reality in workplaces and communities. The Morrison government doesn't have a genuine plan for jobs as we move from responding to the immediate crisis into the long and patchy recovery phase. This word just keeps popping up, again and again and again Labor's Murray Watt has asked about which organisations are responsible for complaints about jobkeeper. The Fair Work Ombudsman says the ATO deals with eligibility including the application of the one-in all-in rule; the FWO deals with general workplace rights including the minimum wage and not to be discriminated against; and the Fair Work Commission hears disputes about directions to work. Asked about a worker in a cafe who was told they wouldn't get jobkeeper unless they helped with construction and renovation of the cafe, Martin Hehir, deputy secretary, of the industrial relations group at the attorney generals department, says: As a condition to access/be nominated, that would seem to go against the intent of the scheme. You can't put preconditions on the nomination - it has to be based on rules [about eligibility]... In terms of disputes about what is reasonable, if a worker is receiving the jobkeeper payment, the employer is able to provide a direction to reduce hours. They can also direct them to perform any duties within their skill and competency, as long as they hold the relevant licence or qualification. Disputes can be heard by FWC. Treasury has also not done any modelling on what would happen if all the people who are receiving the Covid supplement as part of jobseeker, which doubles it to $550 a week, remain on the payment when it drops back down to the pre-Covid level. Luke Henriques-Gomes has an update on the closure of the Abbotsford Services Australia centre (Centrelink) which Stuart Robert said, in a letter to Adam Bandt, was due to a tenancy agreement coming to an end. Robert said the department was unable to negotiate a new lease. The landlord has told Luke that the first they heard of the decision was on Twitter. The government services minister, Stuart Robert, told local MP and Greens leader, Adam Bandt, by letter on Wednesday that the landlord had advised the agency they would "not retain Services Australia as a short-term or long-term tenant and will not permit any occupancy by the agency at the premises after the lease expires". Robert said: "Let there be no misunderstanding - despite the agency actively engaging with the landlord over an extended period, a lease agreement has not been reached." He claimed the landlord was "also unwilling to permit a lease holdover arrangement to allow further lease renewal negotiations, or to locate a suitable alternative premises". But the landlord, Salta Properties, flatly denied the claims, saying it was completely blindsided by the news. The ACT is still (known) active Covid free - no new cases have been diagnosed in the past 24 hours. That is from 311 tests. Phil Lowe again says there is a limit to what can be achieved through monetary policy. He says there needs to be moves in terms of reform. "There is no shortage of reports filled with ideas on how to do this and how to make Australia a great place to expand, to innovate [and invest in]," he says. Philip Lowe is speaking at this event. The RBA governor says total hours worked fell by 9% in the past month, but early indications for May show that the drop may not be as large as first thought. He says the sooner the economy can be opened once again - safely - the better the reversals. But he says confidence has taken a pretty big hit and people are facing reluctance to go out and spend. Treasury officials have revealed that the list of employers claiming the jobkeeper payment will not be published. This is standard for the Australian Tax Office, according to officials, but Rachel Siewert queries why, given it's public money. Siewert (and Labor's Kristina Keneally) also want to know whether employers are making use of new provisions allowing as little as 24 hours notice to seek changes to enterprise agreements. The attorney general's department said there have been 30 enterprise agreement variations since the new rules were introduced. The Fair Work Commission's general manager, Bernadette O'Neill, says just 14 applications sought to make use of the short consultation period (the old rules required at least seven days' notice). Only five have been decided, and they ranged from consultation periods of one day to six days. O'Neill takes on notice whether the 14 variations were agreed by the relevant union. She said the FWC was not consulted before attorney general Christian Porter made the change - but it is "not necessarily the case" that there is always consultation. The FWC is "completely agnostic" as to the merits of the change, she said. Asked about FWC president Iain Ross's comments, reported in Workplace Express, of an expectation of a "surge" in unfair dismissal complaints, O'Neill confirms Covid-19 has caused "significant pressures" at the FWC due to jobkeeper and an increase in lodgments for unfair dismissal. O'Neill confirms FWC has asked for extra resources. AAP has this dispatch from Western Australia, which, in the light of the current environment, you may find interesting: Western Australia's government insists there's nothing untoward about the sudden departure of China's consul general amid escalating trade tensions. Health minister Roger Cook has confirmed Zhihua Dong has returned to Beijing, citing health reasons. A prominent figure in WA politics since assuming the role last year, Ms Dong made frequent public appearances with state government officials and penned several newspaper opinion articles encouraging tourists to visit China. Last month, she was invited by billionaire Andrew Forrest to speak at a state government press conference in a move that is believed to have blindsided WA officials. 'My understanding is that Madam Dong is returning to China for health reasons,' Mr Cook told reporters on Thursday. 'I have no reason, and I believe the government has no reason, to believe otherwise. 'Madam Dong has been a wonderful advocate for Western Australia and has been terrific for the relationship between Western Australia and the Republic of China. Obviously we will miss her. We wish her all the very best and a very speedy recovery.' WA has cultivated close economic ties with China across successive Labor and Liberal governments and is heavily reliant upon Chinese demand for its iron ore. But the relationship between Canberra and Beijing is badly strained, with China slapping an 80 per cent tariff on barley imports following Australia's push for a global coronavirus inquiry. 'We look forward to continuing to have a strong relationship with China, because we know that Western Australians and Western Australia's jobs and economy depend upon a strong trading relationship, not just with China but with all our near neighbours,' Mr Cook said. 'We have a very deep relationship with China, it goes across all parts of industry and all parts of government.' Over in the Covid Senate select hearing, Treasury has confirmed it won't be releasing, at least publicly, which employers have signed up for jobkeeper. Richard Marles was asked to respond to Joel Fitzgibbon's comments that Coalition governments had been "demonising" the Chinese and their system of governance when he was on Sky News a little later. He attempts to walk back the comments to Labor's established lines: The relationship with China has been going in a bad direction way before Covid-19 turned up. So let's be clear: the call for an independent inquiry into the origins of coronavirus is quite right and we support it. It's what should be happening. But well before that, this relationship has been going in the wrong direction. And I think it's been hard to really get a clear sense of direction from the government about what the underlying principles that guide philosophies in terms of how they are relating to China. And too often we don't see or hear from our foreign minister or even our prime minister in relation to the rise of China - there is real leadership missing at the highest level. And instead the relationship seems to be defined by the fringes of the government and the governments MPs. And I think that is certainly not helping the issue. It's a very complex, it's a very serious, relationship. It's one where we clearly have a significant engagement economically. It's one where if you want to walk down the path and try and put a black or a white hat on China, you are going to get the answer wrong. This is complex. And what it means is that you've got to build relationships and you've got to have some ballast in there so that you can deal with the difficult moments - and this is one of them. And it's really important that that relationship is deep so that we can give difficult messages when that's required, and it's being required in other areas, such as South China Sea. But in a moment such as this, when we're calling for an independent inquiry, we need the ballast in the relationship in order to do that. I think that's one of the issues that has played out right now. You are going to be hearing more and more about this issue If you have enjoyed your iso-bubble, you may enjoy this Earlier, Steven Kennedy said the review of jobkeeper does not have terms of reference or a call for submissions, but Treasury is talking to external stakeholders including business and academics. Kennedy gave some hints about the review - confirming it would consider whether some industries need the payment for longer, and the "taper rates" and incentives, in terms of how the wage subsidy interacts with the jobseeker unemployment benefit. Kennedy said both jobkeeper and the coronavirus supplement on jobseeker were "designed to be temporary schemes, and I think rightly so". Kennedy said Treasury had been aware it would conduct a review at the three-month mark "since the inception of the policy" on 30 March. Labor's Kristina Keneally noted the review was not mentioned when the policy was announced and the first Scott Morrison or Josh Frydenberg had mentioned it was at a press conference on 14 May. As Liberal senator Andrew Bragg said, it is their money. But later, when they go to retire, and their overall super has taken a hit, well, that's another story. Not Covid-related, but a very big issue facing Australia as we move into the next stage - Mark Butler has responded to the government's energy "roadmap". There's two pathways for this government. Either they can embrace the future of electricity, which around the world is recognised as being renewable energy, the cheapest, the most reliable, the cleanest way of renewing ageing electricity systems around the world. To the extent this road map does it, we'll embrace it. Or they will continue to pander, frankly, to the extremists in their party room that are determined to cling to the past rather than embrace the future. I think it still remain to be seen which of those two choices Scott Morrison intends to take with this road map. I do make the point, though, a road map that sets out electricity technology is useful as far as it goes, but it's no substitute for an investment framework that makes that technology a reality for Australia's electricity system. We desperately need investment. Investment collapsed last year by 50%. Our electricity system is ageing. Much of it operating beyond its design life and we've got to move from technology reports to actual investment Not having terms of reference makes it easier not to hint ahead of time what the government is considering doing. Treasury officials have updated numbers on government supports: 900,000 businesses enrolled for jobkeeper, covering "a bit over 6m" workers. 1.65m people have applied for early access of superannuation, totalling $13.2bn Treasury says they are not aware of Apra or any super funds writing to them to say they are experiencing liquidity issues, but takes the question on notice. Liberal senator James Paterson asks a series of questions about border closures and the effect on the domestic tourism market - obviously lobbying for states such as Queensland to open up - but Treasury doesn't have much information on it, and takes them on notice. Just in case anyone thought we were a nation of Ned Kellys, AAP has this report: Confined at home due to coronavirus, Victorians looked through their window and dobbed in their neighbours. Calls to the Victorian police assistance line almost doubled after lockdown directives came in, police minister Lisa Neville said on Thursday. They jumped from 61,000 in February to 102,000 in April, forcing police to bring in 18 Australian Defence Force staff to assist with demand that had pushed waiting times up to eight minutes. 'I don't think we understood what an important role it would play and how committed Victorians were to ensuring that people followed the advice,' Minister Neville said. This substantial partnership with the community, Ms Neville said, translated into 21,000 calls about mass gatherings, 5,000 calls about businesses operating inappropriately and about 39,000 calls about self isolation breaches. Since police started enforcing social distancing and self-isolation laws on March 23, more than 50,000 compliance checks have been done and more than 5000 fines issued. This eagerness to make sure people were adhering to the guidelines showed people were doing the right thing and holding others to account, Deputy Chief Commissioner Shane Patton said. 'It's about saving lives, it's about stopping people being put at risk. So we absolutely welcome people ringing up police assistance line,' he said. The fact Victorians had to stay at home, Patton said, also helped decrease crime. The reduction in residential and commercial burglaries and robberies in April, among other crimes, marked the lowest daily average of offences of any month since June 2014. Since the government relaxed the early access conditions for superannuation, more than 1.6m people have applied to withdraw more than $13bn from funds. Steven Kennedy tells the Covid committee he is "not particularly concerned about the level of debt Australia is left with" at the end of the pandemic. He says debt would be "significantly higher" but given the economic shock it was "entirely appropriate" to respond in the way the government has (with $194bn of fiscal stimulus). He says: "We as a country - amid all the global gloom - are looking pretty good. We're handling the health crisis well, we're in a sound fiscal position and I believe - I realise this is contested - there was a very quick response from the fiscal side... So far so good." Kennedy notes that government revenues will decline but if the structural budget is sound, then a focus on full employment will mean that debt issues will "solve themselves". Growth of 4.5% or stronger would help bring debt down quickly - the key is restoring "demand confidence", so measures such as GDP growth, full employment and wages growth are more important than debt. As Kennedy concludes his evidence, Katy Gallagher says the committee is "frustrated" with the flow of information from Treasury and recognises this is not solely its responsibility/fault (ie PMC has classed modelling as cabinet in confidence). But she clarifies it is not the committee's view that Treasury is obstructing the inquiry (Rex Patrick earlier said it was his view). The ACCC is now monitoring NBN speeds. Its first report shows that yes, you did see a drop in speed when we all started working from home, but it was rectified. Steven Kennedy has addressed Adam Morton's report on the leaked Covid commission manufacturing taskforce's massive plan to expand the gas sector. Kennedy said he's aware of the news report, but hasn't read the draft briefing paper, and takes on notice whether anyone else in Treasury is aware of it. Kennedy said the National Covid-19 Coordination Commission has not commissioned work from Treasury. "We haven't been asked to model their proposals," he said. Peter Dutton also called in for his weekly love-in with Ray Hadley on Sydney radio 2GB. The "proud Queenslander" says "the public needs to keep the pressure up here" because it is "hard to understand the logic" the premier is applying to the border closure. If she had a sound basis then people could easily agree with her position, but it's clear that she just doesn't have a logical argument. There hasn't been a huge amount of noise on this issue from the LNP in Queensland - and that seems to be because a lot of Queenslanders are actually in agreement with the border closure. But there is a state election to be held in October, so Queensland, despite taking the same stance as WA, Tasmania, SA and the NT, seems to be taking all the heat. Dutton says Palaszczuk is conducting "some social experiment while tourism operators are going broke and their families are being destroyed". Centre Alliance senator Rex Patrick has accused Treasury of "obstructing" the Covid-19 inquiry by refusing to release modelling about projected unemployment, labelling it "disrespectful". Patrick said he will start using freedom of information to get at the modelling. The chair, Katy Gallagher, says the committee will be "responding to you more formally than that" - which indicates Labor and other members share their concerns and plan to write to the Treasury secretary, Steven Kennedy. Kennedy suggests the committee include the Department of the Prime Minister and Cabinet in any correspondence, because he had been "guided" by its view on consideration of material. Gallagher asks if PMC had instructed Treasury not to release the modelling. Kennedy says Treasury "sought advice on the treatment of documents" and PMC advised they should be treated as cabinet documents which Treasury "wouldn't usually release". So basically: yes. Earlier, Kennedy said Australia is "well past" what would be called a recession, but is cautious about using the term "depression" because the Covid-19 contraction is a "disease-led shock". Unlike a depression, there is no "massive misallocation of capital or highly dysfunctional credit markets". He said: "I'm not predicting a V-shape recovery. But given the nature of the shock - if the government responds well with its fiscal levers, we needn't have an L shaped recovery, which is what people would think when it comes to a depression." All the people are there after the shock... All the productive capital at the beginning sits there at end. [The question is] Have you avoided the destructive cycle of firms going broke, running out of cash, and people losing confidence and becoming very precautionary." It may be time to just scrap everything and start again: Deputy Chief Medical Officer Dr Nick Coatsworth had a morning chat with Alan Jones on Sydney radio 2GB. I missed it originally, as I try to limit my daily rage quota and mornings on 2GB can be counterproductive to that. Coatsworth echoed his colleague Prof. Paul Kelly, that he saw no reason to keep borders closed or for physical restrictions to be so strict. "I think we have to open up, the prime minister said that we can't let the fear of going backwards stop us from going forwards, and I absolutely endorse that" he said. Jones was tres impressed. "That is the most significant thing which has been said this morning". Greens senator Dr Mehreen Faruqi says without access to packages like the jobkeeper wage subsidy, universities could shed up to 30,000 staff. It's a national day of action for higher education - Faruqi says universities could not afford to be left off the wage subsidy scheme any longer: It's time Minister Tehan provided a new funding package for universities and scrapped the unfair rules which have excluded every single university from qualifying for the jobkeeper payment. Universities are some of the most casualised workplaces in the country. This leaves uni workers incredibly vulnerable to downturns in revenue. Universities with large reserves must prioritise staff jobs in spending what money they have. Keeping university staff, including casuals, on payroll should be top of every vice-chancellor's agenda in managing this crisis. Stephen Jones has again attacked the government's early super release program (which Labor has never been for) following reports from the AFR some recipients had gambled the money away online. The government has designed a system for speed, not accuracy. Yesterday, Asic raised further concerns that dodgy financial advisors were exploiting the pandemic and charging for access to early release on consolidation of super, which is free through the myGov portal. This Liberals robo-release process is a honey pot for shonks, fraudsters and gambling marketers. Predatory financial advisors and gambling marketers have been enabled by a flawed system which the government created. For the record, if you count the number of people who dropped out of the labour force market statistics, almost 500,000 in the last month, unemployment would already be at almost 10%. Steven Kennedy, the Treasury secretary, is at the Covid-19 committee addressing April's labour force statistics showing a loss of 600,000 jobs and unemployment rate of 6.2%. Kennedy said that "roughly speaking" the figures were in line with Treasury's estimates that unemployment would reach 10%, or 15% if it weren't for the jobkeeper wage subsidy. Kennedy noted the second week of April was one with "lots of restrictions" on the economy, and the ABS stats showed there were 489,000 people who had left the labour market ie were not looking for work. He said: "If we put that plus the unemployed, we'd get an unemployment rate of about 9.6%, that's roughly equivalent to the 10% we expected to see. The thing that we missed was there was a much larger withdrawal from the labour force than we anticipated. I expect they will go back into the labour force and be counted unemployed." Kennedy noted that mutual obligations have been suspended, but argues workers were "simply unavailable" to work because they were advised to stay home, and he "wouldn't be surprised" if there is a significant rise in unemployment when the economy reopens and they start looking for work. Kennedy also noted a "dramatic" fall in the number of hours worked, and said the UNDERemployment work is 19.9%. That is quite the escalation from Joel Fitzgibbon there. He wasn't asked to go further, and instead the interview moved on to how the agriculture sector is feeling, but if Tim Pallas's comments kicked off furious rebuttal, then Fitzgibbon has just kickstarted a whole new argument. Joel Fitzgibbon appeared on Sky News this morning, where he was asked about Australia's relationship with China. The shadow agriculture minister went further than either Penny Wong or Anthony Albanese in criticising the government's handling of the China relationship. Asked if the CCP had been bullying Australia (in terms of the barley tariff), Fitzgibbon says: I don't know about China bullying us. Certainly we have to be robust in defence of our national interest. But let's just recap what's been happening here for the last few years, starting under Malcolm Turnbull. We've been demonising the Chinese and their system of governance. Malcolm Turnbull, for example, changed Foreign Investment Review Board thresholds, so that there were special discriminatory rules for the Chinese. They deliberately constructed foreign interest registers with a clear intention of targeting China, for domestic political gain. And of course, now we've had our most recent and current prime minister, basically saying things like we should send weapons-style supervisors into China, against their will. I have no idea how he thought he was going to achieve that. So, there have been some problems here in our relationship with China for some time. It's our largest trading partner, and we need to normalise this relationship again. We can see already through barley and the red meat sector some of the consequences when that relationship is not a healthy one. Meanwhile, globally, the world has seen the biggest daily increase in Covid-19 cases. The Senate select committee looking at the Covid-19 response is holding a hearing today. It's all about IR and Treasury this morning. Dr Jeannette Young says she is in constant contact with the other members of the national health advisory committee, and each health advisor is choosing to do what is considered best for their own jurisdiction: We were getting together every single day until recently, now it is most days we talk it through. I will at the next opportunity, which is today's meeting, talk to my colleagues around their plans around the country. I spoke to the West Australian chief medical officer as late as yesterday to talk about their plans. Each state will do what is best for their state. And today, here in Queensland, it is best for us that we continue to minimise movement across our domestic borders. So, of course, we're allowing people to come into Queensland for compassionate reasons and, of course, to move freight. And there are a number of other areas. But this is not the time for tourists to travel into Queensland. Because one case can cause an enormous setback to our plan to open up our communities. Annastacia Palaszczuk defers to Queensland chief medical officer, Dr Jeannette Young, to explain why Queensland's health advice is to keep the borders closed, when the deputy chief medical officer of the country, Professor Paul Kelly, says there is no reason to do so: So, there is plenty of health advice about the importance of minimising the number of cases coming in to a community. We saw how effective it was for Australia when the international borders were closed. And then as we started to see in Queensland, the number of cases acquired interstate and then coming into Queensland, we immediately acted here, the premier took that advice to act, and close the borders to other states. And, most of the states in our country also did that. So we saw Western Australia, we saw South Australia, Northern Territory, Tasmania and Queensland close their borders to those states that had significantly higher numbers of cases and local transmission. So, there is a lot of health advice about the importance of minimising the number of cases coming in to a community. Annastacia Palaszczuk: Let's be very clear, on the border issue we won't be lectured to by the worst performing state in Australia. There are 33 times the number of active cases in NSW compared to Queensland. So, NSW needs to get its act together and get its community transmission down and we'll all be better off throughout this nation, including in Queensland. It's time for Gladys and the NSW government to get their act together and to start performing as well as Queensland has done on the health front. Annastacia Palaszczuk has also been listening to Mark McGowan when it comes to border sledges. She says Queensland won't be lectured to "by a state that has the highest number of cases in Australia", in response to Gladys Berejiklian's repeated calls for Queensland to open the border. Queensland is loosening restrictions again - for Queenslanders. The greatest nation on earth will allow travel, within the state, of up to 250km from residents' homes for the school holidays. Annastacia Palaszczuk says that keeping Queensland's borders closed to the other states means Queenslanders can travel more freely. The NT health minister, Natasha Fyles, says the last active case in the territory has recovered, making the NT (known) Covid-19 case free. I would like to acknowledge these people that have been diagnosed and we have cared for them and we wish them all well. We saw situations where people were transiting through Darwin and they were caught here, we saw defence personnel brought here. It's been six-and-a-half weeks since we have had a locally diagnosed case but we mustn't become complacent. Yesterday worldwide saw the highest number of coronavirus cases diagnosed in the world on any particular day. It's expected worldwide today we'll go over five million diagnosed cases and there are more cases that are undiagnosed. The Northern Territory through the tough measures we put in place early, we are a safe bubble and we need to keep it that way. We have a very vulnerable community, population, particularly with our Aboriginal Territorians and so I urge all Territorians to not become complacent off the back of this, to keep vigilant. The physical distancing, personal hygiene and if you are not feeling well, stay home. On the finance side of things, AAP has this report: The Australian share market is set to rise in early trade after US investors continued to look to a swift recovery from the coronavirus pandemic. The SPI 200 futures contract was higher by 36 points, or 0.65%, to 5,604.0 at 0800 AEST on Thursday. The three major Wall Street indices notched finished higher overnight as investors bet on a swift economic recovery from coronavirus-driven lockdowns and the potential for more stimulus measures from the Federal Reserve. The Dow Jones Industrial Average rose 1.52% to end at 24,575.9 points, while the S&P 500 gained 1.67%, to 2,971.61. The Nasdaq Composite climbed 2.08% to 9,375.78. In Australia on Thursday, the heads of Apts, Asic and the Reserve Bank will discuss their Covid-19 response in an online forum held by the Financial Services Institute of Australasia. The S&P/ASX200 benchmark index finished Wednesday up 13.5 points, or 0.24%, at 5,573 points. The All Ordinaries index gained 21.3 points, or 0.38%, to 5,680.1. The Australian dollar was buying 65.96 US cents at 0800 AEST, up from 65.43 US cents at the close of trade on Wednesday. Angus Taylor also spoke on the border closure issue while on the ABC: Well, I think ultimately it's a decision for Queensland but the advice coming in is very clear from the chief medical officer and it's clear what the New South Wales premier has put her view as well. What I want to see is opening up, getting things going again, jobs, investment and of course we have got to make sure all our policies are aligned with that at the federal level and we'd like to see states do the same and that includes our emissions policy which is all about strengthening the economy. Speaking to the ABC a little earlier, Gladys Berejiklian says she did not think it was "logical at this stage to maintain those border closures for a prolonged period of time". She prefaced the comment with "that's a matter for the Queensland premier and the Queensland government" before giving her opinion, so that might tell you how relations within national cabinet are starting to go. Berejiklian says it is all about jobs: New South Wales is in a position now where we're really focused on jobs and the economy, and we'll be able to get our industries up and running. But for Australia to really move forward as a nation during this very difficult economic time as well as difficult health time, we do need our borders down, we do need to allow people to move between states, to live, to work, to see family. And that's why I was pleased that both New South Wales and Victoria, we actually kept our borders completely open during the pandemic - admittedly, because we're the largest states, I [presume] the smaller states wanted to limit anyone from our states visiting them who might have the virus. But I think that those concerns have now been allayed, given the small number of new cases we're seeing across the nation. And what's really critical to us now as a nation is to get the jobs going, is to stop us falling off an economic cliff in a few months' time. And that should be cause for concern for all of us. And the best way we can manage that is by allowing people to move freely. Gladys Berejiklian says NSW will also bring forward, and accelerate, many of its infrastructure projects in a bid to kickstart the NSW economy. Whilst dealing with the health issues, we are keeping a keen eye on the economy. It's all about jobs, getting back those hundreds of thousands of jobs we have lost in New South Wales, it does play on our mind every day. I want people to feel secure if they have a job and certainly to feel they can get a job if they've lost their job and that's why New South Wales whilst we always take a no regrets policy in relation to saving lives we certainly will maintain our assertive policy in terms of reopening the economy and getting jobs back and making sure that we can sustain that. That's really critical to the future. We don't want to be in a position where we see more people losing jobs. More than 220,000 jobs lost in April is beyond our wildest expectations in terms of what could have happened and we are certainly in the phase of doing everything we can to open our economy to get people working, whether it's from home or whatever works best for them but also maintaining the public safety through social distancing. NSW health authorities tested 9,700 people for Covid-19 in the last 24 hours and returned just two positive results, Gladys Berejiklian says as part of her daily briefing. One case was from Melbourne, and the second is still under investigation (which is how they say they are not immediately clear on where it was picked up). Asked where the government stands on the so-called Hele (high-efficiency low-emission) coal-fired power plants many in the Coalition backbench are quite enamoured with, Angus Taylor says they are still in the mix. Again the point here is balance, Fran, you know, extreme solutions are not going to work here. We need to have a range of technologies [and] many horses in the race. There wasn't a lot new that was in that interview with Angus Taylor. "Balance" seems to be his favourite word at the moment, which is why he says Australia is still backing in fossil fuels like gas. Asked by Fran Kelly why Australia just "doesn't back a winner", like low-emissions technologies such as wind and solar, Taylor scoff-lols and says: You need, you need balance," he said. Look it's not just about electricity, either, this is across all sectors. And it's crucial we have a range of technologies that can play a role in all these sectors - there's been enormous focus, by the way, on electricity which is about a third of our emissions - two-thirds of our emissions [are] across industry, transport, agriculture, and we have to focus on technologies in those areas as well and of course carbon capture and storage can play a very very important role there on the manufacturing side in particular. Angus Taylor just spoke to Fran Kelly on ABC radio and this is a pretty accurate summary from Adam Morton here, about how the conversation, at least from Taylor's side, went. Gladys Berejiklian had a chat to ABC News Breakfast this morning and again pushed for borders to be open across the nation - saying it was not "logical" to keep them closed. While the borders are the short-term concern, Adam Morton has this report on what is likely to be a long-term issue for Australia There are a lot of potential changes being floated in terms of Australian economic policy, under the guise of "Covid recovery". The border issue is once again dominating headlines, with Gladys Berejiklian pushing for Queensland (mostly), to open its borders to NSW. Queensland is saying no. As is Western Australia, the Northern Territory and South Australia. Yesterday, the deputy chief medical officer, Paul Kelly, said he could see no medical reason to keep the borders closed. But Queensland, as well as the rest of the closed-off states, say their health advice is to keep them closed - particularly while there is still evidence of community transmission in NSW and Victoria. Which there is. Mark McGowan hit NSW with a Ruby Princess jibe yesterday, saying he wouldn't be taking border advice from the state which let the cruise ship dock and the passengers disembark. But the feds are on the side of NSW and are also pushing for it to open. Pauline Hanson has hired a lawyer to test to constitutionality of Queensland's border closure. "It is unconstitutional for Premier Palaszczuk to close Queensland's border and her actions are causing me a great deal of concern for the economic viability of our state," Hanson wrote on social media. We'll cover all the day's events as they happen, so thank you again for joining us. You have Amy Remeikis with you for this slice of the day. Ready? 59702 false false  Josh Taylor (now), Elias Visontay and Amy Remeikis (earlier)

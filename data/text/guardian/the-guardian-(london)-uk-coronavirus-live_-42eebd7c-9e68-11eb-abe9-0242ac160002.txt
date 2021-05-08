@@ -1,0 +1,787 @@
+block-time published-time 5.45pm BST
+
+
+
+Afternoon summary  •England had the highest levels of excess deaths in Europe in the first wave of the coronavirus pandemic, according to data showing the effect of the virus across the continent.•Boris Johnson has urged Britons not to "delude" themselves that the coronavirus crisis is over. (See 1.46pm.)•People who have tested positive for Covid-19 or who have symptoms will now have to self-isolate for 10 days, rather than seven, the UK government has said in a move that aligns the country with the World Health Organization's advice.•Plans to raise Covid-19 testing capacity in England to 500,000 people a day have been signalled by the government as infections rise in Europe and ahead of a feared winter surge in cases.•All GP consultations should be done remotely by default unless there is a reason a patient needs to be seen in person, Matt Hancock has said in a speech setting out what he sees as the lessons for the NHS and care sector from the coronavirus pandemic.•Scottish sports stadiums, gyms and swimming pools are not likely to reopen until the middle of September, assuming infection levels are low enough by then, Nicola Sturgeon has announced.•Nicola Sturgeon has been censured by the UK's chief statistician after using incomplete and unpublished data to claim the coronavirus was five times less prevalent in Scotland than in England.•Jackson Carlaw has resigned suddenly as Scottish Conservative leader, claiming he is not the right person to lead his party into the forthcoming Holyrood elections.•China will not recognise the British national (overseas) passport as a legal travel document, raising the prospect that the 3 million Hong Kong citizens eligible for the passport will be banned from leaving Hong Kong by the Chinese government. As Patrick Wintour reports, the warning was made at a press conference by the Chinese ambassador to the UK, Liu Xiaoming, in which he also warned it was hard to imagine a global Britain that bypassed or excluded China. Decoupling from China would mean decoupling from growth and the future, he suggested.•The Conservative former MP Charlie Elphicke is facing jail after being found guilty of three counts of sexual assault against two women in a verdict that prompted his wife - who represents his former constituency - to announce the end of their marriage.•Calls for a review to add more black, Asian and ethnic minority (BAME) history to the English national curriculum have been turned down by the government, the Guardian has learned.
+
+England had the highest levels of excess deaths in Europe in the first wave of the coronavirus pandemic, according to data showing the effect of the virus across the continent.
+
+Boris Johnson has urged Britons not to "delude" themselves that the coronavirus crisis is over. (See 1.46pm.)
+
+People who have tested positive for Covid-19 or who have symptoms will now have to self-isolate for 10 days, rather than seven, the UK government has said in a move that aligns the country with the World Health Organization's advice.
+
+Plans to raise Covid-19 testing capacity in England to 500,000 people a day have been signalled by the government as infections rise in Europe and ahead of a feared winter surge in cases.
+
+All GP consultations should be done remotely by default unless there is a reason a patient needs to be seen in person, Matt Hancock has said in a speech setting out what he sees as the lessons for the NHS and care sector from the coronavirus pandemic.
+
+Scottish sports stadiums, gyms and swimming pools are not likely to reopen until the middle of September, assuming infection levels are low enough by then, Nicola Sturgeon has announced.
+
+Nicola Sturgeon has been censured by the UK's chief statistician after using incomplete and unpublished data to claim the coronavirus was five times less prevalent in Scotland than in England.
+
+Jackson Carlaw has resigned suddenly as Scottish Conservative leader, claiming he is not the right person to lead his party into the forthcoming Holyrood elections.
+
+China will not recognise the British national (overseas) passport as a legal travel document, raising the prospect that the 3 million Hong Kong citizens eligible for the passport will be banned from leaving Hong Kong by the Chinese government. As Patrick Wintour reports, the warning was made at a press conference by the Chinese ambassador to the UK, Liu Xiaoming, in which he also warned it was hard to imagine a global Britain that bypassed or excluded China. Decoupling from China would mean decoupling from growth and the future, he suggested.
+
+The Conservative former MP Charlie Elphicke is facing jail after being found guilty of three counts of sexual assault against two women in a verdict that prompted his wife - who represents his former constituency - to announce the end of their marriage.
+
+Calls for a review to add more black, Asian and ethnic minority (BAME) history to the English national curriculum have been turned down by the government, the Guardian has learned.
+
+
+
+That's all from me for today.
+
+Our coronavirus coverage continues on our global coronavirus live blog. It's here.
+
+Related:  Coronavirus live news: Spain reports biggest rise in daily infections since lockdown lifted in June
+
+block-time updated-timeUpdated at 6.20pm BST
+
+block-time published-time 5.40pm BST
+
+From Sky's  Joe Pike
+
+enltrNEW: I understand Scottish Conservative MPs and MSPs are already receiving calls from: - @RuthDavidsonMSP- @John2Win- @Douglas4MorayAll campaigning for @Douglas4Moray to be the next leader of @ScotTories.
+
+- Joe Pike (@joepike) July 30, 2020
+
+block-time published-time 5.37pm BST
+
+Ambassador Theatre Group to lay off 1,200 casual staff in UK
+
+The Ambassador Theatre Group (ATG), one of the biggest employers in British theatre, is to lay off more than 1,200 casual staff in September, with unions saying the delay in releasing the £1.57bn arts recovery package continues to put jobs at risk, my colleague Lanre Bakare reports.
+
+Related:  Ambassador Theatre Group to lay off 1,200 casual staff in UK
+
+block-time published-time 5.28pm BST
+
+ONS table showing which European countries have best and worst excess deaths record
+
+The headlines from the ONS report into excess deaths in Europe have focused on England, because the main report treats the UK as four separate countries. It justifies this by saying that "each of the four nations of the UK has its own health services and policies, and has made different decisions around responses to the pandemic, such as the date and extent of implementation of lockdown measures" and that "it is therefore meaningful to report on each of the nations of the UK separately".
+
+But the ONS has also produced data for the UK and this shows that, although England's record is worse than the UK's as a whole, the UK's was worse than any other country too in the relevant period.
+
+If you are interested in the detail, it is worth looking at the data tables published alongside the main reports. The key one is probably the one that shows relative cumulative age-standardised mortality rates (rcASMRs) for countries, for every week up until week 24 (the week ending 12 June). But it has focused on week 22 (the week ending 29 May) because that is the last week for which full data from all countries is available.
+
+In week 22, the rcASMR for England was 7.55. That means that the death rate in England up to that point in the year was 7.55% higher than you would expect from the average from 2015-19.
+
+The figure for the UK in week 22 was 6.9. The figure for Spain, the country with the next highest total, was 6.65.
+
+Here is a chart from the ONS report showing all countries in order in week 19 (the week ending 8 May) and week 22. This shows that in week 19, Spain had the worst record (when it was ahead of both England and the UK), but that by week 22 England and the UK were both ahead of Spain.
+
+Cumulative excess mortality figures for European countries. Photograph: ONS
+
+The data for week 24, which is in the tables but not highlighted in the main report, shows that by then England and the UK were in an even worse position in relation to other European countries. Spain was still in second place, with an rcASMR of 6, but England's was 7.61, and the UK's was 6.94 - both higher than two weeks earlier. (The rcASMR can go down as the year goes on if death rates in a country fall below the long-term average.)
+
+block-time updated-timeUpdated at 5.38pm BST
+
+block-time published-time 5.14pm BST
+
+Jackson Carlaw resigns as Scottish Tory leader, saying party needs someone better
+
+Jackson Carlaw has resigned suddenly as the Scottish Conservatives' leader, claiming he is not the right person to lead his party into the forthcoming Holyrood elections.
+
+Hours after a combative session at first minister's questions, Carlaw issued a statement saying he had reached "a simple if painful conclusion" over the last few weeks that the Scottish party needed a new and better leader.
+
+Carlaw only became leader in February, after a drawn-out campaign to replace his predecessor, Ruth Davidson, a pro-European who quit last year rather than work with Boris Johnson.
+
+Carlaw said:
+
+In the last few weeks I have reached a simple if painful conclusion - that I am not, in the present circumstances, the person best placed to lead that case over these next vital months in Scottish politics prior to the Holyrood elections.
+
+Given the importance I attach to the job, I've therefore decided to stand down with immediate effect.
+
+[I] simply believe that a new leader will be able, as we recover from the Covid emergency, to make the case for the Scottish Conservatives and the union better than me. That is all that matters.
+
+Related:  Scottish Conservatives leader Jackson Carlaw quits
+
+block-time updated-timeUpdated at 5.34pm BST
+
+block-time published-time 4.31pm BST
+
+According to a snap poll by YouGov, there is overwhelming public support for the decision today to tell people with coronavirus symptoms to self-isolate for 10 days, not seven days.
+
+enltr77% of Britons support the government increasing the coronavirus self-isolation period to 10 days  https://t.co/gwJuf7IEyG pic.twitter.com/PWj4zdPzlD
+
+- YouGov (@YouGov) July 30, 2020
+
+block-time updated-timeUpdated at 5.38pm BST
+
+block-time published-time 4.27pm BST
+
+Public Health England records 53,857 excess deaths in England since March
+
+Public Health England has published its latest weekly excess mortality report for England. It's here.
+
+It says there have been 53,857 excess deaths in England since 20 March.
+
+This is a more accurate guide to the impact of coronavirus on England than the headline NHS England figure produced every afternoon, which only covers hospital deaths for people who have tested positive for coronavirus. This afternoon that total was running at 29,329.
+
+Excess deaths in England. Photograph: PHE
+
+enltrWe've published our weekly excess mortality in England report for the week ending 17th July. See the report here: https://t.co/76TtsUushE pic.twitter.com/fL0a7yXRfW
+
+- Public Health England (@PHE_uk) July 30, 2020
+
+block-time updated-timeUpdated at 5.39pm BST
+
+block-time published-time 4.15pm BST
+
+From the Welsh government
+
+enltrWe're investing £53m to help our diverse arts and culture sector emerge from the coronavirus pandemic stronger than ever. This will protect jobs and help our theatres, museums, galleries, music venues, heritage sites, festivals and more. ??: @Arts_Wales_ pic.twitter.com/IidfCGuCRk
+
+- Welsh Government (@WelshGovernment) July 30, 2020
+
+enltrRead the full details about this fund in our press release here ?? https://t.co/BGBT8ZjVAn
+
+- Welsh Government (@WelshGovernment) July 30, 2020
+
+block-time published-time 4.12pm BST
+
+The Department of Health in Northern Ireland has published its latest estimate of R, the reproduction number, in Northern Ireland. It says it is between 0.5 and 1.
+
+block-time published-time 3.39pm BST
+
+Since the launch of the UK government's test and trace scheme, 184,703 close contacts of people who have tested positive for Covid-19 have been reached through the tracing system and asked to self-isolate, PA Media reports. This is 83%of the 222,589 people identified as close contacts. The remaining 37,886 people (17%) were identified as close contacts, but were not reached.
+
+The latest weekly figures out today (pdf) show that 75.1% of close contacts were reached in the week ending 22 July, down from 78.4% in the previous week, and down on the 90.8% reached in the first week of test and trace (week ending 3 June).
+
+block-time updated-timeUpdated at 4.00pm BST
+
+block-time published-time 3.33pm BST
+
+Artists put the finishing touches to a wax figure of Boris Johnson at Madame Tussauds in London ahead of its reopening on Saturday. Photograph: Tolga Akmen/AFP/Getty Images
+
+block-time published-time 3.31pm BST
+
+A McDonald's restaurant has shut its doors after five staff tested positive for Covid-19 in an area of the West Midlands where there has been a surge in infections, PA Media reports. The restaurant in Great Bridge, Sandwell, has been closed "as a precautionary measure following a rise of Covid-19 cases in the local area", McDonald's said.
+
+block-time published-time 3.29pm BST
+
+The UK car dealership Pendragon plans to cut 1,800 jobs, in the latest sign of the turmoil hitting the automotive industry because of the coronavirus crisis, my colleague Jasper Jolly  reports.
+
+Related:  UK car dealership Pendragon to cut 1,800 jobs
+
+block-time published-time 3.28pm BST
+
+Tui is to shut 166 stores in the UK and Ireland and shift hundreds of affected staff to a homeworking operation as the pandemic hastens the move away from booking holidays on the high street to online, my colleague Mark Sweney  reports.
+
+Related:  Tui to shut 166 UK and Ireland stores as Covid-19 hammers travel
+
+block-time updated-timeUpdated at 4.00pm BST
+
+block-time published-time 3.24pm BST
+
+Boris Johnson visiting recently graduated police officers in Northallerton, North Yorkshire. Photograph: WPA/Getty Images
+
+block-time updated-timeUpdated at 4.01pm BST
+
+block-time published-time 3.12pm BST
+
+The Royal College of General Practitioners has expressed concern about Matt Hancock's call earlier today for all GP consultations to be by phone or video unless there is a "compelling reason" for the patient to be seen face to face. (See 12.08pm.) In a lengthy response to Hancock's speech, Prof Martin Marshall, the RCGP chair, said:
+
+Mr Hancock is also keen for GPs and our teams to continue making greater use of technology post-pandemic, and the college is too, to an extent, and as long as it is safe. We should remember that the changes were made out of necessity - to keep our patients and our teams safe and to help stop the spread of Covid-19. While there is a compelling case to retain some aspects of the different ways we've been working, we certainly do not want to see general practice become a totally remote service.
+
+A totally, or even predominantly, remote general practice service wouldn't be in anybody's best interests long-term, and throughout the pandemic face-to-face appointments have been facilitated when they've been necessary. Remote consultations have benefits - they can be convenient for patients, and GPs have reported they have found them to be an efficient way of delivering care - but there are some things that simply can't be done remotely, for example, when a physical examination is necessary or for a vaccination. Many patients also prefer seeing their GP in person, and many GPs prefer this too, particularly for patients with complex health needs who really value the relationship-based care that GPs excel at delivering.
+
+The full text of Hancock's speech is here.
+
+block-time updated-timeUpdated at 4.02pm BST
+
+block-time published-time 3.05pm BST
+
+Public Health Wales has recorded two further coronavirus deaths in Wales.
+
+enltrThe latest number of confirmed cases of Coronavirus in Wales has been updated. Data dashboard: ?? https://t.co/zpWRYSUbfh?? https://t.co/HSclxpZjBhFind out how we are responding to the spread of the virus in our daily statement here: https://t.co/u6SKHz0zsG pic.twitter.com/HayYTfV2Xe
+
+- Public Health Wales (@PublicHealthW) July 30, 2020
+
+But there have been no further deaths in Scotland (details here) or in Northern Ireland (details here).
+
+block-time published-time 3.01pm BST
+
+Ian Murray, the shadow Scottish secretary, has said that today's ONS report about excess death rates in Europe shows the Scottish National party government in Holyrood has failed as well as the Conservative UK government in Westminster.
+
+The figures show that by the week ending 29 May, England had a relative cumulative age-standardised mortality rate of 7.55% - meaning it was 7.55% higher than the average mortality rate between 2015 and 2019. Spain ranked second, at 6.65%, followed by Scotland (5.11%), Belgium (3.89%) and Wales (2.78%).
+
+Murray said:
+
+The confirmation that England and Scotland recorded the highest levels of excess deaths in Europe is devastating.
+
+Every life lost is a tragedy and leaves behind grieving families.
+
+This is a stark reminder of the catastrophic failures of the Tory government in Westminster and the SNP government in Edinburgh.
+
+Boris Johnson and Nicola Sturgeon must now take responsibility for why we were so badly prepared.
+
+Referring to the reprimand to the Scottish government issued by the Office of Statistics Regulation (see 11.33am), Murray said: "The first minister should also apologise for making false claims about prevalence rate comparisons and stop seeing everything through her constitutional prism."
+
+block-time updated-timeUpdated at 4.04pm BST
+
+block-time published-time 2.45pm BST
+
+During his visit to Yorkshire Boris Johnson  was asked if he was ashamed of the findings of the ONS report showing that England has had the highest level of excess deaths in Europe. He replied:
+
+We mourn every loss of life that we've had throughout the coronavirus epidemic.
+
+What I would say to them [families of the deceased] is that we really owe it to them to continue our work in driving the virus down.
+
+Clearly this country has had a massive success now in reducing the numbers of those tragic deaths.
+
+We've got it at the moment under some measure of control. The numbers of deaths are well, well down.
+
+Johnson then went on to stress that the crisis was not yet over. (See 1.46pm.)
+
+block-time updated-timeUpdated at 3.01pm BST
+
+block-time published-time 2.40pm BST
+
+NHS England  has recorded a further 12 coronavirus hospital deaths. It says the people who died were aged between 40 and 96 and all had underlying health conditions.
+
+block-time published-time 2.07pm BST
+
+Johnson urges people to consider holidaying in UK
+
+In his clip for broadcasters Boris Johnson also urged people to consider a holiday in the UK. He said:
+
+What I really would say to people is that... there are wonderful attractions in North Yorkshire and across the country, and I am not going to discourage anybody from having a staycation. This is a totally beautiful country. Throughout the United Kingdom there are fantastic amenities, resorts, beaches, holiday destinations of all kinds, and I thoroughly recommend them.
+
+It is interesting that Johnson could not quite bring himself to say that people should holiday at home instead of abroad ("not going to discourage anybody from having a staycation" was an odd way of putting it). Nicola Sturgeon has effectively been advising people to holiday in Scotland, but Johnson is a libertarian who does not like telling people what to do, and he seems to find it harder telling people how to plan their summer.
+
+block-time updated-timeUpdated at 2.14pm BST
+
+block-time published-time 2.07pm BST
+
+People in Kent are having to "pay the price" for the government's failure to deliver its "oven ready" Brexit deal, the shadow Cabinet Office minister Rachel Reeves said as she met residents in Ashford to discuss plans for a vast customs clearance and lorry park.
+
+Reeves, who shadows Michael Gove, is the first frontbench MP to visit the site, which was purchased "out of the blue" almost three weeks ago.
+
+Residents said they were still in the dark about the site, with the local councillor Dara Farrell complaining about the "air of mystery" hanging over the Ashford plans.
+
+One woman complained to Reeves that the government had been very "sneaky" pushing through plans to funnel up to 10,000 lorries a day through the site in the countryside on the outskirts of the town without any consultation with or warning to residents.
+
+Rachel Reeves during her visit to the site in Ashford, Kent, recently purchased by the government as it gears up for possible trade frictions as a result of leaving the EU. Photograph: Michael Drummond/PA
+
+block-time updated-timeUpdated at 3.01pm BST
+
+block-time published-time 1.46pm BST
+
+Johnson tells Britons not to 'delude' themselves into thinking Covid crisis over
+
+Boris Johnson  has said Britons should not delude themselves that the coronavirus crisis is over, because it isn't. In a clip for broadcasters on a visit to Yorkshire, he said that Britain was getting the virus under some measure of control. But he went on:
+
+But I have to tell you that we are looking at a resurgence of the virus in some other European countries, you can see what's been happening in the United States, and so it is absolutely vital as a country that we continue to keep our focus and our discipline and that we don't delude ourselves that somehow we are out of the woods or that this is all over, because it isn't all over.
+
+And the most important thing we can do to stop a really damaging second wave, which would have real, real consequences - not just medical, but for the economy - is everybody continue to observe social distancing guidelines, to wash your hands and to wear a mask on public transport or in shops. And the most important thing we need to do is get the test if you have symptoms.
+
+This is quite a change of tone from Johnson. Less than two weeks ago, in a speech, he was implying the crisis was abating and he was floating the prospect of social distancing measures being abandoned from November. "It is my strong and sincere hope that we will be able to review the outstanding restrictions and allow a more significant return to normality from November at the earliest - possibly in time for Christmas," he said.
+
+Boris Johnson. Photograph: Sky News
+
+block-time updated-timeUpdated at 2.14pm BST
+
+block-time published-time 1.23pm BST
+
+Sturgeon's statement to Scottish parliament - Summary
+
+Here are the main points from Nicola Sturgeon 's statement about coronavirus to the Scottish parliament.
+
+•Sturgeon confirmed that pupils in Scotland would return to school from 11 August. Some schools would have a phased return, she said, but she said she expected "all pupils to be at school full-time from 18 August at the latest". She went on:
+
+Sturgeon confirmed that pupils in Scotland would return to school from 11 August. Some schools would have a phased return, she said, but she said she expected "all pupils to be at school full-time from 18 August at the latest". She went on:
+
+The guidance makes clear that in general, physical distancing between pupils will not be required while on the school estate, although distance should be maintained between pupils in secondary schools where possible - provided this does not compromise the return to full-time schooling.
+
+Distancing should also be maintained between staff members, and between staff and pupils.
+
+The guidance also sets out the risk-mitigation measures that must be introduced in all educational settings. These include ventilation, good hygiene practices, and improved cleaning regimes.
+
+It is vital for the safe re-opening of schools that these measure are applied rigorously in all settings.
+
+•She said she was not ruling out schools having to opt for "blended learning arrangements", either nationally or locally, if coronavirus crisis increased. That would involve a mixture of learning from school and learning from home. (At one point "blended learning" was the model for when schools went back, but the Scottish government then committed to getting all pupils back in school, partly in response to protests from parents.)•She said the Scottish government would spend a further £30m on teacher recruitment (taking the total to £75m) and a further £30m on its education recovery fund (taking the total to £50m).•But she said it was not safe for Scotland to move from phase three of its route map out of coronavirus to phase four. She explained:
+
+She said she was not ruling out schools having to opt for "blended learning arrangements", either nationally or locally, if coronavirus crisis increased. That would involve a mixture of learning from school and learning from home. (At one point "blended learning" was the model for when schools went back, but the Scottish government then committed to getting all pupils back in school, partly in response to protests from parents.)
+
+She said the Scottish government would spend a further £30m on teacher recruitment (taking the total to £75m) and a further £30m on its education recovery fund (taking the total to £50m).
+
+But she said it was not safe for Scotland to move from phase three of its route map out of coronavirus to phase four. She explained:
+
+Three weeks ago, we estimated that 1,000 people had been infectious with the virus in Scotland in the week before. Our estimate for last week is that 300 people in Scotland were infectious.
+
+In addition, our latest modelling suggests that the R number remains below 1.
+
+So our progress is substantial, and it has been hard earned.
+
+But - and I am afraid this is a necessary 'but' - the virus has not gone away. It is still circulating and it remains highly infectious and very dangerous.
+
+And that is why I am not able to indicate, today, a move from phase three of our route map out of lockdown to phase four.
+
+In the route map it published in May, the Scottish government said phase four would apply when coronavirus was "suppressed to very low levels" and was "no longer considered a significant threat to public health". The document said it might take "many months, or longer" before Scotland reached that phase.
+
+•Explaining what those "minimal" changes would be, she said:
+
+Explaining what those "minimal" changes would be, she said:
+
+From Monday, routine eye care services - including regular eye exams - can be carried out in community optometry premises, and in people's homes.
+
+Counselling services - such as drug and alcohol support groups - will be able to provide essential services, following relevant guidance and with physical distancing.
+
+In addition, sports coaches will be able to meet with groups of more than four households at a time. We will also confirm when they can work with larger groups.
+
+And from 17 August, a wider range of dental care can resume. In particular, aerosol procedures - which create a fine mist through use of a high speed drill - will be allowed to restart if they are necessary for urgent dental care.
+
+Sturgeon also said that from 24 August the Scottish government hoped to allow live events like concerts and comedy outdoors to take place, and some indoor facilities, like bingo, to open with social distancing. Funfairs and driving lessons could be allowed from that day too, she said. But non-essential offices and call centres would expect to remain closed until 14 September, she said.
+
+•She said from 1 August people deemed extremely clinically vulnerable would no longer be asked to shield. She said:
+
+She said from 1 August people deemed extremely clinically vulnerable would no longer be asked to shield. She said:
+
+For those of you have been shielding, this means that from Saturday, you can now follow the guidance for the general population. But please be especially careful about face coverings, hand hygiene and physical distancing.
+
+•She said that new guidance was being published for childcare providers to come into force from 10 August. She said:
+
+She said that new guidance was being published for childcare providers to come into force from 10 August. She said:
+
+The new guidance doesn't represent a return to complete normality for childcare providers - but it reduces the current restrictions, while setting out age-appropriate measures to minimise risks for staff, children and families, and communities.
+
+•She said there had been no further coronavirus deaths in Scotland in the last 24 hours.•She said that a cluster of cases in the Glasgow area had been linked to the M&D pharmacy in Port Glasgow and to an Amazon warehouse in Gourock.    Nicola Sturgeon speaking in the Scottish parliament today. Photograph: Fraser Bremner/Scottish Daily Mail/PA
+
+She said there had been no further coronavirus deaths in Scotland in the last 24 hours.
+
+She said that a cluster of cases in the Glasgow area had been linked to the M&D pharmacy in Port Glasgow and to an Amazon warehouse in Gourock.
+
+block-time updated-timeUpdated at 4.10pm BST
+
+block-time published-time 12.36pm BST
+
+Sturgeon confirms Scottish schools to reopen in August, but other lockdown easing measures 'minimal'
+
+Nicola Sturgeon, Scotland's first minister, is addressing the Scottish parliament about the coronavirus crisis and the next steps being taken.
+
+My colleague Severin Carrell has the main points.
+
+enltr @NicolaSturgeon tells #Holyrood Scotland won't move to phase 4 because situation still too fragile; minimal changes over next three weeks #Covid19
+
+- Severin Carrell (@severincarrell) July 30, 2020
+
+enltrBut shielding advice for vulnerable people will end on 1 August, which means shielding kids can go back to school
+
+- Severin Carrell (@severincarrell) July 30, 2020
+
+enltrSturgeon adds that Scottish schools will return full time from 11 August onwards, with full-time learning in all schools by 18 August at the latest #Covid19
+
+- Severin Carrell (@severincarrell) July 30, 2020
+
+block-time published-time 12.28pm BST
+
+Hancock's Q&A
+
+Hancock is now taking questions.
+
+Q: How are you going to retain staff in the NHS?
+
+Hancock says applications have sky-rocketed.
+
+But he now the NHS needs to retain people.
+
+He says "listening hard" is at the key to his approach. He will listen hard to what people want to do.
+
+block-time published-time 12.18pm BST
+
+Hancock is winding up now.
+
+Though I deliver this on a hot summer's day, we know for sure, winter is coming.
+
+Unusually cold weather or a more virulent strain of flu would put real stress on the system.
+
+There is still a lot we don't know about covid-19.
+
+From the long-term health impacts on those who've recovered ...
+
+... to how it interacts with the cold.
+
+And although we work in hope that a vaccine will appear, we may have to live with Covid for some to come.
+
+block-time updated-timeUpdated at 12.37pm BST
+
+block-time published-time 12.16pm BST
+
+Hancock said the UK went into the coronavirus crisis with higher rates of ill health than some other countries, and that this was one of the factors explaining Britain's "relatively high mortality rates".
+
+(That has been the only reference so far to the theme of today's ONS report.)
+
+block-time published-time 12.13pm BST
+
+Hancock said that the division between primary and secondary care in the NHS went back to the National Insurance Act of 1911, and that it was no longer appropriate. He went on:
+
+During coronavirus, when many secondary care appointments were cancelled for those with complex chronic conditions, primary care clinicians were able to support them, using digital technology to take advice from consultants where needed.
+
+So the best possible care could still be delivered in the community...
+
+This is the spirit that I want us to channel as we move out of this pandemic.
+
+block-time published-time 12.11pm BST
+
+Hancock said he wanted to see "open borders" in the NHS, by which he meant "better joint working between local authorities and the NHS locally to embrace the solutions that work".
+
+block-time published-time 12.08pm BST
+
+Hancock says in future all GP consultations should be via phone or video unless there is 'compelling reason' for face-to-face appointment
+
+Hancock said people used to argue before the coronavirus crisis that "anyone over the age of 25 simply could not cope with anything other than a face-to-face to appointment".
+
+But the crisis had shown that that was not true, he said. In the four weeks to 12 April, 71% of routine GP consultations were delivered remotely, he said.
+
+He went on:
+
+We shouldn't patronise older people by saying they don't do tech.
+
+The feedback from this transformation has been hugely positive.
+
+And especially valued by doctors in rural areas, who saw how it could save long travel times for doctors and patients.
+
+So from now on, all consultations should be teleconsultations unless there's a compelling clinical reason not to.
+
+Of course, if there's an emergency, the NHS will be ready and waiting to see you in person - just as it always has been.
+
+But if they are able to, patients should get in contact first - via the web or by calling in advance.
+
+That way, care is easier to manage and the NHS can deliver a much better service.
+
+block-time updated-timeUpdated at 12.18pm BST
+
+block-time published-time 11.59am BST
+
+As an example of the way coronavirus changed how the NHS operated for the better, Hancock cited the example of data-sharing. He said:
+
+Complex, confusing advice leads to over-cautious interpretation. For example, without changing a jot of the law, early in the crisis NHSx issued radically simplified new guidance to support new ways of working.
+
+The guidance was on one page, and targeted at every single frontline professional - not just at information governance experts.
+
+For example, we made clear that it's fine to use secure messaging services like WhatsApp to share information with colleagues or patients where the benefits outweigh the risks.
+
+And we made it easier to link the primary care records of millions to the latest data on coronavirus.
+
+Helping us to do the world's largest analysis of coronavirus risk factors.
+
+This work normally would have taken years, but thanks to our new framework for processing data, it went from proposal to execution in just 42 days.
+
+block-time updated-timeUpdated at 12.10pm BST
+
+block-time published-time 11.58am BST
+
+Hancock said he saw his job as enabling NHS staff to improve the way they delivered services, not imposing on them "some preconceived utopia that might look good on a management consultant's slide deck but bears no relation to reality on the ground".
+
+block-time updated-timeUpdated at 12.00pm BST
+
+block-time published-time 11.53am BST
+
+Hancock  said the crisis could change the way the NHS worked permanently. He said:
+
+Coronavirus has catalysed deep structural shifts in healthcare that were already under way: telemedicine, data-driven decision-making, and working as a system not as atomised institutions.
+
+And just like a war it forced us to improvise new ways of doing things, some which will become permanent because they are better ways of doing things.
+
+block-time updated-timeUpdated at 12.07pm BST
+
+block-time published-time 11.51am BST
+
+Hancock said the coronavirus crisis revealed new insights into the NHS.
+
+We've discovered things about our system that we could not have learned in normal times ...
+
+... how it performed under conditions of severe, sustained, nationwide pressure ...
+
+... the choices frontline professionals make if you give them greater freedom...
+
+... what rules and structures are essential to the effective delivery of health and social care ...
+
+... and what are just a layer of bureaucratic barnacles, that can be stripped away to streamline the vessel beneath.
+
+In terms of mobilising the resources of the state, the pandemic has been as close as you can get to fighting a war without actually fighting a war.
+
+block-time published-time 11.48am BST
+
+This is what Hancock  said at the start of his speech about how the great fire of London showed how crisis could bring about positive change.
+
+(I have taken the quotes from the speaking text, which explains why there are so many irritating ellipses, which I have not had time to take out.)
+
+London lost a third of its buildings in the great fire, including its cathedral
+
+... 100,000 people were made homeless ...
+
+... and the cost of rebuilding the city has been calculated at 37 billion pounds in modern money.
+
+But that same devastating shock can force people to find new and better ways of doing things.
+
+The London Fire Brigade ...
+
+... the first insurance companies.
+
+... building regulations that enforced access to running water ...
+
+... and Wren's domed cathedral, the most ambitious public works project in the history of the city ...
+
+... all of these have their origins in the nation's response to the great fire.
+
+block-time published-time 11.37am BST
+
+Matt Hancock's speech on future of healthcare
+
+Matt Hancock, the health secretary, is giving a speech to the Royal College of Physicians on the future of healthcare. There is a live feed at the top of this blog.
+
+He starts by arguing that a crisis can provide a country with an opportunity to do things better in the future. The great fire of London led to improvements, he says. And the coronavirus crisis also provides a potential catalyst for change, he says.
+
+block-time published-time 11.33am BST
+
+Nicola Sturgeon has been censured by the UK's chief statistician after using incomplete data to claim the coronavirus was five times less prevalent in Scotland than in England.
+
+Ed Humpherson, the director general for the Office of Statistics Regulation, said Sturgeon's claims earlier in July were not based on comparable or published data, and should not have been made. "The sources used to underpin this claim have been difficult to identify," he has told Sturgeon's government.
+
+In an official letter to Roger Halliday, the Scottish government's chief statistician, Humpherson said he did not believe the sources used by Sturgeon were robust enough, after an investigation into complaints about the first minister's statements.
+
+After analysing the data sources given to him by Sturgeon's officials, he told Halliday:
+
+We do not think that the sources [provided] allow for a quantified and uncaveated comparison of the kind that was made. In future if such comparisons are made, we would expect to.
+
+Sturgeon told the media and viewers watching daily briefings earlier this month that she was worried Scotland could be put at risk because of "shambolic" policies on foreign travel and air bridges then being pushed by ministers in England.
+
+On 3 July she said :
+
+We assess that the prevalence of the virus in Scotland, right now, is five times lower than it is in England. Northern Ireland actually faces a similar issue.
+
+So that means that there may well be cases where the UK government is admitting visitors to England without quarantine from countries that don't present a significant risk of raising infection levels there, but would create that risk in Scotland.
+
+Humpherson said that claim could not be substantiated. The Scottish government had used Scottish modelling done by its experts and then compared it against unpublished modelling from the London School of Hygiene and Tropical Medicine, which used a UK prevalence figure as a proxy for England. It then used other data from the Office for National Statistics which was based on a different time period and estimates than the Scottish data.
+
+block-time updated-timeUpdated at 11.42am BST
+
+block-time published-time 11.25am BST
+
+This is from Dr Veena Raleigh, a senior fellow at the King's Fund, the health thinktank, on the ONS report into excess deaths in Europe.
+
+Over the past decade, life expectancy improvements in the UK have lagged behind our European peers. With the worst coronavirus death toll in Europe, there is a very real risk that the UK will slide even further down the life expectancy league tables. The priority for the UK is to control the pandemic and learn lessons ahead of a potential second wave, but it is also essential to tackle the underlying reasons for stalling life expectancy in recent years - many of which contribute to poor Covid-19 outcomes. This requires increased effort in prevention and public health, action to tackle the underlying socio-economic inequalities driving much of the preventable ill health, and a cross-government strategy to reduce health inequalities.
+
+block-time published-time 11.08am BST
+
+In an interview with BBC News earlier  Ben Humberstone, head of health analysis and life events at the ONS, said that the picture presented by its report into excess deaths in Europe was "really complex". He explained:
+
+The pattern is really complex. What we've seen, for example in Italy and Spain, which were the other countries really heavily affected by Covid-19, was that they had a very localised pandemic, so the impact in the regions of northern Italy and central Spain was much higher than anything that we saw in the UK. But in the UK it was much wider spread. So we saw excess deaths from Cornwall to Shetland, and everywhere in-between.
+
+He said that one problem for the UK was that, although excess deaths were not as high at their peak as in some other countries, they went on for longer. He said:
+
+Although the UK, at the peak of the pandemic, didn't see the highest rate of deaths, the pandemic and the effect on excess deaths did last slightly longer in the UK, which pushed up that total number of deaths.
+
+But he also stressed that the pandemic was not over, and that the below-average death figures in recent weeks in England and Wales could over time change the overall picture. He said:
+
+It is important to note that the pandemic isn't over yet, and we'll continue doing this analysis to see what happens. What we've seen in the UK, for example, over the last few weeks are rates of deaths below what we would normally see in these weeks of the year, and so that will have an impact and bring figures into line.
+
+block-time published-time 10.59am BST
+
+Here are two charts from Sky's Ed Conway on the ONS report into excess deaths in Europe.
+
+enltrThe UK had one of the very worst #COVID19 outbreaks in Europe. Look at England alone and it was the very worst. Nothing very surprising in these latest @ONS data on mortality but that doesn't make it any less depressing https://t.co/09XiAfulTJ pic.twitter.com/vNx4TkgU9t
+
+- Ed Conway (@EdConwaySky) July 30, 2020
+
+enltrAs of mid-2020 no other European country had higher cumulative excess mortality than the UK. Worth noting Spain's cumulative excess mortality was briefly even higher than the UK's peak. Even so, a horrible chart that underlines the scale of destruction left by #COVID19 pic.twitter.com/cysJMe5z5D
+
+- Ed Conway (@EdConwaySky) July 30, 2020
+
+block-time published-time 10.31am BST
+
+This chart from the ONS report shows excess death rates in certain leading European cities. The dotted line (0%) represents the five-year average, the dark blue line is the death rate for under-65s and the light blue line is the death rate for over-65s.
+
+The chart shows excess death rates until the end of May. Madrid had the overall largest number of excess deaths.
+
+Excess death rates in certain European cities. Photograph: ONS
+
+block-time updated-timeUpdated at 10.46am BST
+
+block-time published-time 10.26am BST
+
+England suffered the worst excess death rate of any nation in Europe in the first wave of the coronavirus, according to new data showing the impact of the virus across the continent.
+
+The data, which allow comparisons between 29 European countries - treating the four nations of the UK nations separately - shows that, while England did not have the highest peak mortality, it did have the longest continuous period of excess mortality of any country compared.
+
+Outside Spain, England experienced the highest death rate in any country in the week ending 11 April when mortality stood at twice the norm (108%), the third-worst week experienced by any European country as coronavirus swept the continent.
+
+The figures indicate that the excess death toll in Spain was even deeper than indicated in previously published data.
+
+block-time updated-timeUpdated at 10.47am BST
+
+block-time published-time 10.23am BST
+
+ONS report on excess deaths in Europe - Summary
+
+Here are more of the key findings in the ONS report on excess deaths in Europe.
+
+•The ONS says that in the first half of 2020 England had "the longest continuous period of excess mortality of any country compared, resulting in England having the highest levels of excess mortality in Europe for the period as a whole". (See 9.37am and 9.41am.)•It says that Spain had the highest peak level of excess deaths. England had the second highest national peak. That means that although overall, over the whole period, England had the highest levels of excess deaths, at a particular stage in the crisis the situation in Spain was worse.•It says, when you compare local authority areas rather than countries, the highest rates of excess deaths were in central Spain and northern Italy. The highest peak was in Bergamo in northern Italy, where excess deaths reached 847.7% in the week ending 20 March. By comparison, in the UK Brent was the local authority area with the highest peak excess mortality, at 249.7% in the week ending 17 April.•It says, when you compare cities, Madrid had the highest peak level of excess deaths. In Madrid they reached 432.7% in the week ending 27 March. In the UK Birmingham had the highest peak excess mortality, at 249.7% in the week ending 17 April.•It says that in the UK every local authority area had excess deaths during the peak of the crisis in April, but that in other European countries there was more regional variation, and they experienced "more geographically localised excess mortality".
+
+The ONS says that in the first half of 2020 England had "the longest continuous period of excess mortality of any country compared, resulting in England having the highest levels of excess mortality in Europe for the period as a whole". (See 9.37am and 9.41am.)
+
+It says that Spain had the highest peak level of excess deaths. England had the second highest national peak. That means that although overall, over the whole period, England had the highest levels of excess deaths, at a particular stage in the crisis the situation in Spain was worse.
+
+It says, when you compare local authority areas rather than countries, the highest rates of excess deaths were in central Spain and northern Italy. The highest peak was in Bergamo in northern Italy, where excess deaths reached 847.7% in the week ending 20 March. By comparison, in the UK Brent was the local authority area with the highest peak excess mortality, at 249.7% in the week ending 17 April.
+
+It says, when you compare cities, Madrid had the highest peak level of excess deaths. In Madrid they reached 432.7% in the week ending 27 March. In the UK Birmingham had the highest peak excess mortality, at 249.7% in the week ending 17 April.
+
+It says that in the UK every local authority area had excess deaths during the peak of the crisis in April, but that in other European countries there was more regional variation, and they experienced "more geographically localised excess mortality".
+
+block-time published-time 10.10am BST
+
+UK CMOs issue statement saying why people with Covid symptoms should self-isolate for 10 days, not seven
+
+The four chief medical officers for England, Scotland, Wales and Northern Ireland have just issued a joint statement confirming that people with coronavirus symptoms are now being advised to self-isolate for 10 days, not just seven days. Here is the statement in full.
+
+In symptomatic people Covid-19 is most infectious just before, and for the first few days after symptoms begin. It is very important people with symptoms self-isolate and get a test, which will allow contact tracing.
+
+Evidence, although still limited, has strengthened and shows that people with Covid-19 who are mildly ill and are recovering have a low but real possibility of infectiousness between 7 and 9 days after illness onset.
+
+We have considered how best to target interventions to reduce risk to the general population and consider that at this point in the epidemic, with widespread and rapid testing available and considering the relaxation of other measures, it is now the correct balance of risk to extend the self-isolation period from 7 to 10 days for those in the community who have symptoms or a positive test result.
+
+This will help provide additional protection to others in the community. This is particularly important to protect those who have been shielding and in advance of the autumn and winter when we may see increased community transmission.
+
+block-time updated-timeUpdated at 10.11am BST
+
+block-time published-time 9.55am BST
+
+Here are two of the key charts from the ONS report into excess deaths in Europe in the first half of 2020.
+
+This chart shows how excess deaths in England compare with excess deaths in some other European countries. The dotted line (0%) represents the five-year average, the dark blue line is the death rate for under 65s and the light blue line is the death rate for over 65s.
+
+Excess mortality in England compared with some other European countries Photograph: ONS
+
+And this chart shows excess death figures for England, Scotland, Wales and Northern Ireland.
+
+Excess death figures for England, Scotland, Wales and Northern Ireland Photograph: ONS
+
+block-time published-time 9.41am BST
+
+This is from Edwin Morgan, from the health analysis and life events division at the ONS, commenting on today's ONS report on excess deaths. (See 9.37am.) Morgan said:
+
+Due to the coronavirus pandemic, the first half of 2020 saw extraordinary increases in mortality rates across countries in Western Europe above the 2015 to 2019 average.
+
+The highest peak excess mortality at national level was in Spain, with some local areas in Northern Italy and Central Spain having excess mortality levels as high as 847.7% of the average.
+
+While none of the four UK nations had a peak mortality level as high as Spain or the worst-hit local areas of Spain and Italy, excess mortality was geographically widespread throughout the UK during the pandemic, whereas it was more geographically localised in most countries of Western Europe.
+
+Combined with the relatively slow downward 'tail' of the pandemic in the UK, this meant that by the end of May, England had seen the highest overall relative excess mortality out of all the European countries compared.
+
+block-time published-time 9.37am BST
+
+England had highest levels of excess deaths in Europe in first half of 2020, ONS says
+
+The Office of National Statistics has just published its report on excess deaths in Europe in the first six months of 2020. And it says England had "the highest levels of excess mortality in Europe for the period as a whole".
+
+This is significant because government scientists have repeatedly said excess deaths are the best measure of impact of coronavirus on a country, because coronavirus death figures are not counted in the same way in different places, and those headline figures do not include other people who have died as a consequence of the crisis.
+
+Here is an extract.
+
+While England did not have the highest peak mortality, it did have the longest continuous period of excess mortality of any country compared, resulting in England having the highest levels of excess mortality in Europe for the period as a whole.
+
+We will post more on this shortly.
+
+block-time published-time 9.18am BST
+
+Good morning. I'm Andrew Sparrow, joining the blog for the day.
+
+Here is the agenda for the day.
+
+9.30am: The Office for National Statistics is due to publish a report on all-cause mortality across European nations. It is also publishing a report on the economic impact of coronavirus.
+
+11am: Liu Xiaoming, the Chinese ambassador, is due to hold a press conference on China-UK relations.
+
+11.15am: Matt Hancock, the health secretary, delivers a speech on the future of healthcare.
+
+12pm:  The government is expect to confirm that people with symptoms of coronavirus may be asked to isolate for an extra three days.
+
+12.20pm: Nicola Sturgeon, the Scottish first minister, makes a statement to the Scottish parliament on the next steps in the easing of the lockdown. She is expected to confirm that pupils will return to school in Scotland in August.
+
+block-time published-time 9.08am BST
+
+Matt Hancock: second wave of coronavirus is starting to roll across Europe - video
+
+block-time published-time 8.56am BST
+
+The health secretary, Matt Hancock, said the "big scientific challenge" with testing people at the border was that you "can incubate this disease for many days without displaying any symptoms, and that wouldn't show up in a test", PA Media reports.
+
+He told BBC Breakfast:
+
+So if people get off a plane coming from somewhere that has a high degree of disease and therefore they have to quarantine, if you get the test, and the test result comes back negative, you could still have the disease, you're just incubating it.
+
+Mr Hancock said he was not against testing people at the border but more work was needed on the timing of Covid-19 tests to make them effective.
+
+block-time updated-timeUpdated at 9.06am BST
+
+block-time published-time 8.16am BST
+
+Ministers should consider enshrining in law a right to food and must appoint a new minister for food security, according to an influential committee of MPs, after the coronavirus pandemic exposed serious problems with the government's handling of the food system in a crisis.
+
+A second wave of Covid-19 could sharply increase the number of people at risk of food shortages and hunger, which already stands at 6.6 million, including 1.7 million children, the report by the environment, food and rural affairs select committee found.
+
+Panic buying - which was often just consumers responding to the need to eat all meals at home - and shortages of some staples in the shops, characterised the start of the Covid-19 crisis after the government failed to communicate properly with the public and the food industry, the MPs on the environment, food and rural affairs committee found in a new report.
+
+The government "appeared unprepared" for the impact of the closure of restaurants and cafes, they said, and was too slow to provide guidance for workers in the food supply sector.
+
+Related:  MPs say government must appoint food security minister in wake of pandemic
+
+block-time published-time 7.58am BST
+
+Second wave 'starting to roll across Europe', says Hancock
+
+The health secretary, Matt Hancock, has warned that a "second wave" of coronavirus is "starting to roll across Europe", according to a write-up by PA Media.
+
+He told Sky News:
+
+I am worried about a second wave. I think you can see a second wave starting to roll across Europe and we've got to do everything we can to prevent it from reaching these shores and to tackle it.
+
+The measures that the chief medical officer will set out later are part of that but so too are the measures we're taking, for instance to ensure that we don't directly bring cases back to this country where there's a big spike in cases.
+
+So absolutely on a second wave it is something I worry about and I worry about it because we can see it happening.
+
+Hancock has been doing the media rounds this morning. He said ministers were investigating ways to reduce the 14-day quarantine period for new arrivals to the UK from at-risk countries when it was safe to do so.
+
+Hancock told Sky News:
+
+We're always looking at how we can have the least-possible burden of the measures that we have to put into place so that is something on which we're doing some work but we'll only come forward with a proposal when we're confident that it is safe to do so.
+
+So again this is very much guided by the clinical science and the CMO (chief medical officer) will be speaking on it later today, but the broader point is that there's a serious concern about a second wave that's clearly now moving across Europe and we need to take action.
+
+If that means increasing the number of days that people who test positive have to self-isolate then so be it because these measures are necessary to keep people safe.
+
+Matt Hancock. Photograph: Stefan Rousseau/PA
+
+block-time updated-timeUpdated at 9.06am BST
+
+block-time published-time 7.44am BST
+
+People with coronavirus symptoms may be asked to isolate for 10 days
+
+People with coronavirus symptoms may be asked to isolate for a total of 10 days, three days more than currently advised, after government scientists raised concern about a steady rise in the number of cases in the UK.
+
+Jessica Elgot, chief political correspondent, reports:
+
+The Guardian understands that the government is looking at increasing the isolation period for those who have symptoms from seven to 10 days in line with the developing science on the virus's incubation period and how long it remains contagious.
+
+Related:  Isolation period for those with Covid symptoms may be increased to 10 days
+
+The UK's government's official dashboard showed 83 Covid-19 associated deaths and 763 newly lab-confirmed infections on Wednesday, and there appears to have been a slight rise in infections as lockdown restrictions have eased.
+
+Niall Dickson, the chief executive of the NHS Confederation, which represents NHS leaders, told MPs that NHS managers were very worried about a second wave. He said:
+
+I would say in relation to the second spike issue or something coming, the levels of concern among our members - the people who are leading NHS trusts, who are leading in primary care and all levels in the systems - is very high.
+
+I mean, of course, there's real concern about winter and the compounding factors there, but also about an earlier spike. We have already mentioned exhausted staff [and] we are already trying to rebuild other services.
+
+The health secretary, Matt Hancock, has also hinted that the length of time people with coronavirus symptoms must self-isolate for will be increased to 10 days in England, PA reports.
+
+Hancock told Sky News:
+
+This is a decision that's clinically led. The chief medical officer will be setting out details later today.
+
+I can't steal his thunder but what I will say is we will always do what is necessary to protect people and we're guided by the clinical judgment, by the science in this.
+
+I'll be on the liveblog for the next few hours. If you want to reach me, you can email me (aamna.mohdin@theguardian.com) or Tweet me.
+
+block-time updated-timeUpdated at 8.13am BST

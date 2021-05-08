@@ -1,0 +1,57 @@
+HUNT FOR THE CURE
+
+GERM detectives and scientists have uncovered genetic mutations in coronavirus clusters circulating throughout Australia, giving them a chance to move a step ahead of the disease.
+
+The breakthrough by Doherty Institute scientists and Victorian Department of Health contact tracers is vital to limiting the spread of community transmission of COVID-19.
+
+By tracking the different mutations, specialists cannot only pinpoint the country a person's individual coronavirus infection originated from, but home in on the hospital, aged care centre, cruise or other local source they are linked to.
+
+Armed with the new genomic sequencing, Associate Professor Deborah Williamson said contact tracers around Australia could identify everyone likely to be linked to a cluster, even if they did not have symptoms.
+
+The genetic information also provides a clue where each cluster is likely to spread next, allowing more targeted isolation to stop each COVID-19 outbreak - which is needed to ease wider restrictions on the entire population.
+
+"We are seeing clusters related to different outbreaks in different parts of the world," Assoc Prof Williamson said.
+
+"The benefits are going to be in monitoring things like outbreaks in hospitals, outbreaks in aged care facilities, and looking at potential community transmission.
+
+"If we did find there was an outbreak in a certain part of the community, then they could direct resources to that such as contact tracing, testing of those in that risk network." The Melbourne-based Doherty Institute is at the forefront of global efforts to find a COVID-19 cure. While its genomic sequencing will not overcome the virus, combining the information with the epidemiological work of contact tracers could be a key to restoring freedoms.
+
+The findings are also being shared with scientists around the world to further research, as well as increase the data available to Australian trace detectives. After identifying subtle differences hidden among the 30,000 characters in the genetic code of two coronavirus clusters circulating in Victoria, contact tracing detectives have already used the genomic sequencing technique to stop each spreading in recent weeks.
+
+The Institute's scientists have now pored over samples from hundreds of COVID-19 patients to genetically sequence each person's infection, identifying telltale mutations in coronavirus imported from each country.
+
+Despite the slowing curve, Australia's COVID-19 peak is still possibly ahead and Assoc Prof Williamson said it was vital all states began collecting samples to build up a complete set of sequencing before community transmission took off.
+
+With a full set of sequencing data, any new cases emerging in the community could be instantly traced back to their origins to identify others unknowingly caught up in the cluster, or those who are about to be if they are not isolated.
+
+"It's no good sequencing a few genomes just from one hospital, or from one outbreak. To get a proper handle on what's going on we need to be sequencing all of the genomes not just in Victoria, but in all of Australia," Assoc Prof Williamson said.
+
+While genome sequencing has been used in Victoria to trace the source and get ahead of well-established infectious diseases such as salmonella and tuberculosis for the past five years, identifying COVID-19 mutations has been much more difficult for scientists around the globe.
+
+Because the novel coronavirus only emerged four months ago its mutations have not had long to separate to a point where they are easily distinguishable.
+
+But using powerful computers to overlay hundreds of samples from COVID-19 patients highlighted the smallest differences in the nucleotides of the RNA genome in patients already known to belong to certain clusters, providing a framework to identify related cases.
+
+The COVID-19 mutations identified so far are not thought to provide an indication of the severity of each strain, but Assoc Prof Williamson said work was continuing to identify more differences as well as their role.
+
+"It's easy to forget that four-and-a-half months ago we didn't even know this thing existed," she said.
+
+"We are trying to cram years of expertise and knowledge into a few short months. "Every day we are learning something new about not just a virus, but ways to detect the virus, ways to control the outbreak."
+
+NATIONAL COVID-19 HOT SPOTS WHERE GENOME MUTATION TRACKING COULD STOP THE SPREAD QUEENSLAND â–  North Brisbane 309 â–  South Brisbane 239 â–  Gold Coast 188 â–  Sunshine Coast 89
+
+NSW â–  Blacktown 106 â–  Byron Bay 16 â–  Cumberland 66 â–  Tamworth 12 â–  Sydney Eastern Suburbs 261 â–  Penrith 10 â–  Lake Macquarie 54 â–  Ryde 66
+
+ACT â–  Tuggeranong 23 â–  South Canberra 17 â–  Gungahlin 17
+
+TASMANIA â–  North West Tasmania 97
+
+VICTORIA â–  Stonnington 87 â–  Banyule 82 â–  Greater Geelong 62 â–  Melbourne 61
+
+SOUTH AUSTRALIA â–  Barossa Valley 40 â–  Adelaide Airport 34
+
+WESTERN AUSTRALIA â–  Greater Perth region 403 â–  Broome 11 â–  Albany 7 â–  Kalgoorlie 6 â–  Halls Creek 4
+
+DEFINITION The case definition of a confirmed case is a person who tests positive to a validated specific SARS-CoV-2 nucleic acid test or has the virus identified by electron microscopy or viral culture, at a reference laboratory. The details on source of infection are subject to change as public health investigations and case interviews are ongoing.
+
+GENOMICSGenomics is the study of whole genomes of organisms. It analyses the building blocks of cells such as DNA and RNA through sequencing to decode the fundamental structure and function of genomes. Genomic research has already been used to develop better understanding, tracking and defences against bacteria and viruses including meningococcal disease, salmonella, tuberculosis and cytomegalovirus, a member of the herpes family. Decoding can reveal mutations and allow scientists to act quickly to identify and isolate the source of the disease.

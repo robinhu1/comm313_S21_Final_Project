@@ -1,0 +1,51 @@
+Two new variants of Covid-19 have been identified as of concern in the UK, both said to be more transmissible than the previously dominant version. Here’s what we know so far.
+
+What are the new variants?
+
+One seems to have arisen in Kent in September and the other appears to have been imported from South Africa, with Matt Hancock saying on Wednesday that two cases had been identified in the UK. The two variants share some similarities but are not identical.
+
+How did they come to light?
+
+The UK variant was discovered during an investigation into why coronavirus cases in Kent continued to rise during the November lockdown. Public Health England found a cluster of cases caused by a variant with a high number of mutations. When they looked back at the genetic sequences of viruses collected in the months before, they found that it first cropped up in Kent on 20 September, with another case in Greater London the next day. New variant infections have surged since then and spread across the country.
+
+The variant from South Africa was apparently picked up by genomic surveillance this month.
+
+How                     do they differ                      from the older coronavirus?
+
+What’s striking about the new UK variant is the number of mutations it carries. There are 23 changes to the genetic code. Six aren’t thought to affect the virus, but others could change its behaviour. The mutations of most concern are in the spike protein which decorates the surface of the virus. This helps the virus invade cells and is the target for most vaccines. At least three of the spike mutations, N501Y, N439K and Y453F, may help the virus to infect human cells. These, and another change in the spike called delta69/70, might help the virus evade antibodies from people who have caught the virus before or had a vaccine shot. The UK variant is called B117 or VUI-202012/01, meaning it’s the first “variant under investigation” in December 2020. The South African variant also contains multiple mutations, including the N501Y mutation.
+
+Where did the UK variant come from?
+
+No one knows. The data suggests it arose fully formed in a single person. That could happen in a patient with a chronic Covid-19 infection, because the virus has time to mutate into many variants within one body. One possibility is that it arose in a patient with an impaired immune system who was treated over weeks or months with antibodies from a recovered patient. In this situation, the antibodies wipe out some variants of the virus, leaving others at least partially resistant to the treatment. Another hypothesis is that the variant was imported from another country. The origins of the South Africa variant are similarly unclear.
+
+Why and how does the UK variant spread faster?
+
+Scientists are very confident that the new variant is more transmissible than older ones. Key evidence comes from the observation that the new variant continued to spread in Kent and other areas during the November lockdown while older variants declined. A number of factors could make it more transmissible. If the virus is more infectious – as many scientists suspect – then less is needed to pass the disease on. The virus might also replicate faster in the airways, or make people infectious for longer, making them more likely to pass on the virus. The South African variant carries the same N501Y mutation which may accelerate transmission.
+
+Are these variants more or less dangerous than others?
+
+This is one of the most important questions scientists are working on. The early signs are that the disease caused by the new variants is no worse, but more data is needed to be sure. On 18 December, the government’s New and Emerging Respiratory Virus Threats Advisory Group (Nervtag) reported four deaths in about 1,000 cases of the new UK variant coronavirus. But scientists need to compare this to the death rate in 1,000 similar, age-matched cases to know if it’s higher or lower than normal. There are hints in data from the Office for National Statistics that the new UK variant is slightly more infectious in younger people than previous variants. Given how fast the new UK variant is spreading, the death rate could rise even if the disease it causes is less severe. It is still unclear whether the South African variant will take off to the same extent.
+
+Should we change social distancing or other rules?
+
+The faster transmission of the new variants means that people need to take the existing precautions such as social distancing and hygiene rules more seriously. Hands need to be washed thoroughly and often. Masks must be good quality, fit well, and worn properly. It makes sense to wear them in more enclosed spaces, even if the current rules don’t demand that. Make sure homes are properly ventilated to refresh the air, particularly if people are visiting over Christmas. The extra risk from walking or running past someone outside is minimal, but bear in mind that the closer you are to others, the greater the risk of infection.
+
+Has the UK variant spread to other countries?
+
+Yes. Other countries such as Denmark, the Netherlands and Australia have reported cases of the new variant. Neil Ferguson  at Imperial College London said the new variant was probably in the majority, if not all, European countries. The UK and Denmark have very good surveillance for genetic mutations in the virus, but other countries perform far less sequencing.
+
+Will the UK variant become the dominant one in Europe or around the world?
+
+It may do. In the UK, the new variant is growing fast and displacing others. At the Milton Keynes Lighthouse lab the new variant accounts for about three quarters of all positive tests. But what happens across Europe and elsewhere depends on the ability of the UK to contain the variant and other countries to prevent its importation and shut down local transmission if it has already gained a foothold.
+
+Will the new variants change the pandemic’s trajectory?
+
+Almost certainly. More people would be expected to become infected and vaccine uptake will need to be higher to reach “herd immunity” – where so many people are immune to the virus that the pandemic fizzles out. In short, these more transmissible variants could easily make the pandemic last for longer, and ultimately claim more lives.
+
+Will vaccines need to be updated?
+
+It is unlikely that vaccines will need to be changed immediately. While both new variants contain multiple mutations in the spike protein, most people respond to a vaccine shot by producing a broad range of antibodies that disable the virus by gumming up many different parts of it. So even though some antibodies generated by the vaccine might not work as well against the virus, others are unlikely to be affected. Overall, the vaccine may be slightly less effective, but the impact could be minimal.
+
+How quickly can vaccines be changed if required?
+
+It depends on the vaccine. So-called mRNA vaccines, such as the Pfizer/BioNTech vaccine, are based on a strand of genetic material, the mRNA, which can be redesigned in a day or two. The Oxford/AstraZeneca vaccine also uses genetic code for the spike protein and can be swiftly redesigned. The next steps, such as tests to check for the correct immune response, can take place within weeks before approval and manufacturing.

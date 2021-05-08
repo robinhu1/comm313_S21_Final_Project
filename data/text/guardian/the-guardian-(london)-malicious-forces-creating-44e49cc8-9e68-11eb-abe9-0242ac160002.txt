@@ -1,0 +1,49 @@
+The coronavirus crisis has sparked a "perfect storm" of global online disinformation, cyber-espionage and disruption, involving up to a dozen states but most prominently Russia and China, experts have warned.
+
+In the midst of a pandemic that has killed tens of thousands of people, analysts have witnessed a sharp rise in deliberate misinformation campaigns on social media, which have occurred in parallel with attempts to hack international organisations at the forefront of the coronavirus response.
+
+Senior executives from Facebook, Google and Twitter are scheduled to appear before UK MPs next Thursday to answer questions about the spread of coronavirus disinformation.
+
+A report published by the EU on Friday accused Russia and China of targeting European citizens, including Britons, during the pandemic, and provided a range of examples.
+
+Echoing other experts, the bloc's foreign affairs wing, the European external action service, said there had been a "proliferation" during the month of April.
+
+"Despite their potentially grave impact on public health, official and state-backed sources from various governments, including Russia and - to a lesser extent - China, have continued to widely target conspiracy narratives and disinformation both at public audiences in the EU and the wider neighbourhood," the report sad.
+
+In the last week alone reports have emerged of hacking attacks on the World Health Organi           zation           and the US National Institutes           of Health. The WHO has reported a fivefold increase in cyber-attacks on both itself and on the public.
+
+While some of the activity has been criminal, or linked to "dark PR" firms who work with governments and the far right, other attempts to sow discord have been laid at the door of governments - including disruptive messaging to US mobile phones that has been blamed by US officials on China.
+
+In that incident, according to the New York Times, millions of mobile phone and social media accounts were bombarded with fake messages in March, including one saying the Trump administration was about to deploy troops to enforce a lockdown.
+
+While Russia and China have been the focus of scrutiny for some of the attacks, others have originated in the US and mirror misinformation and untruths propagated by Donald Trump and some of his most prominent supporters in the US media.
+
+The EU report examined material published in nine languages and found that even fact checkers were being fooled by false or highly misleading content that was reaching millions of people on social media.
+
+EU officials cited the fact that a third of UK citizens believe that vodka can be used as hand sanitiser as an example of the effectiveness of the disinformation. Conspiracy theories about 5G telecommunication masts facilitating the spread of Covid-19 were also being boosted by actors seeking to promote false narratives, the report said.
+
+"In the period covered by this report, it was confirmed that pro-Kremlin sources and Russian state media continue running a coordinated campaign with the twofold aim of undermining the EU and its crisis response, and to sow confusion about the origins and health implications of Covid-19/coronavirus", the report said.
+
+The WHO and its director general, Tedros Adhanom Ghebreyesus, have been among the main targets for digital attacks since the outbreak began.
+
+The attacks have included racial abuse and the publication of cartoons of Tedros, an Ethiopian microbiologist and diplomat, as a dog on a lead being held by the Chinese president, Xi Jinping.
+
+Earlier this month, Tedros said he had been subjected to racism and death threats and said many of the attacks had originated in Taiwan, which has complained of being excluded from critical WHO deliberations.
+
+Tedros noted that Taiwan's foreign ministry had not disassociated itself from the attacks, an observation Taipei rejected as "slander". The attacks appear to have gathered momentum since Trump began blaming the WHO for the slow US response to the pandemic.
+
+First Draft, a nonprofit coalition investigating internet disinformation, carried out an analysis of 15,000 tweets in the week beginning 14 April which used the hashtags #tedrosresign and #tedrosliedpeopledied.
+
+About a sixth of a sample of 1,200 accounts contained the tag #maga, associated with Trump supporters. "Around 10% of accounts using hashtags attacking the director general were created in the last six months, the majority of those in 2020," First Draft said. Ron Deibert, the director of the Citizen Lab at the University of Toronto, which studies digital threats to civil society, told the Guardian that while the rise in malign online activities reflected often different behaviours and interests, together they amount to a "perfect storm" of disinformation.
+
+"It's hard to quantify how widespread it is but there is a threat analyst group I know of tracking 12 nation states and other organisations, both public and private, [who] are reporting a sharp increase.
+
+Deibert cautioned that such campaigns have been seen before, even in the pre-internet era, around for instance well-documented attempts by Russia to spread disinformation blaming the US for Aids. But a combination of global connectivity and anxiety has amplified the intensity of the disinformation war over Covid-19.
+
+"This is a global event that touches everyone directly," Deibert said. "The heightened level of anxiety means citizens are dependent on getting access to health information, often working at home. That anxiety means people are more likely click on something malicious.
+
+"We've been tracking it closely and you can see several different strands connected in various ways. There are different aims and different technologies. But what you can say is they all work in a communications ecosystem which, by design, has created an environment almost irresistible to malicious actors trying to manipulate, confuse and spread disinformation. Everyone is trying to further their strategic aims."
+
+Paul Barrett, a New York University expert in disinformation and fake news, has identified similar trends and said that some malicious actors are feeding off each other's disinformation for their own ends.
+
+"It's a three-ring circus of disinformation," he said. "It is almost impossible to pick out one strain and isolate it, because simultaneously Russian and China and Trump are getting in on the act and imitating each other more and more. It is incredibly difficult for an ordinary citizen to navigate what's true."

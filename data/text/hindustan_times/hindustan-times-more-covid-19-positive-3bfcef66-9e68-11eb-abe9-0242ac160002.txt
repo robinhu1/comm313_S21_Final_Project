@@ -1,0 +1,23 @@
+India, June 19 -- A major new study released on Friday says that people of Indian and other south Asian origin are more likely to die after contracting coronavirus due at least in part to a higher prevalence of pre-existing diabetes than others with similar disease conditions.
+
+The study by experts at the University of Edinburgh of nearly 35,000 patients in 260 UK hospitals says that Indians and other sections categorised as ethnic minorities are more likely to be admitted to critical care and receive invasive mechanical ventilation (IMV) than Whites.
+
+Ewen Harrison, study lead and professor of surgery and data science at the university, said: "These findings once again put ethnicity at front and centre in determining the effects of Covid-19. It is tragic to see any group in society to be at increased risk compared to others".
+
+"Diabetes is more common in South Asian people and this is likely to explain some of these findings, further research is needed to understand this association and the underlying reasons for this increased risk".
+
+"There are important implications for policy - South Asian people are more likely to be in public facing jobs particularly in health and social care. Policy makers should account for ethnicity when developing future guidelines around Covid-19," he added.
+
+The findings released before publication in a journal add to recent reports by Public Health England and other bodies that highlight the disproportionate impact of the virus on the ethnic minority population in the UK; the reasons include pre-existing economic inequalities.
+
+The study researchers recruited hospitalised patients with suspected/confirmed Covid-19 from 260 hospitals across England, Scotland and Wales, collecting data directly and from records between February 6 and May 8 with follow-up until May 22.
+
+Of 34,986 patients enrolled, Indian and other ethnic minorities were younger and more likely to have diabetes (type 1/type 2) but had fewer other co-morbidities such as chronic heart disease or dementia than the White group, the study says.
+
+No difference was seen between ethnic groups in the time from symptom onset to hospital admission, nor in illness severity at admission. Critical care admission was more common in South Asian, Black, and other ethnic minority groups compared to the White group, after adjusting for age, sex and location.
+
+The study says: "This was broadly unchanged after adjustment for deprivation and co-morbidities. Patterns were similar for IMV. Higher adjusted mortality was seen in the South Asian, but not East Asian, Black or other ethnic minority groups, compared to the White group.
+
+"18% of the excess mortality in South Asians was mediated by pre-existing diabetes", it adds.
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

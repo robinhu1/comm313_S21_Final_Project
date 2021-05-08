@@ -1,0 +1,23 @@
+New Delhi, March 19 -- A new study by US scientists has sought to dispel speculation that the novel coronavirus had been created in a laboratory and leaked from a bio-warfare facility, triggering the pandemic the world is struggling to contain, concluding instead that Covid-19 indeed had natural origins.
+
+Based on publicly available genome sequence data of the virus released earlier by Chinese scientists, researchers at the Department of Immunology and Microbiology at the Scripps Research Institute found that the virus could not be a "laboratory construct" or "purposefully manipulated."
+
+The study, published in Nature Medicine journal on March 17, proposed two natural scenarios through which the virus, also known as SARS-CoV-2, may have originated. It flies against unconfirmed reports, blogs and discussions on Twitter and other social media that the virus was a bio-weapon. The novel coronavirus has left at least 7,529 people dead.
+
+Scientists analysed the spike protein - the sharp point on the outside of the virus that it uses to penetrate the outer walls of human and animal cells. They found that the receptor-binding domain (RBD) of the spike protein (a hook like structure that grips host cells) had evolved to effectively target the ACE2 receptors, responsible for regulating blood pressure in humans.
+
+The SARS -CoV-2 spike protein was so effective at binding the human cells, in fact, that the scientists concluded it was the result of natural selection and not the product of genetic engineering, according to ScienceDaily, a website on science and research news. Scientists also found that the molecular structure of SARS-CoV-2 was similar to those of bats and pangolins.
+
+"By comparing the available genome sequence data for known coronavirus strains, we can firmly determine that SARS-CoV-2 originated through natural processes," said Kristian Andersen, associate professor of immunology and microbiology at Scripps Research and corresponding author on the paper in ScienceDaily.
+
+The two scenarios suggested by the authors of the study are that the virus may have evolved through natural selection of an intermediate host animal and then transferred to humans from that animal. There are no documented cases of direct bat-human transmission. The other scenario suggested a non-pathogenic (an organism that does not cause disease) version jumped from an animal host on to humans and then gradually transformed into a pathogenic state within humans.
+
+Co-author Andrew Rambaut of the University of Edinburgh said it was difficult to ascertain at this point which of the scenarios was most likely.
+
+"Even before this study within the scientific community it was clear that the virus was not designed on purpose. This is simply because the genetic sequence and molecular structure of Coronaviruses in earlier outbreaks like Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS) was very different," said Shashank Tripathi, assistant professor and Wellcome Trust India Alliance intermediate fellow, Microbiology & Cell Biology Department, Centre for Infectious Disease Research, Indian Institute of Science.
+
+Tripathi, commenting on the issue in his individual capacity, added: "The structure of SARS-CoV-2 is too far apart from those and that it was not designed or replicated. The closest match of the virus structure is in fact those found in horseshoe bats and pangolins."
+
+"Having said that we need to know what kind of research was going on in the Wuhan Institute of Virology with respect to Coronaviruses. China needs to be forthcoming on that," he said.
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

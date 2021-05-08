@@ -1,0 +1,47 @@
+Misinformation about the origins of Covid-19 is far more likely to be spread by pro-Trump, QAnon or Republican bots on Twitter than any other source, according to a study commissioned by the Australia Institute's Centre for Responsible Technology.
+
+In late March, when the coronavirus pandemic was taking hold in the US and across much of the rest of the world, two researchers at Queensland University of Technology, Timothy Graham and Axel Bruns, analysed 2.6m tweets related to coronavirus, and 25.5m retweets of those tweets, over the course of 10 days.
+
+They filtered out legitimate accounts from those accounts most likely to be bots, which can be identified when they retweet identical coronavirus-related content within one second of each other.
+
+Through this methodology, the researchers found 5,752 accounts retweeted coronavirus-related material in a coordinated way 6,559 times.
+
+The researchers identified 10 prominent bot-like networks that were attempting to push political agendas, separate from those bot networks pushing commercial sites by hitching on to trending topics like coronavirus.
+
+The researchers found a coordinated effort to promote the conspiracy theory that Covid-19 was a bioweapon engineered by China.
+
+The researchers identified a co-retweet network of 2,903 accounts with 4,125 links between them.
+
+Within this network, the researchers found 28 to 30 clusters of accounts which identified themselves as pro-Trump, Republican or associated themselves with the pro-Trump QAnon conspiracy theory.
+
+There were 882 original tweets over the 10-day period pushing the bioweapon conspiracy theory, which were retweeted 18,498 times, and liked 31,783 times, with an estimated 5m impressions on Twitter.
+
+The researchers said the effect of the bot networks was the amplification of the misinformation.
+
+"Whether the coordinated inauthentic behaviours we have observed for the bioweapon conspiracy are orchestrated by the hard core of participants in these groups themselves, or are designed by external operators to target and exploit the worldviews of such groups, the net effect is often the same: the themes and topics promoted by coordinated inauthentic activity are taken up by the wider fringe community, and thereby gain amplification and authenticity," the researchers said in the report.
+
+"The mis- and disinformation contained in the initial messages is no longer distributed solely by bots and other accounts that may be identified as acting in coordinated and inauthentic ways, but also and to a potentially greater extent by ordinary, authentic human users."
+
+From there disinformation can easily garner broader public attention when media, or people with large numbers of followers on social media, engage with the conspiracy theory, even if to refute it, they said.
+
+"Official denials and corrections can perversely be exploited by the conspiracy theorists to claim that authorities are covering up 'the real truth'," they said.
+
+"In Australia, for example, the effects of this vicious circle are now being observed in the sharp rise in concerns about 5G technology - at least in part as a result of the circulation of the conspiracy theories about links between Covid-19 and 5G."
+
+The report authors recommend that platform operators get better at detecting and mitigating bot activity on their platforms, and mainstream media should be encouraged to reduce "clickbait conspiracy theory coverage" that has the potential to introduce new audiences to the misinformation.
+
+"Such sites may frame the conspiracy theories as outlandish or laughable, but often present them without significant correction or fact-checking; as a result, such coverage puts substantial new audiences in contact with problematic content that they would not otherwise have encountered.
+
+"Tabloid media can therefore represent an important pathway for conspiracy theories to enter more mainstream public debate."
+
+The US president, Donald Trump, signed an executive order last week seeking to make social media sites liable for what their users post on the platform in retaliation for Twitter factchecking a tweet he posted containing a false assertion about mail voter fraud.
+
+Peter Lewis, director of the Centre for Responsible Technology, said it was a good start for Twitter to factcheck Trump, but more needed to be done on bot networks to stop the spread of misinformation.
+
+"Social media companies need to take greater responsibility for disinformation on their sites, particularly where coordinated and automated retweeting is promoting dangerous disinformation," he said.
+
+"While Twitter is starting to call out some of President Trump's more egregious tweets, social media companies have a long way to go to stem the flow of divisive and dangerous disinformation on their platforms."
+
+The report authors noted that while the research had focused on Twitter, the bot-like activity is not limited to Twitter, and has been something other platforms like Facebook had been grappling with.
+
+Facebook for its part has been factchecking select coronavirus claims, and banning some, including connecting 5G to the spread of coronavirus. But the company's chief executive, Mark Zuckerberg, said Facebook should not factcheck in a similar way to Twitter, saying it shouldn't be the "arbiter of truth".

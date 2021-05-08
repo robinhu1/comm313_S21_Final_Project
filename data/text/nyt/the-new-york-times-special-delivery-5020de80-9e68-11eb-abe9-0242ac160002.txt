@@ -1,0 +1,84 @@
+The Hayabusa2 mission cements Japan's role in exploring the solar system, but finding its asteroid cargo presented one last challenge.
+
+Dec. 6: This story article been updated with additional information from the Japanese space agency following recovery of the capsule.
+
+This past weekend, Japan's space agency concluded a six-year, 3.25 billion-mile journey of discovery that aims to shed light on the earliest eons of the solar system and possibly provide clues about the origins of life on Earth.
+
+But first, it had to go on a scavenger hunt in the Australian outback.
+
+Bits of an asteroid landed in a barren region near Woomera, South Australia. These were being ferried to Earth by Hayabusa2, a robotic space probe launched by JAXA, Japan's space agency, in 2014 to explore an asteroid named Ryugu, a dark, carbon-rich rock a bit more than half a mile wide.
+
+''I'm home,'' Yuichi Tsuda, the mission's project manager said in translated comments during a news conference after a capsule containing the asteroid sample was recovered. ''Hayabusa2 is home.''
+
+Dr. Tsuda described the condition of the capsule, which set down amid bushes in the Australian desert, as ''very perfect.''
+
+The success of the mission and the science it produces will raise Japan's status as a central player in deep space exploration, together with NASA, the European Space Agency and Russia. JAXA currently has a spacecraft in orbit around Venus studying that planet's hellish climate and is collaborating with the Europeans on a mission that is on its way to Mercury.
+
+In the coming years, Japan plans to bring back rocks from Phobos, a moon of Mars, and contribute to NASA's Artemis program to send astronauts to Earth's moon.
+
+But the immediate challenge was finding the 16-inch-wide return capsule somewhere amid thousands of square miles in a region 280 miles north of Adelaide, the nearest large city.
+
+''It's really in the middle of nowhere,'' Shogo Tachibana, the principal investigator in charge of the analysis of the Hayabusa2 samples, said in an interview. He is part of a team of more than 70 people from Japan who traveled to Woomera for recovery of the capsule. The area, used by the Australian military for testing, provides a wide open space that was ideal for the return of an interplanetary probe.
+
+The return capsule separated from the main spacecraft on Saturday about 12 hours before the landing, when it was about 125,000 miles from Earth. The mission's managers confirmed the capsule's ejection using data beamed back from the spacecraft, as well as with visual assistance from telescopes, like one at Kyoto University in Japan.
+
+[Video:  Watch on YouTube.]
+
+Soichi Noguchi, a Japanese astronaut who joined the International Space Station crew in November after a trip in a SpaceX capsule, said he spotted Hayabusa2 from orbit:
+
+A day before, heavy rains fell and strong winds blew in Woomera. But then the air cleared and calmed. ''The weather was crystal clear,'' Dr. Tsuda said.
+
+The capsule was spotted re-entering the atmosphere during the pre-dawn hours of Australia on Sunday, a tail streaming behind it as the atmosphere heated its surface.
+
+Minutes later, the mission's managers detected a radio signal from a beacon in the capsule.
+
+From the fireball, the radio beacon and radar readings, the recovery team calculated the likely landing spot, and a helicopter was sent from Woomera to search for the capsule, although it was still dark.
+
+''I was very, very, very nervous and uneasy,'' Satoru Nakazawa, a project sub-manager who was part of the Woomera recovery team, said during the news conference.
+
+But then, soon after sunrise, the capsule and its parachute were spotted. ''We thought, wow, we found that,'' Mr. Nakazawa said.
+
+Even with the capsule in hand, there is a bit of a rush. The team wanted to whisk it back to Japan within 100 hours after the landing. Even though the container is sealed, the worry is that Earth air will slowly leak in. ''There is no perfect sealing,'' Dr. Tachibana said.
+
+The helicopter took the capsule to a laboratory that has been set up at the Australian air force base at Woomera. There an instrument extracted gases within the capsule that may have been released by the asteroid rocks as they were shaken and broken during re-entry.
+
+Makoto Yoshikawa, the mission manager, said in an interview the scientists would also like to see if they can detect any solar wind particles of helium that slammed into the asteroid and became embedded in the rocks.
+
+The gases would also reassure the scientists that Hayabusa2 did indeed successfully collect samples from Ryugu. A minimum of 0.1 grams, or less than 1/280th of an ounce, is needed to declare success. The hope is the spacecraft brought back several grams.
+
+On Monday night, an airplane left Australia to carry the sample back to Japan. There, the Hayabusa2 team will examine the Ryugu samples in earnest. In about a year, some of the samples will be shared with other scientists for additional study.
+
+To gather these samples, Hayabusa2 arrived at the asteroid in June 2018. It executed a series of investigations, each of escalating technical complexity. It dropped probes to the surface of Ryugu, blasted a hole in the asteroid to peer at what lies beneath and twice descended to the surface to grab small pieces of the asteroid, an operation that proved much more challenging than expected because of the many boulders on the surface.
+
+Small worlds like Ryugu used to be of little interest to planetary scientists who focused on studying planets, Masaki Fujimoto, deputy director general of the Institute of Space and Astronautical Science, part of JAXA, said in an interview.
+
+''Minor bodies, who cares?'' he said. ''But if you are serious about the formation of planetary systems, small bodies actually matter.''
+
+Studying water trapped in minerals from Ryugu could give hints if the water in Earth's oceans came from asteroids, and if carbon-based molecules could have seeded the building blocks for life.
+
+Part of the Ryugu samples will go to NASA, which is bringing back some rocks and soil from another asteroid with its OSIRIS-REX mission. The OSIRIS-REX space probe has been studying a smaller carbon-rich asteroid named Bennu and it will start back to Earth next spring, dropping off its rock samples in September 2023.
+
+Ryugu and Bennu turned out to be surprisingly similar in some ways, both looking like spinning tops and with surfaces covered with boulders, but different in other ways. The rocks on Ryugu appear to contain much less water, for one. The significance of the similarities and differences will not become clear until after scientists study the rocks in more detail.
+
+''When the OSIRIS-REX sample comes back, we will have lessons learned from the Hayabusa2 mission,'' said Harold C. Connolly Jr., a geology professor at Rowan University in New Jersey and the mission sample scientist for OSIRIS-REX. ''The similarities and differences are absolutely fascinating.''
+
+Dr. Connolly hopes to go to Japan next summer to take part in analyzing the Ryugu samples.
+
+Hayabusa2 is not Japan's first planetary mission. Indeed, its name points to the existence of Hayabusa, an earlier mission that brought back samples from another asteroid, Itokawa. But that mission, which launched in 2003 and returned in 2010, faced major technical problems. So did JAXA's Akatsuki spacecraft, currently in orbit around Venus, which the Japanese agency managed to restore to a scientific mission after years of difficulty. A Japanese mission to Mars also failed in 2003.
+
+By contrast, operations of Hayabusa2 have gone almost flawlessly, even though it retains the same general design as its predecessor. ''Actually, there are no big issues,'' Dr. Yoshikawa, the mission manager, said. ''Of course, small ones.''
+
+He said the team studied in detail the failures on Hayabusa and made changes as needed, and also conducted numerous rehearsals to try to anticipate any contingencies it might encounter.
+
+The team also had to navigate logistical hurdles because of the Covid-19 pandemic, quarantining for two weeks in a hotel in Adelaide before heading to Woomera.
+
+The Japanese missions generally operate on smaller budgets than NASA's and thus often carry fewer instruments. Hayabusa2's cost is less than $300 million while OSIRIS-REX's price will run about $1 billion.
+
+Dropping off the Ryugu samples is not the end of the Hayabusa2 mission. After releasing the return capsule, the main spacecraft shifted course to avoid a collision with Earth, missing by 125 miles. It will now travel to another asteroid, a tiny one designated 1998 KY26 that is only 100 feet in diameter but spinning rapidly, completing one rotation in less than 11 minutes.
+
+Hayabusa2 will use two flybys of Earth to fling itself toward KY26, finally arriving in 2031. It will conduct some astronomical experiments during its extended deep space journey, and the spacecraft still carries one last projectile that it may use to test that space rock's surface.
+
+
+
+
+

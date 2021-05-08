@@ -1,0 +1,45 @@
+In a matter of weeks, coronavirus has shuttered the global economy and placed capitalism in intensive care. Many thinkers have expressed hope that it will usher in a more humane economic system; others warn that the pandemic heralds a darker future of techno-totalitarian            state surveillance.
+
+The dated cliches from the pages of 1984 are no longer a reliable guide to what is to come. And today's capitalism is stronger - and weirder - than its critics imagine. Not only do its numerous problems present new avenues for profit-making, they also boost its legitimacy - since the only salvation will be dispensed by the likes of Bill Gates and Elon Musk. The worse its crises, the stronger its defences: this is definitely not how capitalism ends.
+
+We have spent a month debating how tech might threaten our privacy - but that is not the greatest danger to democracy
+
+However, the critics of capitalism are right to see Covid-19 as a vindication of their warnings. It has revealed the bankruptcy of neoliberal dogmas of privatisation and deregulation - showing what happens when hospitals are run for profit and austerity slashes public services. But capitalism does not survive by neoliberalism alone: the latter merely plays the role of the bad cop, insisting, in the words of Margaret Thatcher's famous dictum, that "there is no alternative".
+
+The good cop in this drama is the ideology of " solutionism ", which has transcended its origins in Silicon Valley and now shapes the thinking of our ruling elites. In its simplest form, it holds that because there is no alternative (or time or funding), the best we can do is to apply digital plasters to the damage. Solutionists deploy technology to avoid politics; they advocate "post-ideological" measures that keep the wheels of global capitalism turning.
+
+After decades of neoliberal policy, solutionism has become the default response to so many political problems. Why would a government invest in rebuilding crumbling public transport systems, for example, when it could simply use big data to craft personalised incentives for passengers to discourage journeys at peak times? As the architect of one such programme in Chicago said a few years ago, "Supply-side solutions [like] building more transit lines ... are quite expensive." Instead, "What we're doing is looking at ways that data can manage the demand side... by helping residents understand the better time to travel."
+
+The two ideologies have an intimate relationship. Neoliberalism aspires to reshape the world according to blueprints dating from the cold war: more competition and less solidarity, more creative destruction and less government planning, more market dependence and less welfare. The demise of communism made this task easier - but the rise of digital technology has actually presented a new obstacle.
+
+How so? While big data and artificial intelligence don't naturally favour non-market activities, they do make it easier to imagine a post-neoliberal world - where production is automated and technology underpins universal healthcare and education for all: a world where abundance is shared, not appropriated.
+
+This is precisely where solutionism steps in. If neoliberalism is a proactive ideology, solutionism is a reactive one: it disarms, disables and discards any political alternatives. Neoliberalism shrinks public budgets; solutionism shrinks public imagination. The solutionist mandate is to convince the public that the only legitimate use of digital technologies is to disrupt and revolutionise everything but the central institution of modern life - the market.
+
+The world is currently enthralled by solutionist tech - from a Polish app that requires coronavirus patients to regularly take selfies to prove they are indoors, to China's colour-coded smartphone health-rating programme, which tracks who is allowed to leave the house. Governments have turned to companies such as Amazon and Palantir for infrastructure and data modelling, while Google and Apple have joined forces to enable "privacy-preserving" data-tracing solutions. And once countries enter the recovery phase, the tech industry will gladly lend its technocratic expertise to the clean-up. Italy has already put            Vittorio Colao, the former CEO of Vodafone, in charge of leading its post-crisis task force.
+
+In fact, we can see two distinct strands of solutionism in government responses to the pandemic. "Progressive solutionists" believe that timely, app-based exposure to the right information could make people behave in the public interest. This is the logic of " nudging ", which shaped the UK's disastrous initial response to the crisis. "Punitive solutionists", by contrast, want to use digital capitalism's vast surveillance infrastructure to curb our daily activities and punish any transgressions.
+
+We have now spent a month debating how these technologies might threaten our privacy - but that is not the greatest danger to our democracies. The real risk is that this crisis will entrench the solutionist toolkit as the default option for addressing all other existential problems - from inequality to climate change. After all, it is much easier to deploy solutionist tech to influence individual behaviour than it is to ask difficult political questions about the root causes of these crises.
+
+But the solutionist responses to this disaster will only hasten the diminishment of our public imagination - and make it more difficult to imagine a world without the tech giants dominating our social and political infrastructure.
+
+We are all solutionists now. When our lives are at stake, abstract promises of political emancipation are less reassuring than the promise of an app that tells you when it's safe to leave your house. The real question is whether we will still be solutionists tomorrow.
+
+Solutionism and neoliberalism are so resilient not because their underlying ideas are so good but because those ideas have profoundly reshaped institutions, including governments. The worst is still to come: the pandemic will supercharge the solutionist state, as 9/11 did for the           surveillance           state, creating an excuse to fill the political vacuum with anti-democratic practices, this time in the name of innovation rather than just security.
+
+One function of the solutionist state is to discourage software developers, hackers and aspiring entrepreneurs from experimenting with alternative forms of social organisation. That the future belongs to start-ups is not a fact of nature but a policy outcome. As a result, more subversive tech-driven endeavours that could boost non-market, solidarity-based economies die off at the prototype stage. There's a reason why we haven't seen another Wikipedia in two decades now.
+
+A "post-solutionist" politics should begin by smashing the artificial binary between the agile start-up and the inefficient government that limits our political horizons today. Our question should not be which ideology - social democracy or neoliberalism - can harness and tame the forces of competition better, but rather: what institutions do we need to harness the new forms of social coordination and innovation afforded by digital technologies?
+
+Today's debate on the right technological response to Covid-19 feels so stifled precisely because no such post-solutionist politics is in sight. It revolves around the trade-offs between privacy and public health on the one hand, and around the need to promote innovation by start-ups on the other. Why are there no other options? Isn't it because we have let digital platforms and telecom operators treat our entire digital universe as their fiefdom?
+
+They run it with just one goal in mind: keep the micro-targeting going, and micro-payments flowing. As a result, little thought has gone into building digital technologies that would produce macro-level anonymous insights about collective behaviour of non-consumers. The digital platforms of today are the sites of individualised consumption, not of mutual assistance and solidarity.
+
+While they can be used for non-market purposes, today's digital platforms make a poor foundation for a political order open to actors other than consumers, start-ups and entrepreneurs. Without reclaiming digital platforms for a more vibrant democratic life, we will be condemned for decades to come to the unhappy choice between "progressive" and "punitive" solutionisms.
+
+And our democracy will suffer as a result. The feast of solutionism unleashed by Covid-19 reveals the extreme dependence of the actually existing democracies on the undemocratic exercise of private power by technology platforms. Our first order of business should be to chart a post-solutionist path - one that gives the public sovereignty over digital platforms.
+
+Otherwise, complaining about China's authoritarian but effective response to Covid-19 is not only pathetic but also hypocritical: there are many varieties of techno-authoritarianism in our future, and the neoliberal version doesn't look much more appealing than the alternative.
+
+Evgeny Morozov is a Guardian US columnist

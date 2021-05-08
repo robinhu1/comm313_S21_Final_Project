@@ -1,0 +1,23 @@
+India, Oct. 8 -- Students participating in India's biggest coding Olympiad will fill the gap in technology-related education in Delhi government schools, deputy chief minister Manish Sisodia said at the launch of the Hindustan Times Codeathon on Thursday.
+
+The Delhi government has partnered with Hindustan Times to train 12,000 students from its schools in coding.
+
+"Modern technology-related education is what is missing from our system. With this programme, we will train our students as professionals of tomorrow. Our government was working on computer labs when we were approached by She Codes to train girl children in coding. Once the foundation was laid, then came the partnership with Hindustan Times to challenge our students in coding," said Sisodia at Veer Savarkar Sarvodaya Kanya Vidyalaya in Kalkaji on Thursday.
+
+The launch was also attended by Udit Prakash Rai, Delhi's director of education, Rajeev Beotra, senior executive director of Hindustan Times, and Rupinder Kaur, founder-president of the She Codes training programme.
+
+"Now that there is excitement about coding in our schools, I received a call from an Indian-origin technocrat from the United States to work with our teacher and students and mentor them in coding. Everything fit in place at the right time," Sisodia said.
+
+The HT Codeathon will provide students from classes 6 through 9 from across India a virtual platform to learn coding in languages such as HTML, CSS and Python. The students will be scored when they complete the tutorials and quizzes, and the top 100 performers will participate in a finale in December.
+
+At the event, the animations made by six students from class 6 who had learnt some coding under the She Codes programme, launched in January this year, were presented. The animations, which were conceptualised and designed completely by the students revolved around topics like good touch and bad touch, the need for conservation, educating the girl child, and awareness about Covid-19.
+
+Speaking about the short videos, Sisodia said, "We have seen in these videos how coding promotes thinking, and creatively presenting messages. There was a video where the girl child says she is helpless, and all I could think was that now she is not helpless - she is a coder".
+
+Rai emphasised how the Codeathon would lay the groundwork for making teaching coding a continuous part of educating children. "This was a small dream for our education department, and a big step for our students. I am a student of a government school from Uttar Pradesh and saw a computer for the first time when I went to study engineering. Today children in our schools are learning how to code. This will promote a coding culture in our schools. This process should not end in the next two or three months, it should be continuous," said Udit Prakash Rai, director, education.
+
+Senior executive director of Hindustan Times, Rajeev Beotra said, "The students will have to just register and start learning through an interactive platform that will have many videos, tests and tools. The programme will train children in classes 6 and 7 in HTML, CSS, and JavaScript and those in classes 8 and 9 in Python as well. Every student will have a personalised dashboard that will track the progress of the students. This dashboard will be accessible to the parents and teachers as well to know how the students are performing. And, there will be a leaderboard with the rank of the student."
+
+Over 22,000 students have already registered for the Hindustan Times Codeathon, which will provide training, mentorship from technical experts, and opportunities to win laptops or smartwatches.
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

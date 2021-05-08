@@ -1,0 +1,25 @@
+India, Sept. 24 -- The Institute of Genomics and Integrative Biology (IGIB) in Delhi has been working with four states to set up "megalabs" that can sequence up to 3,000 viral genomes of the Sars-CoV-2 that causes the coronavirus disease (Covid-19). The states, which are expected to make separate announcements to the effect, weren't named.
+
+Not only will genome sequencing be more accurate than the reverse transcriptase-polymerase chain reaction (RT-PCR) test at detecting infection in clinical samples, but the data will also be used for routine surveillance of the virus and where it originates to help the government in devising more effective strategies to control its spread. RT-PCR is now considered the gold standard for diagnosis of the coronavirus disease.
+
+"The megalabs will automate genome sequencing, allowing us to process a large number of samples - a couple of thousand - a day. This is being permanently used for routine surveillance in Kerala and has been able to give us very useful information. As we will be sequencing the complete genome, the results of the test will be more accurate than the RT-PCR test, which looks for certain identifying parts of the genome to say whether a person has the virus or not. It will also be immune to any mutation by the virus," said Dr Anurag Agarwal, director of the IGIB.
+
+The entire sequencing process will not cost more than Rs 2,000 per sample and can be easily implemented by state governments, Dr. Agarwal said. In comparison, a patient pays Rs 2,400 for an RT-PCR test at a private laboratory in Delhi.
+
+Kerala, where the machine used in the megalabs was first field-tested in August, is one of the four states that would be using genetic sequencing data for routine surveillance of Covid-19 cases. The state has already benefitted from genetic sequencing data from IGIB for one of is projects. An analysis of 200 samples from the state revealed that most of the infections in the state were brought in by domestic inter-state travellers rather than international ones, according to the researchers.
+
+"Analysis of the genetic sequencing data collected by our clinical partner from three districts in northern Kerala shows that most of the infections in the state were brought in by domestic travellers, with three distinct clusters from infections imported from Odisha, Maharashtra, and Karnataka. This also validates the quarantine norms that the state followed with foreign travellers, preventing the importation of the disease from other countries," said Dr Sridhar Sivasubbu, head of business development at IGIB and a member of the Indian CoV2 Genomic and Genetic Epidemiology consortium.
+
+He added, "The Kerala government has now committed to continuing the study in all 14 districts as part of regular surveillance using the megalab. We are working with three other states to set up similar labs. The constant surveillance will tell the government of the origin of clusters of infections, helping them in developing strategies to prevent it at the source."
+
+The researchers found that 94.6% of the genomes sequenced in Kerala spread locally after three distinct introductions - the K1 group where a traveller from Maharashtra introduced it in mid-July; K2 from Odisha, introduced in the first week of March; and K3 from Karnataka, introduced in the beginning of April.
+
+The researchers also found a variation in the S-gene - which encodes the defining spike protein the virus uses to enter human cells - associated with the higher infectivity of the virus. There were also five variants in areas of the genetic sequence that are used as probes for the RT-PCR test, which might result in reduced efficacy of the tests, according to the research paper that is currently on the pre-print server BioRxiv.
+
+The routine surveillance using genetic sequencing of the virus will also help in detecting cases of re-infection. IGIB is the first institute in the country to have confirmed eight cases of re-infection - two in Noida, two in Delhi, and four in Mumbai.
+
+"The cases of re-infection were detected in health-care workers through routine surveillance that allowed us to sequence genomes of the viruses during both the infections," said Dr Sivasubbu.
+
+Dr Agarwal said: "We used to think re-infections were very rare, but we are seeing a few cases now. We were able to establish re-infection in at least eight cases where samples from both the infections were available, we could ensure that there was sufficient genetic differences in both the viruses, and where we were clearly able to show that neither of the samples were positive due to possible contamination. This makes us think that re-infection is not very rare {as thought earlier} but very uncommon."
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

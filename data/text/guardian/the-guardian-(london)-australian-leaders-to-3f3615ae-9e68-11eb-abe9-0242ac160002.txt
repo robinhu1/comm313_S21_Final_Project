@@ -1,0 +1,1401 @@
+block-time published-time 7.39am GMT
+
+What we learned today, Wednesday 6 January
+
+This is where we’ll leave the blog for today. Thanks for reading. Here’s a recap of the day’s main news:
+
+•The prime minister, Scott Morrison, has convened a special meeting of national cabinet for Friday, to discuss a proposal to strengthen procedures for international arrivals in light of the threat posed by the new UK strain of Covid-19.•Masks will be mandatory at the Test cricket match between Australia and India, which will start tomorrow at the SCG.•Victoria recorded its first mystery Covid-19 case “in months”. The man had attended the Boxing Day Test at the MCG and the Boxing Day sales at Chadstone shopping centre. It was its only locally acquired case today.•NSW recorded four new locally acquired cases of Covid-19.•The bushfire threat in Western Australia is expected to remain until Sunday.
+
+The prime minister, Scott Morrison, has convened a special meeting of national cabinet for Friday, to discuss a proposal to strengthen procedures for international arrivals in light of the threat posed by the new UK strain of Covid-19.
+
+Masks will be mandatory at the Test cricket match between Australia and India, which will start tomorrow at the SCG.
+
+Victoria recorded its first mystery Covid-19 case “in months”. The man had attended the Boxing Day Test at the MCG and the Boxing Day sales at Chadstone shopping centre. It was its only locally acquired case today.
+
+NSW recorded four new locally acquired cases of Covid-19.
+
+The bushfire threat in Western Australia is expected to remain until Sunday.
+
+block-time updated-timeUpdated at 7.44am GMT
+
+block-time published-time 7.20am GMT
+
+Scott Morrison ’s  announcement  of a special national cabinet meeting to discuss the UK strain is particularly interesting given the case of the paramedic in Western Australia who transferred a Covid-19 patient from hotel quarantine to hospital recently.
+
+WA health authorities are expected to provide further details later this evening about the paramedic, whose patient had recently arrived from the UK.
+
+block-time updated-timeUpdated at 7.30am GMT
+
+block-time published-time 7.10am GMT
+
+Special national cabinet meeting convened as threat of UK strain emerges
+
+The prime minister, Scott Morrison, has convened a special meeting of national cabinet for Friday, to discuss a proposal to strengthen procedures regarding international arrivals in light of the threat posed by the new UK strain of Covid-19.
+
+The proposal to counter the strain, which is considered far more infectious, has been developed by the chief medical officer, Paul Kelly, according to a post on Morrison’s official Facebook page made in the past half hour or so.
+
+The Western Australian premier, Mark McGowan, revealed yesterday that three people with the UK strain were in hotel quarantine in the state.
+
+Here’s Morrison’s post in full:
+
+This afternoon I contacted Premiers and Chief Ministers to convene a special meeting of National Cabinet on Friday morning. The meeting is to consider a proposal that I requested through our Chief Medical Officer, Professor Paul Kelly, from our national expert medical panel, the AHPPC. The proposal is to further strengthen the COVID safety of end to end international travel processes (from arrival at Airport of embarkation in the exit country, to final clearance from hotel quarantine in Australia). This is being done particularly in the context of the UK strain. The AHPPC has continued to meet every day during this most recent outbreak, and had an initial discussion of their proposal today. They will discuss the proposal further tomorrow before making a formal submission to National Cabinet. The meeting will also provide an opportunity to further update National Cabinet on the Federal Government’s vaccination programme, where considerable progress is being made over the break.
+
+block-time updated-timeUpdated at 7.25am GMT
+
+block-time published-time 6.57am GMT
+
+Australia’s foreign minister, Marise Payne, has issued a statement raising concern about the crackdown on pro-democracy figures in Hong Kong.
+
+“The Australian government is concerned by reports that more than 50 pro-democracy lawmakers and other pro-democracy figures have been arrested in Hong Kong overnight under the national security law,” she said. In the brief statement, Payne said Australia’s consulate general in Hong Kong was “monitoring these developments closely”.
+
+“Australia has consistently expressed concern that the national security law is eroding Hong Kong’s autonomy, democratic principles and rule of law.” For more on this issue, see the story filed by my colleague Helen Davidson :
+
+Related:  Dozens of Hong Kong pro-democracy figures arrested in sweeping crackdown
+
+block-time updated-timeUpdated at 6.59am GMT
+
+block-time published-time 6.53am GMT
+
+The Victorian Department of Health and Human Services says people can now apply for an exemption to return home from NSW online, via Services Victoria.
+
+enltrBorder entry permit update: you can now apply for an exemption online via Services Victoria. You can apply for an exemption if you have a valid reason. Find out everything you need to know here: https://t.co/fQMD0iJyyS pic.twitter.com/JWTkG2Pqjs
+
+— VicGovDHHS (@VicGovDHHS) January 6, 2021
+
+block-time updated-timeUpdated at 7.00am GMT
+
+block-time published-time 6.50am GMT
+
+NSW Health has issued new Covid-19 advice for venues  in the western Sydney suburb of Wentworthville, and updated advice for people who attended May Hill temple and the Merrylands RSL.
+
+The Wentworthville advice relates to people who visited a Domino’s Pizza or a (geez not again) BWS  during certain times on the night of 27 December. They are considered a casual contact of a confirmed case and should get tested.
+
+Acting NSW premier John Barilaro leaving a press conference in Sydney this morning. Photograph: Dan Himbrechts/AAP
+
+It is interesting that this gold standard (or diamond standard, depending on who you ask) contact tracing system is getting this information out 10 days after the case visited these venues.
+
+The acting NSW premier, John Barilaro, was again particularly bullish about the department’s contact tracing abilities earlier today.
+
+block-time updated-timeUpdated at 7.01am GMT
+
+block-time published-time 6.37am GMT
+
+WA fire chief warns of dangerous conditions
+
+The Western Australian fire and emergency services commissioner, Darren Klemm,  has been giving an update on the bushfire situation in the state.
+
+There have been fires burning near Red Gully, about 130km north of Perth.
+
+On the weekend, there were fires south of Perth, and weather conditions are expected to remain dangerous until Sunday.
+
+A bushfire-damaged bus stop in Kwinana, south of Perth, on Monday. Photograph: Richard Wainwright/AAP
+
+Klemm says he has not seen similar conditions for at least the past three years:
+
+In my read of it, I would say the last bushfire seasons for the last three years at least, there hasn’t been that typical strong easterly weather we’ve been experiencing in the past four days and gusts up to 80km/h across this fireground, it makes it incredibly difficult for firefighters.
+
+Not only is it not safe to put firefighters at the head of the fire in those types of circumstances, but also it’s incredibly difficult once the fire hops over to be able to get around it and put it out.
+
+So those have been the challenges in particular the last two afternoons.
+
+Klemm said the fire had spread to around 9,500 hectares with a perimeter of 102km, and that its cause was still being investigated.
+
+block-time updated-timeUpdated at 7.03am GMT
+
+block-time published-time 6.27am GMT
+
+Covidsafe app not useful in Victoria's latest outbreak
+
+The Covidsafe app has not proved useful in tracking down cases associated with the Black Rock cluster, or the new mystery case associated with the MCG and Chadstone shopping centre in Victoria.
+
+Despite the federal government spending over $5m on the app, and claiming more than 7.22m Australians have downloaded and installed it, the Covidsafe contact tracing app has not identified any additional contacts in the Black Rock Thai restaurant cluster or the new mystery case who visited Chadstone shopping centre on Boxing Day and attended the second day of the Boxing Day Test.
+
+The Department of Health and Human Services confirmed since the start of the pandemic Victoria has not been able to identify any close contacts through the app not already found through manual contact tracing methods, but it remains part of the contact tracing process.
+
+“Our public health team always asks cases and their close contacts if they have installed the Covidsafe app to their phone,” a spokeswoman said.
+
+More than 1,300 primary and secondary contacts have been identified through manual contact tracing methods.
+
+The state government’s head of contact tracing Jereon Weimar said on Wednesday that Victoria had “not had to draw on a Covidsafe app” to date.
+
+“As to the business case for the Covidsafe app, I’ll leave that to others, my job is to run after the coronavirus here in Victoria.”
+
+An update to the app pushed to users late last year now alerts them to open the app to keep it running in the background in order to work.
+
+The federal government has refused a number of freedom of information requests that would show how many of the more than seven million people who downloaded the app are still using it.
+
+block-time updated-timeUpdated at 6.44am GMT
+
+block-time published-time 6.18am GMT
+
+We’ve now got more detail on the shooting death of a prisoner in Wollongong earlier. Sources have told Guardian Australia that the inmate managed to grab a guard’s firearm during a medical transfer in the city south of Sydney. The prisoner subsequently shot himself and died as a result of the injuries. Corrective Services NSW said in a statement it was investigating the circumstances surrounding the inmate’s death. “The 37-year-old man suffered serious self-inflicted injuries during an escort to a medical facility at approximately midday today and died a short time later,” a spokeswoman said.
+
+“All deaths in custody are subject to a coronial inquest.”
+
+Witnesses told the ABC the man – wearing prison greens – fired at several cars in the street before turning the corrections officer’s weapon on himself.
+
+In Australia, the crisis support service Lifeline is 13 11 14. In the US, the National Suicide Prevention Lifeline is 1-800-273-8255. In the UK, Samaritans can be contacted on 116 123. Other international suicide helplines can be found at befrienders.org
+
+block-time updated-timeUpdated at 6.26am GMT
+
+block-time published-time 6.12am GMT
+
+WA paramedic in hotel isolation after exposure to patient from UK
+
+The Western Australian health department and St John Ambulance are set to provide more details later today about a paramedic who had to go into hotel isolation after he transferred a Covid-positive patient to hospital.
+
+The paramedic transported the patient, an elderly woman from the UK, to hospital yesterday. She had arrived in Australia on 2 January, was symptomatic on arrival, and later tested positive.
+
+West Australian premier Mark McGowan. Photograph: Paul Kane/Getty Images
+
+The WA premier, Mark McGowan, revealed yesterday that three cases of the new UK-strain of Covid-19, which has been found to be considerably more infectious, had been detected in hotel quarantine.
+
+Here is a report on the paramedic case filed earlier by AAP:
+
+A paramedic has gone into hotel isolation after transporting a Covid-19 patient from the UK to hospital in Perth while checks are made into whether proper health protocols were followed.
+
+The patient, a woman in her 80s, arrived from the UK on 2 January and was symptomatic on arrival and subsequently tested positive.
+
+Genomic testing is under way but it is not yet known if she has the more virulent strain of the virus.
+
+The woman was initially placed in hotel quarantine, but her condition required her to be transferred to the Royal Perth hospital on Tuesday where she is now considered stable.
+
+Premier Mark McGowan said investigations were under way to determine if one of the paramedics involved in the woman’s transfer was wearing the appropriate personal protective equipment at the time.
+
+“We’re investigating that as we speak. There have been concerns raised,” the premier told reporters on Wednesday.
+
+block-time updated-timeUpdated at 6.24am GMT
+
+block-time published-time 6.03am GMT
+
+The Australian government has called on China to allow the entry of World Health Organization experts investigating how the Covid-19 pandemic started, saying visas should be granted “without delay”.
+
+Australia’s foreign minister, Marise Payne, issued a cautious statement after months of rocky relations between the two countries. It follows news today that Chinese authorities have blocked the arrival of a WHO team  investigating the early cases of Covid-19 in Wuhan. China argued the team’s visas had not yet been approved, even as some members of the group were on their way.
+
+This is Payne’s statement in full:
+
+Australia has consistently sought transparency in relation to the origins of, and responses to the coronavirus, as have other countries. The WHO-convened scientific study is an important part of this work and we look forward to the findings from the international field mission to China.
+
+We hope that the necessary permissions for the WHO team’s travel to China can be issued without delay. During this global pandemic that has affected all countries, international cooperation and partnerships will maximise our ability to respond, and to equip us for the next pandemic.
+
+The full story is here:
+
+Related:  Australia says China should allow in WHO Covid investigators 'without delay'
+
+Foreign affairs minister Marise Payne speaking in Canberra last month. Photograph: Mick Tsikas/AAP
+
+block-time updated-timeUpdated at 6.12am GMT
+
+block-time published-time 5.55am GMT
+
+Queensland Health is urging all Queenslanders who visited regional NSW sites linked to the Berala cluster to get tested. A man who did not know he was positive with Covid-19 visited Orange, Nyngan and Broken Hill last week.
+
+This just in from Queensland Health:
+
+Queenslanders who visited the regional New South Wales towns of Orange, Nyngan and Broken Hill between 2-3 January are being asked to get tested for Covid-19.
+
+The alert comes after a positive Covid-19 case from NSW transited through the towns while infectious.
+
+Queensland chief health officer Dr Jeannette Young said she is treating this newest threat with an abundance of caution.
+
+“We know a person who was positive forCovid-19 has been out and about in these communities very recently,” Young said.
+
+“There is every chance this individual has been in contact with holidaying or visiting Queenslanders who were also in these towns during this period.
+
+“Everyone who has been in Orange, Nyngan and Broken Hill between 2-3 January should get tested tomorrow or earlier if possible, and quarantine at home until they receive a negative test result.
+
+“If we do have any cases connected to this individual, it is absolutely critical we detect them before we see widespread community transmission.
+
+“Additionally, I am concerned about the potential spread across regional NSW. Queenslanders who spent time in regional NSW over the holiday period should remain vigilant of their health and get tested if they show anyCovid-19 symptoms.”
+
+Dr Young also reminded the general community to keep getting tested.
+
+“Queenslanders have already performed incredibly well – we’ve have performed tens of thousands of tests in the past few days alone.
+
+“But that doesn’t mean we can be complacent – it takes just one undetected case to bring all our progress to an end.”
+
+block-time updated-timeUpdated at 5.59am GMT
+
+block-time published-time 5.25am GMT
+
+It turns out you also can’t go to the A-League (as well as the cricket) if you’re from some of the identified NSW hot-spots.
+
+This was posted earlier this afternoon by the management of the Newcastle stadium, where the Newcastle Jets will face the Western Sydney Wanderers in an A-League round two match on Friday:
+
+McDonald Jones Stadium has established rigorous COVID Safety Plans since May 2020 and they have been enhanced for the Newcastle Jets v Western Sydney Wanderers game this Friday, which will be hosted at a maximum 50% capacity. Everyone who attends is strongly encouraged to wear a mask.
+
+We review and adjust our protocols and protections in preparation for each event, in consultation with NSW Health and other stakeholders.
+
+All patrons from the identified hot spots, including the Northern Zone of the Northern Beaches and selected postcodes in Western Sydney, will not be permitted to attend. Those who have purchased tickets will be refunded.
+
+To stay up to date with the latest health advice, visit the NSW Health website here.
+
+Event plans may change subject to further advice from the NSW Government. Updated event information will be made available on McDonald Jones Stadium’s website and socials.
+
+The Wanderers and the Jets during a match in Parramatta last season Photograph: Jason McCawley/Getty Images
+
+block-time published-time 5.12am GMT
+
+My colleague Luke Henriques-Gomes  has just filed a story with more detail about the Victoria-NSW border closure, including that it appears unlikely to reopen this month:
+
+Related:  Victoria's border unlikely to open this month as thousands stuck in NSW wait on exemptions
+
+block-time published-time 5.07am GMT
+
+'Relentless' conditions fuelling Western Australia bushfires
+
+There is some more detail filtering in about bushfires in Western Australia. It is likely the threat there will remain until Sunday. This report from AAP:
+
+Firefighters in Western Australia are battling relentless hot, dry and windy conditions as they struggle to bring a major blaze under control.
+
+The fire is threatening regional communities north of Perth, with an emergency warning in place for several residential developments including those at Ocean Farms Estate and nearby Seaview Park.
+
+The Red Gully fire has already destroyed 9,200 hectares in the shires of Gingin and Dandaragan.
+
+There have been no reports of homes being lost, but pine plantations, olive groves and some sheds are believed to have been damaged.
+
+About 200 firefighters are battling the blaze with strong aerial support, including two of the large air tankers flown in from Victoria.
+
+Another eight major fires across WA were also being fanned by dangerous conditions with the fire and emergency services commissioner, Darren Klemm, warning there was little respite in sight.
+
+Klemm said the extreme heat and forecast wind changes over the coming days were a catastrophic combination that could result in small fires quickly getting out of control.
+
+“This week’s weather conditions are some of the most challenging firefighting conditions I have seen in many years and, unfortunately, weather conditions are not easing over the coming days, in fact they are only going to get worse,” he said.
+
+“These challenging conditions have been seen in Red Gully and surrounding areas where an out-of-control bushfire has been burning since Saturday and temperatures are expected to soar into the 40s from Thursday.
+
+“We face the risk of new fires igniting and existing fires escalating, which would put extreme pressure on emergency services.”
+
+Emergency WA said conditions around the Red Gully fire were testing containment lines.
+
+“Residents of Ocean Farms Estate and Seaview Park need to remain on high alert and enact their bushfire survival plan now,” its warning said.
+
+“If you plan to leave, leave now if safe to do so via Indian Ocean Drive in a southerly direction. Your life may be in danger if you stay.”
+
+The premier, Mark McGowan, called on everyone in the fire danger zones to remain vigilant.
+
+“I urge all Western Australians to understand and acknowledge that this is a dangerous period,” he said.
+
+In other areas, a watch and act warning remains for a fire at Mundaring, east of Perth, with that blaze contained but not controlled, and bushfire advice messages are current for fires at Geraldton, north of Perth, and at Nowergup, north of the city.
+
+Wednesday’s continuing emergency followed an easing of the danger on Monday after a string of fires threatened various areas to the north and south of Perth, on the state’s south-west coast and in the Goldfields.
+
+With very hot weather forecast until at least Sunday, the Department of Fire and Emergency Services deputy commissioner, Craig Waters, said the risk of more fires was high.
+
+“Whenever you come into a period of really hot weather coupled with extremely high easterly winds, we’re always going to be in for a world of hurt,” he said.
+
+The Red Gully bushfire near Gingin on Tuesday. Photograph: Nikki Woods/Department of Fire and Emergency Services/AAP
+
+block-time updated-timeUpdated at 5.30am GMT
+
+block-time published-time 4.43am GMT
+
+Most of this Victoria-NSW border wars stuff is fairly tragic, but sometimes it can be almost funny.
+
+I’ve just caught up on a case that Victoria’s Covid-19 commander, Jeroen Weimar, mentioned earlier today: a Victorian family who were looking for somewhere for lunch in Echuca accidentally crossed the border into NSW while following their GPS and were stranded in Moama. The towns are across the Murray River from each other.
+
+Jeroen Weimar speaks to the media earlier today. Photograph: James Ross/AAP
+
+“The particular family in Moama is safely back in Melbourne. I’m sure they’re very grateful and enjoyed their lunch,” Weimar said.
+
+“There are many complex, difficult cases. We’re providing case management support to those individuals who face very difficult decisions and we’ll ensure they make those movements in the wider public health advice.”
+
+block-time updated-timeUpdated at 4.46am GMT
+
+block-time published-time 4.31am GMT
+
+A reader has sent us a tip saying that Myer is calling all its Chadstone staff who worked during the Boxing Day sales to get tested, given Victoria’s Department of Health and Human Services has identified that as a possible acquisition site (they know someone who went there later tested positive, but they’re not sure where he got it).
+
+block-time updated-timeUpdated at 4.32am GMT
+
+block-time published-time 4.29am GMT
+
+The Victorian Department of Health and Human Services has sent its daily Covid-19 update. It largely confirms information we were told earlier today (although that estimate of 7,000-8,000 people who were at the MCG needing to get tested could be new) but here it is for fullness:
+
+Victoria has recorded three new cases of coronavirus since yesterday.
+
+One of these new cases is a man aged in his 30s who has no current links to the Black Rock restaurant cluster.
+
+A number of possible acquisition sources are being investigated. The other two positive cases are in returned international travellers who are in hotel quarantine. One is a woman aged in her 20s and the other is a woman aged in her 40s.
+
+Today the department listed the Melbourne Cricket Ground and 10 stores in the Chadstone shopping centre as potential acquisition sites for today’s positive case. An acquisition site is a place where this person may have potentially caught the virus.
+
+The man is not considered to have been infectious with Covid-19 when he went to the shopping centre and to the Boxing Day Test.
+
+Anyone who was in the Great Southern Stand, Zone 5 of the MCG between 12.30pm and 3.30pm on 27 December needs to get tested and isolate until they receive a negative result.
+
+A new testing site has been established today near Gate One at the MCG, however anyone who needs to be tested should attend the nearest available testing venue to them and not head into the MCG for testing.
+
+It is estimated around 7,000-8,000 people from the possible acquisition site at the MCG will need to be tested.
+
+Other possible sites for the source of his infection have also been identified at Chadstone shopping centre on 26 December between 6am-2pm. These include the following stores: Culture Kings, Huffer, JD Sports, Jay Jays, H&M, Uniqlo, Myer, Superdry, Footlocker and Dumplings Plus.
+
+The department is investigating further to determine more exact timings for the Chadstone store sites and this information will be updated on the DHHS Covid-19 website as soon aspossible at https://www.dhhs.vic.gov.au/case-locations-and-outbreaks#case-alerts--public- exposure-sites.
+
+Please get tested at your nearest available testing location. There are testing facilities at Chadstone and the MCG but these are likely to be very busy and we will divert people to other testing sites where possible.
+
+There are likely to be long waiting times at some of oursites and we are grateful for people’s patience.The department is publishing expected wait times at testing sites on its website. Thewebsite also includes updated information about locations and hours of operation for testingsites at https://www.dhhs.vic.gov.au/where-get-tested-covid-19.
+
+The number of active cases in Victoria is now 41, including 28 locally acquired cases, an increase of one since yesterday, and 13 in hotel quarantine, an increase of two in the past 24 hours. 27 of these cases are linked to the Black Rock restaurant cluster.
+
+Victoria has now exceeded four million Covid-19 tests since the pandemic began almost 12 months ago.
+
+Yesterday 37,509 tests were processed, bringing the overall testing total in Victoria since the pandemic began to 4,032,336.
+
+There are now more than 200 testing centres in operation in Victoria, including new testing sites in areas where large numbers of close contacts and exposure sites have been identified.
+
+As contact tracing interviews continue and the outbreak situation evolves, more exposure sites are being discovered and details of new exposure sites may change. These will be updated on our website soon after they are verified.
+
+Information regarding Covid-19 is available at the Department of Health and Human Services website or by calling 1800 675 398.
+
+People arrive at a testing facility at the MCG earlier today. Photograph: James Ross/AAP
+
+block-time updated-timeUpdated at 4.41am GMT
+
+block-time published-time 4.18am GMT
+
+The first quarantine-free flight from New Zealand to Queensland leaves tomorrow morning. Air New Zealand plans on operating five return flights a week between Auckland and Brisbane, according to this report from AAP:
+
+Related:  New Zealand's first quarantine-free flight to Queensland to leave on Thursday
+
+block-time updated-timeUpdated at 4.19am GMT
+
+block-time published-time 4.10am GMT
+
+The Australian market began slipping shortly after 11am this morning, as the likelihood increased that Democrats would win two Senate seats in the US state of Georgia.
+
+After opening at about 6,680 points, the benchmark ASX 200 index had by 3pm dropped to around 6,595.5. It’s shed about 1.3% for the day so far.
+
+Market sentiment appears to be that a Republican victory would be more likely to result in a stimulus package that would be signed into law by the lame-duck president, Donald Trump. There are also the usual fears that Democratic domination of the legislature would make it easier for the incoming president Joe Biden to reverse some of Trump’s pro-business moves.
+
+Democratic candidate Jon Ossoff visits polling locations on election day. Photograph: Bloomberg/Getty Images
+
+If both Democratic candidates, Jon Ossoff and Raphael Warnock, win, US markets are likely to fall further overnight.
+
+Counting in the run-off elections continues and the Guardian hasn’t called either of the seats at this stage.
+
+block-time updated-timeUpdated at 4.17am GMT
+
+block-time published-time 3.59am GMT
+
+Albanese criticises Morrison over incorrect vaccine claim
+
+The federal opposition leader, Anthony Albanese, has criticised the prime minister, Scott Morrison, over his incorrect claims the UK is not conducting batch-testing of Covid-19 vaccines.
+
+Albanese said:
+
+Scott Morrison changes his story every day, but the one thing that doesn’t change is that we are still at the back of the vaccine queue.
+
+He is so obsessed with politics, spin and marketing that he is prepared to mislead the Australian people.
+
+No one has suggested Australia’s TGA processes should not be followed. Facts matter. But they don’t matter to Scott Morrison.
+
+Anthony Albanese speaks to media following a visit to a childcare centre in Sydney today. Photograph: Dan Himbrechts/AAP
+
+block-time updated-timeUpdated at 4.06am GMT
+
+block-time published-time 3.53am GMT
+
+The Australian Border Force has issued a short statement about rioting that is breaking out in part of the Christmas Island detention centre that is occupied by people who have had their visas cancelled on character grounds.
+
+AAP is reporting that fires were lit at two of four compounds at the centre, and detainees had climbed on to the roof.
+
+Here’s the statement from the ABF:
+
+The Australian Border Force (ABF) can confirm an operation is under way to restore order after a disturbance in the North West Point Immigration Detention Centre on Christmas Island.
+
+A small number of detainees caused some damage to the facility overnight and continue to be non-compliant.
+
+The centre remains secure and the majority of detainees are not involved. There are no reports of any injuries to staff or detainees.
+
+Detainees held at the centre consist of unlawful non-citizens who have no entitlement to remain in Australia due to convictions for crimes such as assault, sexual offences, drugs and other violent offences. This cohort is detained because of their risk to the Australian community.
+
+The ABF will continue to work with its partners, including the Australian Federal Police and service providers, to restore order. Any criminal offences will be referred to the police for investigation.
+
+block-time updated-timeUpdated at 3.59am GMT
+
+block-time published-time 3.42am GMT
+
+Epidemiologist says minister's cricket crowd comment 'laughable'
+
+An epidemiologist and honorary senior research fellow with the George Institute of Global Health, Prof  Alexandra Martiniuk, says comments from the NSW health minister, Brad Hazzard, that 10,000 spectators will be allowed to attend the Sydney cricket Test because it will be good for mental health are “laughable”.
+
+“In my opinion the cricket Test should not allow any spectators,” she told Guardian Australia.
+
+Ten thousand privileged people attending a cricket match to help mental health is laughable to me. Concern about catching Covid-19 was actually listed as one of the main mental health issues in the Australian Bureau of Statistics’ Household Impacts of Covid-19 Survey. Attending, or watching 10,000 people attend a cricket match, will not alleviate the feelings of concern about Covid.”
+
+Martiniuk says groups that show some of the highest levels of mental distress are employed parents, with primary school aged children (quadruple the level of distress they felt in 2019 prior to Covid).
+
+This is likely due to financial concerns and concerns about family catching Covid and concerns about school closures when Covid cases rise. None of which will be helped by increased Covid spread, nor watching a cricket match. I don’t think holding a cricket match is key to improving the poor mental health we have observed in Covid times.
+
+Health minister Brad Hazzard speaks to media during today’s Covid briefing in Sydney. Photograph: Dan Himbrechts/AAP
+
+block-time updated-timeUpdated at 4.06am GMT
+
+block-time published-time 3.27am GMT
+
+There’s been a shooting in Wollongong which has resulted in a prisoner dying. It’s a complicated situation so we’ve deleted a previous blog post linking to a local news report. We’ll have an update soon from Corrective Services NSW.
+
+block-time published-time 3.14am GMT
+
+Here is the full story about the earlier announcement that masks will be mandatory for those attending the Australia-India cricket Test at the SCG tomorrow, by my colleague Emma Kemp.
+
+Related:  Fans at Sydney cricket Test must wear masks at all times inside SCG, or face $1,000 fine
+
+block-time updated-timeUpdated at 3.18am GMT
+
+block-time published-time 3.06am GMT
+
+You might not have seen this quite nice piece that was published earlier today on the site about the countries that have not had Covid-19. Try not to get envious/pine too deeply for international travel.
+
+Related:  Life without Covid: the nations that have sidestepped the pandemic so far
+
+block-time updated-timeUpdated at 3.18am GMT
+
+block-time published-time 3.00am GMT
+
+Liberty Victoria, the Victorian council for civil liberties, has just had this to say about Victoria’s policy regarding the NSW border:
+
+enltrWe have concerns about the Victorian Government preventing people from returning home. Yes there’s a need to safely manage covid, but restrictions need to be proportionate – onus on Gov to explain why alternatives like home quarantine aren’t an option https://t.co/S0XHD2kVWY
+
+— Liberty Victoria (@LibertyVic) January 6, 2021
+
+block-time published-time 2.51am GMT
+
+A reader has sent an update on Covid-19 testing in Queensland, which has apparently been quite (ahem) testing for some of you:
+
+Went for a test at Noosa Leisure Centre in Noosaville yesterday around 3:45pm. No queuing at all, lovely staff arranged a COVID swab within 10-15 minutes of arriving.
+
+Negative test result received at 11.01am this morning. Very impressed!
+
+Thought it was worth sharing as information on testing wait times in Queensland has been hard to find.
+
+block-time published-time 2.45am GMT
+
+We’re all well familiar by now with the NSW-Victoria border wars. Well it appears they have claimed another victim: the Southern 80, a popular water-skiing race that occurs ON the border.
+
+enltrJUST IN: The revised Southern 80 has been cancelled due to border closures and uncertainty surrounding COVID-19 outbreaks. It was re-scheduled for April after previously being called off, but has now officially been cancelled @WINNews_Ben @saveourvoices #saveourvoices
+
+— Bonnie Barkmeyer (@BonnieBarkmeyer) January 6, 2021
+
+block-time published-time 2.42am GMT
+
+The federal health minister, Greg Hunt, says Australia will accelerate its Covid-19 vaccine program from late to early March, and it could be brought forward again should medical advice allow.
+
+This story by my colleague Paul Karp  was published earlier this afternoon.
+
+Related:  Greg Hunt faces mounting pressure to hit accelerator on vaccine rollout
+
+block-time updated-timeUpdated at 2.47am GMT
+
+block-time published-time 2.34am GMT
+
+Western Australia’s Department of Fire and Emergency Services says “persistent dry, hot and windy conditions” are likely to keep firefighters busy until at least the end of the week.
+
+A statement released a short time ago said:
+
+Fire and Emergency Services Commissioner Darren Klemm AFSM said the extreme heat and forecast wind changes were a catastrophic combination that could result in small fires quickly getting out of control.
+
+“This week’s weather conditions are some of the most challenging firefighting conditions I have seen in many years and unfortunately, weather conditions are not easing over the coming days, in fact they are only going to get worse,” he said.
+
+“These challenging conditions have been seen in Red Gully and surrounding areas where an out of control bushfire has been burning since Saturday and temperatures are expected to soar into the 40s from Thursday.
+
+“We face the risk of new fires igniting and existing fires escalating, which would put extreme pressure on emergency services.
+
+“I would like to thank all volunteer and career firefighters and the Department of Biodiversity, Conservation and Attractions who have worked day and night to get these fires under control.
+
+“But this is a reminder that firefighters can’t be on every doorstep, so all Western Australians need to play their part by having a bushfire plan and being ready to act.”
+
+WA authorities say this week’s weather conditions are some of the most challenging firefighting conditions they have seen in many years. Photograph: Richard Wainwright/AAP
+
+block-time updated-timeUpdated at 2.45am GMT
+
+block-time published-time 2.28am GMT
+
+The NSW transport minister, Andrew Constance, has urged cricket fans to plan their travel to the SCG for the third Test tomorrow.
+
+Capacity on the public transport network is reduced to meet physical distancing requirements.
+
+Constance said people should plan to travel early to avoid missing the start of play.
+
+Please avoid travelling to the Moore Park area if you are not going to the cricket, especially around the start and end of play each day, as we are expecting heavy traffic congestion near the SCG.
+
+There will be additional public transport services to help with physical distancing on the network, despite the reduction in Test ticket holder numbers.
+
+If you have to travel on the network, don’t forget to wear your face mask, sit or stand on a green dot and register your Opal card to help contact tracing.
+
+Consider walking, cycling or driving instead of using public transport, and use the car parks on the grass at Driver Avenue and at the Entertainment Quarter which are within walking distance of the SCG.
+
+Additional staff will be in place around transport hubs to help you stay Covid-safe and manage crowds, so please be patient, practice physical distancing while waiting in queues and follow the directions of staff.
+
+Cricket attendees have been warned that queues for light rail and shuttle busses will be lengthy. People have been told to maintain physical distancing and wear a mask while in the queue.
+
+The acting deputy secretary of the transport department, Howard Collins, said:
+
+Face masks are mandatory on public transport and will be handed out at both Central and Moore Park, but ticket holders should bring their own as they must also wear them while they are attending the game.
+
+We’re encouraging all customers on public transport to register their Opal card or check in using a QR code to support the NSW Health tracing team in keeping the community Covid-safe.
+
+Andrew Constance has spoken about how cricket fans should plan their travel to the SCG for tomorrow’s third Test. Photograph: Damian Shaw/AAP
+
+block-time updated-timeUpdated at 2.42am GMT
+
+block-time published-time 2.20am GMT
+
+With that I’ll hand over to Nino Bucci, who will take you through the afternoon.
+
+Please stay well and remember to keep checking the health department websites for any state you’ve visited in the past 14 days to make sure you don’t miss any potential exposure sites.
+
+block-time updated-timeUpdated at 2.36am GMT
+
+block-time published-time 2.13am GMT
+
+We have been talking about western Sydney a lot this week with the Berala cluster.
+
+I commend to you this piece by Guardian reporter Mostafa Rachwani about coming to terms with his identity as a Lebanese-Australian growing up in western Sydney. He writes:
+
+To some degree, my angst was a product of Australia itself. I did not see myself or my identity in the TV shows I watched, only in the news. Inherently, I hated being Lebo because of the reputation it carried.
+
+But it wasn’t until I realised that I missed the particular kind of charcoal chicken you can only get in Granville that I came to understand I was denying who I was.
+
+You can read the full piece here:
+
+Related:  I didn't want to be a 'Lebo' growing up in Australia, but I came to love who I am | Mostafa Rachwani
+
+block-time published-time 2.06am GMT
+
+The leader of the Australian Greens, Adam Bandt, has called for the federal government to provide Julian Assange with safe passage home to Australia.
+
+Bandt said:
+
+It’s time for Scott Morrison to fight for an Australian citizen whose work exposing war crimes has subjected him to an extraordinary campaign of persecution from the United States.
+
+Australia’s meek pandering to the Pentagon on the rights of one of our citizens reflects poorly on our sovereignty and diplomatic independence.
+
+The charges the US has laid are anathema to a free press and free society and Australia should give Assange safe passage home and rule out extraditing him to become a political prisoner.
+
+All Australians should know that when foreign governments act against their liberty for political reasons, their homeland will have their back. It’s time Morrison showed the gumption to say no.
+
+block-time updated-timeUpdated at 2.11am GMT
+
+block-time published-time 1.54am GMT
+
+Here is that pop-up coronavirus testing clinic at the MCG, which opened today in an attempt to find the source of Victoria’s first mystery case in several months.
+
+Everyone who attended day two of the Boxing Day Test, in the Great Southern Stand, zone 5 of the MCG between 12.30pm and 3.30pm on 27 December, has been asked to get a coronavirus test and self-isolate until they get a negative result. A man who attended that day of the Test has since tested positive to Covid-19, but was not believed to be infectious on that day.
+
+People arrive at a coronavirus testing facility at the MCG, which has been listed as a potential location for a recent cluster of infections. Photograph: James Ross/AAP
+
+The pop-up testing clinic was just set up this morning.
+
+Workers carry fencing as they set up a Covid testing facility at the MCG. Photograph: James Ross/AAP
+
+block-time updated-timeUpdated at 1.58am GMT
+
+block-time published-time 1.43am GMT
+
+The Victorian Greens have called on the state government to cancel the Melbourne Grand Prix.
+
+It was cancelled at the 11th hour last year – literally as people were queued up at the gates to get in  – and was the first major event cancelled due to Covid-19 in Australia.
+
+The race is scheduled for 21 March this year but there is heavy speculation it could be postponed to 2022 due to international travel restrictions and quarantine requirements getting into Australia.
+
+A Victorian spokesperson told the Age yesterday  : “Discussions between the Australian Grand Prix Corporation, the government and Formula One management about the Formula One calendar for 2021 are ongoing.”
+
+The Greens leader, Samantha Ratnam, said the 2021 event should be cancelled and money spent on the event should be directed to public health.
+
+Until a vaccine has been rolled out, the state government’s priority must be eliminating the risk of another Covid outbreak or lockdown. Hosting an event that would see tens of thousands of Victorians flock to Albert Park during a pandemic could unravel all of our hard work.
+
+We need to wave the chequered flag on this year’s event to protect the health of all Victorians and save tens of millions of dollars in the process.
+
+block-time updated-timeUpdated at 1.52am GMT
+
+block-time published-time 1.19am GMT
+
+The Victorian government has launched its multicultural events calendar for 2021 and opened a funding round  for events held from March to June.
+
+The multicultural affairs minister, Shaun Leane, said in a statement:
+
+We have much to celebrate here in Victoria and this funding will ensure that, after such a challenging year, festivals and events are supported to take place.
+
+Projects funded will celebrate our rich cultural diversity whilst supporting the revitalisation of Victoria’s economy.
+
+I can’t wait to see Victorians out celebrating the 200th anniversary of Greek independence in March, our dedicated $200,000 funding will help it be Covid-safe but importantly, a milestone to remember.
+
+block-time updated-timeUpdated at 1.22am GMT
+
+block-time published-time 1.06am GMT
+
+A parliamentary inquiry into the social and economic benefit of creative and cultural industries has heard that the government should ensure the arts and cultural sectors are included when considering how to attract more people to live in rural and regional areas.
+
+As a person who grew up in regional Victoria and went to literally every touring show put on at the Wangaratta Performing Arts Centre, this seems like a no-brainer.
+
+More on this from AAP:
+
+Creative industries contribute more than $110bn to the Australian economy each year, the Regional Australia Institute said in its submission to the inquiry.
+
+It is especially beneficial for regional areas, which have been struggling under the weight of the coronavirus-driven economic downturn and drought.
+
+“It creates a lively and thriving environment that is distinctive, and which encourages people to move to an area, to remain living in an area, or to visit an area as a tourist and spend money,” the organisation said.
+
+“The creative industry also has a special role to play in enhancing community connectedness and social cohesion.”
+
+If governments want to attract more people to regional areas, there is evidence the “cultural vibrancy” of an area is a key factor when people weigh up a town’s liveability.
+
+“The RAI’s research has found that in a regional labour market where many regions are struggling to attract and retain skilled trades and professional workers, it is often the assessment of cultural vibrancy that takes a worker to one place rather than another,” it said.
+
+“Arts and cultural events also attract visitors who otherwise may not have knowledge of a region or community and who may become new residents or may ‘spread the word’ about a community’s unique attractions.”
+
+As the coronavirus pandemic continues, the RAI said small regional towns reliant on festivals should be able to access “tailored, place-based support” to help them sustain their activities.
+
+The arts could also play a role in fostering social cohesion, particularly for new migrants and refugees moving to regional areas.
+
+There was also a case to be made for making better use of the sector to drive regional economic growth.
+
+block-time updated-timeUpdated at 1.12am GMT
+
+block-time published-time 12.55am GMT
+
+Here’s the snapshot of the NSW figures.
+
+enltrNSW recorded four new locally acquired cases of COVID-19 in the 24 hours to 8pm last night. An additional case was also recorded in a returned traveller, bringing the total number of COVID-19 cases in NSW since the beginning of the pandemic to 4,789. pic.twitter.com/WDcuydm48v
+
+— NSW Health (@NSWHealth) January 6, 2021
+
+block-time published-time 12.50am GMT
+
+After saying he was not going to get into a public fight with the leaders of other states and territories, Barilaro, er, got further drawn into a public fight with the leaders of other states and territories.
+
+A reporter asked: “The WA government says your idea to return travellers back to their home state was wrong, irresponsible and silly. What is your response?”
+
+The comments they are referring to, made by WA premier Mark McGowan yesterday, are here.
+
+Barilaro responded:
+
+I’m not getting into a public debate with the premier of Western Australia. The whole State of Origin appears to work well about those states with elections.  My comments were about being lectured. The approach and framework in our state, one I believe is gold standard, and I think that minister Hazzard once called it diamond standard, is one that protects the people of New South Wales. What I don’t like is being lectured by other premiers. We’re not going to lecture them. To be called unAustralian and unhelpful, we’re one nation, WA has closed the borders not NSW.
+
+And that’s the end of the press conference.
+
+block-time updated-timeUpdated at 12.52am GMT
+
+block-time published-time 12.46am GMT
+
+Barilaro was asked if NSW will push for national cabinet to consider a ban on UK visitors who may be carrying new mutations of the virus. He says that will be a matter for Gladys Berejiklian.
+
+I’m in the hot seat for a short period of time. The boss will be back later this weekend. I’m confident what needs to happen and be debated, that’s above my pay level.
+
+What about the promised economic support for the northern end of the northern beaches, in lockdown until 9 January, which has yet to flow?
+
+Barilaro says “we’ll respond in due course”.
+
+block-time updated-timeUpdated at 12.49am GMT
+
+block-time published-time 12.44am GMT
+
+Ah, the border wars. Acting premier John Barilaro has been asked about why states are closing borders against areas that do not meet the federal hotspot definition of a three-day rolling average of 10 cases per day.
+
+He is asked what the point of national cabinet is, if states are making decisions based off metrics other than that national hotspot declaration. He says:
+
+That’s a question for the premiers of the other states, members of the national cabinet. I thank the prime minister for his call, he wanted to stay up-to-date with the information we get and I’m privy to through the health advice that I get from Dr Kerry Chant  and her team. But the reality, those are the questions you have got to ask those other premiers and those other states.
+
+New South Wales has always led in this space, have kept borders open as long as possible.  And if you go back to when the Victorians had their outbreak, we didn’t close our Victorian border until the cases got to 140 to 180 a day, consecutive days. Unfortunately, these states – this isn’t a State of Origin. It’s about the public health. We endured a turbulent 2020, we learned a lot, and what will happen in 2021 in my view, that we’ll always respond in away that we said, by not – if we want to keep restrictions limited, we want to get on with a balanced approach with the economy and jobs, what we’ve got to do is respond fast and local.
+
+I know the northern zone of the northern beaches is still paying for that. I’m not going to lecture other states. Those states are make those decisions. I’m confident the national cabinet process, which has been successful – in the period of 10 to 12 months, what we’ve seen during the height of the pandemic, the national cabinet, I believe, led by the prime minister of this country, achieved what it was set up to achieve. We’re at the tail end now. And what happens is states are making their own decisions. And the best I can do is implore them to work with us. Minister Hazzard was on the phone with his counterpart in Victoria, I was privy to a phone call with his counterpart in Queensland. [NSW is] the engine room of the economy, we’ll continue to talk with work with the other states.
+
+block-time updated-timeUpdated at 12.50am GMT
+
+block-time published-time 12.39am GMT
+
+Chant was also asked about the push from Victorian authorities yesterday for all international flight crews to quarantine and be tested.
+
+At the moment we’ve got to look at where our greatest risk of incursions and how to prevent those spreading to the community.
+
+We announced that flight crew are required now to basically be in hotel quarantine with limited exemptions for staff that may be resident in New South Wales. We’ve also ensured that flight crew cannot reposition or travel on any domestic legs; the companies have to reposition staff on empty aircraft, again to put those barriers in place.
+
+Clearly we’re enhancing our testing regime around our quarantine facilities and ensuring that we have added saliva testing of security guards and then progressively other workers. We’ve been testing around our health hotel, in terms of the surveillance testing, for quite a while. That’s been our focus. We’ll then, clearly anyone self-isolating, who is flight crew, get a test at our airport. And we’ll also progressively look at testing the airlines. I have reached out to Qantas and Qantas have indicated they’re going to regularly test their flight crew staff. And we also have had advice from the airlines in regards to their testing frequency. A number of the airlines and the commonwealth has helped us to collate the data, and we’ll be engaging with the airlines on flight crew testing.
+
+It’s important to focus on the key risks.  The experience in the other jurisdictions has been that by the time the test result comes back, the flight crew who are usually on very tight 24-hour turnarounds, have actually departed. But it does give us intelligence if we’re looking at any breaches that subsequently happens in the community. It gives us a point in time that may inform how the transmission occurred.
+
+She adds:
+
+Just to be clear, the process that’s in place, all flight crew are required to quarantine. The purpose of flight crew testing is more in terms of giving us a time point for genomic sequencing that may inform if you already had the escape. Our priority is making sure we have an even earlier warning system, making sure we test thoroughly around our flight crew hotels, our hotel quarantine, to pick up that incursion at the earliest possible time, and we’ll be working to institute the flight crew testing but our priority for our lab capacity at the moment is that surveillance testing in those quarantine hotels.
+
+Chant said they are planning to scale up surveillance testing of hotel quarantine security guards. In Victoria now, everyone who works in the hotel quarantine system is tested daily.
+
+block-time updated-timeUpdated at 12.41am GMT
+
+block-time published-time 12.35am GMT
+
+Dr Kerry Chan t was asked if public health officials in NSW conduct genomic testing on all new arrivals, particularly those from the UK, to detect the new infectious strain.
+
+She says “we do that on all our viral strains”.
+
+Can I acknowledge the work of the laboratory based at Westmead, headed up by Vitali, the staff have been working literally day and night over the Christmas period to sequence it. We’re asking them to prioritise critical specimens that were there for public health purposes. So, where we have a decision point knowing it is one source as opposed to another, but then they routinely go through and do the overseas acquired strains.
+
+That was why I was able to indicate when we were looking for the source of the Avalon cluster, we went back to our reference bank of all the overseas strains that had been sequenced and to figure out which was the closest link and could there be any, as a one line of the investigation.
+
+Asked again whether it was time to rethink testing people in the UK before they travel to Australia, Chant said that would not guarantee the strain would not get here.
+
+I think we know that the virus will be moving around. The UK strain will potentially be everywhere. So I think we do have to have a universal approach to ensuring that we keep our citizens safe and keep a universal precautions approach to making sure our infection control is at the highest bar. I think adding testing or prior to departure screening is useful in some circumstances, I think, though, we should emphasise and I said multiple times a single test doesn’t determine it. You could still be infectious on a plane after being tested. No single action can take it totally safe. That’s why we have the quarantine period for the 14 days.
+
+block-time published-time 12.30am GMT
+
+Will similar restrictions be imposed on other sporting events, like upcoming A-League games in Newcastle?
+
+Hazzard says not at this stage.
+
+Public health has been working with venues New South Wales on those issues to do with for example, the A-League. I think I was asked about that yesterday. The view has remained that the steps they have taken are working. Obviously, cricket presents a little different issue. It’s literally five days, some cases, the real enthusiasts will be for five days, potentially 10 to 12 hours. In a footy match, you’ll probably be there for a couple of hours. It’s balancing the risk with the outcome.
+
+block-time published-time 12.28am GMT
+
+Hazzard says they will not cancel the Test, saying doing so would be bad for, uh, mental health.
+
+He says:
+
+New South Wales has struck the leading balance in the country in terms of keeping open what is normalcy, but in a Covid environment. That’s always been our approach. And I think it’s crucial that we remember the advice from Dr Chant that she has given us regularly, and that is that Covid could well be with us for a long, long while.
+
+So, from our state’s point of view, and the New South Wales government’s point of view, we’re struck the balance. We continue to strike the balance. To simply say, the put off the Test, or to can the Test in New South Wales, it wouldn’t be productive. You have to think about people’s mental health, the desire to get out there and have aspects of a normal life, recreational aspects, sport, they all give us a sense of wellbeing. Particularly as minister, health minister, I see some of the negative aspects of that very closely. Reports come to my desk on the very sad outcomes when people’s mental health suffers. We’ll strike the balance.
+
+block-time updated-timeUpdated at 12.32am GMT
+
+block-time published-time 12.27am GMT
+
+Masks will be mandatory in the stands of the Sydney Test
+
+Hazzard says that off the back of the MCG case, NSW officials have decided that masks will have to be worn the whole time people are in the stands at the SCG unless they are eating or drinking.
+
+From the moment effectively you get into the transport to get there, and get into the queue at the front door of the SCG, and go to your seat, and sit in the your seat, you must wear a mask. The only exception to that, if you’re eating or drinking. Obviously, Dr Chant and the public health team want people to enjoy a day at the cricket, but it’s a Covid day at the cricket and that means mask on, not mask off, unless you’re eating or drinking, in which case you can have your mask off. I’m going to now hand over to Howard Collins from transport to give us some more information on those aspects.
+
+Hazzard said the change to the rules was just made this morning.
+
+We were trying to not impose that requirement, because people are sitting there, and in some cases, for many, many hours. Although, obviously, get up and go for a drink, get food, other things. We were trying not to do that. The evidence that’s come off this morning from the Victorian situation is such that the public health officials were of the view we need to step it up to that higher level. It’s about keeping people safe. And literally, I think I had three or four communications this morning with the Victorian minister, they’re good enough to be constantly liaising with us on issues that arise. That gave us time to think about this morning, and we’re of some view that masks are an essential element of the armoury of keeping people safe.
+
+block-time updated-timeUpdated at 12.28am GMT
+
+block-time published-time 12.22am GMT
+
+Also banned from attending the Sydney Test are people who were in t he same stand of the MCG as the Melbourne man identified by Victorian authorities earlier today , for the second day of the Boxing Day test.
+
+That’s the the great southern stand, zone 5, between 12.30pm and 3.30pm.
+
+Hazzard said:
+
+I also want to point out that the Victorian minister,  Martin Foley, and I, have been communicating this morning. The Victorian government is concerned and therefore the New South Wales government is also concerned about the people who may have attended the Melbourne Cricket Ground on the 27th December, and was seated in the great southern stand, zone five, between 12.30pm and 3.30pm.
+
+The message to anyone who may be going or intending to attend the test here in Sydney, who was in that location on that day, you must not – you must not come to the test. Again, the orders that will be made today, the health orders, will impose a $1,000 fine on any person who was in that location and who seeks to come to the SCG.
+
+I know it’s a tough ask, but it’s absolutely necessary to keep New South Wales residents safe. You may think you won’t get caught. I can assure you that there has been plenty of evidence already of citizens, residents, willing to speak up and tell us when someone is doing the wrong thing. Don’t do it. Don’t do it for yourself, don’t do it for your community. Do it for the whole of New South Wales and the whole of Australia, just don’t go.
+
+NSW health minister Brad Hazzard. Photograph: Dan Himbrechts/AAP
+
+block-time updated-timeUpdated at 12.26am GMT
+
+block-time published-time 12.19am GMT
+
+NSW health minister Brad Hazzard is speaking now. He says the detection of a new case in Melbourne in a person who attended the Boxing Day test, was “obviously influencing our thinking” on the Sydney Test.
+
+The list of banned suburbs for attending the cricket has been expanded to include Wentworthville and Belmore. That’s in addition to the ban on people from Auburn, Berala, Lidcombe North, Regents Park and Rookwood attending the test , announced yesterday.
+
+More on that here:
+
+Related:  Berala and western Sydney residents risk $1,000 fines if they attend SCG for Sydney Test
+
+block-time updated-timeUpdated at 12.30am GMT
+
+block-time published-time 12.15am GMT
+
+Dr Kerry Chant also urged people who attended the Birdie Noshery and Drinking Establishment in Orange between 12pm and 2pm on 3 January, or the Gourmet Cribtin at Broken Hill between 10am and 10.40am on Saturday 2 January – not 10am to 12pm as reported last night – to get tested and self-isolate for the full 14 days.
+
+She also urged people to remember that Broken Hill is on central time, not AEDT. That’s 30 minutes behind. Factor that in when trying to figure out our location, if you were just travelling through.
+
+block-time updated-timeUpdated at 12.18am GMT
+
+block-time published-time 12.12am GMT
+
+NSW chief health officer, Dr Kerry Chant, is going through the new cases.
+
+Her data is different to Barilaro’s.
+
+She says of the four locally acquired cases reported today, one is linked to the Berala cluster and that’s the 18-year-old first mentioned yesterday who went to the BWS on Christmas Eve. That cluster is now up to 16 people.
+
+Next case is a man in his 20s who is a household contact of the Avalon cluster.
+
+And this is a household contact that has been in isolation for the full infectious period. And this is what we want to see and the whole purpose of identifying cases and enabling that public health action.
+
+The third case is a man who is a household contact of a previously reported case in western Sydney, whose source remains under investigation.
+
+And yesterday, we said this case was likely to be linked to the Berala cluster, but again, that person was also isolating.
+
+The fourth case is under investigation. It’s a man in his 30s from western Sydney.
+
+He has no direct links to the Berala BWS or the Berala cluster and so we are being very cautious about finding any of those missing chains of transmission. So we’re continuing to call for anyone who went to either the BWS or Woolworths in Berala, between December 20 or December 31 to check our website for testing advice. Depending on the time you were there, you may be a close contact who needs to get tested immediately and isolate for 14 days. If you have not checked, please do so.
+
+He is connected to the following venues, added to the NSW exposure list late yesterday. Anyone at any of the below sites is urged to get tested immediately and self-isolate until advised by NSW health, in what Chant said was a “stop and stay” model.
+
+They are Merrylands RSL from 4pm to 4.45pm on 28 December; Saravanaa Bhavan Indian restaurant in Parramatta from 10.20am to 10.50am on 28 December; a social cricket match at Ollie Webb Cricket Ground in Parramatta from 7.30am to 11am on 28 December, the Sydney Murugan Temple in Mays Hill from 12.40pm to 1.30pm on 1 January; and the Sydney Marina Dine In & Take Away in Pendle Hill from 12.30pm to 12.50pm on 3 January.
+
+block-time updated-timeUpdated at 12.14am GMT
+
+block-time published-time 12.05am GMT
+
+Barilaro said the new case in the Avalon cluster demonstrated why that lockdown for the northern half of the northern beaches had not yet been lifted.
+
+Now, to the people on the peninsula, and especially in the northern zone of the northern beaches, I know you’ve been doing it tough. You’ve been locked down for a period of time, but that was off the back of a significant seeding event, and the transmission of Covid in that area. We make these decisions to protect everyone, you, your family, the state and the nation. And I know how hard it’s been.
+
+I know in conversations with, of course, Rob Stokes, the representation that Rob is doing on behalf of the beaches, especially on behalf of businesses hurting, firstly thank you for the effort and understanding that if we’re going to beat this, we really do need to eliminate the pandemic, but the only way we have confidence in our decision make something through that data.
+
+As you can see overnight, we’ve had a household contact of someone in Avalon, connected to the Avalon cluster, and that’s why we’ll continue to keep the restrictions in place up to the 9th of January. I understand it hurts, I understand tomorrow is Orthodox Christmas, the cathedral down on the peninsula will be closed, I know the impact it has on families, but we’re doing this to protect everyone long term, and that’s why we’ll continue with these restrictions in place.
+
+NSW deputy premier John Barilaro. Photograph: Dan Himbrechts/AAP
+
+block-time updated-timeUpdated at 12.10am GMT
+
+block-time published-time 12.04am GMT
+
+NSW records four new locally acquired cases of Covid-19
+
+Acting NSW premier John Barilaro is speaking now in Sydney.
+
+He says NSW recorded five new cases in the past 24 hours, four of which are locally acquired – including the 18-year-old who travelled to western NSW, announced yesterday. Of the three previously unreported local cases, Barilaro said two are related to the Berala cluster, one to a household contact of the Avalon cluster.
+
+There were 32,667 tests conducted yesterday.
+
+block-time updated-timeUpdated at 12.06am GMT
+
+block-time published-time 11.55pm GMT
+
+Labor leader Anthony Albanese has responded to Greg Hunt’s  claim (reported behind a paywall in the Daly Tele today) that the government has accelerated the Covid-19 vaccine rollout by two weeks.
+
+He told reporters in Sydney:
+
+Well, they said that was impossible a couple of days ago. So, this shows once again a government that follows, doesn’t lead. The fact is that once the TGA approves the vaccine, it should be available and should be rolled out. It’s a very simple principle that Labor has put forward. No one in the Labor party has argued for any curtailing of the proper processes undertaken by the TGA. What we’ve said is though, if you have confidence in those processes, then once it’s approved, it should be rolled out.
+
+Federal opposition leader Anthony Albanese. Photograph: Dan Himbrechts/AAP
+
+block-time updated-timeUpdated at 11.58pm GMT
+
+block-time published-time 11.53pm GMT
+
+Police charge Queensland man who allegedly tried to leave quarantine hotel in Sydney
+
+Police in NSW have charged a Queensland man who allegedly attempted to leave his room at a quarantine hotel in Sydney’s CBD yesterday.
+
+In a statement, NSW police said:
+
+Officers were told the 43-year-old man, who arrived in Sydney from Los Angeles on Wednesday 23 December 2020, had refused Covid testing during his quarantine period and was therefore required to complete a further 10 days in hotel quarantine.
+
+It’s alleged the man challenged police in the hallway and questioned police powers under the Public Health Act before the officers physically escorted back to his room.
+
+Additional security officers were allocated to the floor to ensure the man complied with the quarantine order.
+
+Following further inquiries, the Queensland man was charged with not comply with noticed direction.
+
+He has been refused bail to appear at Parramatta local court today (Wednesday 6 January 2021).
+
+Seven other people have been fined for breaching NSW health orders in the past 24 hours.
+
+They include a man fined $1,000 for allegedly holding a house party with 30 to 40 guests at Guildford.
+
+Police said they were told the group had earlier been playing loud drums in the backyard.
+
+Six people were also fined $300 for not wearing masks in greater Sydney. All of them were either on public transport or at train stations.
+
+block-time updated-timeUpdated at 11.59pm GMT
+
+block-time published-time 11.47pm GMT
+
+If you are one of the thousands of people in Victoria who are off to get a Covid-19 test following that press conference, please allow me to share some of the advice that has been coming in from readers over the past few days.
+
+Overwhelmingly, people who had the best experience at testing sites are those who booked in to a respiratory clinic. You can find a list here.  You book online, then turn up for your appointment. People who have used respiratory clinics over the past week or so have told me they were in and out between 10 and 25 minutes of their appointment time.
+
+block-time published-time 11.37pm GMT
+
+NSW will hold its daily press conference at 11am, as usual. We’ll bring you that as it happens.
+
+block-time published-time 11.37pm GMT
+
+Here’s a bit more detail about those new exposure sites at the MCG and Chadstone Shopping Centre in Melbourne.
+
+DHHS has again stressed that based on available information the man in his 30s, who has since tested positive, was not infectious while at Chadstone on Boxing Day or at the MCG on 27 December.
+
+But they are trying to work back along his movements to find the source of infection. At the moment, it is not linked to any known outbreak.
+
+DHHS said:
+
+We’re encouraging anyone who was in the Great Southern Stand, zone 5 of the MCG between 12.30pm and 3.30pm on 27 December, to get tested and isolate until they receive a negative result.
+
+People who were seated in that stand will also get a text message from DHHS – but they have been told not to wait for the text to go get a test and begin isolating. In this case y ou just have to isolate until you get a negative result.
+
+Anyone who attended Chadstone shopping centre on Boxing Day, 26 December, from 6am to 2pm, has also been asked to get tested if they were in any of the following stores, of if they had symptoms on the day.
+
+These include the following stores: Culture Kings, Huffer, JD Sports, Jay Jays, H&M, Uniqlo, Myer, Superdry, Footlocker and Dumplings Plus.
+
+We’re investigating further to determine exact details for the Chadstone store sites and this information will be updated on the website as soon as possible.
+
+Shortly before he fell ill, the man attended the following stores on 30 December. Anyone who was there at the same time is asked to get tested and isolate until they get a negative result. They are:
+
+•The Nike Company in South Melbourne, 12pm to 12.45pm on 30 December.•Culture Kings on Russell Street, Melbourne, 1pm to 1.30pm on 30 December.•Tamarind 8 restaurant in Narre Warren, 6.30pm to 7pm on 30 December.
+
+The Nike Company in South Melbourne, 12pm to 12.45pm on 30 December.
+
+Culture Kings on Russell Street, Melbourne, 1pm to 1.30pm on 30 December.
+
+Tamarind 8 restaurant in Narre Warren, 6.30pm to 7pm on 30 December.
+
+block-time updated-timeUpdated at 11.43pm GMT
+
+block-time published-time 11.29pm GMT
+
+Australian Medical Association calls for NSW to ban crowds at the Sydney Test
+
+On a related note to the positive test at the Boxing Day test at the MCG, the Australian Medical Association says it is not too late to avoid a super-spreader event at the SCG with the Sydney Test due to start tomorrow.
+
+AMANSW president, Dr Danielle McMullen, says:
+
+We watched the NYE fireworks on TV and we can do the same with the test. The risk of gathering thousands of people together surely outweighs the benefit...
+
+The recent outbreak at Berala suggests people have contracted coronavirus through minimal exposure and that is extremely worrying.
+
+NSW needs to pump the brakes on mass gatherings until we can get on top of these outbreaks.
+
+Limiting social gatherings over Christmas and New Years’ Eve was the right thing to do. Many people sacrificed time spent with family and friends over that period, but they did it hoping that short-term pain would mean the number of new cases would go down and NSW would avoid a harsher lockdown in the future.
+
+We hope those sacrifices weren’t made in vain.
+
+Australian cricket players pose for pictures at the Sydney Cricket Ground on Tuesday ahead of their third cricket Test match against India. The AMA want no crowds at the match, saying it has the potential to be a super-spreader event. Photograph: David Gray/AFP/Getty Images
+
+block-time updated-timeUpdated at 11.34pm GMT
+
+block-time published-time 11.26pm GMT
+
+Will this affect the Australian Open?
+
+Says Cheng:
+
+I think we’re going back through all the major events that are planned in the next couple of weeks and just looking at some of those again just to make sure. With the Australian Open, we still have a little bit of time. So we just want to see how this goes. Just noting with the return to work, we’ve just paused that for a week just while this plays out and we’ll revisit that as time goes on.
+
+Will the return to work be delayed again, beyond this one-week delay?
+
+We’ve only just come up with this case. We’ll just need to see what happens out of it and – but we’ll revisit it each day and if it is possible to have more return to work, then we will but it really depends on how things unfold with this.
+
+block-time updated-timeUpdated at 11.27pm GMT
+
+block-time published-time 11.25pm GMT
+
+Cheng warned that the genomic data may not actually shed much light on the source of acquisition.
+
+The genomic data, if it is the New South Wales strain, it may actually not tell us if it’s someone else coming down from New South Wales or if it’s linked to the Black Rock area. So, you know, it’s just one piece of the puzzle.
+
+block-time published-time 11.23pm GMT
+
+Prof Allen Cheng says the most likely scenario is that the man contracted the virus from a household contact or another social contact.
+
+That doesn’t mean people at the MCG or Chadstone should not get tested.
+
+On Christmas Eve, a gentleman attended a Christmas Eve function where someone from New South Wales was present. That person doesn’t report being unwell. Obviously they will be tested as a matter of urgency but because they weren’t unwell, we think it’s probably less likely. Obviously we have chased up a few people from New South Wales as part of our wider contact tracing and not found any cases there. So, you know, there are clearly a lot of people coming from New South Wales without infection as well.
+
+At this stage, Cheng says, it’s most likely he acquired it somewhere other than the MCG or Chadstone.
+
+At this stage, yes. We are following up all those leads. To be honest, they are probably the household links and the people he visited are probably more likely to be links but we’re trying to be cautious. We do have this information about Chadstone and the MCG. So we’re trying to get that information out to make sure that we’re not missing anything and we want to make sure that we’re not waiting for, you know, other testing to come back and acting on this information that we have now.
+
+Victoria’s deputy chief health officer Professor Allen Cheng addresses the media on Wednesday. Photograph: James Ross/AAP
+
+block-time updated-timeUpdated at 11.28pm GMT
+
+block-time published-time 11.21pm GMT
+
+Victorian Covid-19 commander Jeroen Weimar says they do not believe at this stage that there’s any connection between the case at Boost Juice in Chadstone, reported a few days ago, and this latest case.
+
+Jeroen Weimar addresses the media on Wednesday. Photograph: James Ross/AAP
+
+block-time updated-timeUpdated at 11.31pm GMT
+
+block-time published-time 11.20pm GMT
+
+Back on the border exemptions, what about people who were somewhere where they did not hear the news of the border closure until after it was in effect, or who accidentally crossed over the border?
+
+That last is a reference to this story in the Herald Sun about a family who accidentally drove to Moama.
+
+Weimar says:
+
+Again, we have a team that is doing a triage based on clinical, medical, urgent, family distress issues. The particular family in Moama is safely back in Melbourne. I’m sure they’re very grateful and enjoyed their lunch. There are many complex, difficult cases. We’re providing case management support to those individuals who face very difficult decisions and we’ll ensure they make those movements in the wider public health advice.
+
+He continued:
+
+I’m confident we’ll getting on top of the urgent critical cases now. As they come up, we’ll deal with them. Provided people put their applications in, contact us, we’ll do everything we can. There’ll be difficult decisions to be made, let’s not shirk that, but we’ll prioritise the urgent cases and get to those others.
+
+block-time published-time 11.17pm GMT
+
+The Victorian man who is the new mystery case first experienced symptoms on 30 December, self-isolated from the 31st, and got tested on the 3rd or 4th of January.
+
+Weimar was asked if it was known that he had tried to get tested earlier, Weimar says it was not. It’s usual, he says, that people wait a few days to get tested – he is urging people not to wait.
+
+We know from our own research, we know from people’s behaviour, significant numbers of people will wait a number of days before they go out and get tested after developing symptoms. That is something we’ve seen before, all the way through the pandemic.  We’ve seen averaging of 2.5 days, three days.  That’s why we encourage you to come out and get tested as early as you possibly can.
+
+block-time updated-timeUpdated at 11.19pm GMT
+
+block-time published-time 11.15pm GMT
+
+Genomic testing is under way of the Victorian man who tested positive to Covid to determine which strain of the virus he has.
+
+Weimar says the urgent priority is to determine the source of acquisition – which is why people who attended the MCG on 27 December, or Chadstone on 26 December, have been asked to get tested urgently. That doesn’t mean authorities think he definitely got the infection at either location, but they are trying to narrow it down.
+
+At this point we’re saying anybody who is getting a text message from us today who was at the MCG, zone 5, second day, 12.30pm to 3.30pm, people in those stores in the time windows, we’d like them to get tested.
+
+If you were crook at those times, that is even more important. If you were in New South Wales before you went to those locations, again, that is of particular urgency for you to come forward.
+
+block-time updated-timeUpdated at 11.17pm GMT
+
+block-time published-time 11.13pm GMT
+
+On the border exemptions, Weimar says they have granted 295 exemptions in the past few days and now have 30-40 people working to process exemption processe s.
+
+We have an online portal that went live at midnight last night whereby people can apply online nor an exemptions permit to ease that application process. Yes triaging, we are dealing with the most urgent cases first. Please be patient. We will work with you to deal with those cases who have a genuine need to come back into our state at this time.
+
+block-time published-time 11.12pm GMT
+
+There are well over 10,000 people who attended these two exposure sites  and will now need to get tested.
+
+Weimar said:
+
+There are clearly up to 7,000 people, 8,000 people in zone 5 at the MCG. There’ll be many thousands of people who’ve been through Chadstone.
+
+We’ll narrow this down through the course of the day. We ask your support to do so. Please give us a call if you have concerns as to whether you think this might apply to you.
+
+block-time updated-timeUpdated at 11.14pm GMT
+
+block-time published-time 11.11pm GMT
+
+Shoppers who attended Chadstone's Boxing Day sales and the Boxing Day test urged to get tested
+
+The man attended the following stores at Chadstone shopping centre on Boxing Day, 26 December, from 6am to 2pm:
+
+•Culture Kings•Huffer•JD Sports•Jay Jays•H&M•Uniqlo•Myer•Superdry•Footlocker•Dumplings Plus
+
+Culture Kings
+
+Huffer
+
+JD Sports
+
+Jay Jays
+
+H&M
+
+Uniqlo
+
+Myer
+
+Superdry
+
+Footlocker
+
+Dumplings Plus
+
+Victoria’s coronavirus testing commander, Jeroen Weimar, urged anyone who was at the above stores, or anyone who was at any store in Chadstone who had any symptoms on Boxing Day, to get tested. That goes double for anyone who was in NSW in the weeks before attending Chadstone, or the Boxing Day Test.
+
+He said:
+
+We’re particularly interested in those who went to those stores on Boxing Day and who did not feel well. Please, come forward to get tested. We will during the course of the day, we are tracking the individual’s mobile phone movements around Chadstone. We will be identifying the time zones that the individual was in these stores during those time periods.
+
+Again we would encourage people to check in again during the course of the day. As we get more information, we will be updating our website. I do not exclude the possibility of us identifying additional stores but here fine and improve this as we get through the course of the day and as information becomes available particularly through the GPS records we’re dealing with. My thanks to Chadstone for their cooperation during the early hours of this morning. It will be a busy day for the Chadstone team.
+
+On the MCG, Weimar said:
+
+At the MCG, only between 12.30pm to 3.30pm, the lunch period, in the great southern stand in zone 5. The MCG has clearly defined zones. That contains the number of people that could have come into contact with this individual at the MCG. We will be sending information to individuals in this zone to invite them to come forward to get testing. If you’re hearing this message now and you were in zone 5 in the Great Southern stand between 12.30pm and 3.30pm, come forward to get testing.
+
+Weimar said they set up a new walk-up testing centre at the Boxing Day Test today but urged people to get tested at the testing clinic closest to their home, not to travel to the MCG or back to Chadstone. The latter is already one of the busiest testing sites in the state, he says.
+
+block-time updated-timeUpdated at 11.16pm GMT
+
+block-time published-time 11.04pm GMT
+
+Victoria records first mystery case in months
+
+Victoria’s acting chief health officer, Prof Allen Cheng, says the case acquired today is the state’s first mystery case in months.
+
+Cheng is calling for anyone who may have come into contact with the man, particularly at the Boxing Day sales at Chadstone on 26 December or the Test on 27 December, who may be sick now or have been sick or had symptoms then, to get tested.
+
+Cheng said:
+
+He’s a man in his 30s who has tested – I think, on the third or fourth, and returned the positive result yesterday. We’re interested in two things when we do contact tracing. Who may have given him the infection, the upstream contacts, and who he may have passed infection on to, or the downstream contacts.
+
+In this case, the downstream contacts are easier to define. These are the people he has come into contact with during this infected period. In the few day before he became unwell, to when he went into isolation, on the 31. So, his household contacts have been spoken to, obviously. As well as visitors to his house. And they’ll be put into quarantine for the 14 days and tested.
+
+The upstream contacts are the people that we’re most concerned about. These are the people he has been in contact within the 14 days prior to the symptoms starting. Most likely about five or six days before his symptoms started, around Christmas Eve and thereabouts. We’re not worried about these people becoming unwell, so much they may have been unwell then, and passed the infection to him. So during this time, he had some work and household contacts at that time and they’re being followed up.
+
+There’s two important other sites.He attended the Boxing Day sales at the Chadstone shopping centre, and day two of the Boxing Day test at the MCG. So, firstly, at Chadstone, he was at the Chadstone shopping centre on 26 December, so the Boxing Day sales, from 6am to 2pm. So, for people that were at Chadstone at the time, if they’re unwell now, if they were more importantly unwell at that time, we want them to get tested. At the MCG, he was there on 27th. So that’s day two of the Boxing Day test. At 12.30pm to 3.30pm for that three-hour period. He was in zone five on the fourth level.
+
+block-time updated-timeUpdated at 11.06pm GMT
+
+block-time published-time 10.59pm GMT
+
+Melbourne's return-to-work plan to hit 'pause'
+
+On returning to work, Jacinta Allan said the government had asked the public health team to review Victoria’s return-to-work schedule for the Melbourne CBD, and had been told the health advise was to “pause” the scheduled return to work for at least a week.
+
+What was planned was for the Victorian public service to begin a phased return to work of 25% of the workforce, and commercial offices were set to increase their staff onsite from 25% to 50%. All of this was of course to be based on the public health advice. And the circumstances at the time. The public health advice has been to pause the changes for one further week. They will provide further advice and information next week.
+
+This is so we can continue to monitor very closely the situation in both New South Wales and also respond to the known Black Rock cluster here in Victoria. We’re keen to see no further cases emerge beyond those previously identified through the primary close contacts.
+
+Allan also asked everyone with a Myki in Victoria to register their Myki card to allow for easier contact tracing for outbreaks on public transport.
+
+We have seen a small number of public transport services have been added to the list of exposure sites. And another way to add to our contact tracing efforts and to give us another source of information is to be able to contact people who have a registered Myki card. So we’re encouraging Victorians who use public transport, who use a Myki card, to go and register that card, create an account, register the card, and this can be done quickly and easily through the Public Transport Victoria website or call centre.
+
+As of 3pm yesterday, seven public transport services have been identified as potential exposure sites.
+
+Acting Victorian premier Jacinta Allana addresses the media on Wednesday. Photograph: James Ross/AAP
+
+block-time updated-timeUpdated at 11.30pm GMT
+
+block-time published-time 10.55pm GMT
+
+Victorian who tested positive to Covid-19 attended day two of the Boxing Day Test
+
+The new locally acquired case in Victoria is in a person who attended day two of the Boxing Day test at the MCG on 27 December, Victoria’s acting premier Jacinta Allan said.
+
+Allan is speaking in Melbourne:
+
+Just earlier, the Department of Health and Human Services has listed the MCG as a potential acquisition site. This follows a patron attending the MCG testing positive.
+
+This person attended day two of the cricket on 27 December. And is currently isolating. It’s important to note from the health advice they do not believe the case was infectious while he was at the MCG.  He developed symptoms on 30 December. And the department was notified of the positive test result on 5 January. Contact tracing that has gone on throughout the night, has revealed he stayed home since 31 December. And got tested. And as they have previously done so, the public health team, through the tracing work, verifying this information. The department is also investigating a possible New South Wales link to this case, but out of an abundance of caution and to provide this information to the Victorian community, we’re declaring both the MCG and Chadstone shopping centre as an acquisition site to rule out any potential source on that day.
+
+Therefore we’re encouraging anyone who was at the cricket and who was seated in the great southern stand, zone 5, between 12.30pm and 3.30pm to go and get tested and isolate until they receive a result. A Covid-safe plan was in place at the for this cricket event. And excellent ticketing allocation system was put in place by the MCG and as a result, this has enabled this effective contact tracing and has been able to see anyone who was seated within that zone 5 bubble will be receiving a text message in the next couple of hours, advising them of the situation, and requesting they do go and get tested.
+
+Mitchell Starc of Australia celebrates after taking the wicket of Rishabh Pant of India during day two of the second Test Match between Australia and India at the MCG on 27 December 2020. Photograph: Scott Barbour/AAP
+
+block-time updated-timeUpdated at 11.07pm GMT
+
+block-time published-time 10.34pm GMT
+
+Intense rain in north Queensland from ex-cyclone
+
+Townsville could experience flash flooding today thanks to heavy rains from ex-tropical Cyclone Imogen.
+
+More from AAP:
+
+A severe thunderstorm warning remains in place for parts of north Queensland after days of intense weather associated with ex-Tropical Cyclone Imogen.
+
+The town of Ingham, north of Townsville, is experiencing heavy rain that is likely to continue through the morning, and the Bureau is warning of potential flash flooding.
+
+A total of 122mm was recorded in an hour at the Ingham Pump Station on Wednesday and six-hourly totals of 250mm about the coast and ranges between Ingham and Ayr are possible.
+
+Flood warnings are current for locations including Bowen, Townsville, Palm Island, Ingham, Ayr and Lucinda.
+
+Queensland Fire and Emergency Services are advising people to avoid floodwaters and seek shelter indoors.
+
+Tropical Cyclone Imogen crossed the coast north of Karumba shortly before 11pm on Sunday before slowly weakening to a tropical low on Monday.
+
+About 1,400 houses were left without power, but there were no reports of injuries.
+
+block-time updated-timeUpdated at 10.38pm GMT
+
+block-time published-time 10.25pm GMT
+
+Carnival plans to resume cruises in Australia in April
+
+It is just 10 months since the Ruby Princess disaster and cruise company Carnival is gearing up for another cruising season.
+
+According to the Courier Mail , Carnival is hoping to resume cruises from Sydney to Brisbane in late April, and has seen a 400% demand in voyages to Queensland because international trips are delayed.
+
+The proposed Queensland trips would include stopping at Cairns, Port Douglas, Airlie Beach and Moreton Island.
+
+Carnival Australia vice-president Jennifer Vandekreeke told the Courier Mail  :
+
+We are going to be back with bells on.
+
+We’re still in the hands of the state and federal governments, but there is already a lot of excitement about getting cruising back.
+
+We’re getting a great response on bookings and we know there’s lots of passengers who can’t wait for us to come back so that’s really exciting.
+
+A Carnival cruise ship. Photograph: Lucy Nicholson/Reuters
+
+block-time updated-timeUpdated at 10.32pm GMT
+
+block-time published-time 10.09pm GMT
+
+Victoria’s health minister, Martin Foley, will hold a press conference with a public health team in Melbourne at 9.45am.
+
+block-time published-time 10.06pm GMT
+
+Bushfire threatens lives and homes north of Perth
+
+An emergency warning remains in place for some coastal communities north of Perth, where the out-of-control Red Gully bushfire has burned through more than 7,200 hectares.
+
+Western Australian fire authorities have told residents of the Ocean Farms Estate near Lancelin, 130km north of Perth, that they will be impacted imminently by fire.
+
+The Red Gully bushfire near Gingin north of Perth on Tuesday. Photograph: Nikki Woods
+
+Ocean Farms Estate, Seaview Park, and parts of Regans Ford, Cowalla, the Moore River National Park, Nilgen, Mimegarra, Wedge Island, Karakin, Orange Springs and Lancelin are under an emergency warning  as of 6am local time.
+
+The Department of Fire and Emergency Services said the fire is not contained and remains unpredictable. It said the bushfire was “currently stationary however wind changes have the potential to rapidly escalate fire behaviour”.
+
+Incident controller Andy Duckworth told reporters on Tuesday night that the fire was moving at up to 3.5km/hour in challenging conditions, with high temperatures and strong, shifting winds across the fire ground.
+
+The fire perimeter has stretched to 50km with 200 firefighters on the ground supported by up to 13 aircraft, including a large air tanker.
+
+Duckworth said particular concerns were held for people living in the mainland community of Wedge Island with authorities unable to send ground crews into the area because of the presence of unexploded ordinance from an old bombing range. He told AAP:
+
+There’s a lot of bush around there, and we’re limited in our ability to fight the fire. We can use our, our aircraft but not much else.
+
+So we’re not confident we can pull it up before it reaches Wedge Island by any means.
+
+block-time updated-timeUpdated at 10.11pm GMT
+
+block-time published-time 9.44pm GMT
+
+Let’s go back to the Victorian border issue for a moment. As of yesterday, some 2,798 people had applied for an exemption to the hard border rules to get back into the state and just 57 had been approved.
+
+Police have turned back 1,532 people trying to cross the border and issued 1,232 warnings and 50 fines to people accused of “checkpoint shopping”.
+
+Victoria’s police minister Lisa Neville told reporters yesterday there would be no change to the exemption policy:
+
+There is a tough exemption process to pick up those who are facing the hardest hardship.
+
+But otherwise we’ve had to make this decision to protect what we’ve all built together. We don’t want to go backwards.
+
+Stories of those trying to get back in have been been coming through.
+
+They include people who were refused entry into the state to attend the funeral of a close family member. Melbourne woman Rebecca Boyce told the Age  that she travelled to Pambula Beach in southern NSW on 28 December, the day after the death of her mother, after lining up an exemption permit to return home for the funeral. That permit was revoked when the hard border was introduced on New Year’s Eve. Boyce said she had applied for a new permit and made multiple attempts to contact the DHHS, which were unanswered:
+
+Why would my mother’s burial not be considered [as a compassionate case]? Even just to say to me, ‘Sorry, you don’t cut it.’
+
+So I missed my mum’s burial – that’s horrid, I just don’t understand why – this must have been something that was foreseeable, that things could turn out this way and have the system in place. It’s just ridiculous.
+
+The ABC has reported  that a woman had a miscarriage during the 15-hour drive from Dalmeny, on the NSW south coast, to Adelaide, when she and her partner were racing home after the border announcement was made on New Year’s Eve. The trip would usually involve cutting through Victoria but the couple were told by police at the Victoria-NSW border to instead take the “back roads” along the NSW border north of the Murray between Wentworth and Renmark.
+
+Former Labor leader Bill Shorten told Nine’s Today show yesterday that the border closure had caught Victorians off guard:
+
+Well, it doesn’t seem to be working the way it should. I mean, I was in Melbourne last Friday, and all of a sudden on Thursday, the borders just shut. I’ve been dealing with a constituent of mine. She’s a lovely lady, her and her husband, they’ve got a disabled child and they have another child with special needs. Far better to have this child, 11 year old, looked after at home rather than being stuck in the south coast of New South Wales.
+
+So, I’m certainly going to be hitting the phones this morning to make sure that her exemption is sorted out. I would just like the department, just, let’s just get it done quickly.  A whole lot of Victorians on holiday caught off guard. No chance to sort this out.  We need now the administrative follow-up to help make sure that people are not stranded in some really tough circumstances like the lady I’m talking about.
+
+Police check permits as Victorians rush to beat the border closures at Wahgunyah on 1 January. Photograph: Dave Hewison/Speed Media/REX/Shutterstock
+
+block-time updated-timeUpdated at 10.13pm GMT
+
+block-time published-time 9.19pm GMT
+
+Victoria records one new locally acquired case, with two in hotel quarantine
+
+Victoria has recorded one new locally acquired case of Covid-19 and two more in hotel quarantine, bringing the daily total to three.
+
+This is off the back of a whopping 37,509 tests.
+
+A very good effort. Well done Victoria.
+
+enltrThere were 3 cases notified to the department in the past 24 hours. This includes 1 locally acquired and 2 in hotel quarantine. 37,509 test results were received. Thanks - #EveryTestHelps.  More later: https://t.co/lIUrl0ZEco #COVID19VicData pic.twitter.com/HEwucHt1rL
+
+— VicGovDHHS (@VicGovDHHS) January 5, 2021
+
+block-time updated-timeUpdated at 9.21pm GMT
+
+block-time published-time 9.16pm GMT
+
+Two children were killed and a woman and two other children are in hospital after an alleged hit-and-run in the NSW town of Wellington yesterday.
+
+The group were hit by a car  on Warne Street in Wellington, 355km north-west of Sydney, about 4.30pm yesterday.
+
+Two boys, aged six and seven, were killed. A 34-year-old woman was airlifted to Westmead hospital and is in a critical condition, a 10-year-old boy was airlifted to the Children’s hospital at Westmead for surgery for serious leg injuries, and a nine-year-old boy was taken to Orange Base hospital with minor injuries.
+
+NSW police acting superintendent Natalie Antaw  told the ABC  that it was believed the woman and the children had been walking home from the local swimming pool. She said:
+
+It’s tragic circumstances for the entire community and our thoughts are completely with the family and friends of the little ones involved and also the rest of the community in Wellington.
+
+Antaw said it was a “horrific” tragedy:
+
+That is a horrific for anybody to witness let alone the tragedy for the families involved. One of those jobs where you sometimes wish you arms were a little bit longer so you can wrap them around all your staff.
+
+The driver was not at the scene when police arrived. Police arrested a 25-year-old man four hours after the accident, following a short foot pursuit.
+
+block-time updated-timeUpdated at 9.33pm GMT
+
+block-time published-time 9.02pm GMT
+
+With that grim reminder of how bad it can get, I’m sure you don’t need me to tell you to wear a mask.
+
+But: wear a mask.
+
+enltrFace masks are mandatory on public transport in the Greater Sydney, Blue Mountains, Central Coast and Wollongong areas. Fines will apply. https://t.co/a0HXKSLVA1 pic.twitter.com/Oj2uBF9ZWU
+
+— T4 Sydney Trains (@T4SydneyTrains) January 5, 2021
+
+block-time published-time 9.00pm GMT
+
+One in 50 people in England had Covid-19 as of last week. In London, that figure is one in 30.
+
+One. In. Thirty.
+
+That’s absolutely terrifying.
+
+enltrA staggering 1 in 30 people in London currently has Covid. It is ripping through the population. The Great Barrington Declaration, "natural herd immunity" proponents must be delighted. This is what they wanted. The fact hospitals are falling over presumably does not bother them
+
+— Neil Stone (@DrNeilStone) January 5, 2021
+
+Some 60,916 people tested positive to Covid-19 in the UK yesterday, the highest one-day rise since the pandemic began.
+
+To put that into perspective,  there have only been 28,519 cases in Australia since the pandemic began. According to the federal health department, there are 284 active Covid-19 cases in Australia at the moment – including those in hotel quarantine.
+
+More on those figures in England here:
+
+Related:  One in 50 people in England had Covid last week, says Chris Whitty
+
+block-time updated-timeUpdated at 9.31pm GMT
+
+block-time published-time 8.53pm GMT
+
+NSW will report 'one or two' new cases in Berala cluster today, Barilaro says
+
+NSW will report “one or two” new cases in connection with the Berala cluster today, acting premier  John Barilaro  has said.
+
+One of those is the 18-year-old who travelled to western NSW, who was mentioned at yesterday’s press conference. Speaking to Channel Nine this morning, Barilaro said:
+
+Overnight I can confirm there are again one or two connected to that particular Berala outbreak but again numbers looking ok, contact tracing in place.
+
+enltr #BREAKING  : The Acting Premier of New South Wales has confirmed the Berala cluster in Western Syndey has once again grown overnight. #9News pic.twitter.com/aDxGjpo6qr
+
+— 9News Sydney (@9NewsSyd) January 5, 2021
+
+block-time updated-timeUpdated at 9.08pm GMT
+
+block-time published-time 8.50pm GMT
+
+To the NSW-Victorian border closure now. Federal MP Darren Chester, whose electorate of Gippsland borders NSW – and we should recall from the bushfires how much crossover there is in the border from Gippsland to the NSW far south coast – says the border should not have been shut.
+
+He told Radio National:
+
+We can’t keep shutting borders every time there are a few cases in one part of the country, we are one nation.
+
+Chester said the decision on borders is one for state governments, but he believes focusing on hotspots is a better approach than introducing hard borders between states.
+
+I don’t think the border closure was the right decision by any stretch... actually shutting borders all the time in these cases rather than focusing on the hotspot areas I think is the wrong decision...
+
+There are now people stranded through no fault of their own on the wrong side of the border, they have been in most cases in places where there are no Covid cases, they are at no more risk than if they had stayed at home.
+
+He said that people who travelled to regional NSW over the holiday period left home when regional NSW was listed by Victoria as a “green zone”, and adds “people took that to be green means go”. The travel advice and warnings in the days before Christmas was focused on Sydney but Chester says most people who have contacted his office travelled to regional areas a significant distance from Sydney:
+
+Stop telling people that they shouldn’t have travelled... They went on holidays, they caught up with family and friends. NSW is a large state, it’s 800,000 sq km, it’s three times the size of the UK, there’s a lot of people who thought they were doing the right thing and took that opportunity to see family and friends.
+
+Chester said “more compassionate” border rules should be introduced for people who were not in hotspot areas of NSW, which could include asking people to get a Covid-19 test in NSW before they are allowed to travel to Victoria:
+
+Obviously if there are people who have been to areas that are regarded as hot zones or red zones where there is a more serious breakout there should be more serious measures, but if you’ve been camping out the back of NSW with your swag or your tent where there are no cases surely we can get those people back to their own communities.
+
+block-time updated-timeUpdated at 9.08pm GMT
+
+block-time published-time 8.36pm GMT
+
+Good morning,
+
+Long testing lines are expected in regional NSW towns again today, with a cafe in Broken Hill, a cafe in Orange and a camping ground in Nyngan listed as exposure sites yesterday. They were on the itinerary of an 18-year-old man who stopped in to BWS Berala on Christmas Eve and unknowingly picked up the virus before heading out west.
+
+NSW Health added five new exposure sites to its list late last night.  They are Merrylands RSL from 4pm to 4.45pm on 28 December; Saravanaa Bhavan Indian restaurant in Parramatta from 10.20am to 10.50am on 28 December; a social cricket match at Ollie Webb Cricket Ground in Parramatta from 7.30am to 11am on 28 December, the Sydney Murugan Temple in Mays Hill from 12.40pm to 1.30pm on 1 January; and the Sydney Marina Dine In & Take Away in Pendle Hill from 12.30pm to 12.50pm on 3 January.
+
+Anyone who attended any of the above venues at the listed times is advised to get tested and self-isolate until provided with further advice by NSW Health.
+
+In Victoria authorities have listed new exposure sites  on the Mernda line from Southern Cross to Victoria Park stations, between 2.30pm to 2.45pm on 28 December; and the Tamarind 8 restaurant in Narre Warren from 6.30pm to 7pm on 30 December. Anyone at either location has been told to get tested and self-isolate until they get a negative result.
+
+New exposure sties were also listed at the Nike Company Store in South Melbourne from 12pm to 12.45pm on 30 December. Anyone at the store at that time has been told to get tested and self-isolate for 14 days. Finally, anyone who was at the Culture Kings store in Melbourne from 1pm to 1.30pm on 30 December has been advised to monitor for symptoms.
+
+Let’s crack on. You can reach me on Twitter at @callapilla  and at calla.wahlquist@theguardian.com
+
+block-time updated-timeUpdated at 9.03pm GMT

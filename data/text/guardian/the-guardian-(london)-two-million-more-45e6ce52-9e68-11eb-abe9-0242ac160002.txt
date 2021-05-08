@@ -1,0 +1,21 @@
+Nearly 2 million more people in England will be asked to shield and 800,000 of those offered priority vaccination as a result of new modelling  designed to identify adults at higher risk from Covid-19. Unlike previous approaches, the new tool developed by the University of Oxford takes in to account a combination of risk factors, including ethnicity and low income. Among the risk factors taken into account are:
+
+Ethnicity
+
+An official inquiry launched last year  found that death rates among people of black and Asian origin in England were greater than in any other group. The Public Health England review found that people of Bangladeshi background faced the greatest danger of dying from Covid-19 - the key factor in a shielding decision - while those from any black background were most likely to be diagnosed with it.
+
+Under the new regime, various ethnicities are ranked in order of risk, with nine categories now taken into account. Black African and Caribbean are the highest risk of the ethnicities included, while Indian, Bangladeshi and Pakistani are fourth, fifth and sixth on that list, followed by Chinese and white. In second and third places are the rather broader "other ethnic" and "other Asian" groups.
+
+Economic deprivation
+
+The researchers will use the Townsend deprivation score, which is based on postcode to give an idea of economic deprivation. According to a British Medical Journal article on the research behind the new method, it includes considerations such as unemployment and non-car ownership, as well as non-home ownership and household overcrowding.
+
+According to research by the Health Foundation  released in December last year, overcrowded housing in England may have increased the number of deaths.
+
+Body mass index
+
+BMI will still be taken into account because obesity has been shown to be a key factor when determining the risk of death for an infected person. In August last year , a global study suggested obesity could increase the risk of dying by nearly 50%. The findings, which the lead researcher described as "scary", show that the risks for people with obesity are greater than previously thought.
+
+Age
+
+While older people have always been considered at greater risk, age is confirmed as a key determining factor. According to ONS data from last year, age was the single most important, with 88% of those who have died in England and Wales aged older than 65 as of 11 June 2020.

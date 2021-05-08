@@ -1,0 +1,87 @@
+Fraudsters see opportunities to target us in these uncertain times. Here are their most popular schemes and how we can protect ourselves.
+
+Never have we been so attractive as targets for fraudsters and scammers as we are right now.
+
+That’s because the uncertainty around the coronavirus pandemic has created more opportunities for robocallers, hackers and other thieves.
+
+For one thing, millions of people are filing new claims for unemployment benefits and awaiting            stimulus checks. So when a phone call or an email from someone purporting to be a bank or a government official comes in, it is tougher for us to ignore.
+
+Plus with so many people being required to work from home, our personal tech devices have become an attractive target for those looking to infiltrate businesses.
+
+While there is little data about the extent of such shadowy activities, security experts said they had seen an increase in scams invading our inboxes, phones and websites. Last month, the Federal Trade Commission issued a warning, advising people to not respond to digital communications from those claiming to have information about checks from the government, among other schemes.
+
+“It’s a Pandora’s box of opportunities that they can leverage,” said Sam Espinosa, an executive at Next Caller, which develops technology to detect fraudulent calls. “The first time you’re dealing with unemployment may not be the time you’re thinking, ‘This is a fraudster.’”
+
+In a survey by Next Caller last week, 37 percent of the respondents said they believed they had been targeted by fraud and scams related to the coronavirus, up from 32 percent last month. In addition, 44 percent said they felt more vulnerable to fraud now that their businesses were allowing them to work from home.
+
+I talked to security experts about some of the most prominent scams and ways we can protect ourselves. Here’s a guide of what not to fall for.
+
+Fake Websites
+
+Even the simplest things, like buying a bottle of hand sanitizer, feel hard right now. Many of us have anxiously turned to the web to search for solutions. Fraudsters are trying to capitalize on our behavior by creating fake websites.
+
+Some of the fraudulent sites look like clones of legitimate government sites containing information about Covid-19 but also show malicious ads asking for your personal information. Other fake websites are stores that pretend to sell face masks and cleaning supplies but exist only to collect your credit card information. Then the scammers can use the information you unwittingly provided to gain access to your finances.
+
+“The number of sites and stores that popped up all over the place has increased,” said Ron Culler, a senior director of technology and solutions for the security firm ADT Cybersecurity. Shortly after the government began issuing stimulus checks, he said, scammers registered 15,000 fake websites posing as the I.R.S. to steal people’s personal and financial information.
+
+Here are a few measures to protect yourself from fraudulent websites:
+
+•Check the website’s URL. A phony site may look identical to a government or banking website, but the domain name in the address bar is a giveaway of a fake. Click on your address bar and look for domains ending in “com.co,” “.ma” or “.co” instead of more legitimate domains like “.com” or “.org.”
+
+Check the website’s URL. A phony site may look identical to a government or banking website, but the domain name in the address bar is a giveaway of a fake. Click on your address bar and look for domains ending in “com.co,” “.ma” or “.co” instead of more legitimate domains like “.com” or “.org.”
+
+•Install an ad blocker. To prevent your browser from loading a shady ad seeking your personal information, you can download an ad-blocking extension for your browser. For computer browsers, I recommenduBlock Origin, and on iPhones I recommend            1Blocker X.
+
+Install an ad blocker. To prevent your browser from loading a shady ad seeking your personal information, you can download an ad-blocking extension for your browser. For computer browsers, I recommenduBlock Origin, and on iPhones I recommend            1Blocker X.
+
+Scam Calls
+
+Robocallers have a reputation for sounding dumb, but in reality, they work hard for your money and are resourceful.
+
+They do their homework on you and adapt to your responses. Most of the time, they “spoof” phone numbers, manipulating phone networks to ring your phone from numbers they aren’t actually calling from — including digits that belong to your bank or a government agency.
+
+In extreme cases, two scammers work together — one is on the phone with your bank while the other is on the phone with you — asking you for personal information so they can immediately trick the bank’s customer support agent into granting access to your account.
+
+“What they’re looking for is any crack in the system,” Mr. Espinosa said. High-risk calls to financial institutions are 50 percent higher than before the pandemic, according to his company, which tracks the number of potentially fraudulent calls being made to businesses. One bank is getting 6,000 more high-risk calls per hour, he said.
+
+So here’s what to do:
+
+•Hang up the phone and call back. Robocallers have been a nuisance for years, but now more than ever, we should be wary of any call from a business or an organization. If, for example, your bank calls with a fraud alert, hang up and call the customer service number on the back of your credit card and ask your bank whether it truly tried to call you.•Remove businesses from your address book. A saved entry in your address book could give you false confidence that a call is legitimate. Let’s say you have Citibank’s support number saved in your address book and labeled it “Citibank.” If a fraudster spoofed Citibank’s support number and called you, your smartphone would show that a call is coming in from Citibank. It’s best to delete these phone book entries so scammers don’t catch us off guard.
+
+Hang up the phone and call back. Robocallers have been a nuisance for years, but now more than ever, we should be wary of any call from a business or an organization. If, for example, your bank calls with a fraud alert, hang up and call the customer service number on the back of your credit card and ask your bank whether it truly tried to call you.
+
+Remove businesses from your address book. A saved entry in your address book could give you false confidence that a call is legitimate. Let’s say you have Citibank’s support number saved in your address book and labeled it “Citibank.” If a fraudster spoofed Citibank’s support number and called you, your smartphone would show that a call is coming in from Citibank. It’s best to delete these phone book entries so scammers don’t catch us off guard.
+
+Email and Text Messages
+
+Phishing, in which a scammer impersonates someone to ask for your personal information, is one of the oldest internet scams. But it still happens because it works.
+
+Fraudsters have adapted to the ever-changing news cycle in the pandemic. In emails and texts, they have worn several disguises, pretending to be the World Health Organization, the Centers for Disease Control and Prevention, the Internal Revenue Service and more, according to ADT.
+
+Their emails and texts purport to have information about the virus or how people can get financial assistance. But their messages frequently contain links to websites asking for personal information, or they download files containing malware.
+
+Here’s what to look out for:
+
+•Check the sender. Similar to fake websites, fraudulent email addresses will look like legitimate ones but often be off by a character or two. Similarly, scam texts tend to come from phone numbers with more than 10 digits.•Check — but don’t click on — hyperlinks. In most email programs, you can use your mouse cursor to hover over a link and see a preview of the page it will open. If the link looks suspicious, mark the email as spam and delete it.In a text, generally avoid clicking on links from unknown senders — and don’t respond.
+
+Check the sender. Similar to fake websites, fraudulent email addresses will look like legitimate ones but often be off by a character or two. Similarly, scam texts tend to come from phone numbers with more than 10 digits.
+
+Check — but don’t click on — hyperlinks. In most email programs, you can use your mouse cursor to hover over a link and see a preview of the page it will open. If the link looks suspicious, mark the email as spam and delete it.In a text, generally avoid clicking on links from unknown senders — and don’t respond.
+
+Your Home (Now Your Office)
+
+What’s unique about the pandemic is that millions of office workers are working from home. That means the attacks on our companies are increasingly being directed at us at home. Hackers trying to steal information from a business might look to attack our personal email accounts or home networks, Mr. Culler said.
+
+The onus is on us to follow some best practices to protect our employers’ data security in addition to our own, he said.
+
+Those steps include:
+
+•Check your network security. Like computer operating systems, Wi-Fi routers need security updates. Check the instruction manual for your router to log in to the settings and confirm if it’s running the latest version of its firmware, or software system. If your router is more than seven years old, it probably no longer gets security updates, so your best bet is to buy a new router. I recommend modern Wi-Fi systems, such as Amazon’s Eero or Google Wifi, which automatically download security updates.Obvious but also important: Make sure your router has a strong password.•Keep work and business tech separate. To work from home, employees may be tempted to start using their own tools, like their computers, personal email addresses and messaging apps. However, your equipment and apps were probably not set up to protect your company’s network security.It’s best to do work on company-provided equipment, internet accounts and software. If you lack a tech tool you need for work, make a request to your I.T. department.
+
+Check your network security. Like computer operating systems, Wi-Fi routers need security updates. Check the instruction manual for your router to log in to the settings and confirm if it’s running the latest version of its firmware, or software system. If your router is more than seven years old, it probably no longer gets security updates, so your best bet is to buy a new router. I recommend modern Wi-Fi systems, such as Amazon’s Eero or Google Wifi, which automatically download security updates.Obvious but also important: Make sure your router has a strong password.
+
+Keep work and business tech separate. To work from home, employees may be tempted to start using their own tools, like their computers, personal email addresses and messaging apps. However, your equipment and apps were probably not set up to protect your company’s network security.It’s best to do work on company-provided equipment, internet accounts and software. If you lack a tech tool you need for work, make a request to your I.T. department.
+
+All of the precautions above may sound complicated, but if in doubt, turn back to something you learned in childhood and add a twist: Never talk to strangers, especially when they ask for your personal information.
+
+PHOTO:  (PHOTOGRAPH BY Glenn Harvey FOR THE NEW YORK TIMES)

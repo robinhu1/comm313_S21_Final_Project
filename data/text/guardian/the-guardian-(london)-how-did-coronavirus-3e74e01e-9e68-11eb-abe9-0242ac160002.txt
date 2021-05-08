@@ -1,0 +1,57 @@
+In the public mind, the origin story of coronavirus seems well fixed: in late 2019 someone at the now world-famous Huanan seafood market in Wuhan was infected with a virus from an animal.
+
+The rest is part of an awful history still in the making, with Covid-19 spreading from that first cluster in the capital of China's Hubei province to a pandemic that has killed about 80,000 people so far.
+
+Stock footage of pangolins - a scaly mammal that looks like an anteater - have made it on to news bulletins, suggesting this animal was the staging post for the virus before it spread to humans.
+
+But there is uncertainty about several aspects of the Covid-19 origin story that scientists are trying hard to unravel, including which species passed it to a human. They're trying hard because knowing how a pandemic starts is a key to stopping the next one.
+
+Prof Stephen Turner, head of the department of microbiology at Melbourne's Monash University, says what's most likely is that virus originated in bats.
+
+But that's where his certainty ends, he says.
+
+On the hypothesis that the virus emerged at the Wuhan live animal market from an interaction between an animal and a human, Turner says: "I don't think it's conclusive by any means."
+
+"Part of the problem is that the information is only as good as the surveillance," he says, adding that viruses of this type are circulating all the time in the animal kingdom.
+
+The fact that the virus has infected a tiger in a New York zoo shows how viruses can move around between species, he says. "Understanding the breadth of species this virus can infect is important as it helps us narrow down down where it might have come from."
+
+Scientists say it is highly likely that the virus came from bats but first passed through an intermediary animal in the same way that another coronavirus - the 2002 Sars outbreak - moved from horseshoe bats to cat-like civets before infecting humans.
+
+One animal implicated as an intermediary host between bats and humans is the pangolin. The International Union for Conservation of Nature says they are "the most illegally traded mammal in the world" and are prized for their meat and the claimed medicinal properties of their scales.
+
+As reported in Nature, pangolins were not listed on the inventory of items being sold in Wuhan, although this omission could be deliberate as it's illegal to sell them.
+
+"Whether the poor pangolin was the species at which it jumped, it's not clear," Turner says. "It's either mixed in something else, mixed in a poor pangolin, or it's jumped into people and evolved in people."
+
+Prof Edward Holmes, of the University of Sydney, was a co-author on a Nature study that examined the likely origins of the virus by looking at its genome. On social media he has stressed that the identity of the species that served as an intermediate host for the virus is "            still uncertain ".
+
+One statistical study looked at a characteristic of the virus that evolved to enable it to latch on to human cells. Pangolins were able to develop this characteristic, but so were cats, buffalo, cattle, goats, sheep and pigeons.
+
+Another study claimed to have ruled out pangolins as an intermediary altogether, because samples of similar viruses taken from pangolins lacked a chain of amino acids seen in the virus now circulating in humans.
+
+The study Holmes worked on suggested that the scenario in which a human at the Wuhan market interacted with an animal that carried the virus was only one potential version of the Covid-19 origin story. Another was the possibility that a descendent of the virus jumped into humans and then adapted as it was passed from human to human.
+
+"Once acquired, these adaptations would enable the pandemic to take off and produce a sufficiently large cluster of cases to trigger the surveillance system that detected it," the study said.
+
+Analysis of the first 41 Covid-19 patients in medical journal the Lancet found that 27 of them had direct exposure to the Wuhan market. But the same analysis found that the first known case of the illness did not.
+
+This might be another reason to doubt the established story.
+
+Prof Stanley Perlman, a leading immunologist at the University of Iowa and an expert on previous coronavirus outbreaks that have stemmed from animals, says the idea the link to the Wuhan market is coincidental "cannot be ruled out" but that possibility "seems less likely" because the genetic material of the virus had been found in the market environment.
+
+Perlman told Guardian Australia he does believe there was an intermediary animal but adds that while pangolins are possible candidates, they "are not proven to be the key intermediary".
+
+"I suspect that any evolution [of the virus] occurred in the intermediate animal if there was one. There has been no substantial changes in the virus in the three months of the pandemic, indicating that the virus is well adapted to humans."
+
+So-called wet markets - where live animals are traded - have been implicated in previous outbreaks of coronaviruses, in particular Sars.
+
+Dr Michelle Baker, an immunologist at CSIRO who studies viruses in bats, says some of the research on Covid-19's origins have stepped off from what was known from the past.
+
+But "we really don't know" how accurate the origin story is, she says: "There's some sort of connection [to the Wuhan market] and there were people exposed to the market that were infected."
+
+Baker says what is "very likely" is that the virus originated in a bat. "It's a likely scenario but we will never know. The market was cleaned up quite quickly. We can only speculate."
+
+"These wet markets have been identified as an issue because you do have species interacting," she says. "It's an opportunity to highlight the dangers of them and an opportunity to clamp down on them."
+
+Turner adds: "We've found the ancestors of the virus, but having broader knowledge of the coronavirus in other species might give us a hint about the evolution of this thing and how it jumped."

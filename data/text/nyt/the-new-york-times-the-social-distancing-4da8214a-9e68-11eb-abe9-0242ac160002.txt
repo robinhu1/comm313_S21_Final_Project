@@ -1,0 +1,130 @@
+The idea has been around for centuries. But it took a high school science fair, George W. Bush, history lessons and some determined researchers to overcome skepticism and make it federal policy.
+
+WASHINGTON -- Fourteen years ago, two federal government doctors, Richard Hatchett and Carter Mecher, met with a colleague at a burger joint in suburban Washington for a final review of a proposal they knew would be treated like a piñata: telling Americans to stay home from work and school the next time the country was hit by a deadly pandemic.
+
+When they presented their plan not long after, it was met with skepticism and a degree of ridicule by senior officials, who like others in the United States had grown accustomed to relying on the pharmaceutical industry, with its ever-growing array of new treatments, to confront evolving health challenges.
+
+Drs. Hatchett and Mecher were proposing instead that Americans in some places might have to turn back to an approach, self-isolation, first widely employed in the Middle Ages.
+
+How that idea -- born out of a request by President George W. Bush to ensure the nation was better prepared for the next contagious disease outbreak -- became the heart of the national playbook for responding to a pandemic is one of the untold stories of the coronavirus crisis.
+
+It required the key proponents -- Dr. Mecher, a Department of Veterans Affairs physician, and Dr. Hatchett, an oncologist turned White House adviser -- to overcome intense initial opposition.
+
+It brought their work together with that of a Defense Department team assigned to a similar task.
+
+And it had some unexpected detours, including a deep dive into the history of the 1918 Spanish flu and an important discovery kicked off by a high school research project pursued by the daughter of a scientist at the Sandia National Laboratories.
+
+The concept of social distancing is now intimately familiar to almost everyone. But as it first made its way through the federal bureaucracy in 2006 and 2007, it was viewed as impractical, unnecessary and politically infeasible.
+
+''There were two words between 'shut' and 'up''' initially, said Dr. Howard Markel, who directs the University of Michigan's Center for the History of Medicine and who played a role in shaping the policy as a member of the Pentagon research team. ''It was really ugly.''
+
+Dr. Mecher was there when Dr. Hatchett presented government public health experts the plan that the two of them and Dr. Lisa M. Koonin of the Centers for Disease Control and Prevention had reviewed over burgers and beer.
+
+''People could not believe that the strategy would be effective or even feasible,'' Dr. Mecher recalled.
+
+But within the Bush administration, they were encouraged to keep at it and follow the science. And ultimately, their arguments proved persuasive.
+
+In February 2007, the C.D.C. made their approach -- bureaucratically called Non-Pharmaceutical Interventions, or NPIs -- official U.S. policy.
+
+Following a five-year review by the Obama administration, the strategy was updated in a document published in 2017. And after long delays in which President Trump played down the threat from Covid-19, the disease caused by the coronavirus, and failed to heed warnings about it from inside his own government, it was used to encourage the states to lock down as confirmed cases and deaths shot up.
+
+The Bush Initiative
+
+The effort began in the summer of 2005 when Mr. Bush, already concerned with bioterrorism after the Sept. 11, 2001, attacks, read a forthcoming book, ''The Great Influenza,'' by John M. Barry, about the Spanish flu outbreak of 1918.
+
+Mr. Bush's concern was elevated by a string of new outbreaks caused by infectious diseases transferring from birds and other animals to humans, including an avian flu outbreak that year in Vietnam. Because there was no vaccine for these new threats, they could spread rapidly.
+
+''A pandemic is a lot like a forest fire,'' Mr. Bush said in a speech at the National Institutes of Health. ''If caught early it might be extinguished with limited damage. If allowed to smolder, undetected, it can grow to an inferno that can spread quickly beyond our ability to control it.''
+
+To develop ideas, the Bush administration enlisted Dr. Hatchett, who had served as a White House biodefense policy adviser, and Dr. Mecher, who was a Veterans Affairs medical officer in Georgia overseeing care in the Southeast.
+
+'''Someone from the White House is on the phone,''' Dr. Mecher, then 49, recalled his secretary telling him in the fall of 2005, her voice expressing some disbelief.
+
+A blunt-speaking, Chicago-born intensive care physician, Dr. Mecher had almost no pandemic policy expertise. Instead, he was recruited because they needed someone who understood how a hospital actually worked, said Dr. Rajeev Venkayya, who was a special assistant to Mr. Bush for biodefense.
+
+Dr. Koonin, who worked on preparedness planning at the C.D.C., also played a key role.
+
+''Strategic, out-of-the-box thinkers,'' is how Dr. Venkayya, who now oversees vaccine production at Takeda, a Japan-based pharmaceutical company, described what he was looking for.
+
+The Social Network
+
+Given the increased danger from new strains of influenza and the reality that existing antiviral drugs like Tamiflu did not work against all contagious diseases, Drs. Hatchett and Mecher and their team began exploring other ways to combat a large-scale contagion.
+
+It was about that time that Dr. Mecher heard from Robert J. Glass, a senior scientist at Sandia in New Mexico who specialized in building advanced models to explain how complex systems work -- and what can cause catastrophic failures.
+
+Dr. Glass's daughter Laura, then 14, had done a class project in which she built a model of social networks at her Albuquerque high school, and when Dr. Glass looked at it, he was intrigued.
+
+Students are so closely tied together -- in social networks and on school buses and in classrooms -- that they were a near-perfect vehicle for a contagious disease to spread.
+
+Dr. Glass piggybacked on his daughter's work to explore with her what effect breaking up these networks would have on knocking down the disease.
+
+The outcome of their research was startling. By closing the schools in a hypothetical town of 10,000 people, only 500 people got sick. If they remained open, half of the population would be infected.
+
+''My God, we could use the same results she has and work from there,'' Dr. Glass recalled thinking. He took their preliminary data and built on it by running it through the supercomputers at Sandia, more typically used to engineer nuclear weapons. (His daughter's project was entered in the Intel International Science and Engineering Fair in 2006.)
+
+Dr. Mecher received the results at his office in Washington and was amazed.
+
+If cities closed their public schools, the data suggested, the spread of a disease would be significantly slowed, making this move perhaps the most important of all of the social distancing options they were considering.
+
+''Targeted social distancing strategies can be designed to effectively mitigate the local progression of pandemic influenza without the use of vaccine or antiviral drugs,'' concluded a study that Dr. Glass published in the Emerging Infectious Diseases journal. Laura, then a high school junior, got a credit.
+
+Drs. Hatchett and Mecher and their team soon found themselves measuring the width of the standard school bus seat and the average classroom size in the United States, calculating how closely spaced students are and agreeing that any plan would have to feature closing schools.
+
+At the same time, they were circling in on another fundamental challenge: If a government was going to rely on the blunt instrument of social distancing to prevent widespread death, how early would it have to act?
+
+A Lesson From the Past
+
+Dr. Markel had spent his career studying contagious disease outbreaks. Recently, he had been working on a related assignment from the Pentagon, which had a narrower but equally urgent concern: the vulnerability of U.S. military personnel to a viral health threat.
+
+Asia was hit in 2005 by a bird flu that crossed over to humans and spread to locations where the United States had forces stationed, including the Philippines. That led Dr. Markel to propose -- after consulting a dictionary and thesaurus -- what he called ''protective sequestration,'' like keeping military personnel in mass isolation on docked ships.
+
+The bird flu, while often fatal, did not continue to cross over in large numbers to humans, and the steps he was proposing turned out to be unnecessary. But the work led him to think about the need for a large-scale isolation plan for the United States.
+
+Dr. Markel had published a book, ''When Germs Travel,'' in 2004 that examined six major epidemics since 1900 and how they had traveled across the United States. He decided to work with Dr. Martin S. Cetron, the director of the C.D.C.'s quarantine division, to look more closely at the lessons of the Spanish flu of 1918.
+
+The research started with St. Louis, which had moved relatively quickly to head off the spread of the flu, and Philadelphia, which waited much longer and suffered far more.
+
+Officials in Philadelphia did not want to let the flu disrupt daily life, so they went ahead in September 1918 with a long planned parade that drew hundreds of thousands of spectators to promote war bonds.
+
+In St. Louis, by contrast, the city health commissioner quickly moved to close schools, churches, theaters, saloons, sporting events and other public gathering spots.
+
+Dr. Markel and his team set out to confirm just how important a role timing had played in reducing deaths. They gathered census records and thousands of other documents detailing the date of the first infection, the first death, the first social distancing policies and how long they were left in place in 43 American cities.
+
+Separately, Dr. Mecher and his team looked at the experience of 17 cities, using newspaper clips and other sources.
+
+Both teams came to the same conclusion and published papers on their findings within months of each other in 2007. Early, aggressive action to limit social interaction using multiple measures like closing schools or shutting down public gatherings was vital to limiting the death toll, they found.
+
+''It's like treating heart-attack patients,'' Dr. Mecher said. ''Timing matters.''
+
+A High-Stakes Showdown
+
+After decades of advances by the nation's pharmaceutical companies -- finding treatments or vaccines for major illnesses, including H.I.V. and smallpox -- Americans by the early 21st century had a built-in expectation that no matter what the ailment, there must be some kind of available fix. Locking your family inside your home seemed backward, and encouraging people not to go to work economically disastrous.
+
+The idea of forcibly limiting public assembly or movement had also long been seen as legally and ethically questionable.
+
+So the considerable skepticism among local officials, public health experts and policymakers in Washington was not surprising.
+
+One particularly vociferous critic was Dr. D.A. Henderson, who had been the leader of the international effort to eradicate smallpox and had been named by Mr. Bush to help oversee the nation's biodefense efforts after the 2001 terrorist attacks.
+
+Dr. Henderson was convinced that it made no sense to force schools to close or public gatherings to stop. Teenagers would escape their homes to hang out at the mall. School lunch programs would close, and impoverished children would not have enough to eat. Hospital staffs would have a hard time going to work if their children were at home.
+
+The measures embraced by Drs. Mecher and Hatchett would ''result in significant disruption of the social functioning of communities and result in possibly serious economic problems,'' Dr. Henderson wrote in his own academic paper responding to their ideas.
+
+The answer, he insisted, was to tough it out: Let the pandemic spread, treat people who get sick and work quickly to develop a vaccine to prevent it from coming back.
+
+Caught in the middle, C.D.C. leaders decided to conduct more research and survey community leaders around the country.
+
+The administration ultimately sided with the proponents of social distancing and shutdowns -- though their victory was little noticed outside of public health circles. Their policy would become the basis for government planning and would be used extensively in simulations used to prepare for pandemics, and in a limited way in 2009 during an outbreak of the influenza called H1N1.
+
+Then the coronavirus came, and the plan was put to work across the country for the first time.
+
+Dr. Mecher was a key voice on the ''Red Dawn'' email chain of public health experts in raising early warnings this year about the coronavirus outbreak and Mr. Trump's reluctance to embrace shutdowns and social distancing. The shutdown this year is much bigger than Dr. Mecher and others imagined would be necessary or practical. Testing has been limited and some states issued social distancing orders even before confirming the coronavirus was spreading within their borders.
+
+Dr. Markel called it ''very gratifying to see our work used to help save lives.'' But, he added, ''it is also horrifying.''
+
+''We always knew this would be applied in worst-case scenarios,'' he said. ''Even when you are working on dystopian concepts, you always hope it will never be used.''
+
+
+
+
+

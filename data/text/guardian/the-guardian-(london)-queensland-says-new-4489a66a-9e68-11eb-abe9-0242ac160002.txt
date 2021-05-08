@@ -1,0 +1,37 @@
+The Queensland government has revealed that a new coronavirus strain with a "worrying" set of mutations was detected among two returned travellers who were staying in hotel quarantine in Brisbane in January.
+
+The variant, known as B1525, was picked up by researchers  from the University of Edinburgh who were examining samples taken from GISAID, a global genomics database, in order to look for potential mutations in strains of Covid-19 that should be targeted in future testing.
+
+B1525 differs from the B117 virus found in England and the B1351 strain that originated in South Africa thanks to a set of mutations that include E484K - a mutation to the spike protein on the outside of the virus that plays a role in helping it to enter cells.
+
+The E484K mutation is suspected to have contributed to making the South African and Brazilian variants of the virus more resistant to antibodies seeking to eliminate it - a development that may prove problematic for vaccine rollouts.
+
+While the study  turned up 35 samples of B1525 from Denmark and 33 from the UK, two instances were found in Australia with the earliest being recorded on 17 January 2021.
+
+The exact point of origin of these samples within Australia remains unclear, but they are likely to have been introduced by travellers returning through the hotel quarantine program.
+
+The exact point of origin was initially unclear owing to the way genomic sequencing is performed in Australia and across the world, but Queensland's Chief Health Officer Dr Jeanette Young confirmed the two cases in a statement this afternoon.
+
+"Queensland has recorded two cases with the B1.525 variant, both of whom were in hotel quarantine at the time," Young said.
+
+In a separate statement, federal health authorities said they were aware of the variant strain and played down suggestions it may interfere with any vaccine rollout.
+
+"There is scant information about B1525 and importantly no epidemiological data about whether this variant is more transmissible or causes any change in disease severity," the statement said.
+
+"Although one of the nucleotide mutations, E484K, has been suggested to resist the immune response from people previously infected or vaccinated with some vaccines, the data on this are limited and not yet conclusive.
+
+"An early and very small study in South Africa showed one vaccine had limited impact against mild disease severity. There is no information on the impact on more severe disease and further work is required."
+
+The department also said B1525 does not include a specific mutation that is known to make the English strain more transmissible.
+
+"There is scant information about B1525 and importantly no epidemiological data about whether this variant is more transmissible or causes any change in disease severity," the statement said.
+
+"Although one of the nucleotide mutations, E484K, has been suggested to resist the immune response from people previously infected or vaccinated with some vaccines, the data on this are limited and not yet conclusive.
+
+"An early and very small study in South Africa showed one vaccine had limited impact against mild disease severity. There is no information on the impact on more severe disease and further work is required."
+
+Prof Catherine Bennett, chair in epidemiology at Deakin University, said she was not aware the variant was present in Australia, but said the work done in the study was "important", particularly for the rollout of future vaccines.
+
+"The [mutation identified] is called an escape variant as it seems to slip under the immunity radar in people previously infected by other variants of the virus and is associated with reduced vaccine efficacy - though some vaccines, like Novavax, still have workable efficacy and that's good news," Bennett said.
+
+"When this mutation and other immune escape mutations combine with other mutations, that might signal greater transmissibility or the capacity to cause more serious illness. Hence the concern of this E484K mutation appearing in the old B117 variant from the UK."

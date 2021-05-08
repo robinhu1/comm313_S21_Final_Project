@@ -1,0 +1,45 @@
+New Delhi, Aug. 18 -- The government is in the process of setting up a system to secure the country's financial sector from cyber attacks after agencies pointed to its vulnerability due to the increase in number of digital transactions over the past few months on account of the coronavirus disease (Covid-19) pandemic, and threats from hostile countries such as China and Pakistan, three officials aware of the plans said on condition of anonymity.
+
+At present, the Indian Computer Emergency Response Team (CERT-In) deals with all types of cyber security threats but officials in the administration have been discussing the need for a specialised agency, which could be called Cert-Fin, the officials said, asking not to be identified.
+
+"This is a work in progress. Several rounds of discussions have been held at the Financial Stability and Development Council (FSDC) on the matter of securing the financial sector from cyber attacks," one of the officials said.
+
+FSDC is an apex body for coordination between the various regulators of the financial sector, and is chaired by the finance minister.
+
+Its members include top bureaucrats and heads of financial sector regulators such as the Reserve Bank of India (RBI), the Securities and Exchange Board of India (Sebi), the Pension Fund Regulatory and Development Authority of India (PFRDA), the Insurance Regulatory and Development Authority (IRDA) and the Forward Markets Commission (FMC).
+
+"The government may set up a Computer Emergency Response Team for Financial Sector (CERT-Fin). This has been also discussed at FSDC, but a final decision is awaited as the government wants to take a comprehensive view of cyber security" a second official said. CERT-Fin was first proposed on February 1, 2017 by then finance minister, the late Arun Jaitley.
+
+Banking and ATM networks have been the target of cyber criminals for several years, with attackers often disrupting operations and attempting to steal sensitive data. In one of the biggest attacks of this kind, the data of 3.2 million debit cards used in India was stolen after a malware was injected in a back-end banking system in 2016.
+
+A third official said cyber security, in general, tops the government's agenda since it can disrupt social and political harmony and dislocate financial systems.
+
+Based on inputs from agencies such CERT-In and complaints received by agencies, the government recently decided to ban 59 mobile applications mostly of Chinese origin over what it said was concerns that they may be jeopardising user data.
+
+The security of the financial system has been accorded high priority ; Prime Minister Narendra Modi raised the matter in his Independence Day speech on Saturday. CERT-In functions under the ministry of electronics and information technology (MeitY).
+
+The finance ministry and MeitY did not respond to queries on this matter.
+
+The PM announced on Saturday that a draft of new cyber security policy would be unveiled soon. He said that the government was aware of cyber threats "to the social fabric" and the "economy".
+
+According to the proposal under consideration, Cert-Fin will draw expertise from various financial sector agencies such as the ministry of corporate affairs (MCA), the Employees Provident Fund Organization (EPFO), the Serious Fraud Investigation Office (SFIO), the Security Printing and Minting Corporation of India Limited (SPMCIL) and the Goods and Service Tax Network (GSTN).
+
+RBI's latest Financial Stability Report also flagged the issue of cyber threats to the financial sector. "Cyber security preparedness requires continuous and synchronous efforts from multiple stakeholders with varied levels of cyber security preparedness," it said.
+
+Quoting a report by VMware Carbon Black, Shree Parthasarathy, partner and national leader- Cyber Risk Services at Deloitte India said that hackers from various countries attempted over 40,000 cyber attacks on India's Information Technology infrastructure and banking sector over five days in the last week of June.
+
+Cyber attacks against banks and financial institutions globally have increased 238% amid the Covid-19 crisis between February and April 2020.
+
+Ransomware attacks increased by nine times during the same period.
+
+"Cyber threats are fast evolving and the threat landscape is dynamic. It will be foolhardy to assume current set of controls are adequate," he said adding that "the CERT-Fin is necessary though it may not be adequate."
+
+"The combination of a sudden pandemic, quarantine and unconventional work from home situations has exacerbated this security threat," said GV Anand Bhushan, partner at law firm Shardul Amarchand Mangaldas & Co.
+
+"India was ranked 23rd in the UN Cyber security Index amongst 165 nations. We need to view India as a 'maturing' and 'evolving' category of countries which are continually trying to improve cyber security measures," he added.
+
+Bhushan described CERT-Fin as a grand vision.
+
+Unfortunately till date there has been no budgetary allocation for setting up such a body, he said, adding that it was however clear that CERT-In alone would not be able to meet the emerging challenges in the space.
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

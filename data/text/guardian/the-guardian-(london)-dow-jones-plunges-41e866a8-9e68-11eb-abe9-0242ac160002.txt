@@ -1,0 +1,895 @@
+block-time published-time 12.03am GMT
+
+
+
+Summary
+
+We have moved our coverage to a new blog, which you can find here. Here's a summary of recent events.
+
+•The Dow Jones index of leading US shares has suffered its biggest points fall in history amid the coronavirus crisis, closing down 1,190.95 in New York.•The Australian market plummeted on opening.•Ireland and the Netherlands have reported their first cases of the virus.•In the US Californian health officials are monitoring 8,400 people for symptoms after their arrival on domestic flights, but they have only an "inadequate" 200 test kits.•The New York Times reported a US government whistleblower claiming health workers interacted with Americans quarantined for possible exposure to coronavirus without proper medical training or protective gear, then mingled with the general population.•There are 38 confirmed cases of coronavirus in France, more than doubling the tally in 24 hours.•50 Brits were among 130 guests told they can leave a coronavirus-hit Tenerife hotel.•The death toll in Italy has reached 17.•Facebook Inc said it would cancel its annual developer conference, F8 2020, amid rising concerns of the coronavirus outbreak.•MSF has accused Italian authorities of discriminatory action after one of their search and rescue vessels in the Mediterranean was put under quarantine following the disembarkation of 276 passengers who had been rescued at sea.    A man in protective suit disinfects a school facility where a child was diagnosed with coronavirus, in Thessaloniki A man in a protective suit disinfects a school facility where a child was diagnosed with coronavirus, in Thessaloniki, Greece, February 27, 2020. Photograph: EUROKINISSI/Reuters
+
+The Dow Jones index of leading US shares has suffered its biggest points fall in history amid the coronavirus crisis, closing down 1,190.95 in New York.
+
+The Australian market plummeted on opening.
+
+Ireland and the Netherlands have reported their first cases of the virus.
+
+In the US Californian health officials are monitoring 8,400 people for symptoms after their arrival on domestic flights, but they have only an "inadequate" 200 test kits.
+
+The New York Times reported a US government whistleblower claiming health workers interacted with Americans quarantined for possible exposure to coronavirus without proper medical training or protective gear, then mingled with the general population.
+
+There are 38 confirmed cases of coronavirus in France, more than doubling the tally in 24 hours.
+
+50 Brits were among 130 guests told they can leave a coronavirus-hit Tenerife hotel.
+
+The death toll in Italy has reached 17.
+
+Facebook Inc said it would cancel its annual developer conference, F8 2020, amid rising concerns of the coronavirus outbreak.
+
+MSF has accused Italian authorities of discriminatory action after one of their search and rescue vessels in the Mediterranean was put under quarantine following the disembarkation of 276 passengers who had been rescued at sea.
+
+
+
+block-time updated-timeUpdated at 12.14am GMT
+
+block-time published-time 11.45pm GMT
+
+Coronavirus fears have driven the Australian market down for the fifth day running, with the benchmark ASX200 index dropping almost 3.2% shortly after the opening bell.
+
+Retailer Harvey Norman, which had experienced only very small falls this week, finally succumbed to selling pressure after releasing its half year results this morning.
+
+Within half an hour of the opening bell its shares tumbled 7.9%, the third biggest fall among ASX200 stocks.
+
+The company blamed "widespread bushfires and associated severe reductions in air quality that affected many communities" that hit franchisees during the peak Christmas shopping season for a 4.1% fall in its profits for the six months to the end of December compared to the same time the previous year.
+
+Buy-now-pay-later company Afterpay, which has been something of a market darling, was the biggest loser in early trade, diving 9.4%.
+
+Also plunging were stocks with exposure to the Chinese market or international travel, both of which have been disrupted by the virus crisis.
+
+Online flight booking site Webjet and travel agency Flight Centre both fell more than 4%, national carrier Qantas dropped 3% and Air New Zealand, which is listed on the Australian exchange but is not part of the ASX200 index, was also down 3%.
+
+Also punished was Andrew "Twiggy" Forrest's Fortescue Metals, which exports iron ore to China. Its stock fell almost 5.8%.
+
+enltrAustralian stocks have now dropped 10% from peak; ASX 200 flirts with a technical correction pic.twitter.com/vopjTyXDzE
+
+- David Ingles (@DavidInglesTV) February 27, 2020
+
+enltr #ASX200 Sector update - ouch: Financials 5889 -3.38% Energy 9418 -3.67% Materials 12490 -3.9% Industrials 6489 -2.74% Cons. Discr 2540 -2.9% Cons. Staple 12275 -2.54% Health Care 44207 -1.81% Comms 1204 -2.95% Info Tech 1294 -4.24% Utilities 7716 -2.47%            #asx           #ausbiz
+
+- IGSquawk (@IGSquawk) February 27, 2020
+
+block-time updated-timeUpdated at 11.47pm GMT
+
+block-time published-time 11.34pm GMT
+
+MSF has accused Italian authorities of discriminatory action after one of their search and rescue vessels in the Mediterranean was put under quarantine following the disembarkation of 276 passengers who had been rescued at sea.
+
+The Ocean Viking has 32 crew and one journalist aboard, and is among the search and rescue vessels which patrol for boats carrying migrants fleeing to Europe.
+
+MSF said the vessel had complied with all measures and had been anchored off Sicily for nearly five days, and accused authorities of "discriminatorily applying" quarantine restrictions to search and rescue vessels.
+
+Michael Fark, Head of Mission for Libya and Search and Rescue Operations said:
+
+"Quarantining the Ocean Viking is equivalent to stopping an ambulance in the middle of an emergency. This is a discriminatory action - the only vessels that have been put into quarantine are those conducting rescues.
+
+In the past 48 hours we have had reports of boats in distress in the central Mediterranean. We are deeply worried about the fate of people travelling in them.
+
+Although we have fully complied with the preventive measures, we currently have no reason to suspect any of the crew onboard as having contracted, or having been exposed to, the virus. In compliance with a request from Italian authorities, the temperature and health status of all is being checked and reported by MSF medical team onboard twice daily.
+
+As the conflict in Libya escalates, migrants and refugees trapped in the country say they have no other choice but to risk their lives to escape across the Mediterranean. It is urgent for the Ocean Viking to go back to sea to rescue men, women and children from drowning.
+
+The legitimate public health concerns posed by Covid-19 should not be used to justify the prevention of saving lives as sea."
+
+block-time published-time 11.14pm GMT
+
+The ASX200 has now fallen 220 points, or 3.3%
+
+It's a continuing fall after an immediate cut on opening.
+
+The ASX200 began the day at 6,657.90, and is currently on 6,540.
+
+block-time updated-timeUpdated at 11.14pm GMT
+
+block-time published-time 11.07pm GMT
+
+Australian stock market falls on opening
+
+Australia's ASX200 has taken an immediate cut on opening. But it is just an initial 1.5% and not all stocks have started trading yet.
+
+It is wait and see at the moment.
+
+Just picking one stock - Flight Centre. It was trading at $40.04 a share on close on Friday. This morning it's trading at $32.21 - that's a drop of nearly 20%
+
+block-time updated-timeUpdated at 11.13pm GMT
+
+block-time published-time 10.59pm GMT
+
+Hello, this is Helen Davidson in Sydney picking up our live coverage of the coronavirus outbreak. Many thanks to Sam Gelder and our London team for their work.
+
+I'll update you with a summary of the latest news shortly, but we are just waiting for the Australian stock market to open any minute, after big falls in New York.
+
+The Dow Jones index of leading US shares suffered its biggest points fall in history amid the coronavirus crisis, closing down 1,190.95 in New York.
+
+block-time updated-timeUpdated at 11.04pm GMT
+
+block-time published-time 10.42pm GMT
+
+The number of confirmed coronavirus cases in Switzerland rose to nine on Thursday, as the canton of Basel-City put a number of children into a two-week quarantine after one of their caregivers tested positive for the virus.
+
+A young woman who returned to work at a daycare centre after travelling to Milan has tested positive for Covid-19, authorities said.
+
+"The young woman who resides in the canton of Basel-City is doing well given the circumstances," the region's health department said in a statement.
+
+"As a carer for children and young children working at a daycare in Riehen, she came into contact with many children.
+
+"The health department is now making extensive checks in the patient's professional and personal environment accordingly."
+
+block-time published-time 10.31pm GMT
+
+Officials in California are scrambling to retrace the movements of a woman in the state who is believed to be the first person in the US to contract the coronavirus with no known connection to travel abroad or other known causes.
+
+Sonia Angell, director of the California Department of Public Health, said on Thursday that the woman, who has not been identified, lives in Solano County in northern California.
+
+The county is home to Travis Air Force Base, where dozens of people infected in China or on cruise ships have been treated. But there was no evidence the woman had connections to the base.
+
+block-time published-time 10.16pm GMT
+
+Over in sport, the final two stages of the United Arab Emirates Tour have been cancelled amid fears of a further outbreak of coronavirus, according to teams at the cycle race.
+
+Chris Froome, who is making his comeback from a career-threatening crash last year, Mark Cavendish and Adam Yates are among the riders who will now be tested for the virus.
+
+enltrIt's a shame that the #UAETour has been cancelled but public health must come first. We are all awaiting testing and will remain at the hotel until further notice. I hope those affected make a speedy recovery and there aren't any further cases            #coronavirus
+
+- Chris Froome (@chrisfroome) February 27, 2020
+
+block-time updated-timeUpdated at 10.23pm GMT
+
+block-time published-time 10.07pm GMT
+
+The New York Times is reporting that a US government whistleblower has claimed health workers interacted with Americans quarantined for possible exposure to coronavirus without proper medical training or protective gear, then mingled with the general population.
+
+block-time published-time 9.58pm GMT
+
+As well as being the Dow's worst points fall ever, the index's 4.4% drop was its worst percentage fall in two years.
+
+Meanwhile the tech-focused Nasdaq index tumbled by 4.6%, its worst daily loss since 2011.
+
+Scott Minerd of financial services firm Guggenheim Partners told Bloomberg TV that the coronavirus outbreak "is possibly the worst thing I've ever seen in my career", a time-span which includes the 1987 crash and the collapse of Lehman Brothers.
+
+"This has the potential to reel into something extremely serious," Minerd warned. "It's very hard to imagine a scenario where you can actually contain this, and so that's the thing that to me is very frightening."
+
+block-time updated-timeUpdated at 9.58pm GMT
+
+block-time published-time 9.57pm GMT
+
+CNBC also reports that the Dow - which measures 30 large US companies - and the more broadly-based S&P 500 were also on pace for their worst weekly performance since 2008.
+
+Through Thursday's close, the Dow was down more than 11% week to date while the S&P 500 had lost 10.8%.
+
+block-time published-time 9.54pm GMT
+
+The dramatic fall on Wall Street will have sent shivers through the Asia Pacific markets which open in the next 90 mins.
+
+Australia's ASX200 index is expected to take an early hit with indications of it opening more than 2% down.
+
+Japan and Hong Kong will likely follow.
+
+block-time published-time 9.45pm GMT
+
+This is Wall Street's worst day in two years, reports CNBC:
+
+Thursday marked the Dow's biggest one-day points decline in history. Those losses put the Dow in correction territory, down more than 10% from its record close. It took the Dow just 10 sessions to tumble from its all-time high into a correction.
+
+Our business blog has been covering the gyrations in the market throughout the day.
+
+block-time updated-timeUpdated at 10.10pm GMT
+
+block-time published-time 9.31pm GMT
+
+Dow Jones biggest ever one-day points fall
+
+The Dow Jones index of leading US shares has suffered its biggest points fall in history amid the coronavirus crisis, closing down 1,190.95 in New York. Asian and Australian markets are also expected to fall.
+
+block-time updated-timeUpdated at 9.49pm GMT
+
+block-time published-time 9.07pm GMT
+
+Three west German states have reported a total of 19 new cases of coronavirus, a day after the federal health minister said the country is at the start of an epidemic.
+
+In North Rhine-Westphalia, Germany's most populous state, the health ministry said on Thursday 14 more people had tested positive in the Heinsberg area, where a couple were the first confirmed cases in the state.
+
+The new cases took the total in Heinsberg to 20. All were isolated at home and did not require hospital treatment, the state's health ministry said.
+
+Further south, Baden-Wuerttemberg reported four new cases, taking its total to eight. The state of Rhineland-Palatinate also said on Thursday a man in Kaiserslautern had tested positive for the virus.
+
+"The male patient is doing well so far. He's in isolation," Rhineland-Palatinate's state government tweeted.
+
+On Wednesday, the federal government's health minister, Jens Spahn, said Germany was at the beginning of a coronavirus epidemic after new cases sprung up which could no longer be traced to the virus's original source in China.
+
+block-time published-time 8.52pm GMT
+
+Our Ireland correspondent has more details on preparations in the Republic of Ireland:
+
+Confirmation that Northern Ireland's first case of coronavirus returned from northern Italy via Dublin airport has set off alarm bells in the Republic of Ireland.
+
+Authorities will try to swiftly retrace the patient's journey - where they sat on the plane, their movements through the airport, and how they travelled to Northern Ireland.
+
+Simon Harris, the health minister, says Ireland is prepared for an outbreak. But Michael O'Dwyer, head of the department of anaesthesia and critical care at St Vincent's University hospital in Dublin, told the Irish Times on Thursday that Ireland would struggle to handle even a small number of severely ill patients because the main Dublin hospitals lack capacity for extra patients requiring intensive care.
+
+Even before disclosure of Northern Ireland's first case there was a question mark over St Patrick's festival events across the island.
+
+The St Patrick's Festival committee, which organises events from 13 to 17 March, said it would follow official guidance on risk assessment.
+
+"We have underscored the very urgent need for this documentation to be made available to the festival, so that an informed and prompt decision can be made regarding our forthcoming events. We have clarified to the relevant authorities our readiness to respond in whatever way is required of us in the best interests of public safety."
+
+block-time published-time 8.43pm GMT
+
+The Netherlands has confirmed its first case of coronavirus.
+
+The Dutch National Institute for Public Health said in a statement the patient in the southern city of Tilburg had recently travelled in northern Italy and is now being treated in isolation.
+
+block-time published-time 8.37pm GMT
+
+California health officials are monitoring 8,400 people for coronavirus symptoms after their arrival on domestic commercial flights, but the state had only a limited supply of test kits available, governor Gavin Newsom has said.
+
+The state currently has only about 200 test kits, an "inadequate" number, but has been in "constant contact with federal agencies" that have promised to send a fresh supply of kits in coming days, he said at news briefing in Sacramento.
+
+California officials said 33 people had tested positive for the virus there, but five had since left the state.
+
+The state on Wednesday reported the first known case of the virus in the US of unknown origin. The patient had not recently traveled to an area with a reported outbreak, and was not exposed to another known infected person.
+
+block-time published-time 8.25pm GMT
+
+The Republic of Ireland's health minister said the first case of coronavirus confirmed in Northern Ireland was "not unexpected".
+
+Simon Harris said:
+
+Given the evolving situation, this first case of Covid-19 disease was not unexpected. The National Public Health Emergency Team has been planning for this scenario since January.
+
+The general public should continue to adhere to the public health protocols issued by the Department of Health.
+
+Dr Tony Holohan, chief medical officer in the Department of Health, said: "The HSE is well prepared and is working to inform any contacts the patient had in order to prevent transmission."
+
+block-time published-time 8.20pm GMT
+
+Facebook has cancelled F8, its annual conference for developers, because of Covid-19.
+
+Read the full story here.
+
+More than 5,000 people from around the world attended Facebook's F8 conference in San Jose, California, in 2019. Photograph: Stephen Lam/Reuters
+
+block-time published-time 8.10pm GMT
+
+The NHS is rolling out new services to test people for coronavirus, including "drive through" testing in west London.
+
+The service, provided by Central London Community Healthcare NHS Trust in Parsons Green, is only available after a referral from NHS 111.
+
+It comes after the NHS' strategic incident director for coronavirus asked health services across the country to set up home and community testing.
+
+People are invited to an appointment in their car, where two community nurses carry out a swab in the nose and mouth. The patient is then asked to self-isolate while the swabs are assessed within 72 hours.
+
+block-time published-time 7.53pm GMT
+
+The European Football Championship will kick off in Rome as planned, Uefa has insisted, despite the growing number of coronavirus cases in Italy.
+
+It comes as an unnamed professional footballer in the Italian third tier has tested positive for Covid-19.
+
+Read the full story here.
+
+The 2020 European Championship will be the first to be played all across the continent, with 12 different countries hosting matches. Photograph: Justin Tallis/AFP via Getty Images
+
+block-time updated-timeUpdated at 8.01pm GMT
+
+block-time published-time 7.44pm GMT
+
+Dr Michael McBride said the patient had recently returned from northern Italy.
+
+He said: "I don't think it should cause a lot of concern (to the public). I think we should reassure the public as we have been doing all along. As the minister has said repeatedly it wasn't a case of if but when we would have a case in Northern Ireland.
+
+"We have now seen our first case in Northern Ireland - someone returning from northern Italy - and that is not unexpected."
+
+block-time updated-timeUpdated at 7.45pm GMT
+
+block-time published-time 7.35pm GMT
+
+At a media briefing, Northern Ireland's Public Health Agency (PHA) confirmed testing of a patient had resulted in a presumptive positive test for coronavirus.
+
+The test outcome has now been sent to Public Health England laboratories for verification.
+
+The patient is receiving specialist care and PHA officials are working to identify any contacts the patient had to help prevent further spread.
+
+Northern Ireland's chief medical officer Dr Michael McBride said: "We have robust infection control measures in place which enable us to respond immediately. Our health service is used to managing infections and would assure the public that we are prepared."
+
+McBride said he would not disclose any personal details of the patient, or where they were being held.
+
+block-time updated-timeUpdated at 7.44pm GMT
+
+block-time published-time 7.34pm GMT
+
+More information on the announcement there are now 38 confirmed cases of coronavirus in France, more than doubling the tally in 24 hours.
+
+During a press conference, the French health minister, Olivier Veran, said this "sharp increase" from 18 cases on Wednesday was due to the identification of so-called "contact persons" linked to previously known cases, adding that France was "ready" for an epidemic.
+
+Health ministry director, Jerome Salomon, said out of the 38 cases, two people had died, 12 were cured and 24 were hospitalised, two of those being in a "serious condition".
+
+block-time updated-timeUpdated at 7.56pm GMT
+
+block-time published-time 7.28pm GMT
+
+Chief medical officer of Northern Ireland Michael McBride told journalists that the first confirmed coronavirus patient in the region had travelled from Italy via Dublin.
+
+block-time published-time 7.24pm GMT
+
+France now has 38 confirmed cases of coronavirus, the French health minister has said.
+
+block-time published-time 7.17pm GMT
+
+Sam Gelder here. I will be running the Guardian's live blog, updating you on the latest information surrounding the coronavirus outbreak. If you have any news tips, images or updates from your area then please do share it with me.
+
+Email: sam.gelder.casual@theguardian.com
+
+block-time published-time 7.11pm GMT
+
+Northern Ireland has its first confirmed case of coronavirus
+
+Northern Ireland has its first confirmed case of coronavirus, taking the total number of UK cases to 16.
+
+block-time updated-timeUpdated at 7.28pm GMT
+
+block-time published-time 6.45pm GMT
+
+What is coronavirus and what should I do if I have symptoms?
+
+Read the Guardian's summary of what to do here:
+
+Related:  What is coronavirus and what should I do if I have symptoms?
+
+block-time updated-timeUpdated at 7.20pm GMT
+
+block-time published-time 6.42pm GMT
+
+Summary post - all the latest news updates
+
+I will be handing the live blog over to my colleague shortly. Here is a summary of the main news in the last three hours.
+
+5 0 Brits were among 130 guests told they can leave a coronavirus-hit Tenerife hotel. Some 168 British nationals are among hundreds of guests being kept at the four-star hl Costa Adeje Palace in the south west of the Spanish island after at least four guests, including an Italian doctor, tested positive for coronavirus.
+
+The chief medical officer, professor Chris Whitty, said schools could shut for two months in the event of a pandemic.  He was speaking about measures to reduce risk if the coronavirus outbreak reaches pandemic proportions. While noting that such an outcome was just one possibility, he said that there could be a "social cost" if the virus intensifies seeing mass gatherings reduced and schools closed for more than two months.
+
+A councillor has said Buxton is not in lockdown, amid reporting suggesting it was.  Samantha Flower, a borough councillor for the Burbage area of Buxton, where a school has been closed due to the outbreak, said there was no sense of lockdown in the town but that there was confusion about the advice for anyone with symptoms.
+
+The death toll in Italy reaches 17. Three more people have died in Italy from coronavirus, the Civil Protection Agency said.
+
+Greece has announced that it will reinforce border patrols, citing the threat posed to the country of coronavirus being brought in by refugees and migrants desperate to reach Europe.
+
+block-time updated-timeUpdated at 6.46pm GMT
+
+block-time published-time 6.34pm GMT
+
+Facebook Inc said it would cancel its annual developer conference, F8 2020, amid rising concerns of the coronavirus outbreak. "In place of the in-person F8 event, we're planning other ways for our community to get together through a combo of locally hosted events, videos and live streamed content," said Konstantinos Papamiltiadis, director of platform partnership. The conference, which attracted 5,000 people from around the world last year, was scheduled to be held on 5 -6 May at San Jose, California.
+
+block-time updated-timeUpdated at 6.48pm GMT
+
+block-time published-time 6.28pm GMT
+
+'They have no idea': government failing on coronavirus, say GPs
+
+NHS doctors have told the Guardian of their experiences of the government's handling of coronavirus, warning that they have concerns about how patients who may have been infected are being managed.
+
+James (not his real name), a GP in Derbyshire, where one of the latest British coronavirus cases is thought to have been located, described the Department of Health's response to the virus as "ridiculous" and "negligent".
+
+He said none of his patients who had travelled back from at-risk countries had been given any information at airports or sea ports on what to do if they developed symptoms of coronavirus.
+
+James said his practice had seen patients arriving back from affected areas, some of whom had been on cruises around many regions experiencing coronavirus outbreaks, who had not been given any information on what to do if they developed symptoms.
+
+Read more here
+
+block-time updated-timeUpdated at 6.32pm GMT
+
+block-time published-time 6.23pm GMT
+
+50 Brits among those told they can leave Tenerife hotel
+
+Around 50 Britons quarantined at a coronavirus-hit Tenerife hotel have been told they can leave, the PA news agency understands. Some 168 British nationals are among hundreds of guests being kept at the four-star hl Costa Adeje Palace in the south west of the Spanish island after at least four guests, including an Italian doctor, tested positive for coronavirus. Those who can leave are understood to have arrived on Monday, after the guests who were diagnosed had already left.
+
+Overall, 130 guests from 11 countries have been told they can leave by Spanish authorities.
+
+block-time updated-timeUpdated at 6.29pm GMT
+
+block-time published-time 6.19pm GMT
+
+'Please visit Chinatown': coronavirus fears empty San Francisco district
+
+Most days you can't walk through San Francisco's historic Chinatown without bumping into a tourist's extended arm, readying for a camera-phone photo.
+
+Lunchtime in particular is usually a bustling affair. But on a recent weekday at the height of the coronavirus pandemic that has dominated Asian countries across the Pacific Ocean, there was a noticeable absence of foot traffic.
+
+At the Dragon Gate on Grant Avenue, the entrance to Chinatown that is usually frequented for selfies, no one posed and no one snapped. The picturesque and Instagram-worthy red lanterns that hung between buildings went unphotographed, as did the bright mural of Bruce Lee and the ornate architecture. The erhu that an elderly gentleman played for no one outside Old Saint Mary's Cathedral practically echoed down the street.
+
+Read more here
+
+Related:  'Please visit Chinatown': coronavirus fears empty San Francisco district
+
+block-time updated-timeUpdated at 6.43pm GMT
+
+block-time published-time 6.17pm GMT
+
+England has only 15 available beds for adults to treat the most severe respiratory failure and will struggle to cope if there are more than 28 patients who need them if the number of coronavirus cases rises, according to the government and NHS documents.
+
+Ministers have revealed in parliamentary answers that there are 15 available beds for adult extracorporeal membrane oxygenation (ECMO) treatment at five centres across England. The government said this could be increased in an emergency. There were 30 such beds in total available during the 2018-19 winter flu season.
+
+But an NHS England document prepared in November 2017 reveals the system will struggle to cope if more than 28 patients need the treatment, describing that situation as black/critical.
+
+Related:  Coronavirus: England only has 15 beds for worst respiratory cases
+
+block-time updated-timeUpdated at 6.41pm GMT
+
+block-time published-time 6.13pm GMT
+
+Thanks to everyone who has been emailing and messaging me. I am now moving into my last hour running the Guardian's live blog and your insight has been really useful. If you have any news tips, images or updates from your area then please do share them with me.
+
+Email: sarah.marsh@theguardian.comTwitter: @sloumarsh Instagram: sarah_marsh_journalist
+
+block-time published-time 6.09pm GMT
+
+The Foreign and Commonwealth Office said:
+
+We are urgently seeking clarification from the Canary Island authorities following their announcement that 130 tourists of different nationalities will be granted permission to leave the Costa Adeje Palace Hotel. We continue to offer support to all British nationals at the hotel.
+
+A tourist in quarantine inside the hl Costa Adeje Palace hotel in the Canary island of Tenerife. Photograph: Joan Mateu/AP
+
+block-time updated-timeUpdated at 6.25pm GMT
+
+block-time published-time 6.03pm GMT
+
+US officials are ramping up efforts to guard Americans against a local spread of the new coronavirus, dispatching test kits nationwide, and promising funding legislation within the next two weeks. At least 40 public health labs should now be able to test specimens for coronavirus and that could more than double by Friday, health and human services secretary Alex Azar told a House of Representatives committee. He said a newly manufactured test from the Centers for Disease Control and Prevention (CDC) can be sent to 93 public health labs as soon as Monday, and a privately manufactured test based on the new CDC test could be sent to those same labs as early as Friday.
+
+Updated at 6.24pm GMT
+
+5.57pm GMT
+
+Death toll in Italy rises to 17
+
+Three more people have died in Italy from coronavirus, bringing the death toll from the worst outbreak of the illness in Europe to 17, the Civil Protection Agency said. The number of confirmed cases has risen to 650, officials said, from 528 announced at a news conference some seven hours earlier. The vast majority are in the northern regions of Lombardy and Veneto.
+
+5.55pm GMT
+
+The virus is beginning to have an effect on sporting events and organisations. Italian football authorities have insisted matches be played behind closed doors this weekend and the Ireland Italy clash in the Six Nations rugby has been postponed.
+
+Bigger concerns, however, lie over the fate of this summer's prestige tournaments, particularly the men's European Football Championship in June and the Tokyo Olympics the month after.
+
+The International Olympic Committee (IOC) on Wednesday declared "business as usual" in their plans. However Christopher Dye, an epidemiologist at Oxford University who worked with the IOC during the Zika virus outbreak before the 2016 Rio Games, said that governing bodies will currently be contemplating their response to all possible scenarios, and who would be responsible should things go wrong.
+
+"What the Japanese authorities and IOC are saying is that they fully intend to go ahead and that would be the right judgment at this stage", Dye told the Guardian. "The end of July is a long way away. We are not even two months into the [outbreak] and a lot of things have already happened. We have seen it spread across China and decline almost everywhere in China and in some parts at a dramatic rate.
+
+"Nobody knows what is going to happen by the summer but the sensible thing is to consider different scenarios. What the organisers will be asking is: what are the risks, the costs, the benefits and who will be responsible if something horrible happened?"
+
+The European Championships are set to be held in 12 cities across the continent, which poses a different risk for the spread of the disease and, according to Dye. "The idea of controlling spread close to venues would essentially be an impossibility.
+
+"The issue of responsibility will be very important as well. What's happening in Italy at the moment will be one factor that will be taken into account. But Italy in February when it comes to April and May will look like relatively distant past."
+
+Day said he thought the likelihood of the coronavirus mutating into a stronger strain was unlikely this year but that the occurrence of victims testing positive after having apparently already recovered from the virus was concerning. "We don't know why this has happened. It could be that the testing was not rigorous enough", he said. "But if it is the case that immunity is not long lasting then developing a vaccine for coronavirus will be more difficult".
+
+Updated at 6.21pm GMT
+
+5.51pm GMT
+
+The director of the Wellcome Trust has called for the world bank to spend $10bn on the crisis.
+
+Jeremy Farrar said an urgent commitment of $10bn (£7.7bn), "with more to follow as needed," was "essential" from the World Bank to "underpin the public health measures in low- and middle-income countries, coordinated by the WHO alongside critical investment in diagnostics, therapeutics and vaccines."
+
+Jeremy FarrarPhotograph: Dave Guttridge/The Francis Crick Institute
+
+He said:  " Anything less leaves us at risk of much greater costs later and long-term catastrophe. The sums are considerable. The decision to release funds should not be taken lightly, but the stakes could not be higher."
+
+Farrar said what was missing in the global response was tangible, high-level funding and support from global financial institutions including the World Bank, Regional Development Banks and the International Monetary Fund.
+
+"The possible impact of this coronavirus is far beyond a health emergency - it's a global crisis with potential to reach the scale of the global financial crisis of 2008," he said.
+
+Updated at 6.16pm GMT
+
+5.37pm GMT
+
+The coronavirus outbreak will cost world tourism at least $22bn (£17bn) owing to a drop in spending by Chinese tourists, said the head of the World Travel and Tourism Council.
+
+The Covid-19 epidemic has killed more than 2,760 people, mostly in China - where it first emerged in December - and infected more than 81,000 in over 45 countries.
+
+"It is too soon to know but the WTTC has made a preliminary calculation in collaboration with (research firm) Oxford Economics which estimates that the crisis will cost the sector at least $22bn," Gloria Guevara told El Mundo daily.
+
+"This calculation is based on the experience of previous crises, such as Sars or hlN1, and is based on losses deriving from Chinese tourists who have not been travelling in recent weeks," she said.
+
+"The Chinese are the tourists who spend most when they travel."
+
+The loss figure is the most optimistic scenario envisaged by the study which was published on 11 February by Oxford Economics, taking the hypothesis of a 7% drop in overseas trips by Chinese nationals.
+
+But the losses could more than double, reaching as much as $49bn if the crisis lasts as long as the Sars outbreak, which erupted in November 2002 and was brought under control in July 2003.
+
+Updated at 6.14pm GMT
+
+5.30pm GMT
+
+Schools have been issued with advice on coronavirus by Health Protection Scotland. Guidance sent out on Thursday was given as two more people were diagnosed with the infection in England - taking the total to 15. The outbreak of this strain of coronavirus started in the Chinese city of Wuhan earlier this month and has killed 2,747 people in the country. The guidance was sent to directors of education in local authorities to prep staff on preventing the spread of infections, courses of action if staff or pupils become unwell and resources on hygiene techniques. Schools will also be advised on how to deal with people returning from affected areas, similar to what has already been released to the public. Colleges and universities also received the guidance, along with independent schools. The education secretary, John Swinney, said:
+
+This guidance has been circulated to schools, colleges, universities and early learning and childcare providers in Scotland following general guidance on basic preventative measures against coronavirus issued earlier in the month.
+
+Advice to people returning from affected countries will depend on which regions they have visited and will be updated as the situation changes, so we're asking members of the public to stay up to date with the latest health and travel advice.
+
+We are well-prepared for an outbreak in Scotland but the public also has a vital role to play in helping us contain any positive cases by keeping themselves informed and following basic hygiene precautions such as hand-washing and covering their nose and mouth with a tissue when coughing or sneezing.
+
+There have still not been any confirmed cases in Scotland of the virus, although the Scottish Government and NHS expect diagnoses to come, with preparation work already being carried out.
+
+Updated at 5.40pm GMT
+
+5.23pm GMT
+
+The leader of Derbyshire county council, Barry Lewis, has written a blog update on the situation in Buxton :
+
+I'm sure you will be well aware of the coronavirus which not so long ago seemed like something that was happening a long way from Derbyshire and probably wouldn't touch our lives in any major way.
+
+Unfortunately I can tell you that we do now have a confirmed case in Derbyshire.
+
+I can't say too much about the case, that's in the hands of Public Health England. But what I can say is that all agencies including the county council and its public health staff are working very closely and extremely hard to contain the virus and keep us all safe. I must emphasise to all our residents that the risk remains low.
+
+If you're worried, there's loads of information on the NHS website - go to www.nhs.uk/coronavirus. And, we'll be keeping the council's website up to date with the latest information too at            www.derbyshire.gov.uk/coronavirus
+
+5.13pm GMT
+
+Robert Largan, MP for the High Peak - which includes Buxton - described claims that the town was on lockdown as "really unhelpful". He added: "A primary school and a doctors temporarily closing does not constitute a 'lockdown'. More responsible journalism please." The Buxton Opera House insisted it was going ahead with its performance of Fascinating Aida tonight, and the Buxton Taphouse pub and Hydro cafe said it was business as usual.
+
+Updated at 5.26pm GMT
+
+5.12pm GMT
+
+Buxton is not in lockdown, councillor says
+
+Samantha Flower, a borough councillor for the Burbage area of Buxton, where a school has been closed due to the outbreak, said there was no sense of lockdown in the town but that there was confusion about the advice for anyone with symptoms.
+
+Flower said: "We're not locking down. Until they tell us to cut off the town we're not doing that. We have got to take proper advice from the medical profession and they're being very calm about it. This is a very rural community and people see themselves as quite tough, rugged individuals - they're not the sort of people to panic over a sniffle."
+
+She added: "It's a small community - we all know each other, we all use the same shops - but nobody knows if they have been in direct contact [with the confirmed Coronavirus patient]."
+
+Flower said that people in Buxton that have the symptoms aren't able to get through to speak to someone on 111 and end up being told just to go to the website. "The problem is people aren't able to directly speak to anyone. If you call the GP they say to ring 111 and no-one can say for certain if they were in direct contact with the parent and the child that had it. There's a bit of confusion. People are thinking if they have all these symptoms do I just stay at home and lockdown and then call for help? They're not sure what to do." Flower said she had been told that Buxton Medical Practice would reopen on Friday and had been deep-cleaned as news of the confirmed case emerged. "I don't want people to be overly concerned," she said. "A little bit more information would be helpful because we'd like to know what happens when you can't say for certain if you've been in direct contact with someone [carrying the virus]. It's going to be happening around the UK now. Everyone will have to be careful."
+
+Updated at 5.13pm GMT
+
+4.59pm GMT
+
+Thanks to everyone who has been emailing and messaging me. I am running the Guardian's live blog and so far your insight has been really useful. If you have any news tips, images or updates from your area then please do share them with me.
+
+Email: sarah.marsh@theguardian.comTwitter: @sloumarsh Instagram: sarah_marsh_journalist
+
+4.50pm GMT
+
+Merlin Entertainments, which owns Alton Towers, Thorpe Park, Legoland and other popular attractions, said it has "restricted" its employees' travel to countries with a high risk of coronavirus and has introduced "enhanced cleaning regimes" on its sites. Legoland is closed for winter and will reopen in mid-March, with Alton Towers and Thorpe Park due to open closer to the end of March. A Merlin spokesman said: "The health and safety of our guests and our staff is always our top priority and we will take all necessary precautions to ensure their continued welfare. "We have restricted employee travel to higher-risk countries, implemented enhanced cleaning regimes at our attractions, and informed our teams of coronavirus symptoms as well as the importance of good hygiene practices. "Like many businesses, we continue to monitor the situation closely and are in regular contact with local authorities so we may respond quickly to any developments." Merlin's brands also include the London Eye, Madame Tussauds, Shrek's Adventure! London and the Blackpool Tower
+
+Updated at 5.11pm GMT
+
+4.36pm GMT
+
+In the US, the health and human services secretary, Alex Azar, on Thursday said that at least 40 public health labs could currently test specimens for coronavirus and the figure may more than double by Friday. Azar, speaking before the House Ways and Means Committee, said the Centers for Disease Control and Prevention had tested 3,625 specimens for the virus as of this morning.
+
+He said at least 40 labs currently had test kits previously manufactured by the CDC that were modified to test for coronavirus. He added that a newly manufactured CDC test could be sent to 93 public health labs as soon as Monday, and a privately manufactured test based on the new CDC test could be sent to those same labs as early as tomorrow, pending FDA clearance.
+
+Related: Five questions Donald Trump must answer on coronavirus
+
+Updated at 5.06pm GMT
+
+4.34pm GMT
+
+Downing Street defended the response to the situation at the hl Costa Adeje Palace hotel in Tenerife. The prime minister's official spokesman said:
+
+The Foreign Office has been in contact with more than 100 British nationals who are staying in the hotel.
+
+They are providing them with support, they are also in regular contact with local authorities and tour companies to share information.
+
+The quarantine is being managed by the Spanish authorities. We understand that those guests who have been assessed by medical staff and who are not showing symptoms are free to move around within the hotel.
+
+Pressed on whether there would be an evacuation flight for Britons, the spokesman said: "We base all our decisions on medical and scientific advice and everything is kept under review."
+
+Updated at 5.02pm GMT
+
+4.23pm GMT
+
+Regarding the potential cancelling of mass events in the event of an intensified virus spread, the health secretary, Matt Hancock, told the Nuffield Trust Summit: "We do want to minimise social and economic disruption subject to keeping people safe. He added: "Of course that is always going to be a balance. We're going to be led by the scientific advice into what works."
+
+Updated at 5.01pm GMT
+
+4.22pm GMT
+
+Tenerife hotel: 130 guests in quarantine told they can leave
+
+The minister of health in Tenerife has said 130 of the estimated 700-plus tourists at the hl Costa Adeje Palace hotel can leave. They spent three days in isolation after the coronavirus was detected there in four Italian tourists.
+
+The minister said there were 11 nationalities among the group. None of the remaining guests at a hotel have shown any symptoms of the virus, a spokesman for the regional government said.
+
+It appears that the 130 will be made up of those who arrived at the hotel after the four Italians who tested positive had already left. Most of these weren't holidaying at the hotel, but arrived when their flights home were cancelled due to a sandstorm. One of these is Harley Mitford, who is in the hotel with his sister and stepfather. They arrived when their BA flight home was cancelled after a holiday in a nearby villa. Despite the announcement, Mitford said that his family hadn't received any information about the departure, but had seen the announcement on the news.
+
+"We haven't been told anything, I just asked at reception and they gave us the usual runaround," he said.
+
+Updated at 5.01pm GMT
+
+4.21pm GMT
+
+Chief medical officer: schools could shut for two months in event of pandemic
+
+Chris Whitty has been speaking about measures to reduce risk in the event that coronavirus outbreak reaches pandemic proportions. While noting that such an outcome was just one possibility, he said that there could be a "social cost" if the virus intensifies seeing mass gatherings reduced and schools closed for more than two months.
+
+He said:
+
+One of the things that's really clear with this virus, much more so than flu, is that anything we do we're going to have to do for quite a long period of time, probably more than two months.
+
+"The implications of that are non-trivial, so we need to think that through carefully.
+
+"This is something we face as really quite a serious problem for society potentially if this goes out of control. It may not but if it does globally then we may have to face that."
+
+Whitty also said that the UK would inevitably be affected in the event of a global epidemic.
+
+If this becomes a global epidemic then the UK will get it, and if it does not become a global epidemic the UK is perfectly capable of containing and getting rid of individual cases leading to onward transmission.
+
+"If it is something which is containable, the UK can contain it. If it is not containable, it will be non-containable everywhere and then it is coming our way."
+
+4.13pm GMT
+
+Greece will reinforce border patrols to stop virus spreading
+
+Greece has announced that it will reinforce border patrols, citing the threat posed to the country of coronavirus being brought in by refugees and migrants desperate to reach Europe.
+
+Outlining the emergency measure at the end of a cabinet meeting, the prime minister, Kyriakos Mitsotakis, said he had ordered frontier security to be put "on the highest alert" because there was a risk that asylum seekers from Iran and Afghanistan could import the virus when they arrived on outlying islands in rickety boats from Turkey. The death toll from the Covid-19 in Iran rose to 26 today.
+
+"I have already given the order to the maritime minister and the head of the coastguard to substantially increase the number of boats and patrols around the islands of the eastern Aegean," the centre right leader told his cabinet adding that patrols would be stepped up on both land and sea. "Our islands are already overburdened with public health issues and they must be doubly protected."
+
+Athens had informed the European commission that it was taking the step. Under EU law a member state can elevate border security to the highest level if public health is threatened.
+
+Three cases of coronavirus have been confirmed in Greece. The first person to have contracted the virus - a 38-year-old female designer - was treated in hospital in Thessaloniki, the country's northern capital, on Wednesday, three days after returning from the Milan fashion show. Greek authorities announced that her nine-year-old son had also been infected, forcing the school he attends in Thessaloniki to shut down for the next two weeks. The boy had attended class on Monday and Tuesday before beginning to display symptoms yesterday.
+
+A third victim, described as a 40-year-old woman who had also travelled to Italy, was also confirmed to have contracted the potentially killer flu after being admitted to a specialist unit in a hospital in Athens earlier today.
+
+Media reports of supermarkets in Thessaloniki running out of essential goods as a result of panic buying have been rife. Mitsotakis kicked off the cabinet meeting calling for calm. "The biggest enemy in such situations is panic," he said emphasising the importance of personal hygiene and urging Greeks who may develop symptoms of the disease to follow health ministry guidelines.
+
+Earlier the country's health minister announced that carnival parades would be cancelled to prevent the disease spreading. Festivities were due to peak this weekend in the Orthodox nation.
+
+Greece has seen a renewed surge in refugee arrivals on its shores with some 42,000 asylum seekers now stranded on Lesbos, Chios, Samos, Kos and Leros facing Turkey. The Aegean isles have become the main gateway for illegal migration into the EU. The seven-month old centre right government has taken a much tougher stance on the issue of migration than its leftist predecessor.
+
+Updated at 4.50pm GMT
+
+4.08pm GMT
+
+Tenerife: 130 people quarantined at hotel allowed to leave
+
+Some 130 people quarantined at a hotel in Tenerife are being allowed to leave, Sky news has reported. They are a number of 700 people - many of whom remain - who were in lockdown after an outbreak.
+
+Updated at 4.10pm GMT
+
+4.06pm GMT
+
+Hello everyone. I am running the Guardian's live blog, updating you on the latest information surrounding the coronavirus outbreak. If you have any news tips, images or updates from your area then please do share them with me.
+
+Email: sarah.marsh@theguardian.comTwitter: @sloumarsh Instagram: sarah_marsh_journalist
+
+4.05pm GMT
+
+England's chief medical officer, Professor Chris Whitty, has said while the coronavirus presents "some challenges", he does not think the world is facing anything on the level of the deadly Spanish flu in 1918.
+
+Speaking to health professionals at the Nuffield Trust Summit in Windsor, Prof Whitty said: "Occasionally things come along which, no matter how good your strategic aim is, will knock you off course for a while. "We are not heading into a hlN1 1918 flu pandemic situation, but the coronavirus does present some challenges for us. It definitely will for a period. How big remains to be seen." The hlN1 influenza pandemic in 1918 is estimated to have killed at least 50 million people worldwide.
+
+4.03pm GMT
+
+The outlook in Europe. Here is an overview of countries affected, including where people have died and what precautions are being taken.
+
+Italy  Italy is by far the European country worst affected by the COVID-19 outbreak, with 14 deaths and 528 infections. The area most hit has been northern Italy.
+
+Germany  In Germany, 26 people have been infected, including 10 diagnosed since Tuesday. Fourteen of the 26 work for an equipment manufacturer in Bavaria, and were infected by a colleague returning from China. Several hundred people are quarantined in their homes.
+
+France  France has so far registered 18 infections and two deaths, and has urged its nationals to delay travel to virus hotspots in northern Italy. Students returning from China, Singapore, South Korea and the Italian regions of Lombardy and Veneto are asked to remain at home for two weeks after their return.
+
+Spain  The country has registered 17 cases - 15 of them since Monday. Twelve are linked to Italy. They include four Italians who were visiting Tenerife in the Canary Islands. The hotel where they were staying has been quarantined.
+
+Three cases have been registered on the Spanish mainland, including one man in serious condition in the Madrid region.
+
+BritainSo far there have been 15 recorded cases, including two announced on Thursday. One patient had been in Italy and the other in Tenerife. The government has requested travellers returning from affected areas in northern Italy, China, South Korea and Iran to isolate themselves and inform authorities.
+
+Switzerland  Four cases have been resistered since Tuesday, including a man in his 70s who was infected near Milan.
+
+Russia  Two infected Chinese citizens have been treated in Russia, which has also repatriated and quarantined eight passengers from the Diamond Princess cruise ship, of whom three have tested positive.
+
+Austria  A 72-year-old man in Vienna tested positive on Thursday, making him Austria's third case after an Italian couple, both 24, tested positive on Tuesday.
+
+Croatia  Three people have tested positive for the virus, including a young man who recently stayed in Italy and his brother.
+
+Greece  It has announced three cases, all Greeks who had recently returned from northern Italy. Athens announced its first infection Wednesday, a woman aged 38. Two more were announced on Thursday, including a 10-year-old. All three affected are Greek nationals.
+
+Finland  Two virus infections were confirmed Wednesday, a Chinese tourist in Lapland and a second case involving a Finnish national who had recently visited northern Italy.
+
+Sweden  There have been two cases so far. One was registered at the end of January: a woman who had visited Wuhan, the Chinese city where the virus emerged in December. On Wednesday, a second infection was discovered in a man returning from northern Italy.
+
+Belgium has had one case detective and Denmark announced its first case on Thursday. Georgia on Wednesday announced the first confirmed case in the South Caucasus region. In North Macedonia there has been one case, a woman who recently returned from Italy. Norwegian health authorities announced on Wednesday the first case in the Nordic nation in someone who returned from China last week. They said the patient was not in danger.
+
+Lastly, Romania reported its first on Wednesday - a man who was in contact with an Italian who visited the country last week.
+
+In Estonia, the first case of confirmed new coronavirus was found on Wednesday evening, social affairs minister, Tanel Kiik, said Thursday.
+
+Updated at 4.47pm GMT
+
+3.56pm GMT
+
+EU braces itself for economic hit from coronavirus
+
+The European Union is bracing for the economic impact of the coronavirus epidemic but it is still too early to estimate the magnitude, the bloc's commissioner for the internal market said.
+
+Tourism is already feeling the pinch because "our Chinese friends haven't been coming to Europe for two months", Thierry Breton told a news conference.
+
+He said supply chains reliant on China, including for the auto, medical, electronic, wood and toy industries, were also being affected.
+
+The commissioner spoke after a Brussels meeting of EU economy ministers.
+
+If the disruptions continue, the EU stands ready to deploy economic support measures for virus-hit sectors after another ministerial meeting next month, Breton said.
+
+But for now "it's too early to say" what measures would entail
+
+or "measure the precise impact" on Europe's economy.
+
+Italy is the hardest-hit member state, with an outbreak in its economically important north responsible for a dozen Covid-19 deaths.
+
+At a briefing for journalists, EU officials said the bloc was currently in a "containment phase" of identifying infection cases and coordinating on preparedness plans.
+
+One official said the EU was well-prepared and that, while other clusters such as that in Italy may well occur, overall the risk to the bloc was no more than "moderate" because of member states' capacities to respond.
+
+Closing Europe's borders - either its external borders or its internal, passport-free Schengen borders - was not seen as advisable or effective, the officials said.
+
+However, there was a possibility that authorities might soon look at cancelling "mass gathering events" such as sporting fixtures.
+
+Updated at 4.43pm GMT
+
+3.44pm GMT
+
+Moscow's mayor has asked China to respect the measures the city is taking to prevent the spread of the coronavirus after China's embassy complained about disproportionate action against Chinese nationals. The embassy this week deplored what it described as the "ubiquitous monitoring" of Chinese nationals on Moscow's public transport network in a formal complaint sent to local authorities and leaked to Russian media. But Moscow's mayor, Sergei Sobyanin, defended the measures on Thursday and urged the Chinese embassy to encourage its citizens in Moscow to comply with the quarantine measures. "I ask that you relate with understanding to these necessary measures, which are aimed at preventing coronavirus infections from spreading," Sobyanin wrote in a response to the embassy, the Interfax news agency reported. Hundreds of people have been quarantined across Russia, which has barred many categories of Chinese nationals from entering the country. Authorities in Moscow have carried out raids on potential carriers of the virus and used facial recognition technology to enforce quarantine measures. Russia has also barred many categories of Chinese nationals from entering the country. Three Russian nationals are receiving treatment in Russia after they contracted the virus on a cruise ship in Japan, the authorities have said. Two Chinese nationals were also treated in hospital in Russia for the virus, but they have since recovered and been discharged.
+
+Updated at 4.40pm GMT
+
+3.41pm GMT
+
+A growing number of countries are reporting cases of the new coronavirus, with governments looking for solutions as everyday life around the globe is disrupted. Here are some of the latest developments:
+
+Hunting for patient zero
+
+From California to Italy and beyond, more cases are popping up with no clear origin. These are people who did not travel abroad, or were not linked to another known case. Health authorities are looking for the original source in these places - dubbed patient zero. They are using what's called contact tracing, or finding all the people the patients were in contact with them.
+
+Foreign pilgrims banned from visiting Islam's holiest shrines
+
+Saudi Arabia has made this move, changing the face of this years annual hajj pilgrimage to Mecca and Medina. It will disrupt plans for millions of faithful from around the world who come to the kingdom to pray together. The decision illustrates how tense the situation is across the Gulf region and the wider Middle East as a whole largely as a result of the rise in the number of deaths and infections in Iran. Schools shut in Japan
+
+The prime minister, Shinzo Abe, says he wants all elementary, middle and high schools nationwide to remain closed until spring holidays in late March. Japan now has more than 900 cases, including hundreds from a quarantined cruise ship. In other countries people are being told to keep their kids home from school if they've been anywhere near the growing number of zones worldwide hit by virus outbreaks.
+
+Border controls
+
+Germany is introducing new landing cards for people arriving from countries most hit by the virus. Pakistan halted flights to and from neighbouring Iran. Prague suspended flights from South Korea. Cyprus is adding more police and health workers at crossing points between the internationally recognised state in the south and a self-declared Turkish Cypriot state in the north. But EU officials insisted that the virus does not stop at borders, saying that if a case is identified at the border, it's probably too late and the spread is likely anyway.
+
+Now that there are more cases being reported outside China than inside, Chinese authorities are eager to shed the virus stigma and questions about its early handling of the epidemic. President Xi Jinping said on Thursday: "We have the confidence, the ability and the certainty to win this war against the epidemic." And the Chinese respiratory disease specialist Zhong Nanshan predicted China's outbreak should be "basically under control" by the end of April. He credited strong measures taken by the government and the work of medical workers for helping curb the spread.
+
+Updated at 4.19pm GMT
+
+3.26pm GMT
+
+Dulwich Prep school shuts as pupils return from coronavirus hotspots feeling ill
+
+In an update addressed to parents on its website, Dulwich Prep school said that as well as the two pupils who returned from a half-term holiday in one of the Category 2 areas and "have since become unwell", it had been made aware of "other families within our school community where a parent has been asked to self-isolate by their employer".
+
+It said the two pupils were unrelated and from different sections of the school. The pupils had contacted NHS 111, self-isolated and were awaiting the results of tests. There would be a "professional deep clean" of the site to be completed by Friday and staff were preparing lessons and assignments to be delivered via online platforms in case the school remained closed beyond Monday morning.
+
+"We hope to reopen on Monday 2 March but will publish details as soon as we hear the results of the tests being conducted on our pupils that have fallen ill. However, if either of our pupils test positive for Covid-19 we will remain closed for a longer period while the school undergoes a full deep clean."
+
+Updated at 4.04pm GMT
+
+3.18pm GMT
+
+Shares of Microsoft Corp fell more than 4% after the company warned of weakness in PC business due to a hit to its supply chain from the coronavirus outbreak.
+
+The company echoed similar statements from Apple Inc and HP. The drop in share price wiped nearly $50bn from Microsoft's market value on a day when broader markets were down more than 2%. The virus has so far infected about 80,000 people, killed nearly 2,800 and spread to 44 countries, after originating in the central Chinese city of Wuhan late last year. Apple was the first big technology firm to say the virus was affecting its production and demand in China. PayPal Holdings Inc and Mastercard Inc have also warned about a possible hit. Several Wall Street analysts expect other technology companies with heavy presence in China to soon come out with their own statements.
+
+Updated at 4.05pm GMT
+
+3.12pm GMT
+
+Governments from Iran to Australia shut schools and cancelled big events as they battled to contain the coronavirus outbreak. For the first time, new infections reported around the world surpassed those in mainland China, where the flu-like disease emerged two months ago from an illegal wildlife market. It is now on the decline in the country after an aggressive containment campaign. In Japan, where cases rose to 200, there was particular concern after a female tour bus guide tested positive for a second time - one of very few worldwide to do so. Big gatherings have been halted in Tokyo, Japan's capital, but it still plans to go ahead with the 2020 Olympics, whose cancellation or relocation would be a massive blow for the country. "This virus has pandemic potential," the WHO chief, Tedros Adhanom Ghebreyesus, told reporters in Geneva. "This is not a time for fear. This is a time for taking action to prevent infection and save lives now." Director-general of the WHO, Tedros Adhanom Ghebreyesus, attends a news conference on the coronavirus in Geneva, Switzerland.Photograph: Denis Balibouse/Reuters
+
+Updated at 4.03pm GMT
+
+3.08pm GMT
+
+Lebanon health ministry confirms third case of coronavirus, NNA reports.
+
+3.05pm GMT
+
+One of London's top private schools, Dulwich Prep London, has said it will be closing for a few days "as a precautionary measure" after two students returned from Italy feeling unwell.
+
+Coronavirus fears at Dulwich Prep School after two pupils fell I'll after returning from northern Italy. I only know this because the weekly @krcsc net session has been cancelled.            pic.twitter.com/Z52OWONaeE
+
+- Leon Watson ? (@LeonWatson) February 27, 2020
+
+3.03pm GMT
+
+Paul Reid, director general of the Health Service Executive, has outlined what is being done to keep Ireland in the "containment phase". He has been speaking at a briefing.
+
+HSE briefing on #Coronavirus just about to begin.            @VirginMediaNews           pic.twitter.com/omNhoiS8rx
+
+- Richard Chambers (@newschambers) February 27, 2020
+
+HSE supremo Paul Reid outlining what's being done to keep Ireland in the "containment phase". Procurement has been a "challenge" but they've "acted very early" in terms of buying protective clothing and equipment. Millions of gloves, gowns and masks brought in. pic.twitter.com/M4CBgYxO5N
+
+- Richard Chambers (@newschambers) February 27, 2020
+
+Reid: 142,000 visits to the Coronavirus page on the HSE site. 2,000 queries directly related to the virus sent to the HSE and forwarded to the public health team. Lab capacity is being monitored and may be boosted.
+
+- Richard Chambers (@newschambers) February 27, 2020
+
+Updated at 3.04pm GMT
+
+2.58pm GMT
+
+Hello everyone. I will be running the Guardian's live blog, updating you on the latest information surrounding the coronavirus outbreak. If you have any news tips, images or updates from your area then please do share it with me.
+
+Email: sarah.marsh@theguardian.comTwitter: @sloumarsh Instagram: sarah_marsh_journalist
+
+Updated at 3.14pm GMT
+
+2.56pm GMT
+
+We are at a 'decisive point' globally and must 'move swiftly', says WHO
+
+The new coronavirus epidemic is at a "decisive point" globally, the World Health Organization chief, Tedros Adhanom Ghebreyesus, said, urging affected countries to "move swiftly" to contain the disease.
+
+"We're at a decisive point," Tedros told reporters in Geneva.
+
+"If you act aggressively now, you can contain this virus, you can prevent people getting sick, you can save lives."
+
+"There does not appear to be widespread community transmission," he added.
+
+Tedros emphasised that all countries should ensure their health systems were prepared for an outbreak. "We are actually in a very delicate situation in which the outbreak can go in any direction based on how we handle it," he said.
+
+Updated at 3.07pm GMT
+
+2.50pm GMT
+
+The World Health Organization said that as of 6am Geneva time this morning, China had reported a total of 78,630 cases of COVID-19 to WHO, including 2,747 deaths.
+
+Outside China, there were 3,474 cases in 44 countries, and 54 deaths.
+
+It is the second day in which the number of new cases reported in the rest of the world has exceeded the number of new cases in China.
+
+2.30pm GMT
+
+Coronavirus 'could trigger economic damage on scale of 2008 financial crisis'
+
+Hello and welcome to our continuing coverage of the coronavirus.
+
+Here's a quick summary of the latest developments. If you're looking for more detail, here's our earlier coverage.
+
+•Coronavirus could trigger economic damage on the scale of the 2008 financial crisis, analysts have warned, amid growing concerns over the fallout from the deadly disease.•The death toll in Iran has risen to 26, with almost 250 people diagnosed with the virus.•Two more people have died from coronavirus in Italy, bringing the death toll to 14. The number of confirmed cases has risen to more than 520.•Two further patients in England have tested positive for coronavirus, bringing the total number of UK cases to 15. The virus was passed on in Italy and Tenerife, and the patients have been transferred to specialists at the Royal Liverpool hospital and the Royal Free hospital, London.•Saudi Arabia has taken the unprecedented step of banning foreign pilgrims from entering the country in an effort to halt the spread of coronavirus. The country has yet to report a case of the virus.•A woman working as a tour bus guide in Japan has tested positive for coronavirus for a second time. The Japanese government has ordered the closure of all schools and museum for a month.•The French president, Emmanuel Macron, has warned an epidemic that is on the way". There are now 18 confirmed cases of coronavirus in France and two people have died.•More cases have been reported all over the world including in Switzerland, Kuwait, Spain, South Korea and Austria. Estonia, Denmark, Pakistan, Georgia, Norway, North Macedonia, Greece and Romania are among countries to report their first case of coronavirus in the last day.•China's health authority has reported another drop in the number of new infections, with 433 new confirmed cases and 29 deaths in mainland China on Wednesday.•Donald Trump has sought to play down the threat from coronavirus despite mounting concerns about unchecked worldwide contagion. In a press conference in Washington, the US president said the danger to Americans "remains very low" and predicted that the number of cases diagnosed in the country, currently on 15, could fall to zero in a "few days".•But Anne Schuchat, deputy director of the US CDC, said "the trajectory of what we are looking at over the weeks and months ahead is very uncertain", and authorities should "dust off" their pandemic preparedness plans.•Australia has extended its travel ban on China and enacted its emergency response plan, because "there is every indication the world will soon enter the pandemic phase of the virus", said the prime minister, Scott Morrison.
+
+Coronavirus could trigger economic damage on the scale of the 2008 financial crisis, analysts have warned, amid growing concerns over the fallout from the deadly disease.
+
+The death toll in Iran has risen to 26, with almost 250 people diagnosed with the virus.
+
+Two more people have died from coronavirus in Italy, bringing the death toll to 14. The number of confirmed cases has risen to more than 520.
+
+Two further patients in England have tested positive for coronavirus, bringing the total number of UK cases to 15. The virus was passed on in Italy and Tenerife, and the patients have been transferred to specialists at the Royal Liverpool hospital and the Royal Free hospital, London.
+
+Saudi Arabia has taken the unprecedented step of banning foreign pilgrims from entering the country in an effort to halt the spread of coronavirus. The country has yet to report a case of the virus.
+
+A woman working as a tour bus guide in Japan has tested positive for coronavirus for a second time. The Japanese government has ordered the closure of all schools and museum for a month.
+
+The French president, Emmanuel Macron, has warned an epidemic that is on the way". There are now 18 confirmed cases of coronavirus in France and two people have died.
+
+More cases have been reported all over the world including in Switzerland, Kuwait, Spain, South Korea and Austria. Estonia, Denmark, Pakistan, Georgia, Norway, North Macedonia, Greece and Romania are among countries to report their first case of coronavirus in the last day.
+
+China's health authority has reported another drop in the number of new infections, with 433 new confirmed cases and 29 deaths in mainland China on Wednesday.
+
+Donald Trump has sought to play down the threat from coronavirus despite mounting concerns about unchecked worldwide contagion. In a press conference in Washington, the US president said the danger to Americans "remains very low" and predicted that the number of cases diagnosed in the country, currently on 15, could fall to zero in a "few days".
+
+But Anne Schuchat, deputy director of the US CDC, said "the trajectory of what we are looking at over the weeks and months ahead is very uncertain", and authorities should "dust off" their pandemic preparedness plans.
+
+Australia has extended its travel ban on China and enacted its emergency response plan, because "there is every indication the world will soon enter the pandemic phase of the virus", said the prime minister, Scott Morrison.
+
+Updated at 3.07pm GMT
+
+100012020-02-27T14:31:03Zfalsefalse2020-02-28T01:18:55ZfalseUKtheguardian.comhttps://gu.com/p/dbqnxfalsetruehttps://media.guim.co.uk/e83b94cb71f935833d7eaff55631cfacbac21a4a/0_159_3295_1977/500.jpgfalseentrueWe have moved our coverage to a new blog, which you can find here. Here's a summary of recent events. The Dow Jones index of leading US shares has suffered its biggest points fall in history amid the coronavirus crisis, closing down 1,190.95 in New York. The Australian market plummeted on opening. Ireland and the Netherlands have reported their first cases of the virus. In the US Californian health officials are monitoring 8,400 people for symptoms after their arrival on domestic flights, but they have only an "inadequate" 200 test kits. The New York Times reported a US government whistleblower claiming health workers interacted with Americans quarantined for possible exposure to coronavirus without proper medical training or protective gear, then mingled with the general population. There are 38 confirmed cases of coronavirus in France, more than doubling the tally in 24 hours. 50 Brits were among 130 guests told they can leave a coronavirus-hit Tenerife hotel. The death toll in Italy has reached 17. Facebook Inc said it would cancel its annual developer conference, F8 2020, amid rising concerns of the coronavirus outbreak. MSF has accused Italian authorities of discriminatory action after one of their search and rescue vessels in the Mediterranean was put under quarantine following the disembarkation of 276 passengers who had been rescued at sea. Coronavirus fears have driven the Australian market down for the fifth day running, with the benchmark ASX200 index dropping almost 3.2% shortly after the opening bell. Retailer Harvey Norman, which had experienced only very small falls this week, finally succumbed to selling pressure after releasing its half year results this morning. Within half an hour of the opening bell its shares tumbled 7.9%, the third biggest fall among ASX200 stocks. The company blamed "widespread bushfires and associated severe reductions in air quality that affected many communities" that hit franchisees during the peak Christmas shopping season for a 4.1% fall in its profits for the six months to the end of December compared to the same time the previous year. Buy-now-pay-later company Afterpay, which has been something of a market darling, was the biggest loser in early trade, diving 9.4%. Also plunging were stocks with exposure to the Chinese market or international travel, both of which have been disrupted by the virus crisis. Online flight booking site Webjet and travel agency Flight Centre both fell more than 4%, national carrier Qantas dropped 3% and Air New Zealand, which is listed on the Australian exchange but is not part of the ASX200 index, was also down 3%. Also punished was Andrew "Twiggy" Forrest's Fortescue Metals, which exports iron ore to China. Its stock fell almost 5.8%. MSF has accused Italian authorities of discriminatory action after one of their search and rescue vessels in the Mediterranean was put under quarantine following the disembarkation of 276 passengers who had been rescued at sea. The Ocean Viking has 32 crew and one journalist aboard, and is among the search and rescue vessels which patrol for boats carrying migrants fleeing to Europe. MSF said the vessel had complied with all measures and had been anchored off Sicily for nearly five days, and accused authorities of "discriminatorily applying" quarantine restrictions to search and rescue vessels. Michael Fark, Head of Mission for Libya and Search and Rescue Operations said: "Quarantining the Ocean Viking is equivalent to stopping an ambulance in the middle of an emergency. This is a discriminatory action - the only vessels that have been put into quarantine are those conducting rescues. In the past 48 hours we have had reports of boats in distress in the central Mediterranean. We are deeply worried about the fate of people travelling in them. Although we have fully complied with the preventive measures, we currently have no reason to suspect any of the crew onboard as having contracted, or having been exposed to, the virus. In compliance with a request from Italian authorities, the temperature and health status of all is being checked and reported by MSF medical team onboard twice daily. As the conflict in Libya escalates, migrants and refugees trapped in the country say they have no other choice but to risk their lives to escape across the Mediterranean. It is urgent for the Ocean Viking to go back to sea to rescue men, women and children from drowning. The legitimate public health concerns posed by Covid-19 should not be used to justify the prevention of saving lives as sea." It's a continuing fall after an immediate cut on opening. The ASX200 began the day at 6,657.90, and is currently on 6,540. Australia's ASX200 has taken an immediate cut on opening. But it is just an initial 1.5% and not all stocks have started trading yet. It is wait and see at the moment. Just picking one stock - Flight Centre. It was trading at $40.04 a share on close on Friday. This morning it's trading at $32.21 - that's a drop of nearly 20% Hello, this is Helen Davidson in Sydney picking up our live coverage of the coronavirus outbreak. Many thanks to Sam Gelder and our London team for their work. I'll update you with a summary of the latest news shortly, but we are just waiting for the Australian stock market to open any minute, after big falls in New York. The Dow Jones index of leading US shares suffered its biggest points fall in history amid the coronavirus crisis, closing down 1,190.95 in New York. The number of confirmed coronavirus cases in Switzerland rose to nine on Thursday, as the canton of Basel-City put a number of children into a two-week quarantine after one of their caregivers tested positive for the virus. A young woman who returned to work at a daycare centre after travelling to Milan has tested positive for Covid-19, authorities said. "The young woman who resides in the canton of Basel-City is doing well given the circumstances," the region's health department said in a statement. "As a carer for children and young children working at a daycare in Riehen, she came into contact with many children. "The health department is now making extensive checks in the patient's professional and personal environment accordingly." Officials in California are scrambling to retrace the movements of a woman in the state who is believed to be the first person in the US to contract the coronavirus with no known connection to travel abroad or other known causes. Sonia Angell, director of the California Department of Public Health, said on Thursday that the woman, who has not been identified, lives in Solano County in northern California. The county is home to Travis Air Force Base, where dozens of people infected in China or on cruise ships have been treated. But there was no evidence the woman had connections to the base. Over in sport, the final two stages of the United Arab Emirates Tour have been cancelled amid fears of a further outbreak of coronavirus, according to teams at the cycle race. Chris Froome, who is making his comeback from a career-threatening crash last year, Mark Cavendish and Adam Yates are among the riders who will now be tested for the virus. The New York Times is reporting that a US government whistleblower has claimed health workers interacted with Americans quarantined for possible exposure to coronavirus without proper medical training or protective gear, then mingled with the general population. As well as being the Dow's worst points fall ever, the index's 4.4% drop was its worst percentage fall in two years. Meanwhile the tech-focused Nasdaq index tumbled by 4.6%, its worst daily loss since 2011. Scott Minerd of financial services firm Guggenheim Partners told Bloomberg TV that the coronavirus outbreak "is possibly the worst thing I've ever seen in my career", a time-span which includes the 1987 crash and the collapse of Lehman Brothers. "This has the potential to reel into something extremely serious," Minerd warned. "It's very hard to imagine a scenario where you can actually contain this, and so that's the thing that to me is very frightening." CNBC also reports that the Dow - which measures 30 large US companies - and the more broadly-based S&P 500 were also on pace for their worst weekly performance since 2008. Through Thursday's close, the Dow was down more than 11% week to date while the S&P 500 had lost 10.8%. The dramatic fall on Wall Street will have sent shivers through the Asia Pacific markets which open in the next 90 mins. Australia's ASX200 index is expected to take an early hit with indications of it opening more than 2% down. Japan and Hong Kong will likely follow. This is Wall Street's worst day in two years, reports CNBC: Thursday marked the Dow's biggest one-day points decline in history. Those losses put the Dow in correction territory, down more than 10% from its record close. It took the Dow just 10 sessions to tumble from its all-time high into a correction. Our business blog has been covering the gyrations in the market throughout the day. The Dow Jones index of leading US shares has suffered its biggest points fall in history amid the coronavirus crisis, closing down 1,190.95 in New York. Asian and Australian markets are also expected to fall. Three west German states have reported a total of 19 new cases of coronavirus, a day after the federal health minister said the country is at the start of an epidemic. In North Rhine-Westphalia, Germany's most populous state, the health ministry said on Thursday 14 more people had tested positive in the Heinsberg area, where a couple were the first confirmed cases in the state. The new cases took the total in Heinsberg to 20. All were isolated at home and did not require hospital treatment, the state's health ministry said. Further south, Baden-Wuerttemberg reported four new cases, taking its total to eight. The state of Rhineland-Palatinate also said on Thursday a man in Kaiserslautern had tested positive for the virus. "The male patient is doing well so far. He's in isolation," Rhineland-Palatinate's state government tweeted. On Wednesday, the federal government's health minister, Jens Spahn, said Germany was at the beginning of a coronavirus epidemic after new cases sprung up which could no longer be traced to the virus's original source in China. Our Ireland correspondent has more details on preparations in the Republic of Ireland: Confirmation that Northern Ireland's first case of coronavirus returned from northern Italy via Dublin airport has set off alarm bells in the Republic of Ireland. Authorities will try to swiftly retrace the patient's journey - where they sat on the plane, their movements through the airport, and how they travelled to Northern Ireland. Simon Harris, the health minister, says Ireland is prepared for an outbreak. But Michael O'Dwyer, head of the department of anaesthesia and critical care at St Vincent's University hospital in Dublin, told the Irish Times on Thursday that Ireland would struggle to handle even a small number of severely ill patients because the main Dublin hospitals lack capacity for extra patients requiring intensive care. Even before disclosure of Northern Ireland's first case there was a question mark over St Patrick's festival events across the island. The St Patrick's Festival committee, which organises events from 13 to 17 March, said it would follow official guidance on risk assessment. "We have underscored the very urgent need for this documentation to be made available to the festival, so that an informed and prompt decision can be made regarding our forthcoming events. We have clarified to the relevant authorities our readiness to respond in whatever way is required of us in the best interests of public safety." The Netherlands has confirmed its first case of coronavirus. The Dutch National Institute for Public Health said in a statement the patient in the southern city of Tilburg had recently travelled in northern Italy and is now being treated in isolation. California health officials are monitoring 8,400 people for coronavirus symptoms after their arrival on domestic commercial flights, but the state had only a limited supply of test kits available, governor Gavin Newsom has said. The state currently has only about 200 test kits, an "inadequate" number, but has been in "constant contact with federal agencies" that have promised to send a fresh supply of kits in coming days, he said at news briefing in Sacramento. California officials said 33 people had tested positive for the virus there, but five had since left the state. The state on Wednesday reported the first known case of the virus in the US of unknown origin. The patient had not recently traveled to an area with a reported outbreak, and was not exposed to another known infected person. The Republic of Ireland's health minister said the first case of coronavirus confirmed in Northern Ireland was "not unexpected". Simon Harris said: Given the evolving situation, this first case of Covid-19 disease was not unexpected. The National Public Health Emergency Team has been planning for this scenario since January. The general public should continue to adhere to the public health protocols issued by the Department of Health. Dr Tony Holohan, chief medical officer in the Department of Health, said: "The HSE is well prepared and is working to inform any contacts the patient had in order to prevent transmission." Facebook has cancelled F8, its annual conference for developers, because of Covid-19. Read the full story here. The NHS is rolling out new services to test people for coronavirus, including "drive through" testing in west London. The service, provided by Central London Community Healthcare NHS Trust in Parsons Green, is only available after a referral from NHS 111. It comes after the NHS' strategic incident director for coronavirus asked health services across the country to set up home and community testing. People are invited to an appointment in their car, where two community nurses carry out a swab in the nose and mouth. The patient is then asked to self-isolate while the swabs are assessed within 72 hours. The European Football Championship will kick off in Rome as planned, Uefa has insisted, despite the growing number of coronavirus cases in Italy. It comes as an unnamed professional footballer in the Italian third tier has tested positive for Covid-19. Read the full story here. Dr Michael McBride said the patient had recently returned from northern Italy. He said: "I don't think it should cause a lot of concern (to the public). I think we should reassure the public as we have been doing all along. As the minister has said repeatedly it wasn't a case of if but when we would have a case in Northern Ireland. "We have now seen our first case in Northern Ireland - someone returning from northern Italy - and that is not unexpected." At a media briefing, Northern Ireland's Public Health Agency (PHA) confirmed testing of a patient had resulted in a presumptive positive test for coronavirus. The test outcome has now been sent to Public Health England laboratories for verification. The patient is receiving specialist care and PHA officials are working to identify any contacts the patient had to help prevent further spread. Northern Ireland's chief medical officer Dr Michael McBride said: "We have robust infection control measures in place which enable us to respond immediately. Our health service is used to managing infections and would assure the public that we are prepared." McBride said he would not disclose any personal details of the patient, or where they were being held. More information on the announcement there are now 38 confirmed cases of coronavirus in France, more than doubling the tally in 24 hours. During a press conference, the French health minister, Olivier Veran, said this "sharp increase" from 18 cases on Wednesday was due to the identification of so-called "contact persons" linked to previously known cases, adding that France was "ready" for an epidemic. Health ministry director, Jerome Salomon, said out of the 38 cases, two people had died, 12 were cured and 24 were hospitalised, two of those being in a "serious condition". Chief medical officer of Northern Ireland Michael McBride told journalists that the first confirmed coronavirus patient in the region had travelled from Italy via Dublin. France now has 38 confirmed cases of coronavirus, the French health minister has said. Sam Gelder here. I will be running the Guardian's live blog, updating you on the latest information surrounding the coronavirus outbreak. If you have any news tips, images or updates from your area then please do share it with me. Email: sam.gelder.casual@theguardian.comNorthern Ireland has its first confirmed case of coronavirus, taking the total number of UK cases to 16. Read the Guardian's summary of what to do here: I will be handing the live blog over to my colleague shortly. Here is a summary of the main news in the last three hours.  50 Brits were among 130 guests told they can leave a coronavirus-hit Tenerife hotel. Some 168 British nationals are among hundreds of guests being kept at the four-star hl Costa Adeje Palace in the south west of the Spanish island after at least four guests, including an Italian doctor, tested positive for coronavirus.  The chief medical officer, professor Chris Whitty, said schools could shut for two months in the event of a pandemic. He was speaking about measures to reduce risk if the coronavirus outbreak reaches pandemic proportions. While noting that such an outcome was just one possibility, he said that there could be a "social cost" if the virus intensifies seeing mass gatherings reduced and schools closed for more than two months.  A councillor has said Buxton is not in lockdown, amid reporting suggesting it was. Samantha Flower, a borough councillor for the Burbage area of Buxton, where a school has been closed due to the outbreak, said there was no sense of lockdown in the town but that there was confusion about the advice for anyone with symptoms.  The death toll in Italy reaches 17. Three more people have died in Italy from coronavirus, the Civil Protection Agency said.  Greece has announced that it will reinforce border patrols, citing the threat posed to the country of coronavirus being brought in by refugees and migrants desperate to reach Europe. Facebook Inc said it would cancel its annual developer conference, F8 2020, amid rising concerns of the coronavirus outbreak. "In place of the in-person F8 event, we're planning other ways for our community to get together through a combo of locally hosted events, videos and live streamed content," said Konstantinos Papamiltiadis, director of platform partnership. The conference, which attracted 5,000 people from around the world last year, was scheduled to be held on 5 -6 May at San Jose, California. NHS doctors have told the Guardian of their experiences of the government's handling of coronavirus, warning that they have concerns about how patients who may have been infected are being managed. James (not his real name), a GP in Derbyshire, where one of the latest British coronavirus cases is thought to have been located, described the Department of Health's response to the virus as "ridiculous" and "negligent". He said none of his patients who had travelled back from at-risk countries had been given any information at airports or sea ports on what to do if they developed symptoms of coronavirus. James said his practice had seen patients arriving back from affected areas, some of whom had been on cruises around many regions experiencing coronavirus outbreaks, who had not been given any information on what to do if they developed symptoms. Read more here Around 50 Britons quarantined at a coronavirus-hit Tenerife hotel have been told they can leave, the PA news agency understands. Some 168 British nationals are among hundreds of guests being kept at the four-star hl Costa Adeje Palace in the south west of the Spanish island after at least four guests, including an Italian doctor, tested positive for coronavirus. Those who can leave are understood to have arrived on Monday, after the guests who were diagnosed had already left. Overall, 130 guests from 11 countries have been told they can leave by Spanish authorities. 'Please visit Chinatown': coronavirus fears empty San Francisco district Most days you can't walk through San Francisco's historic Chinatown without bumping into a tourist's extended arm, readying for a camera-phone photo. Lunchtime in particular is usually a bustling affair. But on a recent weekday at the height of the coronavirus pandemic that has dominated Asian countries across the Pacific Ocean, there was a noticeable absence of foot traffic. At the Dragon Gate on Grant Avenue, the entrance to Chinatown that is usually frequented for selfies, no one posed and no one snapped. The picturesque and Instagram-worthy red lanterns that hung between buildings went unphotographed, as did the bright mural of Bruce Lee and the ornate architecture. The erhu that an elderly gentleman played for no one outside Old Saint Mary's Cathedral practically echoed down the street. Read more here England has only 15 available beds for adults to treat the most severe respiratory failure and will struggle to cope if there are more than 28 patients who need them if the number of coronavirus cases rises, according to the government and NHS documents. Ministers have revealed in parliamentary answers that there are 15 available beds for adult extracorporeal membrane oxygenation (ECMO) treatment at five centres across England. The government said this could be increased in an emergency. There were 30 such beds in total available during the 2018-19 winter flu season. But an NHS England document prepared in November 2017 reveals the system will struggle to cope if more than 28 patients need the treatment, describing that situation as black/critical. Thanks to everyone who has been emailing and messaging me. I am now moving into my last hour running the Guardian's live blog and your insight has been really useful. If you have any news tips, images or updates from your area then please do share them with me. Email: sarah.marsh@theguardian.comTwitter: @sloumarsh Instagram: sarah_marsh_journalist The Foreign and Commonwealth Office said: We are urgently seeking clarification from the Canary Island authorities following their announcement that 130 tourists of different nationalities will be granted permission to leave the Costa Adeje Palace Hotel. We continue to offer support to all British nationals at the hotel. US officials are ramping up efforts to guard Americans against a local spread of the new coronavirus, dispatching test kits nationwide, and promising funding legislation within the next two weeks. At least 40 public health labs should now be able to test specimens for coronavirus and that could more than double by Friday, health and human services secretary Alex Azar told a House of Representatives committee. He said a newly manufactured test from the Centers for Disease Control and Prevention (CDC) can be sent to 93 public health labs as soon as Monday, and a privately manufactured test based on the new CDC test could be sent to those same labs as early as Friday. Three more people have died in Italy from coronavirus, bringing the death toll from the worst outbreak of the illness in Europe to 17, the Civil Protection Agency said. The number of confirmed cases has risen to 650, officials said, from 528 announced at a news conference some seven hours earlier. The vast majority are in the northern regions of Lombardy and Veneto. The virus is beginning to have an effect on sporting events and organisations. Italian football authorities have insisted matches be played behind closed doors this weekend and the Ireland Italy clash in the Six Nations rugby has been postponed. Bigger concerns, however, lie over the fate of this summer's prestige tournaments, particularly the men's European Football Championship in June and the Tokyo Olympics the month after. The International Olympic Committee (IOC) on Wednesday declared "business as usual" in their plans. However Christopher Dye, an epidemiologist at Oxford University who worked with the IOC during the Zika virus outbreak before the 2016 Rio Games, said that governing bodies will currently be contemplating their response to all possible scenarios, and who would be responsible should things go wrong. "What the Japanese authorities and IOC are saying is that they fully intend to go ahead and that would be the right judgment at this stage", Dye told the Guardian. "The end of July is a long way away. We are not even two months into the [outbreak] and a lot of things have already happened. We have seen it spread across China and decline almost everywhere in China and in some parts at a dramatic rate. "Nobody knows what is going to happen by the summer but the sensible thing is to consider different scenarios. What the organisers will be asking is: what are the risks, the costs, the benefits and who will be responsible if something horrible happened?" The European Championships are set to be held in 12 cities across the continent, which poses a different risk for the spread of the disease and, according to Dye. "The idea of controlling spread close to venues would essentially be an impossibility. "The issue of responsibility will be very important as well. What's happening in Italy at the moment will be one factor that will be taken into account. But Italy in February when it comes to April and May will look like relatively distant past." Day said he thought the likelihood of the coronavirus mutating into a stronger strain was unlikely this year but that the occurrence of victims testing positive after having apparently already recovered from the virus was concerning. "We don't know why this has happened. It could be that the testing was not rigorous enough", he said. "But if it is the case that immunity is not long lasting then developing a vaccine for coronavirus will be more difficult". The director of the Wellcome Trust has called for the world bank to spend $10bn on the crisis. Jeremy Farrar said an urgent commitment of $10bn (£7.7bn), "with more to follow as needed," was "essential" from the World Bank to "underpin the public health measures in low- and middle-income countries, coordinated by the WHO alongside critical investment in diagnostics, therapeutics and vaccines." He said: "Anything less leaves us at risk of much greater costs later and long-term catastrophe. The sums are considerable. The decision to release funds should not be taken lightly, but the stakes could not be higher." Farrar said what was missing in the global response was tangible, high-level funding and support from global financial institutions including the World Bank, Regional Development Banks and the International Monetary Fund. "The possible impact of this coronavirus is far beyond a health emergency - it's a global crisis with potential to reach the scale of the global financial crisis of 2008," he said. The coronavirus outbreak will cost world tourism at least $22bn (£17bn) owing to a drop in spending by Chinese tourists, said the head of the World Travel and Tourism Council. The Covid-19 epidemic has killed more than 2,760 people, mostly in China - where it first emerged in December - and infected more than 81,000 in over 45 countries. "It is too soon to know but the WTTC has made a preliminary calculation in collaboration with (research firm) Oxford Economics which estimates that the crisis will cost the sector at least $22bn," Gloria Guevara told El Mundo daily. "This calculation is based on the experience of previous crises, such as Sars or hlN1, and is based on losses deriving from Chinese tourists who have not been travelling in recent weeks," she said. "The Chinese are the tourists who spend most when they travel." The loss figure is the most optimistic scenario envisaged by the study which was published on 11 February by Oxford Economics, taking the hypothesis of a 7% drop in overseas trips by Chinese nationals. But the losses could more than double, reaching as much as $49bn if the crisis lasts as long as the Sars outbreak, which erupted in November 2002 and was brought under control in July 2003. Schools have been issued with advice on coronavirus by Health Protection Scotland. Guidance sent out on Thursday was given as two more people were diagnosed with the infection in England - taking the total to 15. The outbreak of this strain of coronavirus started in the Chinese city of Wuhan earlier this month and has killed 2,747 people in the country. The guidance was sent to directors of education in local authorities to prep staff on preventing the spread of infections, courses of action if staff or pupils become unwell and resources on hygiene techniques. Schools will also be advised on how to deal with people returning from affected areas, similar to what has already been released to the public. Colleges and universities also received the guidance, along with independent schools. The education secretary, John Swinney, said: This guidance has been circulated to schools, colleges, universities and early learning and childcare providers in Scotland following general guidance on basic preventative measures against coronavirus issued earlier in the month. Advice to people returning from affected countries will depend on which regions they have visited and will be updated as the situation changes, so we're asking members of the public to stay up to date with the latest health and travel advice. We are well-prepared for an outbreak in Scotland but the public also has a vital role to play in helping us contain any positive cases by keeping themselves informed and following basic hygiene precautions such as hand-washing and covering their nose and mouth with a tissue when coughing or sneezing. There have still not been any confirmed cases in Scotland of the virus, although the Scottish Government and NHS expect diagnoses to come, with preparation work already being carried out. The leader of Derbyshire county council, Barry Lewis, has written a blog update on the situation in Buxton: I'm sure you will be well aware of the coronavirus which not so long ago seemed like something that was happening a long way from Derbyshire and probably wouldn't touch our lives in any major way. Unfortunately I can tell you that we do now have a confirmed case in Derbyshire. I can't say too much about the case, that's in the hands of Public Health England. But what I can say is that all agencies including the county council and its public health staff are working very closely and extremely hard to contain the virus and keep us all safe. I must emphasise to all our residents that the risk remains low. If you're worried, there's loads of information on the NHS website - go to            www.nhs.uk/coronavirus. And, we'll be keeping the council's website up to date with the latest information too at            www.derbyshire.gov.uk/coronavirus Robert Largan, MP for the High Peak - which includes Buxton - described claims that the town was on lockdown as "really unhelpful". He added: "A primary school and a doctors temporarily closing does not constitute a 'lockdown'. More responsible journalism please." The Buxton Opera House insisted it was going ahead with its performance of Fascinating Aida tonight, and the Buxton Taphouse pub and Hydro cafe said it was business as usual. Samantha Flower, a borough councillor for the Burbage area of Buxton, where a school has been closed due to the outbreak, said there was no sense of lockdown in the town but that there was confusion about the advice for anyone with symptoms. Flower said: "We're not locking down. Until they tell us to cut off the town we're not doing that. We have got to take proper advice from the medical profession and they're being very calm about it. This is a very rural community and people see themselves as quite tough, rugged individuals - they're not the sort of people to panic over a sniffle." She added: "It's a small community - we all know each other, we all use the same shops - but nobody knows if they have been in direct contact [with the confirmed Coronavirus patient]." Flower said that people in Buxton that have the symptoms aren't able to get through to speak to someone on 111 and end up being told just to go to the website. "The problem is people aren't able to directly speak to anyone. If you call the GP they say to ring 111 and no-one can say for certain if they were in direct contact with the parent and the child that had it. There's a bit of confusion. People are thinking if they have all these symptoms do I just stay at home and lockdown and then call for help? They're not sure what to do." Flower said she had been told that Buxton Medical Practice would reopen on Friday and had been deep-cleaned as news of the confirmed case emerged. "I don't want people to be overly concerned," she said. "A little bit more information would be helpful because we'd like to know what happens when you can't say for certain if you've been in direct contact with someone [carrying the virus]. It's going to be happening around the UK now. Everyone will have to be careful." Thanks to everyone who has been emailing and messaging me. I am running the Guardian's live blog and so far your insight has been really useful. If you have any news tips, images or updates from your area then please do share them with me. Email: sarah.marsh@theguardian.comTwitter: @sloumarsh Instagram: sarah_marsh_journalist Merlin Entertainments, which owns Alton Towers, Thorpe Park, Legoland and other popular attractions, said it has "restricted" its employees' travel to countries with a high risk of coronavirus and has introduced "enhanced cleaning regimes" on its sites. Legoland is closed for winter and will reopen in mid-March, with Alton Towers and Thorpe Park due to open closer to the end of March. A Merlin spokesman said: "The health and safety of our guests and our staff is always our top priority and we will take all necessary precautions to ensure their continued welfare. "We have restricted employee travel to higher-risk countries, implemented enhanced cleaning regimes at our attractions, and informed our teams of coronavirus symptoms as well as the importance of good hygiene practices. "Like many businesses, we continue to monitor the situation closely and are in regular contact with local authorities so we may respond quickly to any developments." Merlin's brands also include the London Eye, Madame Tussauds, Shrek's Adventure! London and the Blackpool Tower In the US, the health and human services secretary, Alex Azar, on Thursday said that at least 40 public health labs could currently test specimens for coronavirus and the figure may more than double by Friday. Azar, speaking before the House Ways and Means Committee, said the Centers for Disease Control and Prevention had tested 3,625 specimens for the virus as of this morning. He said at least 40 labs currently had test kits previously manufactured by the CDC that were modified to test for coronavirus. He added that a newly manufactured CDC test could be sent to 93 public health labs as soon as Monday, and a privately manufactured test based on the new CDC test could be sent to those same labs as early as tomorrow, pending FDA clearance. Downing Street defended the response to the situation at the hl Costa Adeje Palace hotel in Tenerife. The prime minister's official spokesman said: The Foreign Office has been in contact with more than 100 British nationals who are staying in the hotel. They are providing them with support, they are also in regular contact with local authorities and tour companies to share information. The quarantine is being managed by the Spanish authorities. We understand that those guests who have been assessed by medical staff and who are not showing symptoms are free to move around within the hotel. Pressed on whether there would be an evacuation flight for Britons, the spokesman said: "We base all our decisions on medical and scientific advice and everything is kept under review." Regarding the potential cancelling of mass events in the event of an intensified virus spread, the health secretary, Matt Hancock, told the Nuffield Trust Summit: "We do want to minimise social and economic disruption subject to keeping people safe. He added: "Of course that is always going to be a balance. We're going to be led by the scientific advice into what works." The minister of health in Tenerife has said 130 of the estimated 700-plus tourists at the hl Costa Adeje Palace hotel can leave. They spent three days in isolation after the coronavirus was detected there in four Italian tourists. The minister said there were 11 nationalities among the group. None of the remaining guests at a hotel have shown any symptoms of the virus, a spokesman for the regional government said. It appears that the 130 will be made up of those who arrived at the hotel after the four Italians who tested positive had already left. Most of these weren't holidaying at the hotel, but arrived when their flights home were cancelled due to a sandstorm. One of these is Harley Mitford, who is in the hotel with his sister and stepfather. They arrived when their BA flight home was cancelled after a holiday in a nearby villa. Despite the announcement, Mitford said that his family hadn't received any information about the departure, but had seen the announcement on the news. "We haven't been told anything, I just asked at reception and they gave us the usual runaround," he said. Chris Whitty has been speaking about measures to reduce risk in the event that coronavirus outbreak reaches pandemic proportions. While noting that such an outcome was just one possibility, he said that there could be a "social cost" if the virus intensifies seeing mass gatherings reduced and schools closed for more than two months. He said: One of the things that's really clear with this virus, much more so than flu, is that anything we do we're going to have to do for quite a long period of time, probably more than two months. "The implications of that are non-trivial, so we need to think that through carefully. "This is something we face as really quite a serious problem for society potentially if this goes out of control. It may not but if it does globally then we may have to face that." Whitty also said that the UK would inevitably be affected in the event of a global epidemic. If this becomes a global epidemic then the UK will get it, and if it does not become a global epidemic the UK is perfectly capable of containing and getting rid of individual cases leading to onward transmission. "If it is something which is containable, the UK can contain it. If it is not containable, it will be non-containable everywhere and then it is coming our way." Greece has announced that it will reinforce border patrols, citing the threat posed to the country of coronavirus being brought in by refugees and migrants desperate to reach Europe. Outlining the emergency measure at the end of a cabinet meeting, the prime minister, Kyriakos Mitsotakis, said he had ordered frontier security to be put "on the highest alert" because there was a risk that asylum seekers from Iran and Afghanistan could import the virus when they arrived on outlying islands in rickety boats from Turkey. The death toll from the Covid-19 in Iran rose to 26 today. "I have already given the order to the maritime minister and the head of the coastguard to substantially increase the number of boats and patrols around the islands of the eastern Aegean," the centre right leader told his cabinet adding that patrols would be stepped up on both land and sea. "Our islands are already overburdened with public health issues and they must be doubly protected." Athens had informed the European commission that it was taking the step. Under EU law a member state can elevate border security to the highest level if public health is threatened. Three cases of coronavirus have been confirmed in Greece. The first person to have contracted the virus - a 38-year-old female designer - was treated in hospital in Thessaloniki, the country's northern capital, on Wednesday, three days after returning from the Milan fashion show. Greek authorities announced that her nine-year-old son had also been infected, forcing the school he attends in Thessaloniki to shut down for the next two weeks. The boy had attended class on Monday and Tuesday before beginning to display symptoms yesterday. A third victim, described as a 40-year-old woman who had also travelled to Italy, was also confirmed to have contracted the potentially killer flu after being admitted to a specialist unit in a hospital in Athens earlier today. Media reports of supermarkets in Thessaloniki running out of essential goods as a result of panic buying have been rife. Mitsotakis kicked off the cabinet meeting calling for calm. "The biggest enemy in such situations is panic," he said emphasising the importance of personal hygiene and urging Greeks who may develop symptoms of the disease to follow health ministry guidelines. Earlier the country's health minister announced that carnival parades would be cancelled to prevent the disease spreading. Festivities were due to peak this weekend in the Orthodox nation. Greece has seen a renewed surge in refugee arrivals on its shores with some 42,000 asylum seekers now stranded on Lesbos, Chios, Samos, Kos and Leros facing Turkey. The Aegean isles have become the main gateway for illegal migration into the EU. The seven-month old centre right government has taken a much tougher stance on the issue of migration than its leftist predecessor. Some 130 people quarantined at a hotel in Tenerife are being allowed to leave, Sky news has reported. They are a number of 700 people - many of whom remain - who were in lockdown after an outbreak. Hello everyone. I am running the Guardian's live blog, updating you on the latest information surrounding the coronavirus outbreak. If you have any news tips, images or updates from your area then please do share them with me. Email: sarah.marsh@theguardian.comTwitter: @sloumarsh Instagram: sarah_marsh_journalist England's chief medical officer, Professor Chris Whitty, has said while the coronavirus presents "some challenges", he does not think the world is facing anything on the level of the deadly Spanish flu in 1918. Speaking to health professionals at the Nuffield Trust Summit in Windsor, Prof Whitty said: "Occasionally things come along which, no matter how good your strategic aim is, will knock you off course for a while. "We are not heading into a hlN1 1918 flu pandemic situation, but the coronavirus does present some challenges for us. It definitely will for a period. How big remains to be seen." The hlN1 influenza pandemic in 1918 is estimated to have killed at least 50 million people worldwide. The outlook in Europe. Here is an overview of countries affected, including where people have died and what precautions are being taken. Italy Italy is by far the European country worst affected by the COVID-19 outbreak, with 14 deaths and 528 infections. The area most hit has been northern Italy. Germany In Germany, 26 people have been infected, including 10 diagnosed since Tuesday. Fourteen of the 26 work for an equipment manufacturer in Bavaria, and were infected by a colleague returning from China. Several hundred people are quarantined in their homes. France France has so far registered 18 infections and two deaths, and has urged its nationals to delay travel to virus hotspots in northern Italy. Students returning from China, Singapore, South Korea and the Italian regions of Lombardy and Veneto are asked to remain at home for two weeks after their return. Spain The country has registered 17 cases - 15 of them since Monday. Twelve are linked to Italy. They include four Italians who were visiting Tenerife in the Canary Islands. The hotel where they were staying has been quarantined. Three cases have been registered on the Spanish mainland, including one man in serious condition in the Madrid region. Britain So far there have been 15 recorded cases, including two announced on Thursday. One patient had been in Italy and the other in Tenerife. The government has requested travellers returning from affected areas in northern Italy, China, South Korea and Iran to isolate themselves and inform authorities. Switzerland Four cases have been resistered since Tuesday, including a man in his 70s who was infected near Milan. Russia Two infected Chinese citizens have been treated in Russia, which has also repatriated and quarantined eight passengers from the Diamond Princess cruise ship, of whom three have tested positive. Austria A 72-year-old man in Vienna tested positive on Thursday, making him Austria's third case after an Italian couple, both 24, tested positive on Tuesday. Croatia Three people have tested positive for the virus, including a young man who recently stayed in Italy and his brother. Greece It has announced three cases, all Greeks who had recently returned from northern Italy. Athens announced its first infection Wednesday, a woman aged 38. Two more were announced on Thursday, including a 10-year-old. All three affected are Greek nationals. Finland Two virus infections were confirmed Wednesday, a Chinese tourist in Lapland and a second case involving a Finnish national who had recently visited northern Italy. Sweden There have been two cases so far. One was registered at the end of January: a woman who had visited Wuhan, the Chinese city where the virus emerged in December. On Wednesday, a second infection was discovered in a man returning from northern Italy. Belgium has had one case detective and Denmark announced its first case on Thursday. Georgia on Wednesday announced the first confirmed case in the South Caucasus region. In North Macedonia there has been one case, a woman who recently returned from Italy. Norwegian health authorities announced on Wednesday the first case in the Nordic nation in someone who returned from China last week. They said the patient was not in danger. Lastly, Romania reported its first on Wednesday - a man who was in contact with an Italian who visited the country last week. In Estonia, the first case of confirmed new coronavirus was found on Wednesday evening, social affairs minister, Tanel Kiik, said Thursday. The European Union is bracing for the economic impact of the coronavirus epidemic but it is still too early to estimate the magnitude, the bloc's commissioner for the internal market said. Tourism is already feeling the pinch because "our Chinese friends haven't been coming to Europe for two months", Thierry Breton told a news conference. He said supply chains reliant on China, including for the auto, medical, electronic, wood and toy industries, were also being affected. The commissioner spoke after a Brussels meeting of EU economy ministers. If the disruptions continue, the EU stands ready to deploy economic support measures for virus-hit sectors after another ministerial meeting next month, Breton said. But for now "it's too early to say" what measures would entail or "measure the precise impact" on Europe's economy. Italy is the hardest-hit member state, with an outbreak in its economically important north responsible for a dozen Covid-19 deaths. At a briefing for journalists, EU officials said the bloc was currently in a "containment phase" of identifying infection cases and coordinating on preparedness plans. One official said the EU was well-prepared and that, while other clusters such as that in Italy may well occur, overall the risk to the bloc was no more than "moderate" because of member states' capacities to respond. Closing Europe's borders - either its external borders or its internal, passport-free Schengen borders - was not seen as advisable or effective, the officials said. However, there was a possibility that authorities might soon look at cancelling "mass gathering events" such as sporting fixtures. Moscow's mayor has asked China to respect the measures the city is taking to prevent the spread of the coronavirus after China's embassy complained about disproportionate action against Chinese nationals. The embassy this week deplored what it described as the "ubiquitous monitoring" of Chinese nationals on Moscow's public transport network in a formal complaint sent to local authorities and leaked to Russian media. But Moscow's mayor, Sergei Sobyanin, defended the measures on Thursday and urged the Chinese embassy to encourage its citizens in Moscow to comply with the quarantine measures. "I ask that you relate with understanding to these necessary measures, which are aimed at preventing coronavirus infections from spreading," Sobyanin wrote in a response to the embassy, the Interfax news agency reported. Hundreds of people have been quarantined across Russia, which has barred many categories of Chinese nationals from entering the country. Authorities in Moscow have carried out raids on potential carriers of the virus and used facial recognition technology to enforce quarantine measures. Russia has also barred many categories of Chinese nationals from entering the country. Three Russian nationals are receiving treatment in Russia after they contracted the virus on a cruise ship in Japan, the authorities have said. Two Chinese nationals were also treated in hospital in Russia for the virus, but they have since recovered and been discharged. A growing number of countries are reporting cases of the new coronavirus, with governments looking for solutions as everyday life around the globe is disrupted. Here are some of the latest developments: Hunting for patient zero From California to Italy and beyond, more cases are popping up with no clear origin. These are people who did not travel abroad, or were not linked to another known case. Health authorities are looking for the original source in these places - dubbed patient zero. They are using what's called contact tracing, or finding all the people the patients were in contact with them. Foreign pilgrims banned from visiting Islam's holiest shrines Saudi Arabia has made this move, changing the face of this years annual hajj pilgrimage to Mecca and Medina. It will disrupt plans for millions of faithful from around the world who come to the kingdom to pray together. The decision illustrates how tense the situation is across the Gulf region and the wider Middle East as a whole largely as a result of the rise in the number of deaths and infections in Iran. Schools shut in Japan The prime minister, Shinzo Abe, says he wants all elementary, middle and high schools nationwide to remain closed until spring holidays in late March. Japan now has more than 900 cases, including hundreds from a quarantined cruise ship. In other countries people are being told to keep their kids home from school if they've been anywhere near the growing number of zones worldwide hit by virus outbreaks. Border controls Germany is introducing new landing cards for people arriving from countries most hit by the virus. Pakistan halted flights to and from neighbouring Iran. Prague suspended flights from South Korea. Cyprus is adding more police and health workers at crossing points between the internationally recognised state in the south and a self-declared Turkish Cypriot state in the north. But EU officials insisted that the virus does not stop at borders, saying that if a case is identified at the border, it's probably too late and the spread is likely anyway. Now that there are more cases being reported outside China than inside, Chinese authorities are eager to shed the virus stigma and questions about its early handling of the epidemic. President Xi Jinping said on Thursday: "We have the confidence, the ability and the certainty to win this war against the epidemic." And the Chinese respiratory disease specialist Zhong Nanshan predicted China's outbreak should be "basically under control" by the end of April. He credited strong measures taken by the government and the work of medical workers for helping curb the spread. In an update addressed to parents on its website, Dulwich Prep school said that as well as the two pupils who returned from a half-term holiday in one of the Category 2 areas and "have since become unwell", it had been made aware of "other families within our school community where a parent has been asked to self-isolate by their employer". It said the two pupils were unrelated and from different sections of the school. The pupils had contacted NHS 111, self-isolated and were awaiting the results of tests. There would be a "professional deep clean" of the site to be completed by Friday and staff were preparing lessons and assignments to be delivered via online platforms in case the school remained closed beyond Monday morning. "We hope to reopen on Monday 2 March but will publish details as soon as we hear the results of the tests being conducted on our pupils that have fallen ill. However, if either of our pupils test positive for Covid-19 we will remain closed for a longer period while the school undergoes a full deep clean." Shares of Microsoft Corp fell more than 4% after the company warned of weakness in PC business due to a hit to its supply chain from the coronavirus outbreak. The company echoed similar statements from Apple Inc and HP. The drop in share price wiped nearly $50bn from Microsoft's market value on a day when broader markets were down more than 2%. The virus has so far infected about 80,000 people, killed nearly 2,800 and spread to 44 countries, after originating in the central Chinese city of Wuhan late last year. Apple was the first big technology firm to say the virus was affecting its production and demand in China. PayPal Holdings Inc and Mastercard Inc have also warned about a possible hit. Several Wall Street analysts expect other technology companies with heavy presence in China to soon come out with their own statements. Governments from Iran to Australia shut schools and cancelled big events as they battled to contain the coronavirus outbreak. For the first time, new infections reported around the world surpassed those in mainland China, where the flu-like disease emerged two months ago from an illegal wildlife market. It is now on the decline in the country after an aggressive containment campaign. In Japan, where cases rose to 200, there was particular concern after a female tour bus guide tested positive for a second time - one of very few worldwide to do so. Big gatherings have been halted in Tokyo, Japan's capital, but it still plans to go ahead with the 2020 Olympics, whose cancellation or relocation would be a massive blow for the country. "This virus has pandemic potential," the WHO chief, Tedros Adhanom Ghebreyesus, told reporters in Geneva. "This is not a time for fear. This is a time for taking action to prevent infection and save lives now." Lebanon health ministry confirms third case of coronavirus, NNA reports. One of London's top private schools, Dulwich Prep London, has said it will be closing for a few days "as a precautionary measure" after two students returned from Italy feeling unwell. Paul Reid, director general of the Health Service Executive, has outlined what is being done to keep Ireland in the "containment phase". He has been speaking at a briefing. Hello everyone. I will be running the Guardian's live blog, updating you on the latest information surrounding the coronavirus outbreak. If you have any news tips, images or updates from your area then please do share it with me. Email: sarah.marsh@theguardian.comTwitter: @sloumarsh Instagram: sarah_marsh_journalist The new coronavirus epidemic is at a "decisive point" globally, the World Health Organization chief, Tedros Adhanom Ghebreyesus, said, urging affected countries to "move swiftly" to contain the disease. "We're at a decisive point," Tedros told reporters in Geneva. "If you act aggressively now, you can contain this virus, you can prevent people getting sick, you can save lives." "There does not appear to be widespread community transmission," he added. Tedros emphasised that all countries should ensure their health systems were prepared for an outbreak. "We are actually in a very delicate situation in which the outbreak can go in any direction based on how we handle it," he said. The World Health Organization said that as of 6am Geneva time this morning, China had reported a total of 78,630 cases of COVID-19 to WHO, including 2,747 deaths. Outside China, there were 3,474 cases in 44 countries, and 54 deaths. It is the second day in which the number of new cases reported in the rest of the world has exceeded the number of new cases in China. Hello and welcome to our continuing coverage of the coronavirus. Here's a quick summary of the latest developments. If you're looking for more detail, here's our earlier coverage. Coronavirus could trigger economic damage on the scale of the 2008 financial crisis, analysts have warned, amid growing concerns over the fallout from the deadly disease. The death toll in Iran has risen to 26, with almost 250 people diagnosed with the virus. Two more people have died from coronavirus in Italy, bringing the death toll to 14. The number of confirmed cases has risen to more than 520. Two further patients in England have tested positive for coronavirus, bringing the total number of UK cases to 15. The virus was passed on in Italy and Tenerife, and the patients have been transferred to specialists at the Royal Liverpool hospital and the Royal Free hospital, London. Saudi Arabia has taken the unprecedented step of banning foreign pilgrims from entering the country in an effort to halt the spread of coronavirus. The country has yet to report a case of the virus. A woman working as a tour bus guide in Japan has tested positive for coronavirus for a second time. The Japanese government has ordered the closure of all schools and museum for a month. The French president, Emmanuel Macron, has warned an epidemic that is on the way". There are now 18 confirmed cases of coronavirus in France and two people have died. More cases have been reported all over the world including in Switzerland, Kuwait, Spain, South Korea and Austria. Estonia, Denmark, Pakistan, Georgia, Norway, North Macedonia, Greece and Romania are among countries to report their first case of coronavirus in the last day. China's health authority has reported another drop in the number of new infections, with 433 new confirmed cases and 29 deaths in mainland China on Wednesday. Donald Trump has sought to play down the threat from coronavirus despite mounting concerns about unchecked worldwide contagion. In a press conference in Washington, the US president said the danger to Americans "remains very low" and predicted that the number of cases diagnosed in the country, currently on 15, could fall to zero in a "few days". But Anne Schuchat, deputy director of the US CDC, said "the trajectory of what we are looking at over the weeks and months ahead is very uncertain", and authorities should "dust off" their pandemic preparedness plans. Australia has extended its travel ban on China and enacted its emergency response plan, because "there is every indication the world will soon enter the pandemic phase of the virus", said the prime minister, Scott Morrison.59761falsefalseHelen Davidson (now), Sam Gelder and Sarah Marsh (earlier)Tourists wearing protective masks in Rome.A man in a protective suit disinfects a school facility where a child was diagnosed with coronavirus, in Thessaloniki, Greece, February 27, 2020." suppliers-reference="GGG-AThl" alt-text="A man in protective suit disinfects a school facility where a child was diagnosed with coronavirus, in ThessalonikiA man in a protective suit disinfects a school facility where a child was diagnosed with coronavirus, in Thessaloniki, Greece, February 27, 2020." credit="Photograph: EUROKINISSI/Reuters" height="300" media-id="5950ae7fa4029621dd2f6f2fe8e243ea6c04a5f1" image-type="Photograph" photographer="EUROKINISSI" source="Reuters" secure-file="           https://media.guim.co.uk/5950ae7fa4029621dd2f6f2fe8e243ea6c04a5f1/0_190_3500_2101/500.jpg" display-credit="true" />A man in protective suit disinfects a school facility where a child was diagnosed with coronavirus, in Thessaloniki A man in a protective suit disinfects a school facility where a child was diagnosed with coronavirus, in Thessaloniki, Greece, February 27, 2020.More than 5,000 people from around the world attended Facebook's F8 conference in San Jose, California, in 2019.The 2020 European Championship will be the first to be played all across the continent, with 12 different countries hosting matches.A tourist in quarantine inside the hl Costa Adeje Palace hotel in the Canary island of Tenerife.Jeremy FarrarDirector-general of the WHO, Tedros Adhanom Ghebreyesus, attends a news conference on the coronavirus in Geneva, Switzerland.

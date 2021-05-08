@@ -1,0 +1,120 @@
+The order of animals known as Chiroptera, the bats, enjoys a mixed reputation among humans. I'm putting this politely: They have been calumniated and abused for centuries.
+
+Some people, mainly from the comfort of distance and ignorance, find bats repellent and spooky. Some people fear them, with or without rational grounds. Bats are sometimes slaughtered in large numbers, defenseless at their collective roosts, when people deem them menacing, inconvenient, noxious or desirable as food.
+
+The idea of bat soup or roasted bat may induce cringes in sensitive Western eaters, but that's no consolation to the tens of thousands of flying foxes (as the largest of the Old World fruit bats are known) that have been legally hunted for meat and sport in Malaysia in recent years. Or to the Mariana fruit bat, pushed toward oblivion not just by habitat loss in Guam and neighboring islands, but also by the introduction of a tree snake that preys upon them and a tradition among the local Chamorro people of eating them as a celebratory meal. Almost 200 bat species around the world are threatened with extinction.
+
+And this pattern of antipathy will only be made worse by the Covid-19 pandemic -- given molecular evidence showing bats as the likely origin of the new coronavirus -- unless we recognize the merits and beauties of these creatures, as well as the biases against them.
+
+Ancient literature and folklore record a long list of anti-bat beliefs: that they were turncoats in the primordial battle between Birds and Beasts, that they curdled the eggs of storks, that they gouged bites out of hams hung for curing, that they entangled themselves in women's hair, that they were accomplices to Satan in his effort to seize control of human nature, that bat blood could serve as an antidote to snakebite and all manner of other silly stuff.
+
+The association of vampirism with bats, though, is no myth. Three species of small, sneaky New World bats are adapted to feeding exclusively on blood from birds and oblivious mammals -- originally wildlife, but now also cows, horses and humans asleep with their feet exposed. The most conspicuous of them is the common vampire bat, Desmodus rotundus, known from Uruguay to Mexico and especially abundant in southeastern Brazil. These sanguinivorous bats have heat sensors in their noses for locating capillary concentrations, sharp incisors for slicing flesh, anticoagulant saliva -- the whole deal. Like furry mosquitoes.
+
+The ''rotundus'' (portly) in their scientific name reflects the fact that after they've crept across the ground to nip the ankles of cattle and drink blood, they become so fat from a night's meal (burp), that they must piss away the plasma, retaining the red cells, before they can be airborne and get back to their roost. From there it's a short flight to ''Dracula.''
+
+Some people also blame bats for the dangerous pathogens they carry -- including, potentially, the precursor of the new coronavirus, SARS-CoV-2. That virus may have gotten into us from one of the several kinds of horseshoe bat from southern China. If so, the fateful event probably had more to do with what some human wanted from bats than with what some bat wanted from humans.
+
+Bat viruses spill into humans; they don't climb into us. They don't seek us out. And the spilling generally happens when we intrude upon bats in their habitats, excavating their guano for fertilizer, capturing them, killing them or transporting them live to markets, or otherwise initiating a disruptive interaction.
+
+Scientists haven't yet discovered (and they may never) just which such encounter brought this coronavirus to humanity. But you can be confident that it didn't happen because some Chinese rufous horseshoe bat flew into Wuhan and bit a poor man on the toe.
+
+II.
+
+The most lethal of bat-borne viruses, for humans, is rabies, now recognized as one member of a diverse group called the lyssaviruses (as in Lyssa, the Greek goddess of frenzy and rage), most of them associated with bats. Humans have been aware of rabies at least since Democritus, in the fifth century B.C. We've seen it in our dogs, sometimes driven mad, like Old Yeller, and occasionally in an unlucky person who got bit. The fatality rate for rabies, absent prompt post-exposure vaccination, is nearly 100 percent, and the disease still kills tens of thousands of people each year.
+
+But from what original source did rabies get into dogs or raccoons or skunks or the other carnivores from whose saliva it drips into a bite wound? The first clue to that mystery came in 1911, when rabies virus was reported among bats by an Italian scientist in Brazil, Antonio Carini, who noted the odd detail that it didn't seem to make the bats sick. That suggested a long relationship between the bats and the virus, which had perhaps reached a mutual accommodation: a secure habitat for the virus, no symptoms for the host.
+
+Although rabies was the topic that dominated research in this field for much of the 20th century, a few other bat-borne viruses turned up, mostly as incidental discoveries by scientists studying something else. Rio Bravo virus, for instance, found among some California bats in 1954 and related to the yellow fever virus, was one. Tacaribe virus, carried by both bats and mosquitoes in Trinidad, was another. These viruses yielded scientific papers but not newspaper headlines, because they weren't causing human deaths.
+
+Soon, too, there appeared some new killer viruses, though without (at first) any clear linkage to bats. Marburg virus as well as the most lethal and infamous of the Ebolas, now known as Zaire ebolavirus, caused gruesome illness and death with their first recognized outbreaks among humans, during the late 1960s and 1970s. But their confirmed (Marburg) or probable (Zaire ebolavirus) connections to bats as reservoirs were not established by science until later.
+
+Then, in 1994, a strange new bug spilled out of certain flying foxes in eastern Australia, burned its way horrifically through a stable of racehorses and killed one of the three men who had labored, shoulder-deep in bloody froth, to save those horses. A second man, a stable hand, got very sick but survived. The third man was a tall veterinarian named Peter Reid.
+
+''That's it,'' Dr. Reid told me, a dozen years later, as we sat in his car amid a sprawl of new tract houses near Brisbane, gazing at a solitary fig tree left standing in a traffic circle. ''That's the bloody tree.'' The suburb, in 1994, was a horse pasture. The bats came for the figs. The first infected horse shaded herself beneath this tree, feeding on grass splotched with virus-laced bat feces. From her it passed to the other horses and to the men.
+
+That virus got the name Hendra, after the Brisbane suburb where the horse deaths occurred. This was before it became politically unacceptable to name a nasty new virus after a place.
+
+Nipah virus, in 1998, in Malaysia, also emerged from bats, also passed through an amplifier host (pigs), also killed people and also was named for a place: the village of Sungai Nipah, home to a 51-year-old pig farmer from whose cerebrospinal fluid the virus was first isolated.
+
+The original SARS virus appeared shortly thereafter, in 2002. It, too, arose from a bat, passed possibly through palm civets, and began sickening people in Shenzhen, China. It spread alarmingly fast to other countries in 2003, with several superspreading events and a high fatality rate, but it was controlled thanks to strong public health measures, and it killed ''only'' 774 people.
+
+The SARS outbreak of 2002-03 was a galvanizing event for disease scientists, who recognized that it could have brought about a disastrous pandemic if just a few factors had differed: a slower response by public health officers, disorganized efforts of containment, or maybe a similar coronavirus but capable of spreading from asymptomatic cases. (Does all that sound familiar? It should.) Discovery of the bat-SARS link two years later moved bat-virus research, according to the eminent virologist Charles H. Calisher, ''from serendipitous, fragmented, and local, to well-planned, methodical, and global,'' with attention focused ever more strongly on bats as the reservoirs from which many nefarious viruses have emerged.
+
+That's a long list of animosities, scurrilities, grudges and indictments. So what can be said for bats, these feared and detested creatures?
+
+Plenty can be said for them.
+
+III.
+
+To grasp the majesty of bats, start by imagining this: You are on a small cargo boat, chartered for 25 bucks, puttering southward across open sea among the small islands east of Komodo, in central Indonesia. There are scarcely any villages, scarcely any people, and certainly no hotels in this remote, austere bit of the archipelago. It's twilight and you're hurrying toward a safe anchorage at the lee of one of these islands, where you and the boat captain and his two sons, who constitute his crew, can sleep the night. Just before dark, a great flock of fruit bats comes out of the west, flying high, maybe a thousand of them, each as large as a raven.
+
+Most likely they are Sunda fruit bats, Acerodon mackloti, a species endemic to Indonesia, and whatever viruses they may carry have not yet caused any known harm to people. Their wings flap in easy rhythm as they move in procession, full of purpose, like migrating geese, toward their nocturnal feeding grounds on some island eastward. The dipping sun warms the sky with a last peach-colored wash. The moon is a thin crescent, and the bats cross it in silhouette, minding their own business. They are magnificent.
+
+The Sunda fruit bat is just one of what scientists tally as more than 1,400 living species of bat. That's more than any other mammalian order except the rodents and constitutes about 20 percent of all mammals. Think of it: One in every five mammals on earth, by count of species, is a bat. They must be doing something right.
+
+By another standard, bats are more diverse even than rodents if you consider the variousness of their ecological, physiological and behavioral traits, as well as the sheer count of species. They live on every continent except Antarctica, from north of the Arctic Circle to Tierra del Fuego, and on some of the world's most remote islands. Their diets include insects, small mammals, reptiles, amphibians, fish taken by skimming over water, fruit, flowers, nectar, pollen, leaves, scorpions and blood.
+
+Some of them migrate, traveling long distances for seasonal food or mild temperatures. Some of them hibernate, notably in caves, to avoid the hardships of winter. Many bats of the temperate zones are also capable of daily torpor, reducing their body temperature and oxygen consumption while they are inactive, to save energy. When they perk up again and take flight, their metabolic rate can increase quickly by a factor of 14. All of these traits relate to the two great adventures that evolution opened to early bats: They colonized the air and they embraced the dark. Nowadays they sleep by day and fly by night.
+
+They were the first, and are still the only, mammals capable of powered flight. That's big: By opening a third spatial dimension to them, a vast new realm of activity scarcely explored by other mammals, flight may be what enabled such extraordinary diversification.
+
+Another factor is the duration of their lineage. The earliest known bat fossil dates to about 50 million years ago, and because it resembles a modern bat, the dawning of bats must have occurred well before that. The earliest flying squirrel may not have appeared until 30 million or 40 million years later, by which time bats were the mammalian masters of the air.
+
+To function at night, performing the aerial dives and swoops necessary to catch flying insects, without going hungry or continually knocking themselves silly against tree limbs or rock walls, they acquired another crucial capacity: echolocation. They became able to blast out pulses of high-frequency sound, some of them through their noses, like silent screams, and receive back the echoes with acutely sensitive ears. This allows their brains to assemble dynamic images of the size, shape, distance and motion of the zigzagging moths and plummeting katydids that are their prey.
+
+Certain of the nostril shriekers, including the horseshoe bats and the leaf-nosed bats, developed elaborate nasal structures that help focus their sonic pulses. Some others, by evolutionary increments, grew huge ears. Tomes's long-eared bat, native to forests in Central and South America, has combined both -- towering, wide ears shaped like the spinnaker on a yacht, plus a nose like the prow of a Viking ship. This makes for a face of peculiar distinction -- I would say, a face only a mother could love, except that chiroptophiles love it, too -- while the poor little animal is just trying to locate dinner.
+
+Bat superlatives are both wide and long: Besides showing great collective diversity, bats also have high life expectancy. If an infant bat gets past its first birthday, it has a good prospect of surviving to 7 or 8. Much longer than a mouse. On average, according to one study, a bat lives more than three times as long as a nonflying mammal about the same size, and some can reach 30 years, even in the wild.
+
+This longevity is not just because of torpor and hibernation, giving long periods of rest. Even non-hibernating bats live to be old, possibly in part because flight allows them escape from predators, possibly also because escape from predators, lengthening life, has given Darwinian natural selection the time and reasons to eliminate negative mutations that might cause congenital disease in middle-aged bats -- a positive feedback loop. But these are guesses that invite more investigation.
+
+Another conundrum now at the forefront of bat research, with potential medical value for humans, is how their immune systems tolerate viral infection with such aplomb. Bats carry many viruses, and yet they generally don't suffer symptoms themselves.
+
+In at least some cases, the concentration of virus in their blood tends to be low. They don't mount the same inflammatory responses as other mammals, which is good for their longevity, because excessive inflammatory responses can be dangerous, sometimes overwhelming the body with a reaction worse than the cause. The sequencing of the genomes of several bat species has revealed that they carry about half as many immunity-related genes as a human does.
+
+Why would evolution dampen down immune reactions in bats? One hypothesis is that it's a trade-off for flight: Flying entails such physiological stress that an alert immune system might react against unstable molecules produced by the animal's own exertion. In this view, it's better for the bat to ignore the presence of viruses than to suffer autoimmune symptoms from flying. So, could bats help medical researchers understand autoimmune disease in humans? That's an open question.
+
+IV.
+
+Although the earliest bats were small insect-eaters, the big fruit bats diverged at least 35 million years ago, when chance and evolutionary opportunity led them to abandon echolocation (mostly) for good eyesight, and agile insectivory for vegetarianism and bulk. The largest are the flying foxes, stately creatures with broad wingspans, dog-like faces, molars for crushing fruit pulp and, in some species, long tongues for lapping up nectar.
+
+A few of them are lovely, russet-bodied with umber wings, occasionally a golden collar. They roost mainly in trees, such as the tall karoi surrounding a certain derelict warehouse, in southern Bangladesh, where a wildlife veterinarian named Jonathan Epstein, along with his field crew and me, in 2009 found a roosting colony of 4,000 to 5,000 Indian flying foxes. Dr. Epstein had come to trap some of these animals and sample them for Nipah virus.
+
+On the first afternoon, as Dr. Epstein's two agile net-riggers climbed high into one tree, the bats stirred, woke and, spooked, rose into the sky, one after another, with what seemed calm caution, to escape the disturbance. Soon, the whole flock was airborne, circling out to the northeast, then back in, out again, back, riding the thermals with minimal wing beats, like flotsam going around in a great river eddy. I gawked up in awe and Dr. Epstein reminded me -- I can't remember if it was then or later -- that a wide-open gape beneath a caldron of such bats might be a good way to get a mouthful of Nipah-laced guano.
+
+In the wee hours of the night we returned, climbed a rickety bamboo ladder to the warehouse roof, wearing masks and goggles and gloves and headlamps, and were in position when the first bat -- now returning from its nocturnal foraging -- hit the net. Dr. Epstein, hands protected in welder's gloves from the sharp claws and teeth, held the animal in a firm grip behind its neck while a colleague untangled it. That one went into a cloth bag, and so had, by dawn, five others. Then, in a makeshift field lab, Dr. Epstein and his crew took blood samples and cheek swabs from the bats, now anesthetized, being careful not to hurt them.
+
+At full daylight, we all marched outside. By now a small crowd of people, adults and children, had gathered to watch the strange business. Dr. Epstein released each animal gently: He raised an arm high, letting the bat free its wings and legs and then drop of its own accord, catching itself with wing beats just above ground, and then slowly flap away. With one of his crew members translating, Dr. Epstein addressed the gathering: ''You're very fortunate to have so many bats.'' They pollinate plants, they spread seeds, they generate fruit trees, he explained. Implied but unmentioned was this message: If you leave them alone, if you keep your distance, you probably won't get Nipah-virus disease.
+
+Dr. Epstein -- one of those cross-trained experts with a veterinary degree, a Ph.D. in ecology and a master's in public health -- is now a vice president at EcoHealth Alliance, a research and conservation organization devoted to animal and human health. He reminded me during a recent conversation, as he had those villagers in Bangladesh, of the benefits ledger for bats.
+
+They play a huge role in the perpetuation of tropical hardwood forests. They eat a vast tonnage of insects each year. In Thailand, wrinkle-lipped bats provide protection against a major rice pest. In Indonesia, other bats reduce the insect burden on shade-grown cacao. A single colony of big brown bats in the American Midwest, by consuming 600,000 cucumber beetles in a year, prevents 33 million cucumber beetle larvae from feeding on the next year's crop. Mexican free-tailed bats eat cotton bollworm moths in Texas. By one estimate, from 2011, bat predation on insects was saving $23 billion annually for agriculture in the United States. The global total is incalculable. ''Bats are too important to lose,'' Dr. Epstein said.
+
+V.
+
+Yet they are being lost in many parts of the world, because of habitat destruction and direct killing -- and, at a cataclysmic rate in North America over the past 14 years, because of a new problem: a contagious disease. It's called white-nose syndrome, and it's caused by a pathogenic fungus that seems to have arrived from Europe. In this case, humans are the vector, and bats are the victims.
+
+Winifred Frick is the chief scientist of Bat Conservation International and has studied white-nose syndrome almost from the start. The disease first showed itself at a tourist-destination cave west of Albany, N.Y., in February 2006, where a caver photographed some hibernating bats with powdery white fuzz on their muzzles, like frost on the beard of a skier. A year later, biologists for New York State found thousands of dead bats with similar growths in another cave nearby. By 2008, Dr. Frick, among others, was at work on the problem, which grew into a crisis for the hibernating bats of North America.
+
+''It spread really rapidly,'' she told me recently by Skype, walking on her treadmill as we spoke. I knew Dr. Frick already as a multitasking scientist a decade ago, having met her when a group of us shared dinner in a grand venue at the close of an international bat conference in Berlin and she brought along her 4-month-old son, Darwin. By now, white-nose syndrome is in 33 U.S. states and Canadian provinces, she told me, having caused a 90 percent decline in the known populations of three bat species, plus losses among at least four others. Millions of bats have died.
+
+One of the three hardest-hit species, the northern long-eared bat, she said, was ''totally gone,'' within three years, from some areas where it used to hibernate. North America's hibernating bat populations could be nearly or completely wiped out.
+
+The fungus thrives in cold, damp environments such as caves, and it takes hold on bats during their periods of torpor and hibernation, when their immune systems are inattentive, not just to viruses but also to other infections. ''You can almost think of them as being like little cold Petri dishes,'' Dr. Frick said. The fungus grows robustly, causes irritation and rouses the bats in midwinter, whereupon they fly out, expend crucial fat reserves searching for insect food that isn't there and die.
+
+The same fungus is commonly found on bats in Europe, but with relatively mild effect and no evidence of mass mortality, possibly because it's long familiar and those populations have adapted. How did it get to North America? No one knows for sure, Dr. Frick said. ''We don't have a smoking gun,'' but ''the most parsimonious explanation is that it came over on somebody's boots.'' An invisible smudge of the fungal spores, on the footwear of a casual tourist or a serious caver lately returned from spelunking in northeastern France or Germany, could have been enough. Bats don't fly between Europe and America, but people do.
+
+I'm sure you see the analogy here, the gruesome symmetry that brings consolation to no one: Covid-19 is a disease catastrophe for humans, with its likely origin in bats, triggered by human action; white-nose syndrome is a disease catastrophe for bats, with its origin who knows where, triggered again by human action. We humans are one species, abundant and wondrous and powerful. Bats are many species, diverse and wondrous and vulnerable.
+
+That puts some responsibility upon us. Our lives and our health are entangled with theirs. If we could speak to bats, offering armistice, seeking concord, I'd suggest six words for a start: ''Thank you. No hard feelings. Sorry.''
+
+David Quammen is an author and journalist whose books include ''Spillover: Animal Infections and the Next Human Pandemic.''
+
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips. And here's our email: letters@nytimes.com
+
+Follow The New York Times Opinion section on Facebook, Twitter (@NYTopinion) and Instagram.
+
+
+
+
+

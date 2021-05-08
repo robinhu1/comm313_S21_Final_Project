@@ -1,0 +1,83 @@
+An interview with Peter Daszak, an animal disease specialist, just after his return from an investigative research mission to Wuhan, the site of the original Covid outbreak, and surrounding areas.
+
+A team of experts selected by the World Health Organization to investigate the origins of the virus that caused the Covid-19 pandemic returned last week from Wuhan, site of the world’s first outbreak. The team, having broken the ice with Chinese scientists, plans to produce a joint report on the possible origins of the virus.
+
+The two groups of scientists, from China and the W.H.O., agreed to pursue some ideas that the Chinese government has been promoting, like the possibility that the virus was transported on frozen food. But the W.H.O. team also became frustrated by China’s refusal to turn over raw data for analysis.
+
+Peter Daszak, a member of the W.H.O. team and the president of EcoHealth Alliance in New York, is primarily concerned with the animal origins of the virus. A specialist in animal diseases and their spread to humans, Dr. Daszak has worked with the Wuhan Virology Institute, a collaboration that last year prompted the Trump administration to cancel a grant to his organization.
+
+In an interview after his return to New York, he said that the visit had provided some new clues, which all of the scientists, Chinese and international, agreed most likely pointed to an animal origin within China or Southeast Asia. The scientists have largely discounted claims that the virus originated in a lab, saying that possibility was so unlikely that it was not worth further investigation.
+
+He reflected on the atmosphere in Wuhan and his first glimpse of the seafood market where the initial outbreak occurred last year, although it was not the site of the first cases. He also said the path ahead would be straightforward scientifically, but not politically.
+
+A transcript of the conversation, condensed and edited for length, follows:
+
+You’ve been to China and to Wuhan many times before. How was this different?
+
+Well, this was weird. There’s certain things when you go into China that you’re supposed to do. The first thing you do is have a meeting and then have a meal. And if you don’t have a meal, it’s considered extremely rude. This time we spent two weeks in Zoom calls from our quarantine hotel. Then we went to meet in person and still didn’t have meals with our host. We had meals in a separate room.
+
+So it was just a very difficult, very intense, very emotional trip. In Wuhan, there’s this feeling of post-traumatic shock.
+
+The city went on lockdown, I think, 76 days. They were locked in their apartments — people died, and they didn’t know about it. And from then on, they’ve been accused of starting a pandemic, and it’s been called the Wuhan virus, the China virus, and there was just a sense of outrage and sadness.
+
+Did that make it difficult in terms of the scientific purpose of the trip?
+
+No. You’ve got a task to do. You’ve volunteered. You know what it’s going to be like. You get caught up in the historical importance. I don’t know if we were the first foreigners to walk around the Huanan seafood market, which is blocked off even to Chinese citizens. The only people that have been in there have been the Chinese disease investigators. We met with the doctors that treated the first known Covid patients.
+
+These people have been through harrowing conditions, and they’re now lauded as heroes in China, and then the rest of the world now is fighting that war. And China, of course, is absolutely petrified of this virus catching hold again.
+
+When you arrive at the airport, they come on the plane in full P.P.E.; you’re escorted down a separate quarantine pathway; you get tested. You’re driven to the hotel, you go in your room, and you’re locked in for two weeks. It’s just severe. The people who come to your door are in full P.P.E. The waste from your trash, from the hotel room, goes into a yellow bag with a biohazard sign on it.
+
+It was a totally different experience when I returned home, where I didn’t even get a notification that I’ve got to quarantine. I signed on to the New York state app, but no one is going to knock on my door and tell me, “Stay indoors.”
+
+Did you learn anything from this trip that you didn’t know before?
+
+From Day 1, the data we were seeing were new that had never been seen outside China. Who were the vendors in the Huanan seafood market? Where did they get their supply chains? And what were the contacts of the first cases? How real were the first cases? What other clusters were there?
+
+When you asked for more, the Chinese scientists would go off, and a couple of days later, they’ve done the analysis, and we’ve got new information. It was extremely useful. At the time, you couldn’t really say much. We were trying to not undermine the process by revealing anything while we were on the trip.
+
+What can you say now about the market and what you saw?
+
+The market closed on the 31st of December or the 1st of January, and China C.D.C. sent a team in of scientists to try and find out what was going on. It was a very extensive study, swabbing every surface of this place. We knew early on that there were 500 samples collected, and there were many positives, and in that sampling were some animal carcasses, or meat. But there was not really much information publicly about what had been done. So we got all that information. And that, to me, was a real eye-opener.
+
+They’d actually done over 900 swabs in the end, a huge amount of work. They had been through the sewage system. They’d been into the air ventilation shaft to look for bats. They’d caught animals around the market. They’d caught cats, stray cats, rats, they even caught one weasel. They’d sampled snakes. People had live snakes at the market, live turtles, live frogs.
+
+Rabbits were there, rabbit carcasses. A farm with rabbits could have been really critical. There was talk about badgers, and in China, when they say badger, that means ferret badger. It’s a mustelid, related to weasels. Animals were coming into that market that could have carried the coronavirus. They could have been infected by bats somewhere else in China and brought it in. So that’s clue No. 1.
+
+There were 10 stalls that sold wildlife. There were vendors from South China, including Yunnan Province, Guangxi Province and Guangdong Province. Yunnan Province is where the closest relative to SARS-CoV-2 is found in bats. Guangxi and Guangdong are where the pangolins were captured. They had close viruses.
+
+You’ve got animals coming in to the market which are susceptible. Some of these are coming from places where we know the nearest relatives of the virus are found. So there’s the real red flag.
+
+Now the Chinese group did swab those animals, and they were all negative, but it’s just one small group of animals in the freezer that were left behind. We don’t know what else was for sale there. So these two clues are really important.
+
+When we got to actually visit the market, to me it was quite striking. The pictures you see of that market closed now are of quite orderly buildings with shutters, and you think, This a very efficient, typical city market. It doesn’t really look like a live animal market. Once you get there on the ground, it’s different. It’s pretty ramshackle.
+
+It looks like a place that would sell live animals. There’s plenty of evidence of live aquatic animals, the turtle tanks, the fish tanks, the snakes, which we know were available. What we now have are a clear link and a potential pathway.
+
+What about the cases that appeared before the outbreak in the seafood market?
+
+There was other spread going on outside of Huanan market. There are other patients who have no links to the market, quite a few in December. There were other markets. And we do know that some of the patients had links to other markets. We need to do some further work, and then the Chinese colleagues need to do some further work.
+
+When we sat down as a group, the China team and the W.H.O. team on the last full day of work, and said, “Let’s go through the hypotheses,” the one that received the most enthusiastic support was this pathway — wildlife, through a domesticated wildlife link, into Wuhan.
+
+What is the next step?
+
+For the animals chain, it’s straightforward. The suppliers are known. They know the farm name; they know the owner of the farm. You’ve got to go down to the farm and interview the farmer and the family. You’ve got to test them. You’ve got to test the community. You’ve got to go and look and see if there are any animals left at any farms nearby and see if they’ve got evidence of infection, and see if there is any cross-border movement. If the virus is in those southern border states, it’s possible that there’s been some movement across neighboring countries like Vietnam, Laos or Myanmar. We’re finding more and more related viruses now. There’s one in Japan and one in Cambodia, one in Thailand.
+
+For the human side, look for earlier cases, for clusters; look in blood banks for serum, if possible. Anything like this is going to be sensitive in China, and it’s going to take some persuasion and diplomacy and energy for them to do that because, to be honest, looking for the source of this virus within China is not a great, high priority I think for the Chinese government. Anywhere this virus is shown to emerge is a political issue. That’s one of the problems, and that is clear and obvious to anyone who has been looking at this.
+
+Do you have a particular animal that you suspect right now as an intermediate link, more strongly than others?
+
+It’s too up in the air. We don’t know if civets were on sale. We know they are very easily infected. We don’t know what the situation is with the mink farms in China or the other fur farms, like raccoon dogs, even though they’re normally farmed in a different part of China. That needs to be followed up on, too.
+
+But if you were to say which pathway would you put the most weight on, I think the virus emerging either in Southeast Asia or Southern China from bats, getting into a domesticated wildlife farm. I’ve been to many of these, and they often have mixed species — civets, ferret badgers, raccoon dogs. Those animals would be able to get infected from bats.
+
+Either the people that work there get infected and bring it in, or animals are shipped in, live or recently killed, that bring the virus into a market. Once it’s in a market — either Huanan or another one in Wuhan — you’ve got a dense population of people moving through those markets. And it’s going to be a real potential for an amplification.
+
+The new data that you saw, for instance, on the vendors and their supply chains, will that be in your full report?
+
+I hope so. There’ll be some things that are going to be confidential, without a doubt. Patient records are kept highly confidential in China. We have an image in the West of China being authoritarian and they are videoing everyone. They can have access to anything. But patient records are very private, and some are not accessible.
+
+We wanted to meet with certain patients. They didn’t want to meet, so they weren’t pushed to meet with us. There’s no reason to believe that was shenanigans. I’m hoping all the information about vendors, vendor chains will be there. But if not, we’ve seen it. We’ve got it. And we will be following up.
+
+PHOTO: Peter Daszak in Wuhan, China, this month. (PHOTOGRAPH BY Aly Song/Reuters FOR THE NEW YORK TIMES)

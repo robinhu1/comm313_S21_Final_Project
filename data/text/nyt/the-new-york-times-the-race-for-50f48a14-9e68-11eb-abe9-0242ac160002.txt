@@ -1,0 +1,91 @@
+Even as vaccines are hailed as our best hope against the coronavirus, dozens of scientific groups are working on an alternate defense: monoclonal antibodies. These therapies shot to prominence just this month after President Trump got an infusion of an antibody cocktail made by Regeneron and creditedit for his apparent recovery, even calling it a “cure.”
+
+Monoclonal antibodies are distilled from the blood of patients who have recovered from the virus. Ideally, antibodies infused early in the course of infection — or even before exposure, as a preventive — may provide swift immunity.
+
+An enthusiastic Mr. Trump has promised to distribute these experimental drugs free to anyone who needs them. But they are difficult and expensive to produce. At the moment, Regeneron has enough to treat only 50,000 patients; the supply is unlikely to exceed a few million doses in the foreseeable future.
+
+Dozens of companies and academic groups are racing to develop antibody therapies. Already Regeneron and the drug company Eli Lilly have requested emergency use authorizations for their products from the Food and Drug Administration.
+
+These drug companies have the long experience and deep pockets needed to win the race for a powerful antibody treatment. But some scientists are betting on a dark horse: Prometheus, a ragtag group of scientists who are months behind in the competition — and yet may ultimately deliver the most powerful antibody.
+
+Prometheus is a collaboration between academic labs, the United States Army Medical Research Institute of Infectious Diseases, and a New Hampshire-based antibody company called Adimab.
+
+The group’s antibody is not expected to be in human trials until late December, but it may be worth the wait. Unlike the antibodies made by Regeneron and Eli Lilly, which fade in the body within weeks, Prometheus’s antibody aims to be effective for up to six months.
+
+“A single dose goes a long way, meaning we can treat more people,” said Kartik Chandran, a virologist at Albert Einstein College of Medicine and the group’s leader.
+
+In mice and laboratory tests, Prometheus’s antibody protects against not just the coronavirus, but also the SARS virus and similar bat viruses — suggesting that the treatment may protect against any coronaviruses emerging in the future.
+
+A study published last year recorded about 400 strains of bat-origin coronaviruses in China, some of which had already spilled over into people.
+
+Among scientists, Dr. Chandran and Prometheus are famous for careful and clever work that has unearthed critical insights into deadly pathogens. While working on Ebola, for example, the team discovered a new entryway into human cells used by the virus, and used that information to design an antibody combination that works against all major strains of Ebola.
+
+“They do very innovative stuff,” said Florian Krammer, an immunologist at the Icahn School of Medicine at Mount Sinai in New York. “If they find something cool, they dig deep.”
+
+Outgunned, at First
+
+Antibodies are as variable as the people who produce them. Some antibodies are weaker than others; some target a different part of the coronavirus than others; and some are powerful protectors, while a small number may even turn against the body, as they do in autoimmune diseases.
+
+Monoclonal antibodies are artificially synthesized copies of the most effective antibodies produced naturally by patients. In late February, AbCellera fished out an apparent winner from among 550 antibodies drawn from the blood of an infected patient. Barely three months later, partner Eli Lilly began the first trial of a synthesized version in patients.
+
+Regeneron, which has a $450 million contract from the federal government to develop its treatment, was not far behind. Its drug is a cocktail of two antibodies. One was discovered in a patient in Singapore, while the other was made using a synthetic viral snippet in mice.
+
+On Sept. 29, days before Mr. Trump received his infusion, Regeneron announced that this cocktail seemed particularly helpful for people who did not produce enough antibodies of their own against the coronavirus.
+
+Both Regeneron and Eli Lilly have stockpiled tens of thousands of doses of their drugs, rather than wait for F.D.A. approval.
+
+Without the resources or reach of these bigger companies, Prometheus has lagged behind.
+
+With a $22 million federal grant, the group had been developing therapies for deadly viruses like the one causing Crimean-Congo hemorrhagic fever and various hantaviruses. But in the earliest days of the pandemic, the group was not able to take on the coronavirus.
+
+“We had all of the technology, all the tools ready to go,” Dr. Chandran said. “The only thing we didn’t have was a patient sample.”
+
+Most of those samples had been handed to large pharmaceutical companies by the federal government. So the Prometheus researchers took an unusual tack, instead relying on blood from a survivor of the 2003 SARS outbreak. (The coronavirus is a close cousin.)
+
+These scientists had experience on their side. One teammate, Jason McLellan of the University of Texas at Austin, was an expert in coronaviruses; another, John Dye of the Army’s infectious diseases institute, had done pioneering work on Ebola antibodies.
+
+In March, Dr. McLellan was the first to publish the structure of the new coronavirus in the journal Science. He supplied Adimab, Prometheus’s commercial arm, with the pathogen’s “spike protein,” a protrusion on its surface that latches on to human cells and breaks in.
+
+Using the protein as a lure, Adimab snared 200 antibodies from the patient sample. Dr. Chandran screened those antibodies against a proxy for the coronavirus, and Dr. Dye against the live virus in a high-safety laboratory.
+
+Together, they refined the list to seven antibodies that recognized both SARS and the new coronavirus. Scientists at Adimab then enhanced the neutralizing power of one antibody by about 100-fold, yet retaining its effectiveness against all SARS family coronaviruses.
+
+“The goal was to do what we did with Ebola — find an antibody that not only works against the current virus, but also past viruses that might re-emerge, like SARS, and future viruses that exist already in the bat reservoir,” said Laura Walker, an immunologist and a director at Adimab.
+
+“If you had something on Day 1 to prevent all of this from happening in the first place, that would be a very good thing.”
+
+‘Too Complicated to Make’
+
+Monoclonal antibodies can rapidly prevent the virus from taking hold in the body — say, in the residents of a nursing home with one confirmed case of infection. Vaccines, which require weeks to unspool an immune response, are useless in such a scenario.
+
+But limited production capacity is likely to keep monoclonal antibodies out of reach for most people.
+
+Regeneron expects to have enough of its cocktail to treat 300,000 patients within the next few months. The company may eventually produce about two million doses annually worldwide in partnership with Roche. Eli Lilly hopes to have 100,000 doses available later this month.
+
+Even dozens of companies manufacturing antibodies could not produce the billions of doses required for the world — or just the minimum estimate of 25 million doses needed for Covid-19 patients and high-risk people in the United States alone.
+
+And it’s not clear how quickly manufacturing capacity could be scaled up. For one, the treatments are made in specialized facilities with ingredients — sterile vials, protein resins, culture media — needed to make other antibodies and vaccines, as well.
+
+“It’s a finite capacity, and there are only so many things you can do to try to increase that capacity,” said John Kokai-Kun, the director of external scientific collaboration at U.S. Pharmacopeia, an organization that monitors manufacturing quality.
+
+The antibodies are also expensive to produce. Some cost up to $200,000 — even the cheapest cost about $15,000 — per year of treatment, making them unattainable for all but the richest of countries, according to a report released in August.
+
+“I don’t see monoclonal antibodies being at large-scale use in the public,” Dr. Kokai-Kun said. “They’re just too complicated to make and too expensive to really be effective in that regard.”
+
+Like vaccines, the antibodies have to be injected, and the amounts, which are calibrated to a person’s weight, can be significant. (Mr. Trump received eight grams — vaccine doses tend to be in micrograms or even nanograms.) The protection wanes after just a few weeks.
+
+“That puts a strain on your manufacturing infrastructure already to make the kinds of doses that we think are going to be required worldwide,” said Andrew Adams, a vice president at Eli Lilly. “We have to start thinking about the populations that we should prioritize.”
+
+Dozens more companies, and scores of academic groups — including many in China — are in the hunt for antibodies against the coronavirus. Given the urgent need, some may combine their resources — as some did at the height of the AIDS pandemic — to keep prices affordable for low- and middle-income countries.
+
+In July, six companies, including Eli Lilly and AstraZeneca, successfully appealed to the Department of Justice to allow them to share information about manufacturing facilities, raw materials and supplies without violating antitrust laws.
+
+Using a single antibody, as Lilly does, poses some risk of the virus mutating to escape it.
+
+Prometheus is testing its first antibody in isolation, but plans to create a cocktail with a second antibody that is specific to the new coronavirus. The two antibodies have to be chosen carefully — to complement each other or, at the very least, to not hinder each other, because they bind within the same small piece of the virus.
+
+But each additional antibody requires more manufacturing capacity, increasing time and cost. For now, the first priority is a single powerhouse antibody that broadly protects against bat-origin coronaviruses, Dr. Chandran said.
+
+“We believe it’s a matter of when, and not if, the next coronavirus spillover happens.”
+
+PHOTO: Kartik Chandran, the principal investigator of the Prometheus collaboration of scientists, who are working with monoclonal antibodies as a treatment for coronavirus. Dr. Chandran is known for his careful and clever work. (PHOTOGRAPH BY GABBY JONES FOR THE NEW YORK TIMES)

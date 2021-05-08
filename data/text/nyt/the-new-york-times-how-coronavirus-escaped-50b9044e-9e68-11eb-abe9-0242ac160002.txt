@@ -1,0 +1,272 @@
+The most famous doctor in China was on an urgent mission.
+
+Celebrated as the hero who helped uncover the SARS epidemic 17 years ago, Dr. Zhong Nanshan, now 84, was under orders to rush to Wuhan, a city in central China, and investigate a strange new coronavirus. His assistant photographed the doctor on the night train, eyes closed in thought, an image that would later rocket around China and burnish Dr. Zhong's reputation as the nation's medic riding to the rescue.
+
+China's official history now portrays Dr. Zhong's trip as the cinematic turning point in an ultimately triumphant war against Covid-19, when he discovered the virus was spreading dangerously and sped to Beijing to sound the alarm. Four days later, on Jan. 23, China's leader, Xi Jinping, sealed off Wuhan.
+
+That lockdown was the first decisive step in saving China. But in a pandemic that has since claimed more than 1.7 million lives, it came too late to prevent the virus from spilling into the rest of the world.
+
+The first alarm had actually sounded 25 days earlier, exactly a year ago, last Dec. 30. Even before then, Chinese doctors and scientists had been pushing for answers, yet officials in Wuhan and Beijing concealed the extent of infections or refused to act on warnings.
+
+Politics stymied science, in a tension that would define the pandemic. China's delayed initial response unleashed the virus on the world and foreshadowed battles between scientists and political leaders over transparency, public health and economics that would play out across continents.
+
+This article -- drawing on Chinese government documents, internal sources, interviews, research papers and books, including neglected or censored public accounts -- examines those 25 days in China that changed the world.
+
+Chinese scientists and private laboratories identified the coronavirus and mapped its genes weeks before Beijing acknowledged the severity of the problem. Scientists were talking to their peers, trying to raise alarms -- and in some cases, they did, if at a price.
+
+''We also spoke the truth,'' said Prof. Zhang Yongzhen, a leading virologist in Shanghai. ''But nobody listened to us, and that's really tragic.''
+
+As political hostilities erupted between China and the United States, scientists on both sides still leaned on global networks built up over decades and sought to share information -- with top scientists recognizing early on that the virus was probably contagious among humans.
+
+On Jan. 8, the head of the Chinese Center for Disease Control and Prevention, George F. Gao, became emotional after acknowledging that danger during a call with his American counterpart, Dr. Robert R. Redfield, according to two people familiar with Dr. Redfield's account of the call.
+
+Yet neither Dr. Redfield nor Dr. Gao, each constrained by politics, signaled a public alarm. In Beijing, top health officials had received ominous reports from doctors in Wuhan and had sent two expert teams to investigate. But they lacked the political clout to challenge Wuhan officials and held their tongues in public.
+
+To a degree, Dr. Zhong's trip to Wuhan was less medical than political. He already knew the virus was spreading between people; his real purpose was to break the logjam in China's opaque system of government.
+
+''There is certainly human-to-human transmission,'' Dr. Zhong wrote in a report that he drafted on the train before reaching Wuhan, according to a recent Chinese book written with his cooperation. ''Remind the public not to go to Wuhan except for special reasons, reduce outings and avoid gatherings.''
+
+China ultimately got control, both of the virus and of the narrative surrounding it. Today, the Chinese economy is roaring and some experts are asking whether the pandemic has tipped the global balance of power toward Beijing.
+
+China's resurgence has infuriated President Trump, who spent months blaming Beijing for what he called ''the China virus.'' The United States still hasn't contained the virus and is paying a heavy price in deaths and economic impact, while life is relatively normal in China.
+
+Not long ago, China and the United States cooperated successfully to track and halt viral outbreaks in China. But the Trump administration pulled nearly a dozen public health experts from Beijing months before the outbreak -- effectively closing the eyes of the American government to disease threats from China.
+
+Chinese diplomats argue that the country's record of stifling infections after the Wuhan lockdown has vindicated Mr. Xi's strong-arm politics, even as the government has airbrushed over the early weeks, when decisive action could have curbed the outbreak. One early study projected that China could have reduced the total number of cases by 66 percent had officials acted a week earlier. Action three weeks earlier could have dropped the caseload by 95 percent.
+
+China's reluctance to be transparent about those initial weeks has also left gaping holes in what the world knows about the coronavirus. Scientists have little insight into where and how the virus emerged, in part because Beijing has delayed an independent investigation into the animal origins of the outbreak.
+
+''They're missing a good opportunity to learn,'' said Yanzhong Huang, a senior fellow at the Council on Foreign Relations who studies Chinese health policy. ''There's no serious discussion on what actually went wrong.''
+
+'Everyone Saw It on the Internet'
+
+On Dec. 30, after doctors in Wuhan came across patients with a mysterious, hard-to-treat pneumonia, city authorities ordered hospitals to report similar cases. By policy, the hospitals should have also reported them directly to the national C.D.C. in Beijing.
+
+They didn't.
+
+Barely 12 minutes after the internal notice was issued, though, it spilled onto WeChat, China's near-ubiquitous social media service, and a later second internal notice on patient care also quickly spread online, until talk of a mysterious pneumonia outbreak reached Dr. Gao, the Oxford-trained virologist who heads the Chinese C.D.C.
+
+''Wasn't it all being talked about on the internet?'' Dr. Gao said in a brief interview when asked about how he learned about the Wuhan cases. ''Everyone saw it on the internet.''
+
+Late that night, the Chinese National Health Commission ordered medical experts to rush to Wuhan in the morning.
+
+Hours later, the medical news service ProMED issued a bulletin to global health professionals, including the World Health Organization. It immediately reminded some scientists of the SARS epidemic of 2002-03 -- which was caused by a coronavirus outbreak in China and killed nearly 800 people worldwide.
+
+''My first response is: 'Oh hell, this is SARS revisited,''' said Dr. Marjorie P. Pollack, the ProMED deputy editor in New York who issued the Dec. 30 bulletin and had also helped put out an early alert about SARS.
+
+In Wuhan, the outbreak seemed concentrated at the Huanan Seafood Wholesale Market. A week earlier, local doctors had sent lung fluid from a sick 65 year-old market worker to Vision Medicals, a genomics firm in southern China. It found a coronavirus roughly similar to SARS. Two more commercial labs soon reached the same conclusion.
+
+None dared go public.
+
+Many coronaviruses are found in animals and people, and few are dire health threats. But two, SARS and MERS, had jumped from animals in recent years to spread person to person, causing serious and sometimes fatal illness.
+
+Vision Medicals sent its data to the Chinese Academy of Medical Science in Beijing and dispatched a top executive to warn the Wuhan Health Commission.
+
+The Beijing team that arrived in Wuhan on the last day of 2019 was quickly informed about the laboratory results, Dr. Cao Bin, a member of the team, told a Chinese newspaper.
+
+At that point, the Wuhan government had publicly confirmed that city hospitals were dealing with an unusual pneumonia but denied it was potentially contagious.
+
+At the same time, the National Health Commission told the commercial labs to destroy or hand over samples with the virus, and ordered that research findings be published only after official approval. The head of the Guangdong Health Commission, under orders from Beijing, led a team to Vision Medicals to seize its sample.
+
+Despite the restrictions, scientists kept talking across borders. Prof. Stanley Perlman texted a Chinese colleague on Jan. 4 about rumors of a new coronavirus, and was swiftly told to switch to an encrypted phone app.
+
+''He said, 'Yes, it is a coronavirus and it is still not being publicized as well as one would like,''' said Professor Perlman, who teaches at the University of Iowa, adding that his friend noted that four laboratories had sequenced the virus. ''So there was some murky stuff going on.''
+
+The team from Beijing rushed together guides on treating patients and helped browbeat local officials into shuttering the market. But one of the investigators wasn't worried about the surge of travel for Spring Festival, China's Lunar New Year holiday later in January.
+
+''China has accumulated many years of experience in infectious disease control,'' Dr. Xu Jianguo told a Hong Kong newspaper. ''There is certainly no possibility of widespread dispersal because of Spring Festival travel.''
+
+'There Would be Consequences'
+
+More than 500 miles to the east, Zhang Yongzhen, a leading virologist at the Shanghai Public Health Clinical Center, was very worried.
+
+Like several other Chinese labs, Professor Zhang and his team had cracked the virus's genetic code and concluded that it could be contagious. Unlike the other labs, he felt a duty to publish the information to help researchers work on tests, treatments and vaccines.
+
+''I don't know,'' Professor Zhang said in a lengthy interview, when asked why others didn't go public. ''For many in China, it's easier to say what officials like to hear.''
+
+After Professor Zhang's team finished sequencing the virus on Jan. 5, his center internally warned leaders in Shanghai and health officials in Beijing, recommending protective steps in public spaces.
+
+He also prepared to release the data, a step that took on added urgency after he visited Wuhan to speak at a university on Jan. 9. That same day, the government confirmed the new disease was a coronavirus, but officials continued to play down the potential danger.
+
+At dinner, a group of Wuhan doctors told him the outbreak was worse than officials were admitting.
+
+''The doctors on the clinical frontline certainly felt this the sharpest,'' he said. ''I knew that this illness was certainly quite ferocious.''
+
+On Jan. 11, Professor Zhang was about to board a flight to Beijing when he received a call from his longtime research partner, Edward Holmes, a virologist at the University of Sydney.
+
+By now, China had reported its first virus death and cases were suspected in Hong Kong. Professor Zhang had already submitted his sequence to GenBank, a vast online library of genetic data, but the review process was taking time.
+
+Professor Holmes prodded his friend. Look at the rising number of cases in Wuhan, he said. Look at the cases turning up in Hong Kong.
+
+It was a decision that only Professor Zhang could make, Professor Holmes told him. Releasing the data risked offending health officials who were intent on controlling information and claiming credit for sequencing the virus. Professor Zhang said he needed a moment to think as his plane taxied to take off.
+
+''In maybe less than a minute I immediately called him,'' Professor Zhang said. ''I told him to release it.''
+
+Soon the data was up on a virology website.
+
+Some two and a half hours later, Professor Zhang landed in Beijing. When he turned on his phone, messages poured in.
+
+''Getting it out quickly was the only aim,'' Professor Holmes said. ''We knew that there would be consequences.''
+
+Broken Partnership
+
+Dr. Redfield, director of the U.S. Centers for Disease Control and Prevention, was an old friend of his Chinese counterpart, Dr. Gao, and specialized in the same field, virology.
+
+The two men had spoken after the ProMED alert, but Dr. Gao had insisted that the virus had spread only from animals at the market, not from person to person.
+
+But now, on Jan. 8, Dr. Gao was agitated, according to two people familiar with Dr. Redfield's account of the call. The virus had infected medical workers, Dr. Gao said, and was jumping between humans, despite the denials by local officials.
+
+Politically, it was a perilous situation for both men.
+
+As its trade war with China escalated, the Trump administration had all but eliminated a public health partnership with Beijing that had begun after the debacle of SARS and was intended to help prevent potential pandemics. By pulling out, current and former agency officials say, Washington cut itself off from potential intelligence about the virus, and lost a chance to work with China against it.
+
+Under the partnership, teams of American doctors were stationed in China and, over time, helped train more than 2,500 Chinese public health staff. More than 15 traveled to the United States for training, as well.
+
+''Our trainees,'' the Americans called them.
+
+One of the American doctors was stationed inside the Chinese C.D.C., building ties with trainees bound for posts across the country, and socializing with Chinese doctors.
+
+''You are in a position to gain extremely important information,'' said Dr. Jeffrey Koplan, a former agency director who helped set up the arrangement, ''particularly on a threatening new disease.''
+
+In a review of 10 years of partnership, doctors on both sides argued that it had helped prevent potential pandemics, such as avian flu, which first appeared in the southern province of Guangdong. China let U.S. epidemiologists join the response and sent scientists to America for training, a partnership that continued as recently as 2017, when a newly virulent strain spread to other countries and killed more than 600 people.
+
+''We worked shoulder to shoulder with the China C.D.C.,'' recalled Dr. Tom Frieden, the head of the U.S. agency under President Barack Obama. With further spread and the wrong mutation, Dr. Frieden added, ''It could have been a pandemic.''
+
+Another American program in the country -- called Predict -- sought to spot dangerous pathogens in animals, particularly coronaviruses, before they could leap to humans. One of the labs it worked with was in Wuhan.
+
+Yet in July 2019, without public explanation, the United States pulled out the last American doctor inside the Chinese C.D.C. A separate Beijing office of the American C.D.C. closed months later. It had once included more than a dozen American specialists and 40 Chinese public health workers. By December, all that remained were two epidemiologists, an information technology specialist and a handful of local employees, primarily working on seasonal influenza. The Predict program was also suspended.
+
+Speaking on condition of anonymity, a senior administration official said the C.D.C. had concluded that China could sustain the training program with less assistance. Despite close cooperation as recently as 2017, a White House spokesman denied that a larger American presence would have made any difference.
+
+''If we'd had 100 people in China, it would've made no difference given that the Communist Party was determined to keep our people in the dark,'' the spokesman, John Ullyot, of the National Security Council, said.
+
+As his predecessor had with avian flu, Dr. Redfield quickly offered American help to fight the outbreak in Wuhan. He told Dr. Gao that he could send 20 epidemiologists in 48 hours.
+
+This time, China never accepted.
+
+A Toothless Watchdog
+
+On paper, Dr. Ma Xiaowei, the director of China's National Health Commission, and the most powerful person in the country's medical bureaucracy, wielded formidable resources to stop the virus in Wuhan.
+
+In practice, his hands were tied.
+
+In the Communist Party hierarchy, he stood at the edge of the elite, pressing for attention from ever-busy leaders. Outside Beijing, disease control officials often took their cues from local overseers, not Dr. Ma.
+
+''The provincial leaders have more say,'' said Mr. Huang, the health system expert.
+
+But on Jan. 8, Dr. Ma dispatched a team to Wuhan, to pick up where the previous Beijing experts had left off. Officials in Wuhan claimed that no new cases had been detected for days, and the new Beijing team did not publicly challenge that assessment.
+
+''Everyone all along had their suspicions about contagiousness,'' Wang Guangfa, a respiratory doctor from Peking University First Hospital who was a key member of the team, said in an interview. ''But the results from the epidemiological investigations didn't offer clear conclusions.''
+
+Yet inside many Wuhan hospitals, fever wards were crowding. At Tongji Hospital, Dr. Zhao Jianping had no doubt what he was seeing.
+
+''Nobody expected that it would be as severe as it's become,'' said Dr. Zhao, the head of the respiratory unit, in an account for a Chinese medical website. ''But what was clear was that we knew it was contagious, that human-to-human spread was happening.''
+
+Zhongnan Hospital opened a 24-hour fever clinic and an isolation ward, both of which were quickly overrun.
+
+''It felt like a disaster was looming,'' Dr. Wang Xinghuan, the hospital's president, told the Chinese magazine Caixin. He said he tried to warn officials, even sending them a timeline of how SARS escalated from cover-up to full-blown crisis.
+
+Doctors and nurses were falling ill at several Wuhan hospitals that the Beijing team visited. But infections of medical workers were not included in the official numbers fed to the visiting experts.
+
+Zhongnan Hospital submitted three reports to provincial leaders warning that the ''illness was highly infectious,'' China's Science Daily later reported. Dr. Wang, the hospital president, told Caixin that he waited for the Beijing experts to visit him.
+
+They never did.
+
+Doctors in Wuhan knew that, politically, there was little incentive to own up to the problem. In the Communist Party pecking order, the secretary of Hubei Province -- whose officials had promoted a reassuring line about the virus -- overshadowed the National Health Commission director.
+
+''So what if we knew? I'd also heard of medical workers being infected,'' Yu Changping, a respiratory and critical illness doctor at Renmin Hospital in Wuhan, told a Chinese newspaper about the first weeks of January. ''But the discipline rules from the authorities were clear at the time, so what could I say?''
+
+Dr. Ma was hardly oblivious to the rising risks. A Wuhan tourist visiting Thailand had become the first case confirmed outside China. The National Health Commission called together medical officials across China on Jan. 14 for a video meeting -- kept secret at the time -- that laid out precautions against the virus.
+
+Afterward, the commission sent out an internal directive: 63 pages that advised hospitals and disease control centers across China about how to track and halt the new virus -- and seemed to assume it was contagious.
+
+Yet the instructions hedged on the key issue. There was ''no clear proof in the cases of human to human transmission among the cases,'' one section declared.
+
+'Your Last Chance to Tell the Truth'
+
+In mid-January, Xi Jinping presided over a meeting of the country's two dozen top officials. There was no mention of the coronavirus, at least in the official summaries then and since.
+
+Mr. Xi kept busy with other matters: his campaign to instill Communist values in officials, and sealing a trade deal on Jan. 15 with the United States.
+
+''The central government seemed almost singularly focused on the trade deal,'' said an American business executive who spoke with senior Chinese officials in the middle of that month. ''The epidemic did not come up.''
+
+Twelve hundred miles south in Guangdong Province, though, health officials and experts, including Dr. Zhong Nanshan, were not reassured.
+
+Dr. Zhong's role in helping to expose SARS, and then urging the public not to panic, had sealed his special status. Even early in his career, Dr. Zhong stood out, as one of the first Chinese doctors sent for training in the West in the late 1970s. He studied in London and Edinburgh.
+
+''He was already quite influential,'' said Professor William MacNee of the University of Edinburgh. ''I sensed even back then that he was a kind of a political character.''
+
+Now the head of a respiratory disease center in Guangdong, Dr. Zhong learned in mid-January about cases at a hospital in Shenzhen, a city just across the border from Hong Kong. A family had tested positive for the virus after visiting Wuhan. None had gone to the market.
+
+Then another relative tested positive after entering the hospital on Jan. 14 -- one who had never gone to Wuhan. The virus was being passed on like a baton in a relay race.
+
+''I knew that this was extremely serious,'' said Kwok-Yung Yuen, a professor of infectious diseases at the University of Hong Kong, who helped investigate the case. ''I immediately sounded the alarm.''
+
+Officials in Guangdong held an emergency meeting on Jan. 16 to prepare hospitals and health officials. In coastal Zhejiang Province, Dr. Li Lanjuan, the former chief of the provincial health office, heard that doctors in Wuhan hospitals were being infected. She called Dr. Ma in Beijing to urge that experts take another look.
+
+The political dynamic had changed. Guangdong and Zhejiang provinces are economic powerhouses, if anything more powerful than Hubei. On Jan. 18, Dr. Ma enlisted Dr. Zhong to lead a third delegation to Wuhan.
+
+There, Dr. Zhong learned from former students that ''the actual situation in Hubei was far worse than was public or in news reports,'' he told a Guangdong newspaper. He also met for breakfast with the president of Zhongnan Hospital, who described a calamity in the making.
+
+Yet officials still insisted the outbreak was manageable when the governor of Hubei Province, Wang Xiaodong, received Dr. Zhong's team in a hotel conference room. It quickly became a confrontation.
+
+''Today is your last chance to tell the truth,'' Zeng Guang, another expert in the delegation, said, according to the recent book about Dr. Zhong.
+
+Finally, one of the officials acknowledged that 15 medical workers in Wuhan Union Hospital were likely to have been infected, an admission of human-to-human spread, the book said. It was all Dr. Zhong needed, and his team rushed to Beijing.
+
+The visit gave Dr. Ma, the top health official, political cover to press top leaders for urgent action, said Mr. Huang, the expert at the Council on Foreign Relations.
+
+''They were ready to make that change,'' he said. ''They just needed somebody to play that role.''
+
+The next morning, Dr. Zhong went to the Chinese Communist Party leadership's walled compound, Zhongnanhai. Mr. Xi was away in southwestern China, and Prime Minister Li Keqiang listened as the experts warned that the virus was spreading.
+
+''The outbreak is at a critical juncture,'' Dr. Zhong told a televised news conference that night. ''Already many people have fallen ill, and many people have also gone on travel.''
+
+Three days later, China had confirmed 571 cases of the coronavirus, although experts estimate the real number was many thousands. Back in Beijing, Mr. Xi closed off Wuhan, a city of 11 million people.
+
+Rewriting History
+
+Eleven days later, Mr. Xi was facing a political crisis.
+
+China's internet echoed with fury over Li Wenliang, a Wuhan doctor who was reprimanded by the police after trying to alert colleagues to the coronavirus. Dr. Li now lay in a critical care unit after contracting the virus. Emboldened Chinese journalists had produced searing accounts of missteps and lies in the previous weeks.
+
+Under fire, Mr. Xi defended his record at a Politburo meeting on Feb. 3, asserting that he had been on the case early.
+
+Since the start of China's Lunar New Year holiday on Jan. 25, ''containing the outbreak has been the issue I've most cared about,'' Mr. Xi said in a speech that was not made public at the time.
+
+Infections and deaths kept rising. On Feb. 7, Dr. Li died, unleashing a nationwide outpouring of grief. Questions spread in China and abroad about Mr. Xi's grip on power.
+
+Eager to show that Mr. Xi remained in command, propaganda officials released his Politburo speech from early February. Except that ignited even more questions.
+
+Until then, Mr. Xi's earliest known comments on the crisis were on Jan. 20. But in his speech, Mr. Xi claimed he had given internal instructions about the outbreak as early as Jan. 7 -- before China had officially announced that the disease was a coronavirus.
+
+''Beijing wanted to get on the record so no one could say the leader had been asleep at the wheel,'' said Richard McGregor, a senior fellow at the Lowy Institute in Australia, who has studied China's handling of the outbreak.
+
+On China's internet, people asked why they had not been warned sooner, given that the issue was urgent enough to go to Mr. Xi's desk. And why, they asked, weren't Mr. Xi's precise instructions made public?
+
+But Mr. Xi's speech foreshadowed what was to come -- rewriting the history of the crisis even as it was happening. As well as quelling infections, Mr. Xi said, the party had to ''seize the initiative'' on how the outbreak was seen.
+
+''We must actively respond to international concerns,'' Mr. Xi told leaders, ''and tell a good story of China's fight against the outbreak.''
+
+By March, infections rose sharply in Europe and then the United States and began to recede in China.
+
+Official Chinese accounts pushed a new narrative of the outbreak, describing prompt, seamless coordination between Wuhan and Beijing. Episodes and people that contradicted that story were moved out of view. The authorities detained activists who had criticized Mr. Xi.
+
+Damning investigations disappeared from Chinese news sites, including several cited in this article. Doctors and nurses in Wuhan who had been lauded for warning about the virus fell silent.
+
+Professor Zhang, the Shanghai virologist, went unmentioned in the laudatory official reports. His research center in Shanghai underwent ''rectification,'' hindering his research.
+
+In September, Mr. Xi honored doctors, officials and other Chinese for their role in fighting Covid-19.
+
+China's leaders had ''acted decisively and responded to an extraordinary event with extraordinary measures,'' Mr. Xi said in a 74-minute speech that barely touched on the time before Wuhan was locked down.
+
+He awarded Dr. Zhong the Medal of the Republic, China's highest honor. The next day, People's Daily -- the Communist Party's main paper -- celebrated Dr. Zhong and cited one of his adages.
+
+''In science, it is only right to seek truth from facts and not to play safe,'' Dr. Zhong was quoted as saying. ''Otherwise patients will be the victims.''
+
+Research and reporting were contributed by Keith Bradsher, Amber Wang, Amy Chang Chien, Albee Zhang, Elsie Chen, Coral Yang and Claire Fu.Research and reporting were contributed by Keith Bradsher, Amber Wang, Amy Chang Chien, Albee Zhang, Elsie Chen, Coral Yang and Claire Fu.
+
+
+
+
+

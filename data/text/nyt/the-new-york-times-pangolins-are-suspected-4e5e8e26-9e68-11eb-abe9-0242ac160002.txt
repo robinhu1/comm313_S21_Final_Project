@@ -1,0 +1,57 @@
+The world’s most trafficked mammal may be involved in the Wuhan outbreak, but the evidence is far from clear.
+
+In the search for the animal source or sources of the coronavirus epidemic in China, the latest candidate is the pangolin, an endangered, scaly, ant-eating mammal that is imported in huge numbers to Chinese markets for food and medicine.
+
+The market in pangolins is so large that they are said to be the most trafficked mammals on the planet. All four Asian species are critically endangered, and it is far from clear whether being identified as a viral host would be good or bad for pangolins. It could decrease the trade in the animals, or cause a backlash.
+
+It is also far from clear whether the pangolin is the animal that passed the new virus to humans. Bats are still thought to be the original host of the virus. If pangolins are involved in disease transmission, they would act as an intermediate host. The science so far is suggestive rather than conclusive, and because of the intense interest in the virus, some claims have been made public before the traditional scientific review process.
+
+As a result, some researchers who specialize in studying diseases that spill over from animals to humans have expressed frustration about conducting discussions about scientific claims without the life breath of science: publicly available data and accounts of how the research was done that have been vetted by other scientists.
+
+While scientists wait for details on genetic studies, there is a gaping hole in the more mundane, but equally important, detective work involved in tracking the path of a disease. To be certain of what happened with the new virus, researchers need to know exactly which animals were present in the market in Wuhan which may have been instrumental in the spread of the disease.
+
+The virus was found in people associated with the market, and in the market environment — on surfaces, for instance, or in cages. However, some of the early cases, including what might have been the first reported case, were in people who were not associated with the market. Jon Epstein, vice president for science and outreach at EcoHealth Alliance in New York, said this means the first jump from animals to humans may not have occurred in the marketplace. People may have contracted the disease from animals at another location or earlier, as yet unknown cases may have contracted the disease at the market and passed it on to other people.
+
+Further complicating matters, animals at the Wuhan market seem to have been quickly disposed of, although reports from China were that samples from those animals tested negative for the virus.
+
+“That’s the black box we have, what animals were there, what animals involved,” said Dr. Epstein.
+
+In previous coronavirus outbreaks, SARS in China in 2003 and MERS in Saudi Arabia in 2012, interviews with people who had contact with animal hosts were essential to finding the source, Dr. Epstein said.
+
+Palm civets turned out to be an intermediate host of SARS and camels an intermediate host of MERS. In both outbreaks, researchers eventually found that the origin of the virus was in bats, where the virus could live without sickening the animals. From bats, the viruses seem to have jumped to intermediate hosts and then to people.
+
+An earlier indication that pangolins could be a possible source of human coronavirus infection appeared in a report that predates the epidemic. Chinese researchers published a report in October that documented that pangolins can host a variety of coronaviruses. They released the genetic sequences from their analysis to public databases where they could be analyzed.
+
+Then, on Friday, the Xinhua News Agency reported that researchers at South China Agricultural University had found a virus in pangolins that had a 99 percent match to the novel coronavirus that has now sickened 40,000 people and killed more than 900. That would be the closest match so far.
+
+The news report did not say the finding was conclusive, but that the result means “pangolins may be an intermediate host of the virus.” Scientists in the field are eagerly awaiting publication of the findings, and until then, they are impossible to evaluate.
+
+In addition, a post on the website Virological, suggested that a coronavirus from bats could have recombined with one from pangolins to form the new virus.
+
+Joseph Petrosino, at Baylor College of Medicine, said Matthew Wong, a bio-informatician in his lab, posted an analysis he had done. Dr. Petrosino said he expected the work to be posted on bioRxiv shortly and that he and his colleagues have submitted it to a peer-reviewed journal.
+
+In essence, he said, data mining of genomic data posted in the last 12 months — most importantly the October report on pangolins — indicated that a portion of a coronavirus in pangolins was nearly identical to one in the new virus. That portion involves the way that the virus invades human cells. Therefore, they propose, the bat virus and pangolin virus may have combined, perhaps in pangolins in the wild, perhaps in another animal.
+
+Dr. Petrosino said he’s eager for the peer review process, but the intensity of attention to the new virus made public discussion somewhat inevitable. The website Virological, he said, is like “Twitter for geeks,” not a place where news is usually made. His lab’s research wasfirst reported in the Daily Maverick, a South African news site.
+
+What might have been early hints of hypotheses or preliminary findings in another context now attract global attention. CITES, the international organization that lists endangered species, tweeted that #Pangolins may have spread #coronavirus to humans.”
+
+That drew a response from Hume Field, science and policy adviser for EcoHealth Alliance in Australia, who worked on both SARS and MERS. He responded:
+
+“I appreciate CITES genuine concern for pangolins and the devastating illegal trade, but to seek to further their cause by propagating this unsubstantiated news release only adds to confusion and rumor.”
+
+Public databases enable any lab, anywhere, to investigate and analyze genetic sequences published for bat and pangolin coronaviruses, and hypothesize what may have happened.
+
+Benjamin Neumann, chairman of the biology department at Texas A&amp;M University, is one of the scientists who have been looking at the sequences in his lab and talking to other scientists examining them. “Similar analyses are taking place in labs around the world right now,” he said.
+
+But, he said, “While the pangolin-associated viruses appear to be related to the novel coronavirus that is infecting people, it is not yet the smoking gun that tells us how 2019-nCoV originated.” That’s what the virus causing the epidemic is called.
+
+He pointed out that the pangolins could have been infected by the same virus that sickens humans, but be just another victim rather than the source.
+
+Determining the transmission of a virus from an animal to a human requires much more information, Dr. Epstein said.
+
+He said, “The smoking gun here is finding people who were healthy before they were handling pangolins, or any other animal. They handled the animal, they got sick after they handled the animal, and the same virus that made them sick was present in the animal they handled.”
+
+Coincidentally, this Saturday, Feb. 15, is World Pangolin Day.
+
+PHOTO: Pangolins are said to be the most heavily trafficked mammals in the world, and several species are critically endangered. (PHOTOGRAPH BY THEMBA HADEBE/ASSOCIATED PRESS)

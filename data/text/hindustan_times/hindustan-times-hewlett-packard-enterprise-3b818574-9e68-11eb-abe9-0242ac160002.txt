@@ -1,0 +1,25 @@
+India, March 4 -- Hewlett Packard Enterprise Co. reported sales that fell short of Wall Street estimates, signaling weaker corporate demand for servers amid macroeconomic concerns and the ongoing shift to cloud computing.
+
+Fiscal first-quarter sales declined 8% to $6.95 billion, the San Jose, California-based company said Tuesday in a statement. It marked the fifth consecutive quarter of year-over-year sales declines. Analysts, on average, expected $7.21 billion, according to data compiled by Bloomberg.
+
+Profit, excluding some items, was 44 cents a share, matching analysts' projections. The company also maintained its fiscal 2020 outlook for adjusted profit at $1.78 to $1.94 a share.
+
+HPE Chief Executive Officer Antonio Neri has sought to fuel growth at the hardware company by moving to a subscription business model and investing in more sophisticated server technologies. The strategy may take years to pay off. In the meantime, HPE is exposed to China, the origin of the coronavirus, through its supply chain and its H3C server joint venture in the country. The company opted not to give a profit forecast for the current period due to uncertainty over the effects of the outbreak.
+
+HPE's server sales decreased 16% to $3.01 billion in the period ended Jan. 31 because of macro uncertainty, supply chain disruption and a factory consolidation, Neri said in an interview. Businesses have reduced the pace of purchases for major information technology products amid slowing global economic growth.
+
+ALSO READ: Xerox tries to woo HP after raising takeover offer
+
+"I'm disappointed in the revenue performance for the business," Neri said. "(But) we see continued momentum in key strategic areas," including big-data storage, supercomputer sales and edge computing, which lets clients process information closer to the source rather than at far-away data centers, he added.
+
+On a conference call with analysts, Chief Financial Officer Tarek Robbiati said HPE wouldn't produce any revenue growth this year, citing the supply chain disruptions. The company had said in November that it expected 1% to 3% sales growth in the next three years.
+
+HPE's shares declined about 6% in extended trading after closing at $12.59 Tuesday in New York. The stock has dropped 23% in the past 12 months, including a 12% fall in the last two weeks as the broader market plunged on coronavirus concerns.
+
+The server maker cut its forecast of fiscal 2020 free cash flow to $1.6 billion to $1.8 billion, from a range of $1.9 billion to $2.1 billion, because of supply-chain disruptions due to the virus. HPE still expects to return 50% to 75% of free cash flow to investors, Neri said.
+
+The outbreak of the virus, known as Covid-19, has triggered companies to cut their financial outlooks and cancel events such as conferences. HPE said late Monday that it would cancel almost all events that require travel through April, except for a conference in London.
+
+"The situation is very fluid in the supply chain," Neri said. "We can move products around. We are doing that as much as we can."
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

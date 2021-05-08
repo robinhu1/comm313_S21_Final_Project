@@ -1,0 +1,47 @@
+Beijing, May 19 -- The novel coronavirus is ideally suited to infecting human cells rather than animal ones, a new study by researchers in Australia claims, raising questions about the origin of the virus, which has, until Tuesday, killed over 318,000 people and sickened more than 4.8 million globally.
+
+Using an "in silico" or computer simulation method, the researchers found that the data generated indicated ".SARSCoV2 [the virus that causes Covid-19] is uniquely adapted to infect humans, raising questions as to whether it arose in nature by a rare chance event or whether its origins lie elsewhere".
+
+The four researchers, including two trained in India, tested the binding affinity of Covid-19 virus's "spike protein" to humans and several animals including pangolins.
+
+"Notably, SARSCoV2 spike protein had the highest overall binding energy for human ACE2 (a receptor on cells), greater than all the other tested species including bat, the postulated source of the virus. This indicates that SARSCoV2 is a highly adapted human pathogen," the study found.
+
+The study is yet to be peer-reviewed and now available on the prestigious US-based Cornell University's pre-print server.
+
+The research is plausible but the evidence put out to support it was thin,Richard H Ebright, from the department of chemistry and chemical biology at the US's Rutgers University, told HT.
+
+China has consistently denied, and cited international research, to deny that he virus originated in a high-security biology lab in Wuhan Institute of Virology, located in the central Chinese city where the Covid-19 disease broke out late last year.
+
+The four researchers of the paper, however, were surprised at the rapid rate at which the virus adapted to humans.
+
+"Normally a virus will bind tightly to the cells of its normal host species and less tightly to cells of species it has not infected before. The surprise with COVID is we found that it bound tightest to human cells than any other species we tested. This is either a massive coincidence or Covid-19 has somehow in the past been adapted for human cells. One way in which this can happen is via culture with human cells in a lab," lead researcher Nikolai Petrovsky a clinician and vaccinologist, told HT over email.
+
+The other researchers involved are Sakshi Piplani and Puneet Singh, who are both bioinformatics scientist originally trained in India, and David Winkler, a professor of biochemistry and genetics.
+
+Piplani and Petrovsky are affiliated to the Flinders University in Australia, Singh is with Vaxine Pty and Winkler is affiliated to the La Trobe University.
+
+"Yes, this virus looks and behaves as if it is perfectly adapted to humans. That is a surprise for a virus that has apparently just entered humans for the first time," Petrovsky said.
+
+He added that zoonotic events, where pathogens jump from animal to human, are not rare and have been regularly witnessed with Ebola, bird flu, Middle East Respiratory Syndrome (MERS) etc.
+
+"What is rare is to not find any animal source of the virus. For example, for MERS it was rapidly identified to be coming from camels, SARS from bats via civet cats, Ebola from bats via monkeys. So far no animal source has been found for Covid-19 - this may still be found, but its absence allows other possibilities to be considered."
+
+Not everyone, like Ebright,is fully convinced.
+
+"The conclusion of the paper that the virus was 'pre-adapted for human transmission' is consistent with the scenario of lab 'gain-of-function' research followed by a lab accident," Ebright told HT over email.
+
+"Gain-of-function" is a scientific research term, which means accelerating research that improves the ability of a pathogen to cause disease.However, the evidence for the conclusion of the paper that the virus was 'pre-adapted for human transmission' is thin," he said.
+
+Petrovsky said their study shows the need to carry out more research into the origins of the coronavirus.
+
+"Of course, we know there were institutes in Wuhan that were doing research on bat and pangolin coronaviruses to which Covid-19 is most closely related, with genetic elements from both. It is certainly possible that if both viruses ended up in a cell culture together, which is not unheard of in a lab due to cross contamination, then a new variant virus could be created just as it does in an animal that is infected by two viruses at the same time," he said.
+
+"Both scenarios are equally possible, hence the need to do further investigation to see if either of these is the most likely explanation."
+
+The need for further investigation is also emphasised in the research paper.
+
+"Given the seriousness of the ongoing SARS-CoV-2 pandemic, it is imperative that all efforts be made to identify the original source of the SARS-CoV-2 virus."
+
+The researchers added: "In particular, it will be important to establish whether Covid-19 is due to a completely natural chance occurrence where a presumed bat virus was transmitted to humans via an intermediate animal host or whether COVID-19 has alternative origins. This information will be of paramount importance to help prevent any similar human coronavirus outbreak in the future."
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

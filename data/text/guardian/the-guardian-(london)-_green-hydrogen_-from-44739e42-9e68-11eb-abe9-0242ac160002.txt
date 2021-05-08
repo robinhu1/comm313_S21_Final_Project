@@ -1,0 +1,49 @@
+"Green hydrogen" made with wind and solar electricity could become the cheapest form of what the Australian government has described as a "transformative fuel" much faster than expected, analysts believe.
+
+Chinese manufacturers have reported making systems to create hydrogen with renewable energy for up to 80% less than official Australian estimates from just two years ago.
+
+Energy analysts said it suggested green hydrogen was likely to leapfrog hydrogen made with gas and coal as the most cost-effective form of the energy before the end of the decade, and by the time an industry could be developed at scale.
+
+The government has nominated "clean hydrogen" as a priority low-emissions technology that could eventually help replace fossil fuels in transport, electricity and in industrial processes as the world moves to cut greenhouse gas emissions. But it has not defined what "clean hydrogen" would mean in terms of emissions.
+
+Its recent low-emissions technology statement forecast the cheapest way to produce it in the short-term might be to use gas or "coal gasification" with carbon capture and storage (CCS). It said production methods using renewable energy would become cheaper as demand grew.
+
+But an analysis by BloombergNEF has found electrolysers used in China could already be as little as a fifth of the cost estimated in a CSIRO roadmap released in 2018, which has been used as the basis for government estimates. The consultancy suggested green hydrogen could cost less than $2 a kilogram - the "stretch goal" nominated by Angus Taylor, the energy and emissions reduction minister, at which the fuel would become competitive with existing technologies - before 2030.
+
+"We think electrolysers can get much cheaper much sooner than most expect," said Kobad Bhavnagri, BloombergNEF's Sydney-based global head of industrial decarbonisation.
+
+"The way we see it is there is very little demand for hydrogen from fossil fuels with CCS. It doesn't fit the scale-up model for an emerging industry."
+
+The International Renewable Energy Agency last year also acknowledged in a report last year that Chinese manufacturers had claimed electrolysers were already available for a cost that had been considered a best-case scenario for 2040.
+
+The government estimates hydrogen could create more than 8,000 jobs and generate about $11bn a year in GDP by 2050. Major economic powers including Germany and Japan are eyeing Australia as a potential source of hydrogen as the world moves away from fossil fuels, in line with the goals of the Paris agreement.
+
+Germany has dedicated more than A$15bn of Covid-19 stimulus spending to developing a domestic hydrogen industry, and has agreed with Australia to undertake a joint feasibility study into its potential as an energy source. The European Commission recently launched a strategy that positions green hydrogen as central to the continent's goal to reach "climate neutrality" - net zero emissions - by 2050.
+
+In Australia, the most ambitious proposal to date is for what is known as the Asian Renewable Energy Hub. Planned for the Pilbara, its scale is extraordinary: 1,600 large wind turbines and a 78 sq km array of solar panels working to power 14 gigawatts of hydrogen electrolysers.
+
+Speaking at an online summit hosted by the Smart Energy Council this week, the hub's executive director, Alex Hewitt, said the scale of the proposed development - which he described as the world's largest power plant - meant it could create green hydrogen for less than the government's benchmark of $2 a kilogram. "That's the beauty of very intense, massive, properly correlated renewable energy," he said.
+
+The hub plans to largely use the hydrogen to create "green ammonia", effectively replacing gas in the ammonia production process. Hewitt said ammonia was "a great way to ship hydrogen" as transporting it as a liquid was likely to be both logistically challenging and much more expensive.
+
+The Greens leader, Adam Bandt, has written to the CSIRO asking it to update its 2018 analysis on the basis that recent contract prices for green hydrogen are already about 50% less than the best-case scenario the science agency had projected for 2025.
+
+Bandt said CSIRO was not at fault - the green hydrogen industry has developed rapidly - but he was concerned the government would neglect the zero emissions option in its plan in favour of fossil fuels and miss economic opportunities if forecasts were not updated.
+
+"With green hydrogen, Australia can export our sunlight," Bandt said. "There is no point having a technology roadmap if the figures are all wrong. Up-to-date estimates are critical to making policies that benefit users and support the job-creating industries of the future."
+
+A spokesperson for Taylor responded: "Why would the government listen to Adam Bandt over CSIRO and the chief scientist?"
+
+Green hydrogen is created by using an electrolyser to run an electrical current through water, separating it into hydrogen and oxygen. Gas is used to make hydrogen through a different process involving high-pressure steam and a catalyst such as nickel, known as steam-methane reforming. One of its by-products is carbon dioxide, which is either released into the atmosphere or - under the government's proposal - captured and pumped underground.
+
+The hope is that hydrogen will prove an emissions-free alternative to coal and gas in industries that operate at incredibly high temperatures. While estimates about the scale of a future industry vary significantly, experts believe it is likely to be more cost effective if used to help create local green industries, such as emissions-free steel, rather than converted into liquid form, as gas is, before it is exported.
+
+Bloomberg NEF projected that green hydrogen would cost US$1.33 a kilogram by 2030, falling to about $0.76 a kilogram by 2050.
+
+By comparison, it suggested hydrogen created using gas with CCS was likely to cost about $1.92 a kilogram at both dates assuming gas prices stayed cheaper than it had been in recent years, and using coal with CCS would cost US$2.51 a kilogram.
+
+Alan Finkel, the chief scientist and head of the council advising the government on its technology roadmap, has recommended a "certificate of origin" be attached to every kilogram sold that listed how much CO2 had been emitted in its creation.
+
+In an interview with the ABC, he said no country would buy hydrogen that was not "clean", as the industry was being developed specifically as a replacement for fossil fuels, and some countries had indicated that included creating it using fossil fuels and CCS.
+
+But, he said: "I think realistically the scale of hydrogen made from solar and wind is going to precede any other source."

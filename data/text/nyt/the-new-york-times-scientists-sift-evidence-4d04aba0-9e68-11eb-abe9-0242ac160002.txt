@@ -1,0 +1,90 @@
+Was the virus here in January? In December? Earlier? Here's a look at the evidence of how the virus emerged from China and landed in the United States.
+
+SEATTLE -- In a county north of Seattle, two people who came down with respiratory illnesses in December now have antibodies for the coronavirus. In Florida, a public health official who got sick in January believes he had Covid-19.
+
+And in California, a surprising discovery that an early-February death in San Jose was linked to the coronavirus has triggered a broader search for how that person was exposed.
+
+Those cases have contributed to growing questions about when the virus first reached the United States and how long it had been circulating by the time its arrival was publicly confirmed in Washington State at the end of February.
+
+While there was limited testing to uncover specific cases before then, researchers have other tools to trace the path of the coronavirus. That includes genomic sequencing of the virus to help scientists build an ancestral tree of cases, a re-examination of specific deaths and thousands of old flu samples that have been repurposed to look for the coronavirus.
+
+Here is a look at the evidence and what it shows:
+
+I got really sick in February. Did I have the coronavirus?
+
+It is possible, but it was most likely something else.
+
+The Seattle area emerged as an early epicenter of the coronavirus outbreak at the end of February, but there is compelling evidence that, even there, the virus did not yet have much of a foothold compared with the flu, which had a particularly potent season.
+
+A team that analyzes flu trends in the region has been able to review nearly 7,000 old flu samples collected from around the region in January and February, re-examining them for the coronavirus. All of the samples from January were negative. The earliest sample that tested positive was Feb. 20.
+
+Based on that and later case counts, Trevor Bedford, who studies the evolution of viruses at the Fred Hutchinson Cancer Research Center in Seattle, and who was part of the flu study team, estimated that there were probably a few hundred cases in the area by that point in February.
+
+But even that would still be a small fraction -- perhaps less than 1 percent -- of the many thousands of people who had flu symptoms at the time.
+
+When did the coronavirus first reach the United States?
+
+The U.S. first identified cases among travelers who had flown in from Wuhan, China, in the middle of January. Officials worked to contain them.
+
+There is some evidence that the virus began getting a bit of traction around the end of January. To seed that late-February emergence in the Seattle area, researchers believe the spread could have begun with a traveler who arrived in the region from Wuhan on Jan. 15, or it may have been another unknown case that arrived in the few weeks that came after.
+
+In San Jose, tissue sampling from a woman who died on Feb. 6 revealed that she was probably the first known person in the U.S. whose death was linked to the coronavirus -- a strong sign that the virus may have been circulating in that part of Northern California in January.
+
+But was it part of a large, previously unrecognized outbreak?
+
+Dr. George Rutherford, a professor of epidemiology and biostatistics at the University of California, San Francisco, theorized that perhaps the woman, who worked for a company that had an office in Wuhan, was one of only a small number of people who contracted the virus at that time and that transmissions probably petered out for some reason. Otherwise, he said, the region would have seen a much bigger outbreak.
+
+''With that kind of early introduction, we should be seeing thousands of more cases,'' Dr. Rutherford said.
+
+Dr. Sara Cody, the health officer for Santa Clara County, said local, state and federal officials were continuing to try to answer those questions.
+
+There are other, less concrete signs of earlier infections. In Florida, where the first two official cases were announced on March 1, a state database now lists coronavirus cases in patients who may have had symptoms as far back as January. But the cases are all under investigation, and no one has confirmed that any of those patients had the disease that early.
+
+One of them is Raul Pino, the health officer for the Florida Department of Health in Orange County. He said recently that he suspected he had the virus in the first week of January.
+
+What if the virus quietly arrived in December?
+
+Doctors in France have said that a patient's sample from late December has since tested positive for the coronavirus. But so far, there is no comparable evidence of a similar case in the United States.
+
+The strongest possible indicator so far is new evidence that emerged this week of two people in Snohomish County, Wash., who reported coronavirus-like symptoms in December. Both people later tested positive for antibodies, county health officials announced.
+
+But Dr. Chris Spitters, the county's health officer, said that while it was possible that both people had the coronavirus in December -- even before officials in China had reported a cluster to the World Health Organization at the end of the month -- he was doubtful.
+
+''It's possible and frankly, I think, more likely that they had a non-Covid respiratory viral illness in December and subsequently had an asymptomatic or minimally symptomatic Covid infection subsequent to that,'' Dr. Spitters said.
+
+Dr. Bedford said he also believed this was the more likely scenario, noting that up to half of people with coronavirus infections have no symptoms.
+
+There could have been a tiny number of isolated coronavirus cases among travelers to the United States in December, Dr. Bedford said. But it is pretty clear that none of them spread.
+
+In part, scientists can tell that by looking at the genomic fingerprints of each case. But another clue is the rapid rate at which the virus spreads, Dr. Rutherford said.
+
+It appears that early in the outbreak, one infection was spreading to about four other people, on average, with an incubation period for new infections of about four days. So a case seeded in December would rapidly quadruple through new generations, most likely growing exponentially to millions of cases from a single unbroken chain of transmission by the end of February. Researchers are not seeing any chains that appear to go that far back.
+
+Modelers looking back at the growth of outbreaks elsewhere have reached similar conclusions. One estimated that New York's outbreak could have begun with perhaps 10 infected people who contracted the virus sometime between the end of January to the middle of February, when the first cases of community transmission were identified and hospitals began seeing more cases.
+
+When did the virus begin in China?
+
+The virus first emerged in Wuhan in December after a series of people developed symptoms of a viral pneumonia and an examination found that they had been infected with a new coronavirus.
+
+A group of researchers in China later examined the histories of the first 41 lab-confirmed cases at a Wuhan hospital, finding that many of them had connections to a seafood market. But the earliest case, in a person who developed symptoms on Dec. 1, had no connections to the market.
+
+The information suggests that if the virus did originate from the market, it was most likely circulating by November, early enough to reach that first person. Dr. Bedford said it was conceivable to him that the virus began as early as October, but that November was more likely.
+
+There is no evidence that it started elsewhere. The virus mutates an average of twice a month, something researchers can see in the genomic sequences of individual cases, and all of the cases in Wuhan show close genetic links.
+
+All of the other thousands of cases that have been sequenced around the globe show the Wuhan version as an ancestor.
+
+Was the coronavirus made in a lab somewhere?
+
+Several unfounded theories that have gained traction suggest that the virus was created or accidentally released in a lab somewhere. The Chinese government speculated that perhaps Americans brought the virus in to China. President Trump has suggested it came from a virology lab in Wuhan.
+
+Dr. Bedford said there was no evidence of genetic engineering in the virus, noting that it appeared to be a genetic outgrowth of a virus circulating among bats. It probably reached humans through an intermediate animal, such as a pangolin, he said.
+
+''There's no hallmarks of it having been manipulated in a lab,'' Dr. Bedford said. ''I think that's definitive.''
+
+He did not, however, rule out the possibility that some version of the virus being studied by scientists in Wuhan could have somehow escaped and spread from there. But he doubts that is the case. He said that the most prevalent theory about the virus's origins -- that it spread naturally among animals at a live animal market in Wuhan, then jumped to humans -- was the most likely explanation.
+
+
+
+
+

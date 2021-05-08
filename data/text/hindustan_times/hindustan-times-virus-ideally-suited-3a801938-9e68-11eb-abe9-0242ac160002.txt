@@ -1,0 +1,23 @@
+Beijing, May 20 -- The novel coronavirus is ideally suited to infecting human cells rather than animal ones, a new study by researchers in Australia claims, raising questions about the origin of the virus, which has, until Tuesday, killed over 318,000 people and sickened more than 4.8 million globally.
+
+Using an "in silico" or computer simulation method, the researchers found that the data generated indicated "...SARSCoV2 [the virus that causes Covid-19] is uniquely adapted to infect humans, raising questions as to whether it arose in nature by a rare chance event or whether its origins lie elsewhere".
+
+The four researchers, including two trained in India, tested the binding affinity of Covid-19 virus's "spike protein" to humans and several animals including pangolins.
+
+"Notably, SARSCoV2 spike protein had the highest overall binding energy for human ACE2 (a receptor on cells), greater than all the other tested species including bat, the postulated source of the virus. This indicates that SARSCoV2 is a highly adapted human pathogen," the study found.
+
+The study is yet to be peer-reviewed and now available on the prestigious US-based Cornell University's pre-print server.
+
+The research is plausible but the evidence put out to support it was thin,Richard H Ebright, from the department of chemistry and chemical biology at the US's Rutgers University, told HT.
+
+The four researchers of the paper, however, were surprised at the rapid rate at which the virus adapted to humans.
+
+"Normally a virus will bind tightly to the cells of its normal host species and less tightly to cells of species it has not infected before. The surprise with COVID is we found that it bound tightest to human cells than any other species we tested. This is either a massive coincidence or Covid-19 has somehow in the past been adapted for human cells. One way in which this can happen is via culture with human cells in a lab," lead researcher Nikolai Petrovsky a clinician and vaccinologist, told HT over email.
+
+Not everyone, like Ebright,is fully convinced.
+
+The need for further investigation is also emphasised in the research paper. "It is imperative that all efforts be made to identify the original source."
+
+The researchers added: "In particular, it will be important to establish whether Covid-19 is due to a completely natural chance occurrence... or whether COVID-19 has alternative origins. This information will be of paramount importance"
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

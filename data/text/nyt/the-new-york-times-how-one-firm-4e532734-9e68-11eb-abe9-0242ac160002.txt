@@ -1,0 +1,317 @@
+The shortage of lifesaving medical equipment last year was a searing example of the government’s failed coronavirus response. As health workers resorted to wearing trash bags, one Maryland company profited by selling anthrax vaccines to the country’s emergency reserve.
+
+WASHINGTON — A year ago, President Donald J. Trump declared a national emergency, promising a wartime footing to combat the coronavirus. But as Covid-19 spread unchecked, sending thousands of dying people to the hospital, desperate pleas for protective masks and other medical supplies went unanswered.
+
+Health workers resorted to wearing trash bags. Fearful hospital officials turned away sick patients. Governors complained about being left in the lurch. Today the shortage of basic supplies, alongside inadequate testing and the slow vaccine rollout, stands as a symbol of the broken federal response to a worldwide calamity that has killed more than a half-million Americans.
+
+Explanations about what went wrong have devolved into partisan finger pointing, with Mr. Trump blaming the Obama administration for leaving the cupboard bare, and Democrats in Congress accusing Mr. Trump of negligence.
+
+An investigation by The New York Times found a hidden explanation: Government purchases for the Strategic National Stockpile, the country’s emergency medical reserve where such equipment is kept, have largely been driven by the demands and financial interests of a handful of biotech firms that have specialized in products that address terrorist threats rather than infectious disease.
+
+Chief among them is Emergent BioSolutions, a Maryland-based company now manufacturing Covid-19 vaccines for AstraZeneca and Johnson &amp; Johnson. Last year, as the pandemic raced across the country, the government paid Emergent $626 million for products that included vaccines to fight an entirely different threat: a terrorist attack using anthrax.
+
+Throughout most of the last decade, the government has spent nearly half of the stockpile’s half-billion-dollar annual budget on the company’s anthrax vaccines, The Times found. That left the government with less money to buy supplies needed in a pandemic, despite repeatedly being advised to do so.
+
+Under normal circumstances, Emergent’s relationship with the federal stockpile would be of little public interest — an obscure contractor in an obscure corner of the federal bureaucracy applying the standard tools of Washington, like well-connected lobbyists and campaign contributions, to create a business heavily dependent on taxpayer dollars.
+
+Security concerns, moreover, keep most information about stockpile purchases under wraps. Details about the contracts and inventory are rarely made public, and even the storage locations are secret.
+
+But with the stockpile now infamous for what it doesn’t have, The Times penetrated this clandestine world by examining more than 40,000 pages of documents, some previously undisclosed, and interviewing more than 60 people with inside knowledge of the stockpile.
+
+Former Emergent employees, government contractors, members of Congress, biodefense experts and current and former officials from agencies that oversee the stockpile described a deeply dysfunctional system that contributed to the shocking shortages last year. Their accounts were confirmed by federal budget and contracting records, agency planning documents, court filings, corporate disclosures and transcripts of congressional hearings and investor presentations.
+
+Purchases are supposed to be based on careful assessments by government officials of how best to save lives, but many have also been influenced by Emergent’s bottom line, the documents and interviews reveal. One year, the government increased its order of Emergent’s main anthrax vaccine by $100 million after the company insisted it needed the additional sales to stay in business, according to two former federal officials. At the time that order was announced, in 2016, the reserve already had enough to vaccinate more than 10 million people. The stockpile has long been the company’s biggest and most reliable customer for its anthrax vaccines, which expire and need to be replaced every few years.
+
+In the two decades since the repository was created, Emergent’s aggressive tactics, broad political connections and penchant for undercutting competitors have given it remarkable sway over the government’s purchasing decisions related to the vaccines, the interviews and documents show.
+
+One of the vaccines has yet to be approved as safe and needed special clearance to be bought by the government, which has maintained a large supply of another Emergent vaccine after a string of anthrax attacks nearly 20 years ago left five people dead. Those were the last anthrax attacks in the United States. While national security officials still consider anthrax a threat, it has not received specific mention since 2012 in the intelligence community’s annual public assessment of dangers facing the country, a report that has repeatedly warned of pandemics.
+
+“The risk of a serious terrorist attack with anthrax is real, but that doesn’t mean you buy unlimited quantities of vaccine,” said Dr. Thomas Frieden, the director of the Centers for Disease Control and Prevention under former President Barack Obama. “It is a zero sum. There’s only so much money, and so if you buy more of one thing, you have to buy less of another.”
+
+Emergent bought the license for the country’s only approved anthrax vaccine in 1998 from the State of Michigan. Over time, the price per dose the government agreed to pay Emergent increased nearly sixfold, accounting for inflation, contributing to record revenues last year that topped $1.5 billion. The biggest source was the sale of anthrax and smallpox vaccines even as the company also began manufacturing coronavirus vaccines.
+
+The company’s chief executive, Robert Kramer, told Wall Street analysts last month that 2020 was “the strongest year in our 22-year history.” Emergent’s stock performed so well that its founder and chairman cashed in shares and options worth over $42 million, more than he had redeemed in the previous five years combined, corporate filings show.
+
+The company declined to make Mr. Kramer or other executives available for an interview before publication, citing the pressing needs of its Covid-19 vaccine efforts. In written responses to questions, an Emergent spokeswoman defended the vaccine’s pricing, saying “the vaccine and the facilities needed large, long-overdue investments” when they were purchased from Michigan.
+
+“You can’t protect people from anthrax for less than the cost of a latte,” said the spokeswoman, Nina DeLorenzo, a senior vice president.
+
+The company, whose board is stocked with former federal officials, has deployed a lobbying budget more typical of some big pharmaceutical companies, The Times found, and has sometimes resorted to tactics considered underhanded even in Washington. Competing efforts to develop a better and cheaper anthrax vaccine, for example, collapsed after Emergent outmaneuvered its rivals, the documents and interviews show.
+
+As Emergent prospered, other companies working on pandemic remedies for the stockpile were squeezed out of government spending decisions, and former federal health officials said preparations for an outbreak like Covid-19 almost always took a back seat to Emergent’s anthrax vaccines.
+
+In one telling example, The Times found, the government approved a plan in 2015 to buy tens of millions of N95 respirators — lifesaving equipment for medical workers that has been in short supply because of Covid-19 — but the masks repeatedly lost out in the competition for funding over the years leading up to the pandemic, according to five former federal health officials involved in the effort. During the same period, Emergent sold the government nearly $1 billion in anthrax vaccines, financial disclosures show.
+
+Ms. DeLorenzo said Emergent has long insisted that there should be more federal spending to ensure “preparedness for the full range of threats.” It would be wrong to choose one threat over the other, she said, and to “partially fund everything at a low level” would leave “the American public dangerously exposed to real and grave threats.”
+
+She characterized the company’s lobbying as “education-focused” and “appropriate and necessary.”
+
+After Dr. Frieden and others in the Obama administration tried but failed to lessen Emergent’s dominance over stockpile purchases, the company’s fortunes rose under Mr. Trump, who appointed a former Emergent consultant with a background in bioterrorism to run the office that now oversees the stockpile.
+
+Yet that official, Dr. Robert Kadlec, also said that spending on the company’s anthrax vaccines limited his ability to prepare for other potential disasters.
+
+“If I could spend less on anthrax replenishment, I could buy more N95s,” Dr. Kadlec said in an interview shortly after leaving office. “I could buy more ventilators. I could buy more of other things that quite frankly I didn’t have the money to buy.”
+
+But even as he fretted over the stockpile’s lack of preparedness for a pandemic, Dr. Kadlec said, he felt compelled to continue preparing for anthrax and other bioterrorism threats. His office awarded roughly $3 billion in long-term contracts to Emergent in the months before the Covid-19 crisis, and last year decided to buy the company’s unlicensed anthrax vaccine — relying on the same emergency authority that has allowed the use of unlicensed coronavirus vaccines and treatments.
+
+And now, as some members of Congress push for larger reserves of ventilators, masks and other equipment needed in a pandemic, a trade group led in part by a top Emergent lobbyist has warned that the purchases could endanger companies focused on threats like anthrax and smallpox by drawing down limited funds.
+
+Ms. DeLorenzo said the commercial market was too small to sustain manufacturing on its own, so companies needed government assurances.
+
+“The capabilities must be maintained, or they are in danger of being lost, leaving the country vulnerable to threats,” she said. “When almost no one else would invest in preparing to protect the American public from grave threats, Emergent did, and the country is better prepared today because of it.”
+
+Lamar Alexander, who retired in January as a Republican senator from Tennessee and was an influential member of two committees overseeing the stockpile, said the pandemic had opened Congress’s eyes.
+
+“Today, I think, we would not allow anthrax to take up half the budget for a guaranteed supply of vaccines,” he said, adding, “Surely after such a calamity as the last year, we should take a fresh look at stockpiles and manufacturing and preparing for the next pandemic.”
+
+‘A Very, Very Good Business’
+
+The fates of Emergent and the Strategic National Stockpile have been intertwined almost from the start. Both trace their origins to the final years of the Clinton administration, and both were transformed in 2001 by the Sept. 11 attacks and the subsequent anthrax attacks, when letters containing the deadly bacteria were sent to members of Congress and the media.
+
+The two have been locked ever since in what an Emergent executive once told investors was “a very symbiotic dance.”
+
+Emergent’s rise is the stuff of lore in biodefense circles — a tale of savvy dealings, fortuitous timing and tough, competitive tactics.
+
+“They’re very vicious in their behavior toward anybody they perceive as having a different point of view,” said Dr. Tara O’Toole, a former Homeland Security official who says she ran afoul of Emergent in 2010 after telling Congress that the nation needed a newer and better anthrax vaccine.
+
+Ms. DeLorenzo, the Emergent spokeswoman, said the company “uses traditional advocacy channels” in Washington.
+
+Congress first approved funds for a national reserve in 1998. President Bill Clinton, attuned to the rising threat of terrorism after the 1993 World Trade Center bombing, began pressing for the stockpile after reading a novel about a genetically engineered virus, according to Dr. Margaret Hamburg, a top Clinton and Obama health official. The government was already stocking medical supplies for the military, but the new repository would help states and cities during a health crisis.
+
+That year, the company that would become Emergent — then known as BioPort — paid Michigan $25 million to buy the license for a government-developed anthrax vaccine and an aging manufacturing plant.
+
+The company opened its doors with one product, called BioThrax, and one customer, the Defense Department, which required the vaccine for service members.
+
+The 2001 attacks created a huge new market as the government began filling the stockpile with treatments for anthrax and smallpox.
+
+But Emergent’s anthrax vaccine was not the government’s first choice. It was more than 30 years old and plagued by manufacturing challenges and complaints about side effects. Officials instead backed a company named VaxGen, which was developing a vaccine using newer technology licensed from the military.
+
+Emergent’s successful campaign against VaxGen — deploying a battalion of lobbyists, publicly attacking its rival and warning that it might cease production of its own vaccine if the government didn’t buy it — established its formidable reputation. By 2006, VaxGen had lost its contract and the government had turned to Emergent to supply BioThrax.
+
+“They were totally feared by everybody,” Dr. Philip Russell, a top health official in the administration of President George W. Bush, said in an interview. He said that he clashed with Emergent when he backed VaxGen, and that his reputation came under attack, which was documented by The Times in 2006. (Dr. Russell died this January.)
+
+Ms. DeLorenzo of Emergent said that while other companies had tried over the years to create a next-generation anthrax vaccine, “none have been successful.”
+
+In 2009, a deadly influenza outbreak forced the government to re-evaluate the reserve. The spread of a novel strain of H1N1, in many ways a trial pandemic, sounded an alarm about the government’s poor readiness for naturally arising threats.
+
+That virus claimed an estimated 12,000 lives in the United States. It was a small fraction of the Covid-19 death toll, yet even then the stockpile ran short of protective gear.
+
+“People are saying that we dodged a bullet, and it isn’t that we dodged a bullet,” Dr. Richard Hatchett, a public health adviser to Mr. Obama, recalled telling him during a meeting in the Oval Office. “It’s that nature shot us with a BB gun.”
+
+In response, the group of federal officials who make decisions about the stockpile and other emergency preparations — known as the Phemce, for the Public Health Emergency Medical Countermeasures Enterprise— ordered up a study. It found in 2010 that the government could not afford to devote so much of its budget to a single threat.
+
+Instead, the review concluded, the government should invest more in products with multiple applications, like diagnostic tests, ventilators, reusable respirator masks and “plug and play” platforms that can rapidly develop vaccines for a range of outbreaks.
+
+The review didn’t single out BioThrax for criticism. But a Times analysis of federal documents and corporate disclosures found that from 2010 through 2018, the anthrax vaccine consumed more than 40 percent of the stockpile’s budget, which averaged $560 million during those years.
+
+It was “an extraordinary burden,” Dr. Hatchett said in an interview.
+
+Emergent and the government have withheld details of the stockpile contracts, including how much the company has charged for each dose of BioThrax, but executives have shared some of the missing information with investors.
+
+The company in 1998 agreed to charge the government an average of about $3.35 per dose, documents show. By 2010, the price had risen to about $28, according to financial disclosures and statements by Emergent executives, and now it is about $30. Over the past 15 years, the company recorded a gross profit margin of about 75 percent for the vaccine, in an arrangement that one Emergent vice president called a “monopoly.”
+
+“It is a very, very good business,” the vice president for investor relations, Robert G. Burrows, said in a 2010 presentation.
+
+Dr. Ali S. Khan, who ran the C.D.C. office managing the stockpile until 2014, said bluntly: “We overpaid.”
+
+‘Your Taxpayer Dollars at Work’
+
+One afternoon in October 2010, Wall Street investors gathered at the Millennium Broadway Hotel in Manhattan for a presentation by Mr. Burrows. He shared with them a secret number: 75 million.
+
+That was how many BioThrax doses the government had committed to stockpiling, and it was the backbone of Emergent’s thriving business. In pursuit of that goal, the government had already spent more than $900 million, and it continued to buy virtually every dose Emergent could produce. It had even awarded the company more than $100 million to expand its Michigan factory.
+
+“That’s your taxpayer dollars at work,” Mr. Burrows told the gathering, according to a transcript of the event.
+
+But just three years later, Emergent’s business was under threat.
+
+Unlike smallpox or the coronavirus, anthrax doesn’t spread from person to person, instead infecting people when its spores are released in the environment. The main defense against it is the kind of cheap, commonly used antibiotics that were dispensed after the 2001 letter attacks, also kept in the stockpile.
+
+Emergent’s vaccine, given in three doses, would be useful for emergency workers and others who might risk extended exposure to the spores. But for the general public, it would be an added precaution, multiple health officials said. “The best approach toward anthrax is antimicrobial therapy,” Dr. Anthony S. Fauci, the government’s top infectious-disease expert, told Congress as early as 2007.
+
+So government officials started asking: Did the stockpile need so much of the vaccine?
+
+The government already had part of the answer. Health officials had hired the disaster-preparedness firm I.E.M. to calculate how much benefit the vaccine provided. In an analysis published in 2007, the firm determined that giving antibiotics immediately after a large outdoor anthrax attack was likely to reduce serious illnesses by more than 80 percent. Administering the vaccine would then cut serious illnesses only by an additional 4 percent.
+
+Dr. Sid Baccam, who led the I.E.M. team, said the analysis was regularly updated through 2016 with similar results.
+
+“I think it’s pretty clear that the benefit of the vaccine is marginal,” he said in an interview.
+
+The Emergent spokeswoman said the I.E.M. study did not reflect the totality of research, and suggested the government considered “many different factors” when choosing what to purchase.
+
+The Times found that the origin of the 75-million-dose goal was not scientific analysis or intelligence gathering.
+
+“A bunch of people, including myself, were sitting in a room and asking what kind of attack might happen,” said Dr. Kenneth Bernard, a top biodefense adviser to Mr. Bush, recalling a meeting in the months after the 2001 attacks.
+
+“And somebody said, ‘Well, I can’t imagine anyone attacking more than three cities at once,’” he said. “So we took the population of a major U.S. city and multiplied by three.”
+
+The three cities combined, they figured, would have about 25 million people, each needing the three-dose regimen. The 75 million goal, according to Dr. Bernard and another official involved in the decision, was meant as a rough starting point that would be reassessed.
+
+A team of Homeland Security and health officials began doing just that in 2013. The group determined, in a previously undisclosed analysis, that the government could stockpile less BioThrax and still be prepared for a range of plausible attacks, according to two people involved in the assessment. Separately, government researchers concluded that two doses of BioThrax provided virtually the same protection as three.
+
+The last time anthrax appeared in the intelligence community’s annual Worldwide Threat Assessment, in 2012, the risk of a mass attack by a biological weapon was deemed “unlikely.” And Gregory F. Treverton, who directed the National Intelligence Council, which helped draft the assessments during Mr. Obama’s second term, said in an interview that the idea of a three-city attack affecting 25 million people was “straining credulity.”
+
+Managers of the stockpile recommended in 2015 that with tight budgets, the government should scale back vaccine purchases and direct the savings toward other needs.
+
+But Emergent was ready for them.
+
+‘The We’re-Going-to-Go-Bankrupt Card’
+
+Memories of the powder-filled letters that temporarily shut down the Capitol in 2001 have haunted members of Congress ever since.
+
+“If you talk to the head of the House Intelligence Committee,” Don Elsey, Emergent’s chief financial officer, told investors in 2011, “and you say, ‘What are you most worried about?’ he’ll say, ‘Let me see: Number one, anthrax; number two, anthrax; number three, anthrax.’”
+
+Emergent’s sales strategy was to address that fear by promising the federal government peace of mind with its vaccine.
+
+“There’s a political element involved,” Mr. Burrows, the company’s vice president of investor relations, said at an industry conference in 2016. “I don’t have a marketing expense. I have lobbying expense.”
+
+Since 2010, the company has spent an average of $3 million a year on lobbying — far outspending similarly sized biotech firms, and roughly matching the outlays of two pharmaceutical companies with annual revenues at least 17 times greater, AstraZeneca and Bristol Myers Squibb, Senate lobbying disclosures show.
+
+In 2015, as stockpile managers questioned the large purchases of BioThrax, the spending topped $4 million, and the company added the services of a half-dozen lobbyists from a firm led by a former chief of staff to Mr. Alexander, the Republican former senator who led the health committee. (Mr. Alexander had received a $1,000 campaign contribution from Emergent’s political action committee in 2007 and $2,500 in 2013.)
+
+The move followed a yearslong pattern of retaining a bipartisan lobbying corps of former agency officials, staff members and congressmen, including Pete Hoekstra of Michigan, Tom Latham of Iowa and Jim Saxton of New Jersey.
+
+“Their revolving door is moving at 60 miles per hour,” said former Senator Claire McCaskill, a Democrat from Missouri who had questioned spending on the vaccine while in the Senate. “There is really a lot of incestuousness because it’s such a specialized field.”
+
+Ms. DeLorenzo, the Emergent spokeswoman, said the lobbying was necessary because government investment “in biodefense and other public health threats has not been as strongly prioritized as it should be.”
+
+Over the past 10 years, Emergent’s political action committee has spread almost $1.4 million in campaign contributions among members of both parties. And the Alliance for Biosecurity, a trade group led in part by Emergent’s chief in-house lobbyist, Chris Frech, has honored Democrats and Republicans who hold key committee assignments.
+
+Mr. Frech, who worked for Mr. Bush, has “built up a lot of relationships where he had respect on both sides of the aisle,” said Representative Tom Cole, an Oklahoma Republican and a former chairman of a subcommittee that oversees stockpile spending.
+
+Because Emergent was the sole manufacturer of a product deemed critical to national security, the company has played what one former executive described to The Times as “the we’re-going-to-go-bankrupt card.” Mr. Cole, who received $16,000 from the company’s political action committee in recent years, was familiar with the pitch.
+
+“You have people coming and saying, ‘There’s no market for this — nobody’s going to produce this unless you buy enough of it to keep the production line open,’” he said. “It’s an absolutely appropriate argument to make.”
+
+The agencies that oversaw the stockpile also felt the force of the argument.
+
+“It was very difficult to withstand the argument that you’re not protecting the country against anthrax,” said Dr. Frieden, the former head of the C.D.C., which managed the stockpile until 2018.
+
+Dr. Nicole Lurie, who led the Phemce in the Obama administration, said trying to reduce anthrax vaccine purchases was particularly perilous for Democrats. “Here’s a Republican Congress accusing the administration of being soft on terrorism,” she said.
+
+Emergent’s campaign proved effective. Despite the 2015 recommendation by the stockpile managers, Senate overseers made clear they opposed the reduction, and the government went ahead and bought $300 million worth of BioThrax.
+
+But that triumph was just a dress rehearsal for what came next.
+
+In June 2016, with Emergent’s BioThrax contract up for renewal, the C.D.C. announced that the next deal would be far smaller: about six million doses a year rather than the previous nine million.
+
+The company’s stock price dipped and shareholders sued Emergent, claiming they had been misled. Emergent lobbyists had already swung into action weeks earlier, reaching out to Senator Roy Blunt, the Missouri Republican who led the subcommittee that controls the stockpile’s budget. Mr. Blunt asked one lobbyist for talking points that he could bring when he visited the C.D.C. in Atlanta, according to an email contained in court records from the shareholders’ lawsuit.
+
+By the time of that email, Emergent’s employee political action committee had donated $10,000 to Mr. Blunt, who was up for re-election. Less than a week later, the Alliance for Biosecurity gave him its Congressional BioSecurity Champion Award.
+
+A spokeswoman for Mr. Blunt said he did not intervene on the company’s behalf.
+
+Emergent executives, meanwhile, warned that there could be job losses at the factory in Lansing, Mich. — the capital of a swing state at the center of a contentious presidential campaign between Mr. Trump and Hillary Clinton. In calls with federal officials, Emergent executives also said the company might have to downsize and stop supplying some products to the stockpile, according to two public health officials who participated in the conversations.
+
+“They were pouring it on — how poor they were and how this was going to ruin the company, and they’d have to close down factories, and America was going to be left without anthrax vaccine,” said one of the officials, Rick Bright, who held top positions in both the Obama and Trump administrations.
+
+For health officials overseeing the stockpile, including Dr. Lurie and Dr. Hatchett, who were also on the calls, this posed a quandary: Should they divert money to Emergent that could otherwise help prepare for other disasters?
+
+Dr. Hatchett said the idea gave him pause. But, he explained in an interview, “if there’s only one partner that can provide a product and only one customer for that product, the customer needs the partner to survive.”
+
+In the end, the government came through with what amounted to a $100 million bailout, dipping into the budget of an agency created to develop new products for the stockpile, the Biomedical Advanced Research and Development Authority, also known as Barda.
+
+Just a year later, Emergent spent about $200 million in cash, and made other financial commitments, to acquire Sanofi’s smallpox vaccine and GlaxoSmithKline’s anthrax treatment, two products with established pipelines to the stockpile. The purchases expanded Emergent’s hold over the reserve.
+
+Ms. DeLorenzo said the acquisitions did not suggest the company was better off than it had claimed, but Dr. Bright said he and others involved in the bailout felt used.
+
+“We were all like, What happened to ‘We’re desperate and we need the money not to shut down’?” he said.
+
+‘Speak the Government’s Language’
+
+The guaranteed market provided to Emergent has been largely unavailable to companies selling protective gear and other products intended for an outbreak like the coronavirus pandemic.
+
+Companies that make respirator masks, for example, have been unable to match anthrax on the list of the stockpile’s highest priorities, interviews and documents show.
+
+One business, American Medical Depot, pitched a reusable mask to the stockpile in 2016. Federal officials expressed interest but said there was no money, according to a former company executive.
+
+“They knew that this was a solution for a problem,” said the former executive, Akhil Agrawal. “I just don’t know that the problem was prioritized high enough to get the funding.”
+
+Last April, as health care workers pleaded for protective gear, American Medical Depot’s masks became an urgent priority, and the government placed an order for 10 million. But by summer, while the company was facing manufacturing challenges from the pandemic, the deal fell through.
+
+And a plan five years earlier to create an emergency supply of N95 respirators was simply not funded. A team of experts had proposed buying tens of millions of the masks to fill the gap during an outbreak until domestic manufacturing could ramp up, according to five officials involved in the assessment, which has not been previously disclosed.
+
+The masks were supposed to be purchased with money left over after the stockpile acquired higher-priority items. But that never happened. Even the N95s distributed to states and hospitals during the H1N1 outbreak in 2009 were not replaced. By the time the novel coronavirus emerged, the stockpile had only 12 million of the respirators. The stockpile has since set a goal of amassing 300 million.
+
+Dr. Kadlec, the Trump administration official overseeing the stockpile, said he used the previous administration’s mask recommendation to raise alarms as early as 2018.
+
+“Holy smokes, we’re in arrears,” he said, recalling his message to the White House budget office. He requested additional funding to buy masks but was refused, he said, and he was unwilling to free up money by reducing the supply of anthrax vaccines.
+
+Emergent’s dominance has also frustrated companies seeking funding from Barda, the research agency devoted to developing new products for the stockpile.
+
+Dr. Annie De Groot, chief executive of the small vaccine company EpiVax, spoke about the need to break Emergent’s lock on research dollars at a biodefense forum in 2015.
+
+She advocated investing in more modern technologies — including those now being used for Covid-19 vaccines — developed by companies like hers.
+
+“I realize that many of these ideas may not sit well with incumbents in the vaccine industry, including some of the folks who are present in this room,” she said. Emergent’s chief executive at the time was seated a few feet away.
+
+The situation is no better six years later, Dr. De Groot said in an interview.
+
+“Politicians want to look like they’ve addressed the problem,” she said. “But we need to actually listen to the scientists.”
+
+Over the last five years, Emergent has received nearly a half-billion dollars in federal research and development funding, the company said in its financial disclosures.
+
+“We know ahead of time when funding opportunities are going to come out,” Barbara Solow, a senior vice president, told investors in 2017. “When we talk to the government, we know how to speak the government’s language around contracting.”
+
+The company used federal money to make improvements to BioThrax, and also found a way to earn government money from a competing anthrax vaccine it had excoriated. After the demise of VaxGen in 2006, Emergent bought the company’s unfinished vaccine and in 2010 persuaded the federal government to continue paying for research on it. The firm’s top financial officer twice raised doubts about it to investors and told them on one occasion that it amounted to “throwing away money,” according to transcripts of conference presentations.
+
+By the time the research contract was canceled in 2016, Emergent had collected about $85 million, records show. The company then shelved the vaccine. “If the U.S. government withdraws funding, we re-evaluate whether there is any business case for continuing,” Ms. DeLorenzo said.
+
+‘Checking the Box on Anthrax Vaccines’
+
+On a steamy evening in June 2019, Dr. Bright, then a senior public health official in the Trump administration, met with Emergent executives at the company’s Washington offices adjoining the Willard Hotel, a choice address with sweeping views of the Washington Monument.
+
+The gathering was billed as a meet-and-greet with Mr. Kramer, who had recently taken over as chief executive. Looming in the background, however, was an impending decision by Barda, overseen by Dr. Bright, that could make or break Emergent’s financial projections and long-term goals.
+
+The company had beaten back the Obama administration’s attempts to buy less BioThrax. The threat now was competition for a new vaccine.
+
+For more than 30 years, the government had been encouraging the development of a BioThrax replacement. In 2002, the Institute of Medicine had concluded that an alternative based on more modern technology was “urgently needed.” By 2019, there were three leading candidates, including one made by Emergent, known as AV7909.
+
+On the surface, Emergent’s vaccine looked similar to those of its competitor. Early research indicated that all three options guarded against anthrax with two doses.
+
+But Emergent’s candidate was hardly the breakthrough the government was seeking, former health officials said. AV7909 was essentially an enhanced version of BioThrax. The competitors were using more modern technology that could produce doses more rapidly and consistently, and were promising significant cost savings for the stockpile.
+
+Emergent’s strategy was to skirt those issues by being first.
+
+A company official had told financial analysts that if its vaccine was ready ahead of the others, the government would be “checking the box on anthrax vaccines, and moving on to some of the other threats.” And weeks before the Willard meeting, Emergent predicted in an earnings call that the government would use its emergency authority to buy AV7909 even before regulators approved it.
+
+To qualify for emergency authorization, a vaccine must be at an advanced stage of development with no approved alternatives. Emergentacknowledged in its financial disclosures that there was “considerable uncertainty” whether the new vaccine met those requirements.
+
+But the company had a well-placed connection in the federal government.
+
+‘Give the Lobbyists More Say’
+
+The election of Mr. Trump as president was good news for Emergent.
+
+Dr. Lurie, the senior health official in the Obama administration who had tried to scale back BioThrax purchases, was out. Mr. Trump’s pick to replace her was Dr. Kadlec, a career Air Force physician and top biodefense official in the Bush administration who was fixated on bioterrorism threats, especially anthrax, current and former officials said.
+
+Dr. Kadlec had also previously worked as a consultant for Emergent, as reported earlier by The Washington Post. In an interview with The Times, Dr. Kadlec said he was paid “several thousand dollars a month” in 2013 and 2014 to speak at international conferences about biodefense products.
+
+Soon after entering the Trump administration in 2017, Dr. Kadlec took a series of actions that he characterized as streamlining a cumbersome bureaucracy but that had the effect of benefiting Emergent.
+
+He assumed greater control of purchasing decisions, diminishing the authority of the Phemce, the oversight group that had proposed buying less BioThrax. And in 2018, he backed a decision to move control of the stockpile to his office in the Department of Health and Human Services and away from the C.D.C., which is based in Atlanta and prides itself on being insulated from the influence of lobbyists.
+
+Dr. Frieden, the former C.D.C. director, was strongly opposed. The move, he said, “had almost as an explicit goal to give the lobbyists more say in what got purchased.”
+
+A key decision landed before Dr. Kadlec’s office in 2019: whether to purchase large amounts of Emergent’s new, unlicensed anthrax vaccine. While the details of the contract were handled by Dr. Bright’s agency, his boss, Dr. Kadlec, said he made the final call.
+
+That July, the government made the announcement Emergent had been banking on, committing to buying millions of doses. Separately, it said it would stop funding Emergent’s competitors.
+
+Dr. Kadlec said he did not want to pay to continue researching other vaccines when Emergent’s was further along in development. By replacing a vaccine that required three doses with one that required only two, he said, “you could make a third more money available” for unmet needs.
+
+“There weren’t easy decisions,” Dr. Kadlec said.
+
+The decision to side with Emergent did not surprise Dr. Khan, the former C.D.C. official overseeing the stockpile.
+
+“Again and again, we seem unable to move past an old technology that’s bankrupting the stockpile,” he said.
+
+When the pandemic hit, the AV7909 purchases only accelerated. In 2020, the government spent more than $370 million on Emergent’s anthrax vaccines — the largest sales total for the vaccines in the company’s history.
+
+Last month, as the death toll from Covid-19 neared a half-million, Mr. Kramer, the company’s chief executive, told analysts there had been no “evidence of a slowdown or a delay or a deprioritization,” and echoed a statement he had made in April when asked whether the pandemic might interrupt Emergent’s sales to the stockpile.
+
+“It’s pretty much business as usual,” he said then.
+
+Julian E. Barnes contributed reporting.
+
+Julian E. Barnes contributed reporting.
+
+PHOTOS: Dr. Robert Kadlec; Dr. Nicole Lurie; Robert Kramer, chief executive of Emergent (A22); Emergent, led by Robert Kra- mer, bottom right, has domi- nated the na- tional stockpile’s budget with its anthrax vac- cines. Dr. Nicole Lurie, top right, unsuccessfully tried to scale back the invest- ment during the Obama years. Dr. Robert Kadlec, top left, focused on bioterrorism. (PHOTOGRAPH BY ELEANOR SHAKESPEARE) (A22-A23); Working on a Covid-19 vaccine in one of the manufacturing suites at Emergent BioSolutions’ plant in Baltimore. (PHOTOGRAPH BY JERRY JACKSON/BALTIMORE SUN MEDIA); Dr. Ali S. Khan, former C.D.C. official; The corporate headquarters of Emergent BioSolutions in Gaithersburg, Md. (PHOTOGRAPH BY SAMUEL CORUM FOR THE NEW YORK TIMES) (A24)

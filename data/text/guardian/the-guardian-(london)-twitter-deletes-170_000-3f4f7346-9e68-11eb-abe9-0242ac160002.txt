@@ -1,0 +1,37 @@
+Twitter has removed more than 170,000 accounts the social media site says are state-linked influence campaigns from China focusing on Hong Kong protests, Covid-19 and the US protests in relation to George Floyd.
+
+The company announced on Thursday that 23,750 core accounts - and 150,000 "amplifier" accounts that boosted the content posted by those core accounts - had been removed from the platform after being linked to an influence campaign from the People's Republic.
+
+Researchers at the Australian Strategic Policy Institute found that while Twitter is blocked from access in China, the campaign was targeted at Chinese-speaking audiences outside the country "with the intention of influencing perceptions on key issues, including the Hong Kong protests, exiled Chinese billionaire Guo Wengui and, to a lesser extent, Covid-19 and Taiwan".
+
+The researchers analysed 348,608 tweets between January 2018 and April 2020 and found most tweets were posted during business hours in Beijing between Monday and Friday, and dropped off on the weekends.
+
+The tweets usually contained images featuring Chinese-language text, with researchers finding that the primary targets of the campaign were people living in Hong Kong, followed by broader Chinese diaspora.
+
+The vast majority of the accounts (78.5%) had no followers and 95% had fewer than eight followers, but those accounts had a high level of engagement, albeit not organic. That pointed to the use of commercial bot networks, the research said. A total of 156 tweets from accounts with no followers received more than 50 likes, and 26 tweets from accounts with no followers received more than 10 retweets.
+
+One tactic the researchers observed in accounts that were excluded from the dataset were legitimate older accounts that had been hacked, or bought and then used as part of the campaign.
+
+For example, one account changed its photo from a Bangladeshi man to a Chinese woman and abruptly switched to posting in Chinese in opposition to the Hong Kong protests.
+
+The ASPI researchers said repurposed accounts on Facebook contributed a significant portion of the activity observed there.
+
+The major themes of the tweets were that that Hong Kong protesters were violent, and the US was interfering with the protests; accusations about Guo; the Taiwan election; and praise of China's response to the Covid-19 pandemic.
+
+Despite the removal of these accounts, the researchers found that the campaigns were persisting both on Twitter and Facebook through repurposed accounts and new ones.
+
+Focus has now shifted to the Black Lives Matter protests in the US, accusing the country of "hypocrisy for its criticism of the response by police to protests in Hong Kong, while the US's own police and troops use violence against protests in the US, and warns Hong Kong protesters not to think they can rely on the US for support against China's national interests".
+
+ASPI found that the campaign operators also appeared to have sought to heavy engagement on some tweets to boost them to the the top of Twitter's search for specific hashtags.
+
+"This allowed the campaign to effectively drown out organic activity on that hashtag for a period of time," the researchers said.
+
+At the same time, Twitter also released the details of 1,152 accounts associated with promoting state-backed political propaganda from Russia, and 7,340 accounts promoting to Turkey's AK party and President Recep Tayyip Erdogan.
+
+"Technical signals point to the network being associated with the youth wing of the party and a centralised network that maintained a significant number of compromised accounts," it said.
+
+Twitter said in the future, it would provide the archive of impression counts and other relevant information to understand the impact such campaigns have, and work with academic organisations to achieve that goal.
+
+This month Australian researchers found that thousands of pro-Trump, Republican or QAnon-related accounts had been boosting misinformation about the origins of Covid-19 at the start of the pandemic.
+
+Guardian Australia has sought comment from Twitter on whether it was undertaking similar analysis of these accounts.

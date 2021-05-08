@@ -1,0 +1,65 @@
+Two studies confirm that a new coronavirus mutant in California is more contagious, although the scale of its threat is unclear.
+
+A variant first discovered in California in December is more contagious than earlier forms of the coronavirus, two new studies have shown, fueling concerns that emerging mutants like this one could hamper the sharp decline in cases over all in the state and perhaps elsewhere.
+
+In one of the new studies, researchers found that the variant has spread rapidly in a San Francisco neighborhood in the past couple of months. The other report confirmed that the variant has surged across the state, and revealed that it produces twice as many viral particles inside a person’s body as other variants do. That study also hinted that the variant may be better than others at evading the immune system — and vaccines.
+
+“I wish I had better news to give you — that this variant is not significant at all,” said Dr. Charles Chiu, a virologist at the University of California, San Francisco. “But unfortunately, we just follow the science.”
+
+Neither study has yet been published in a scientific journal. And experts don’t know how much of a public health threat this variant poses compared with others that are also spreading in California.
+
+A variant called B.1.1.7 arrived in the United States from Britain, where it swiftly became the dominant form of the virus and overloaded hospitals there. Studies of British medical records suggest that B.1.1.7 is not only more transmissible, but more lethal than earlier variants.
+
+Some experts said the new variant in California was concerning, but unlikely to create as much of a burden as B.1.1.7.
+
+“I’m increasingly convinced that this one is transmitting more than others locally,” said William Hanage, an epidemiologist at the Harvard T.H. Chan School of Public Health who was not involved in the research. “But there’s not evidence to suggest that it’s in the same ballpark as B.1.1.7.”
+
+Dr. Chiu first stumbled across the new variant by accident. In December, he and other researchers in California were worried about the discovery of B.1.1.7 in Britain. They began looking through their samples from positive coronavirus tests in California, sequencing viral genomes to see if B.1.1.7 had arrived in their state.
+
+On New Year’s Eve, Dr. Chiu was shocked to find a previously unknown variant that made up one-quarter of the samples he and his colleagues had collected. “I thought that was crazy,” he said.
+
+It turned out that researchers at the Cedars-Sinai Medical Center in Los Angeles separately discovered the same variant surging to high levels in Southern California. Dr. Chiu announced his initial finding, and the Cedars-Sinai team went public two days later.
+
+Since then, researchers have been looking more closely at the new variant, known as B.1.427/B.1.429, to pinpoint its origin and track its spread. It has shown up in 45 states to date, and in several other countries, including Australia, Denmark, Mexico and Taiwan. But it has so far taken off only in California.
+
+It was unclear at first whether the variant was inherently more transmissible than others, or whether it had surged in California because of gatherings that became superspreading events.
+
+“Just by random chance, a bad wedding or choir practice can create a large frequency difference,” said Joe DeRisi, the co-president of the Chan Zuckerberg Biohub, who has been investigating the variant’s spread.
+
+In a new study that will soon be posted online, Dr. Chiu and his colleagues analyzed 2,172 virus samples collected from across the state between September and January. At the start of September, the researchers found no sign of B.1.427/B.1.429. But by late January, it had become the predominant variant in California. Dr. Chiu and his colleagues estimate that cases caused by the variant are now doubling every 18 days.
+
+Reviewing medical records on 308 cases of Covid-19 in San Francisco, Dr. Chiu and his colleagues found that a larger percentage of people had died from the new variant than from others. But that result could be a statistical fluke: There were only 12 deaths in the group, so the difference in deaths from one subgroup to another may not hold up in a larger sample.
+
+The researchers also ran experiments in the lab to look for evidence that the new variant had a biological edge. In one study, they showed that it was at least 40 percent more effective at infecting human cells than earlier variants were. And when they measured the genetic material found on swabs used for coronavirus tests, the researchers found that people infected with the variant produce a viral load twice as large as that of other variants.
+
+The study also found that the new variant can evade the immune system better than other variants can. Antibodies from people who recovered from infections from other variants were less effective at blocking the new variant in the lab. The same was true when the researchers used blood serum from people who had been vaccinated.
+
+Still, the variant’s effect on immunity seems to be much smaller than that caused by a variant from South Africa called B.1.351. Dr. Chiu said it’s not clear if the vaccines in use will be any less effective against B.1.427/B.1.429.
+
+“If we can get enough people vaccinated, we will be able to deal with these variants simply because we won’t have ongoing transmission,” he said.
+
+In a separate study that has not yet been published, Dr. DeRisi and his colleagues took a close look at how the variantspread in the Mission District, a predominantly Latino neighborhood in San Francisco.
+
+Looking at samples from late November, the researchers found that 16 percent of the coronaviruses belonged to B.1.427/B.1.429. By January, after sequencing 630 genomes, they found it accounted for 53 percent.
+
+The researchers also studied the spread of this variant and others in 326 households. They found that people had a 35 percent chance of getting infected if someone in their house had B.1.427/B.1.429. If the person was infected with another variant, the rate was only 26 percent.
+
+“What we see is a modest, but meaningful, difference,” Dr. DeRisi said.
+
+Dr. Chiu said that the San Francisco study offered a microcosm of how the variant has spread across the state. “The data that they have from the Mission District really supports our data, and vice versa,” he said.
+
+But Dr. Hanage of Harvard isn’t convinced that the variant poses a major threat. Every time B.1.1.7 has shown up in a new country, it has exploded quickly. By contrast, the variant discovered in California seems to have slowly gained dominance.
+
+Dr. Chiu and his colleagues were able to estimate when B.1.427/B.1.429 originated by comparing the mutations that have arisen in the viruses since they split from their common ancestor. That analysis pointed to late spring. If correct, it means that the variant lurked at extremely low levels in California for perhaps four months or more.
+
+“It’s not as big a deal as the others,” Dr. Hanage said. He speculates that if scientists sequence more coronavirus genomes in other places, they’ll find more of these moderately fast-spreading mutants. “Maybe variants are everywhere, and we’re just seeing them at the places where there’s sequencing,” he said.
+
+We may soon get some new insights about how seriously to take these emerging variants. B.1.1.7 arrived in California only around the start of December, and although it’s been doubling every 12 days or so, it’s still roughly just 2 percent of coronaviruses in the state.
+
+Now California is going to become a kind of viral cage match between the two variants. “My suspicion is that the B.1.1.7 will win out,” Dr. Hanage said.
+
+Dr. Chiu, however, thinks it’s possible that B.1.427/B.1.429 will suppress the newcomer and continue to dominate the state.
+
+“We’ll find out in the next couple weeks,” he said.
+
+PHOTO: The new coronavirus variant may be better than others at evading the immune system, and vaccines. (PHOTOGRAPH BY APU GOMES/AGENCE FRANCE-PRESSE — GETTY IMAGES)

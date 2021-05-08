@@ -1,0 +1,32 @@
+Communities of color, which have borne the brunt of the Covid-19 pandemic in the United States, have also received a smaller share of available vaccines. The vaccination rate for Black Americans is half that of white people, and the gap for Hispanic people is even larger, according to a New York Times analysis of state-reported race and ethnicity information.
+
+As of March 3, 38 states publicly shared race and ethnicity data for vaccinated people. The jurisdictions define race and ethnicity categories in slightly different ways, and with different levels of completeness -- in some states as much as a third of vaccinations are missing race and ethnicity data.
+
+Public health experts have said that despite these data limitations, the patterns emerging across states are clear.
+
+''People of color are getting vaccinated at rates below their representation of the general population,'' Dr. Marcella Nunez-Smith, the chair of President Biden's coronavirus equity task force, said at a recent forum on the vaccine. ''This narrative can be changed. It must be changed.''
+
+Some health officials expect vaccination disparities to shrink as more of the general population becomes eligible for a shot.
+
+But while the reported race and ethnicity of vaccinated people is influenced by which groups are eligible to get a vaccine, the gaps aren't solely because of the demographics of the first people in line.
+
+''We are not even rolling out to everyone in the country yet, and we are already seeing these disparities by race and ethnicity,'' said Dr. Kirsten Bibbins-Domingo, a physician and epidemiology professor at the University of California, San Francisco. ''What is distressing is that we see it so quickly.''
+
+Public health experts, including Dr. Bibbins-Domingo, have said that obstacles to vaccine access deserve much of the blame for vaccination disparities.
+
+Black and Hispanic Americans are less likely than their white counterparts to have internet access reliable enough to make online appointments; to have work schedules flexible enough to take any available opening; and to have access to dependable transportation to vaccine sites, among other factors. A lack of access to information about the vaccine through trusted providers can also lead to uncertainty and an unwillingness to get a shot.
+
+States have begun to address these challenges by bringing vaccines to hard-hit communities and partnering with local groups to share information in multiple languages and in culturally appropriate ways, said Samantha Artiga, the director of the racial equity and health policy program at the Kaiser Family Foundation. Ms. Artiga has analyzed vaccine disparities.
+
+''One thing I will be keeping a close eye on going forward is whether these efforts translate into narrowing gaps in vaccination rates,'' Ms. Artiga said.
+
+But racial and ethnic health disparities are longstanding and deeply rooted, according to public health experts.
+
+''When you think about these differences, you realize we have a lot of work to do as a nation,'' said Dr. Sonja S. Hutchins, a professor of community health and preventive medicine at Morehouse School of Medicine, who worked at the Centers for Disease Control and Prevention for three decades.
+
+''This is not likely to be our last pandemic.''Methodology The Times gathered race and Hispanic origin data for vaccinated people from state websites between March 1 and March 3. The data available from the following states was current as of late February: Connecticut, Massachusetts, Michigan, New York, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina and Washington. Some states do not report the race and ethnicity of vaccinated people, but rather for all doses given, which can double count people who have received two doses of the vaccine. These states are excluded from this analysis and include Delaware, New Jersey and Nevada. North Dakota reports vaccinations as a share of each race or ethnic group's population and is included only in the U.S. maps.Louisiana, Michigan and West Virginia do not report ethnicity among those vaccinated. While Alabama reports ethnicity, it is excluded from this analysis as most of its vaccinations are missing ethnicity information.Race and ethnicity information is missing from a significant number of vaccination records across states, by as much as a third in some states. Subsequently, The Times removed from its analysis vaccinations with unknown or unreported race or ethnicity. Some states are also reporting larger than expected shares of the race category ''other,'' and states are still working to determine the reasons for this. Alaska and California have ''other'' categories that make up about 30 percent of their known vaccinations.The District of Columbia's ''other'' category is more than 40 percent of its known vaccinations, and was excluded from the Times analysis.States also vary in whether they include nonresidents among those vaccinated. States may or may not include people vaccinated by a federal program for long-term care facilities.Figures for Pennsylvania exclude those who received a vaccine in Philadelphia County.The Times used population data from the 2019 American Community Survey. While some states include Hispanic people among racial categories, others report ethnicity separately. Total population figures were adjusted based on the method of race and ethnicity reporting in each state.
+
+
+
+
+

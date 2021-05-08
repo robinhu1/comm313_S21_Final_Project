@@ -1,0 +1,25 @@
+India, Aug. 27 -- As the coronavirus pandemic raged across the globe, most of the children and their parents came to terms with the difficult life that has now become the "new normal".
+
+But a 15-year-old decided to do something to bring about a positive social change during the pandemic. Neha Shukla applied to the 'Girls With Impact' programme in the United States that teaches entrepreneurial skills to young girls.
+
+The push for Shukla was the rapid spread of the disease and that fact that people could lose their lives because of a careless mistake, of not social distancing correctly.
+
+Indian-origin girl's 'SixFeetApart' alarm wows US in Covid times
+
+"I wanted to do something about it and I set out to create a social distancing device that utilises ultrasonic sensors and microprocessors to detect when a person crosses that six-feet detection range and alert the user through vibrating and beeping," she told Hindustan Times.
+
+With her interest in engineering and technology, Shukla began working on the device that would keep people six feet apart. And to make it useful, the 15-year-old chose a cap.
+
+The cap beeps and vibrates when someone breaches the six-feet perimetre.
+
+"It's a microprocessor based device that's embedded in a hat. Whenever somebody crosses that six feet range, the programme and the microprocessor are alerted," explains Shukla while describing her device.
+
+She adds, "On the inside, there's an ultrasonic sensor, a microprocessor, a buzzer and a nine-volt battery. I coded a programme that causes these ultrasonic sensors to send out these pulses (ultrasonic waves). Now, when these waves collide with a person within that six-feet detection range, this raw data calculation is converted to a system that it would understand and hence alert the user."
+
+Shukla was born and brought up in the United States. She started working on the project in April and a prototype was ready in June. Shukla is now working on improving the design of the device further to make it easier to wear. "I am also working on developing a Bluetooth app that will send the same notification to your phone as well and you can keep a track of that history," she says.
+
+She has been featured in the New York Times and on the Nasdaq screen last month. Shukla's LinkedIn profile described her as a student, innovator, researcher and writer.
+
+Shukla said that she would love to come to India as soon as the Covid-19 pandemic is over.
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

@@ -1,0 +1,23 @@
+India, May 15 -- New Delhi
+
+Two dogs who were reported to have contracted the coronavirus disease (Covid-19) recently likely got the infection from their owners, according to a new research paper that analysed cases in animals in Hong Kong.
+
+"An analysis of viral genetic sequences from the dogs showed them to be identical to those in the infected people," an article on the findings in Nature said.
+
+While the paper didn't study if animal-to-animal transmission could occur, the authors recommended that for precaution, pets belonging to Covid-19 patients be isolated and tested, as is already being done in Hong Kong.
+
+The paper, published in Nature journal on Thursday, found that two of 15 dogs from households with confirmed human cases of Covid-19 in Hong Kong were found to be infected. These two were a 17-year-old neutered Pomeranian and a 2.5-year-old German Shepherd. They were tested using Reverse Transcription Polymerase Chain Reaction (RT-PCR) kits and the virus was later isolated and sequenced.
+
+Canine ACE-2 (an enzyme the Sars-CoV-2 virus uses to enter the body) is similar to the enzyme found in humans. Of 18 amino acids that are known to be involved in interaction between ACE-2 and the spike receptor binding domain of Sars-CoV-2 (which Sars-CoV-2 uses to bind to its host's cells), there are five that differ between humans and dogs, the study led by Agriculture, Fisheries and Conservation Department of Hong Kong said.
+
+"The evidence suggests that human-to-animal transmission of SARS-CoV-2 can occur. We do not have information on whether this virus can cause illness in dogs but no specific signs were seen in either of the infected dogs during the time they were shedding virus," the paper said. The Pomeranian died two days after release from isolation but very likely due to other underlying diseases. The German Shepherd was kept with a second cross-breed dog but the second dog didn't get infected.
+
+"The limited implications of these findings are that there is now increasing evidence for human to animal transmission, especially to pet animals that are in close contact with infected humans. There is as yet no evidence for any subsequent animal to animal transmission," said Abi Tamim Vanak, Fellow, DBT India Alliance Program and senior fellow at Ashoka Trust for Research in Ecology and the Environment (ATREE).
+
+"However, given that high viral loads were found in nasal swabs of infected animals, as well as in rectal swabs, there is a possibility of onward transmission to other animals, especially if an infected pet is free-ranging and regularly comes in to contact with other animals or humans. Again, this is only speculative, and it would require experimental challenge studies to determine if animal to animal transmission is a viable route of spread for this virus. If such evidence is found, then it will make the control of this disease much harder, because many regions of the world have fairly large populations of free-ranging domestic animals (e.g. India has ~60 million dogs), which do not receive even the most basic healthcare, such as anti-rabies vaccinations," he added.
+
+The findings also have implications for future zoonotic transmission events. Dogs, other canids and felids can be sold in or found near wild-game animal markets like in Wuhan from where Sars-CoV-2 is understood to have transmitted to humans. These domestic animals should also be tested during investigations into the origin of the virus to determine if they play any role in spillover events, the authors concluded.
+
+Earlier, a study by Harbin Veterinary Research Institute, Chinese Academy of Agricultural Sciences and National High Containment Laboratory for Animal Diseases Control and Prevention in China had suggested that cats are highly susceptible to contracting Sars-CoV-2 but dogs, ducks, chickens and pigs were not as susceptible. The study was based on lab experiments and not real-life cases.
+
+Published by HT Digital Content Services with permission from Hindustan Times. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com

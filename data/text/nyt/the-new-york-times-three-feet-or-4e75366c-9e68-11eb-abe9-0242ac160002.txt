@@ -1,0 +1,69 @@
+Some public health officials say it’s time for the C.D.C. to loosen its social distancing guidelines for classrooms, but the idea has detractors.
+
+The Centers for Disease Control and Prevention is clear and consistent in its social distancing recommendation: To reduce the risk of contracting the coronavirus, people should remain at least six feet away from others who are not in their households. The guideline holds whether you are eating in a restaurant, lifting weights at a gym or learning long division in a fourth-grade classroom.
+
+The guideline has been especially consequential for schools, many of which have not fully reopened because they do not have enough space to keep students six feet apart.
+
+Now, spurred by a better understanding of how the virus spreads and a growing concern about the harms of keeping children out of school, some public health experts are calling on the agency to reduce the recommended distance in schools from six feet to three.
+
+“It never struck me that six feet was particularly sensical in the context of mitigation,” said Dr. Ashish Jha, dean of the Brown University School of Public Health. “I wish the C.D.C. would just come out and say this is not a major issue.”
+
+On Sunday, Dr. Anthony S. Fauci, the director of the National Institute of Allergy and Infectious Diseases, said on CNN that the C.D.C. was reviewing the matter.
+
+The idea remains contentious, in part because few studies have directly compared different distancing strategies. But the issue also boils down to a devilishly difficult and often personal question: How safe is safe enough?
+
+“There’s no magic threshold for any distance,” said Dr. Benjamin Linas, a specialist in infectious diseases at Boston University. “There’s risk at six feet, there’s risk at three feet, there’s risk at nine feet. There’s risk always.” He added, “The question is just how much of a risk? And what do you give up in exchange?”
+
+The origins of six feet
+
+The origin of the six-foot distancing recommendation is something of a mystery. “It’s almost like it was pulled out of thin air,” said Linsey Marr, an expert on viral transmission at Virginia Tech University.
+
+When the virus first emerged, many experts believed that it was transmitted primarily through large respiratory droplets, which are relatively heavy. Old scientific studies, some dating back more than a century, suggested that these droplets tend not to travel more than three to six feet. This observation, as well as an abundance of caution, may have spurred the C.D.C. to make its six-foot suggestion, Dr. Marr said.
+
+But that recommendation was not universal. The American Academy of Pediatrics recommends three to six feet of social distancing in schools, but the World Health Organization recommends just one meter, or 3.3 feet.
+
+And over the last year, scientists have learned that respiratory droplets are not the primary mode of coronavirus transmission. Instead, the virus spreads mostly through tiny airborne droplets known as aerosols, which can travel longer distances and flow through rooms in unpredictable ways.
+
+Data also suggests that schools appear to be relatively low-risk environments; children under 10 seem to transmit the virus less readily than adults.
+
+In recent months, there have been hints that six feet of distancing may not be necessary in school settings. Case rates have generally been low even in schools with looser distancing policies. “We know lots of schools have opened up to less than six feet and have not seen big outbreaks,” said Dr. Jha.
+
+In a 2020 analysis of observational studies in a variety of settings, researchers found that physical distancing of at least one meter substantially reduced transmission rates of several different coronaviruses, including the one that causes Covid-19. But they found some evidence to suggest that a two-meter guideline “might be more effective.”
+
+“One of the really important data points that has been missing is a direct head-to-head comparison of places that had implemented three feet of distance versus six feet of distance,” said Dr. Elissa Perkins, the director of emergency medicine infectious disease management at Boston University School of Medicine.
+
+A natural experiment
+
+Dr. Perkins and her colleagues recently conducted such a comparison by taking advantage of a natural experiment in Massachusetts. Last summer, the state’s education department issued guidelines recommending three to six feet of distancing in schools that were planning to reopen in the fall. As a result, school policies varied: Some districts imposed strict, six-foot distancing, whereas others required just three. (The state required all staff members, as well as students in second grade and above, to wear masks.)
+
+The researchers found that the social distancing strategy had no statistically significant effect on Covid-19 case rates, the team reported in the journal Clinical Infectious Diseases last week. The study also found that Covid-19 rates were lower in schools than in the surrounding communities.
+
+The authors say the findings provide reassurance that schools can loosen their distancing requirements and still be safe, provided they take other precautions, like enforcing universal mask wearing.
+
+“Masking still appears to be effective,” said lead investigator Dr. Westyn Branch-Elliman, an infectious diseases specialist at the VA Boston Healthcare System. “And so, provided we have universal masking mandates, I think it’s very reasonable to move to a three-foot recommendation.”
+
+Not everyone finds the study so convincing. A. Marm Kilpatrick, an infectious disease researcher at the University of California, Santa Cruz, said that the school-district data was too noisy to draw firm conclusions from. “It doesn’t really allow you to get, I think, an answer that you can feel really confident in,” he said.
+
+The study’s authors acknowledged that they could not rule out the possibility that increased distancing provided a small benefit.
+
+With aerosol transmission, safety generally increases with distance; the farther the aerosols travel, the more diluted they become. “It’s like being close to a smoker,” Dr. Marr said. “The closer you are, the more you’re going to breathe in.”
+
+And distance aside, the more people there are in a room, the higher the odds that one of them will be infected with the coronavirus. A six-foot rule helps reduce that risk, said Donald Milton, an aerosol expert at the University of Maryland: “If people are six feet apart, you can’t pack them in. And so, it’s safer just because it’s less dense.”
+
+Masks and good ventilation do a lot to reduce the risk. With these measures in place, the difference between three and six feet was likely to be relatively small, scientists said. And if Covid-19 is not very prevalent in the surrounding community, the absolute risk of contracting the virus in schools is likely to remain low, as long as these protections are in place.
+
+“We can always do things to reduce our risks further,” Dr. Marr said. “But at some point, you reach diminishing returns, and you have to think about the costs of trying to achieve those additional risk reductions.”
+
+Debate and diminishing risks
+
+Some experts say that a small increase in risk is outweighed by the benefits of fully reopening schools. “Trying to follow the six-foot guideline should not prevent us from getting kids back to school full time with masks, with at least three-foot distancing,” Dr. Marr said.
+
+Others said it was too soon to loosen the C.D.C. guidelines. “Ultimately, I think there could be a place for this changing guidance,” Saskia Popescu, an infectious disease epidemiologist at George Mason University, said in an email. “But it’s not now, when we are struggling to vaccinate people, we’re still seeing over 60,000 cases a day and we’re trying to not reverse the progress we’ve made.”
+
+Even proponents of changing the guideline say that any shift to looser distancing will have to be done carefully, and in combination with other precautionary measures. “If you’re in an area where there’s not a strong tendency to rely on masks, I don’t think it would be wise to extrapolate our data to that environment,” Dr. Perkins said.
+
+Moreover, officials risk muddying the public health messaging if they establish different standards for schools than for other shared spaces. “I’ve evolved on this,” Dr. Linas said. “Last summer I felt like, ‘How are we going to explain to people that it’s six feet everywhere except for schools? That seems not consistent and problematic.’”
+
+But schools are unique, he said. They are relatively controlled environments that can enforce certain safety measures, and they have unique benefits for society. “The benefits of school are different than the benefits of movie theaters or restaurants,” he said. “So I’d be willing to assume a little bit more risk just to keep them open.”
+
+PHOTO: Creating space between students at the Walter P. Carter Elementary/Middle School in Baltimore. (PHOTOGRAPH BY ROSEM MORTON FOR THE NEW YORK TIMES)

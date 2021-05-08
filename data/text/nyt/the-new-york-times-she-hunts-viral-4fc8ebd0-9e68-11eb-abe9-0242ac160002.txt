@@ -1,0 +1,147 @@
+For Heidi Larson, the founder of the Vaccine Confidence Project, dispelling vaccine hesitancy means building trust — and avoiding the term “anti-vaxxer.”
+
+In late September, Heidi Larson, an anthropologist and the founder of the Vaccine Confidence Project in London, sat on a Zoom call with the project team for Verified, a United Nations-led group that is working to combat a rising tide of misinformation about potential vaccines for Covid-19.
+
+Dr. Larson, 63, is arguably the world’s foremost rumor manager. She has spent two decades in war torn, poor and unstable countries around the globe, as well as in rich and developed ones, striving to understand what makes people hesitant to take vaccines. She is obsessed with the origin and evolution of rumors, which she calls “collective problem solving,” and has come to see most anti-vaxxers — a term she considers too oppositional — not as uneducated, science-denying individualists but as people with genuine questions and doubts in search of guidance. “This is a public cry to say, ‘Is anyone listening?’ she writes in her recently releasedbook “Stuck: How Vaccine Rumors Start and Why they Don’t Go Away.”
+
+These are busy days for a rumor manager, as they are for rumormongers. The Vaccine Confidence Project, which began in 2010, comprises more than a dozen staff with backgrounds in political science, psychology, mathematical modeling, epidemiology and more. They monitor news, social-media outlets and community conversations in nearly every country and in 63 languages, to catch wind of rumors that might undermine the acceptance of critical vaccines. Above all, with hard data gathered from the many surveys and questionnaires the team administers, they have shown that what once seemed like the ghost of a problem is something troublingly tangible and real.
+
+In September, the team published a paper in The Lancetthat mapped shifts in vaccine confidence in 149 countries from 2015 through 2019, with data from more than 284,000 adults. For instance, in Indonesia during that period, the perception that vaccines are safe fell from 64 percent to 50 percent after Muslim leaders questioned the safety of the measles, mumps and rubella vaccine and issued a fatwa, or religious ruling, that the vaccine contained forbidden ingredients. In Poland, a highly organized anti-vaccine movement has helped drive down vaccine confidence from 64 percent in November 2018 to 53 percent by December 2019.
+
+With a global pandemic now in full stride, and vaccines of varying quality vying for release, the consequences of hesitancy could not be higher. In the United States alone, a study by the Pew Research Center found, the share of adult Americans who say they would “definitely” or “probably” get a Covid-19 vaccine fell from 72 percent in May to 51 percent in September.
+
+This trend is often blamed on the viral spread of misinformation on the internet, and it plays a role. In the Zoom meeting with the Verified team, Alex de Figueiredo, the lead statistician for the Vaccine Confidence Project, presented findings from a study they had conducted testing how negative social media posts might affect a person’s decision to take a Covid-19 vaccine.
+
+Three thousand people in Britain were asked: If a Covid-19 vaccine existed, would you definitely take it? Fifty-four percent of respondents said yes. Then most were shown a series of negative social media posts, including a post from David Icke, an English conspiracy theorist, claiming that a Big Pharma whistle-blower had said that “97 percent of corona vaccine recipients will become infertile.” After exposure, the percentage of the study’s respondents who expressed a willingness to take a vaccine dropped more than 6 percentage points.
+
+For a vaccine to create herd immunity — Dr. Larson prefers the term “community immunity,” to avoid conjuring images of animal herding — in a population, 60 to 70 percent of people need to take it, scientists expect. Even a 6 percentage point decline in acceptance could endanger that goal.
+
+Vaccine confidence “is every bit as important as how effective the vaccine is,” said Daniel Salmon, director of the Institute for Vaccine Safety at Johns Hopkins Bloomberg School of Public Health. “Vaccines don’t save lives. Vaccinations save lives.”
+
+But to focus on the inaccuracy of any given rumor is to miss the point, Dr. Larson has learned. During the call with the Verified team, a young woman with that group asked Dr. Larson how they should respond to the data. Shouldn’t they target social media companies and press them to take down the anti-vaccine posts?
+
+“I don’t think taking it down is going to get rid of the sentiment,” Dr. Larson said. “If you shut down Facebook tomorrow, it’s not going to make this go away. It’ll just move.”
+
+It is a message that Dr. Larson has been pressing on the health ministries, drug companies, nongovernmental organizations and social media companies that have been flocking to her team lately for insights and help. Rumors take root in the soil of doubt, and it’s the soil that wants attention. “We don’t have a misinformation problem,” she says. “We have a trust problem.”
+
+‘A Sort of Soft Diplomacy’
+
+The small offices of the Vaccine Confidence Project occupy a second-floor corner in the stately London School of Hygiene &amp; Tropical Medicine in Bloomsbury. In normal times, staff members would be spread around the world, from Japan and Laos to Brazil and Bosnia and Herzegovina: conducting surveys, gathering data, developing community networks, listening. The travel, at least, stopped in March.
+
+In mid-September, when Dr. Larson stopped in after months away, she managed to lock herself out and had to borrow the security guard’s key. “We’ve forgotten how to do all this,” she said, with what could be mistaken for a nervous laugh but which has the effect of putting others at ease.
+
+When Dr. Larson speaks, it is softly, and her sentences meander, with none of the staccato that comes with being permanently overscheduled and rushed, although she is both. That week alone she was juggling a wide array of projects: calls with health officials from the governments of India, Rwanda and Colombia; talks at the University of California San Francisco and Wired magazine; an online meeting with researchers at Columbia University about using natural language processing to monitor emotions in videos, and a call with the head of health partnerships at Facebook, to discuss how to tailor the stream of health messages they transmit from places like the World Health Organization and the Centers for Disease Control and Prevention.
+
+“I’m a little bit like Grand Central Station right now,” she said.
+
+Vaccine hesitancy is nothing new. The first anti-vaccine league group appeared in Britain in the 1850s, when the government tried to make smallpox vaccination mandatory. Most famously, in 1998, Andrew Wakefield a physician who subsequently lost his medical license, published a widely shared study that falsely claimed a link between autism and the vaccine for measles, mumps and rubella vaccine. The paper was retracted 12 years later, but not before immunization rates in some countries dropped sharply.
+
+Social media, the rise of anti-globalization sentiment and an erosion of the public’s trust have amplified the problem. One reason vaccines are so fraught, Dr. Larson notes, is because they touch every person on the planet. They have been invented by scientists who speak in jargon that many people don’t understand, are sold by drug companies that engender little faith and are pushed by governments that people trust even less.
+
+At the same time, she writes in her book, vaccines represent “one of the biggest worldwide social experiments in collectivism and cooperation in modern times.” Shoring them up, she adds, serves “as a sort of soft diplomacy to keep at least a fundamental level of global cooperation alive and well.”
+
+To fix a problem, one must first know the magnitude of it. To that end, Dr. Larson and her team have spent a decade developing metrics, documenting stories of vaccines and broken trust, collecting data and doing academic research around what drives and undermines vaccine uptake.
+
+Their research has highlighted the fact that vaccine hesitancy is often a matter of emotion, something the rest of the medical community has been slow to recognize. In 2019, the W.H.O. labeled vaccine hesitancy a top 10 global health risk, a degree of recognition that Dr. Larson would not have anticipated a decade earlier.
+
+And yet, Dr. Larson does not feel that the health community has risen to meet the moment. “We need to be way ahead of where we are,” she said more recently on the phone, and described the funding for developing strategies to build confidence as “abysmal.”
+
+“We need to focus on the tipping point issue, because we are barely getting the public to herd immunity. The global trend in vaccine uptake is plateauing and in some places declining. If we don’t get on it now, because we didn’t get on it yesterday, and Covid is making it worse, we will be in a mess. Time is running out.”
+
+Back in her office, after she had been talking for 45 minutes or so, her phone rang: It was her husband, Dr. Peter Piot, calling from a different corner of the building. A renowned AIDS researcher, Dr. Piot codiscovered the Ebola virus in the 1970s and is the director of the London School of Hygiene &amp; Tropical Medicine. The two were headed to Brussels that weekend and needed to discuss travel plans.
+
+The shift in her attention was remarkable in its completeness. An imminent lunch appointment, the reporter in the office, the Zoom calls scheduled for the afternoon — all gave way to an unhurried discussion of train schedules. Toward the end of the call she said, “I don’t have anything, that would be nice,” then said “Love you” and hung up.
+
+After, she explained that the final exchange was about whether she would join her husband for lunch with the King of Belgium. In the spring, Dr. Piot had fallen ill with Covid, and Queen Mathilde, with whom he had worked some years earlier on AIDS issues, had called three times. Now the king had penciled them in.
+
+“I do have a lot of meetings in Brussels next week,” Dr. Larson said. “So he was kind enough to say, ‘Is your agenda free?’”
+
+The Evolution of Rumors
+
+Dr. Larson’s career, like her conversational style, roams far and wide. But it has always focused on humans and how we make decisions.
+
+After college, she went to Israel on a scholarship to study differences in how Arab and Israeli children played, then joined Save the Children in the West Bank. Next, Nepal, for both Unicef and Save the Children; there she noticed how global organizations parachuted into communities to try and do good work but often failed to understand the local context.
+
+“I found myself turning more and more into an anthropologist,” she said, and so became one, with a Ph.D. from Berkeley.
+
+She expected to return to India or another country in Asia but instead, in 1990, she went to Apple, to help the company understand why teachers seemed resistant to having a computer in every classroom. Then, at Xerox’s Palo Alto Research Center, she studied how a fax — then a wondrous new technology — affected office work flow. She embedded herself in Unicef, a large organization she knew well, which had two fax machines for 600 people.
+
+“It was fascinating,” she said. “I would sit down in the basement and I would follow a fax through the building — how many times it was copied, where it triggered action. It helped in some areas and made life difficult in others.”
+
+By 2000 she was back at Unicef, running strategy and communication around the rollout of new vaccines and partnerships, including the launch of the Global Alliance for Vaccines and Immunization — now the GAVI Alliance — which helps to get vaccines to the world’ poorest children. She found herself increasingly fielding calls from countries confronting pockets of resistance in their immunization programs, and she discovered an abiding fascination with the rumor mill.
+
+“What I love about rumors is that they evolve,” she said at one point over several weeks of conversation. “They morph as the story goes on, and people repurpose a particular rumor to fit their situation. And then that goes on. There are so many stories in them, but we often as the scientific community want to look at one piece — and fair enough, we do need some of that. But we also need the bigger picture.”
+
+The Patient’s Perspective
+
+Sometime around 2002, while on a trip to northern Nigeria for Unicef, Dr. Larson had a professional epiphany. Health workers there were delivering the polio vaccine door-to-door, in an effort to eradicate the disease from one of its last holdouts in the world, but the governor of Kano state had decided to boycott the endeavor.
+
+Anti-Western sentiment was high in the wake of 9/11 and the American military response, and rumors were erupting about the vaccine: It was a contraceptive to sterilize Nigerian children; it caused AIDS; the C.I.A. was behind it. The boycott eventually cost the global polio-eradication effort $500 million in lost progress, as the strain of Nigerian polio made its way to 20 countries, including Indonesia.
+
+Dr. Larson spoke with a group of Nigerian mothers who were upset that they were being called “ignorant” on the radio for not simply taking the vaccine. They told her, “We wouldn’t be asking questions if we were ignorant.” She became convinced that more had to be done to engage people with doubts, and not merely dismiss them.
+
+“I saw how much of the communication strategies were very much driven by what the public health community and immunization people thought the public needed to know,” Dr. Larson said. “But they weren’t responding to what people’s concerns were, or issues, or questions.”
+
+Her perspective was unique. “Heidi is the personal embodiment of the need to look at this through the lens of the patient, and how they are viewing it, and what are the factors that will help them make the decision for themselves or their family or their parents,” said Dr. Bruce Gellin, president of global immunization at the Sabin Vaccine Institute.
+
+“This is a woman who saw the future,” said Carol Bellamy, the executive director of Unicef from 1995 to 2005. “She wasn’t yelling, ‘The sky is falling.’ She was yelling, ‘The sky could fall if we don’t do something.’”
+
+Inside Unicef, Dr. Larson became known as the fire department for her role in trying to douse blazing rumors. She could see that a broader approach was needed, Ms. Bellamy said: “We had to listen, we had to be sensitive, we could not dismiss these issues. We had to take them seriously.” A rumor might have no valid substance, but it communicated a depth of feeling that needed attending.
+
+In 2004, Larson asked to take a day a week to study vaccine resistance, with a research associate post at the Harvard Center for Population and Development Studies. In 2010 she set up the Vaccine Confidence Project. Skeptics told her that engaging the rumors would only amplify them. They wanted numbers: How big was the problem, really?
+
+“And I said, well, we don’t have numbers, because we have to measure it,” Dr. Larson said. In 2003, Unicef and the W.H.O. agreed to let her include one question on an annual immunization form they distributed to citizens of participating nations. Her question asked: “Have you had to manage any negative media about vaccines in the past year.” Twenty-five percent of countries said yes.
+
+“It made my point,” she said: “‘Houston, we have a problem.’”
+
+Ears on the Ground
+
+For the past five years, Dr. Larson has led a consortium funded by the European Union and working in four African countries — Sierra Leone, Rwanda, Democratic Republic of Congo and Uganda — to promote trust and acceptance of Ebola vaccine trials now underway there. Among its components the project, has enlisted local “listeners” who meet weekly with the trial’s doctors to share information about what they’re hearing in the community.
+
+At one point, a rumor circulated that the health workers were stealing the participants’ blood. In response, the workers explained that only a little blood was being taken, and they showed the participants the vials. The rumors evaporated.
+
+On another occasion, people were worried that, because they were being offered insurance as part of the trial, something was expected to go wrong. The insurance offer was subsequently reframed as, “We don’t expect any problems, but we care about your health.” The trials saw very high participation rates, and a large number of people coming back for a second dose — a rare feat in public health.
+
+For Dr. Larson, the success is proof of her overall strategy: Building trust starts with asking the right questions, and doing the work to learn what those are. Every situation — every community of troubles and rumors — is different. With Ebola, the “listeners” are locals who are trained in what to ask and how to respond. In Eastern Europe, where the Vaccine Confidence Project is monitoring vaccine sentiment on social media, “we not only ask questions, we also give answers,” said Dr. Simon Piatek, the team’s digital leader.
+
+Currently, rumors are circulating online that the flu vaccine will make recipients more vulnerable to Covid-19. Dr. Larson’s team is designing a response that says not simply, “Get your flu vaccine,” but “The flu vaccine does not put you at greater risk for Covid-19.”
+
+“We know that very scientific messages alone do not work and do not build trust,” Dr. Larson said. And it matters who delivers it: think Kim Kardashian (in the United States) or a Bollywood star (in India), not a white-coat doctor from the WHO or your federal government, Dr. Piatek said.
+
+Dr. Seth Berkley, the C.E.O. of Gavi, cited Dr. Larson’s work as a textbook study in how to successfully roll out a vaccine — even during an active outbreak, and when some of the countries were involved in military conflicts.
+
+“The way to do that, as Heidi has said so clearly, is engagement with the communities,” Dr. Berkley said. “Facts alone don’t make this happen. What we really need is to also move with people’s hearts, and that trust issue is absolutely critical.”
+
+As efforts ramp up to release a potential range of vaccines and treatments for Covid-19, many health experts are concerned that little thought has been given to laying the social and psychological groundwork that would ensure success.
+
+“We are in the middle of the biggest pandemic of our lifetime and we don’t have a coherent communication strategy with the public,” said Saad Omer, director of Yale’s Institute for Global Health. “It’s mind-boggling that we are not focusing on serious investments in demand-side interventions, including trust.”
+
+Lately Dr. Larson has been talking with Facebook, which has often struggled with its role as one of the world’s biggest bazaars of social information. Since the start of the pandemic, the platform has broadcast to its 2 billion users various health messages provided the W.H.O., the C.D.C. and similar organizations: the importance of wearing a mask, of practicing social distancing, of hand washing.
+
+But which of those messages were actually resonating? Praveen Raja, Facebook’s head of health innovation and partnerships, reached out to Dr. Larson after hearing her on a podcast talking about how people think about vaccines — what makes them hesitate, how they weigh the risks of vaccination against the risk of contracting the disease.
+
+“I’ve never heard anyone with that level of insight,” Dr. Raja said.
+
+The two have begun exploring how the Vaccine Confidence Project might help the company design messages with more impact, not just regarding a potential Covid-19 vaccine but for the flu vaccine and for routine childhood immunizations, the rates of which have been declining.
+
+“It’s important to us to understand how to create and send messages that really address people’s needs,” Dr. Raja said. “Heidi has those insights.”
+
+The Trust Dilemma
+
+Last November, Dr. Larson got an email from Anna Watson, the founder of Arnica, a network of parents in Britain who are “concerned about the vaccination program and interested in the role of Natural Living,” according to the organization’s website. Ms. Watson had followed Dr. Larson’s work through her blog and newsletter, had appreciated her approach and wondered if the two might meet.
+
+This is the point at which many health professionals might pause. Most are strapped for time, and many would rather not engage in the dicey work of managing sensitive conversations. Dr. Larson feels strongly that health professionals should, and so, characteristically and amid a manic travel schedule, she welcomed the invitation and invited Ms. Watson to come to her office.
+
+Ms. Watson later called the meeting “significant.” “She genuinely feels that vaccination is the number one health intervention, but also has a level of respect for parents making the decision on vaccination,” she said of Dr. Larson in an email.
+
+Dr. Larson described their conversation as evidence that bridges could be built between health experts and skeptical community members. “Start a conversation,” she said. Find a way to talk to people who don’t necessarily share all your beliefs: “Look for an entry point.”
+
+Dr. Larson describes herself as a “patient optimist” at a moment when many people feel neither patient nor optimistic. Her outlook is partly anthropological: an understanding of and empathy for the messy complexities of being human.
+
+It also comes from the relative simplicity of her diagnosis: Building trust is an everyday action, one that requires a shift in mind-set, not a whole new set of operating instructions. Lately she has been repeating a line often attributed to Teddy Roosevelt, and which she heard from Dr. Jerome Adams, the U.S. Surgeon General: “People don’t care about what you know, unless they know that you care.”
+
+“It hits it on the nose,” Dr. Larson said. “That’s the trust dilemma.”
+
+[Like the Science Times page on Facebook. | Sign up for the Science Times newsletter.]
+
+PHOTOS: Above, Heidi Larson at her former office in London. The group she founded monitors social media for anti-vaccine rumors that emerge around the world. (PHOTOGRAPH BY EDU BAYER FOR THE NEW YORK TIMES) (D2); The offices of the Vaccine Confidence Project in London contain a bulletin board with room for humor, top, and books by Edward Jenner, known as the father of immunology, above. Below left, Dr. Larson at home with her husband, Dr. Peter Piot, who battled Covid-19 in the spring. (PHOTOGRAPHS BY EDU BAYER FOR THE NEW YORK TIMES; ANDREW TESTA FOR THE NEW YORK TIMES) (D3)
