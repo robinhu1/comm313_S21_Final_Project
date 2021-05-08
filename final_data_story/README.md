@@ -1,4 +1,4 @@
-## Blog post of your data story for COMM313 Final Project
+## Final Data Story: Cracking Open COVID-19 Conspiracies
 
 ### **WELCOME!**
 

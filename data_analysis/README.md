@@ -1,4 +1,4 @@
-## Data analysis notebooks for COMM313 Final Project
+## Data analysis notebooks
 
 Welcome to my data analysis folder!
 

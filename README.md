@@ -1,6 +1,8 @@
-## Cracking Open COVID-19 Conspiracies
+## Cracking Open COVID-19 Conspiracies - Robin Hu
 
-I first heard crazy conspiracy theories a few months ago regarding where and how COVID-19 started. Everything from bats to freezers to military bases. It was arguably one of the most amusing and intriguing aspects of this entire pandemic. I was not only shocked who was coming up with what but also the proportion of people who actually believed these theories.
+Hello there!
+
+I first heard crazy conspiracy theories a few months ago regarding where and how COVID-19 started. Everything from bats to freezers to military bases. It was arguably one of the most amusing and intriguing aspects of this entire pandemic, amidst all the bad...I was not only shocked who was coming up with what but also the proportion of people who actually believed these theories.
 
 As a STEM-y person, I'm going to suspend all of my inclinations towards scientific fact and judgment and look into some of these conspiracy theories objectively. More specifically, the goal of my project is to take a deep dive into how different news sources have covered, if they have, these conspiracy theories since the start of the pandemic.
 

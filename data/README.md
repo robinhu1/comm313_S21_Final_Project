@@ -1,4 +1,4 @@
-## Data files for COMM313 Final Project
+## Data files
 
 Welcome to my data folder! 
 
@@ -14,7 +14,7 @@ There is a china_daily_second_sample.RTF file that contains the articles of my s
 
 All my data was downloaded from Lexis Nexis. The bulk data download was through the Penn server with search terms COVID-19 and origins, all publications post 01/01/2019 to end of March 2021, in English. Only publications from the 5 selected sources were included ((China Daily, NY Times, Daily Telegraph, Guardian, and Hindustan Times)).
 
-The second data download was not a bulk download but manual download from Lexis Nexis using the same search queries but only from the China Daily and excluding the sources already included from the bulk download.
+The second data download was not a bulk download but manual download from Lexis Nexis using the same search queries but only from the China Daily and excluding the sources already included from the bulk download. Total 32 txt files.
 
 For my initial personal research, I included links to some fun articles to read about some conspiracy theories.
 
